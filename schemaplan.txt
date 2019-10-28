@@ -1,0 +1,41 @@
+Songs
+-[album]
+--[song]
+-Other Songs
+--[song]           (Do I Have to Dance All Night, Store Room, etc...)
+Poetry & Short Prose
+-[book]            (Flowers for Hitler, The Energy of Slaves, etc...)
+--[poem]
+-Other Poems
+--[poem]            (are there any not in the notebooks?)
+Performances
+-[tour]            (e.g. "Various Positions Tour", "Tour of 88", etc...)
+--[performance]    (e.g. "Greenwich", doc is prologues)
+-Radio & Television
+--[performance]
+-Other performances
+--[performance]     (e.g. one off concerts)
+Interviews
+-[interview]
+Novels
+-[book]            (e.g. Beautiful Losers)
+--[chapter]
+
+Each document comprises of the following parts, all optional:
+filename/          // directory containing any child files
+filename.json      // metadata about the doc
+filename.about.md  // the about content, e.g. "This document comes from..."
+filename.text.md   // the document content
+
+The text content in this file is a sort of custom markdown that supports:
+- **bold** and _italics_
+- [links like this](http://website.com)
+- [internal links](#album.popular_problems)
+
+And a special tag syntax for tagging parts as relevant to another document
+- <#23 to=album.popular_problems>something about popular problems</#23>
+
+An extension of this allows for referencing a specific tag in the target document
+- <#23 to=album.popular_problems#11>something about popular problems</#23>
+
+For the latter case, tag #11 is expected to be a symmetric reference pointing back the other way (for now), and this will be verified by the integrity check.
