@@ -21,16 +21,28 @@ Novels
 -[book]            (e.g. Beautiful Losers)
 --[chapter]
 
-Each document comprises of the following parts, all optional:
-filename/          // directory containing any child files
-filename.json      // metadata about the doc
-filename.about.md  // the about content, e.g. "This document comes from..."
-filename.text.md   // the document content
+## Each document comprises of the following parts, all optional:
+filename/                // directory containing any child files
+filename.meta.json       // metadata about the document
+filename.content.xml     // the document content
 
-The text content in this file is a sort of custom markdown that supports:
+## filename.meta.json
+Simple set of properties, e.g.
+{
+    title: "You Want it Darker",
+    date: "2016-10-14"
+}
+
+## filename.content.xml
+Content can be in the outer scope by default, but subparts that have special significance can be wrapped in a few components like <prologue>
+
+The text content in the XML file is a sort of custom markdown that supports:
 - **bold** and _italics_
 - [links like this](http://website.com)
 - [internal links](#album.popular_problems)
+
+A special tag indicates that content is not part of the source material, and so should not be indexed in search:
+- <meta>Sung with the following additional verse:</meta>
 
 And a special tag syntax for tagging parts as relevant to another document
 - <#23 to=album.popular_problems>something about popular problems</#23>
@@ -38,4 +50,5 @@ And a special tag syntax for tagging parts as relevant to another document
 An extension of this allows for referencing a specific tag in the target document
 - <#23 to=album.popular_problems#11>something about popular problems</#23>
 
-For the latter case, tag #11 is expected to be a symmetric reference pointing back the other way (for now), and this will be verified by the integrity check.
+TODO: rethink this a bit.
+Perhaps any doc to be referenced must have its textparts/paragraphs/lines annotated with IDs, and the referencer also saved the start of the expected string for integrity check
