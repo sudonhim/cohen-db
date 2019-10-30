@@ -1,0 +1,29 @@
+Eventually this file will include a string & default content for client rendering, for each of these types, as well as mandatory properties for integrity checks
+
+collection
+  "Collection"
+  A curated set of documents that was created anew for this project
+
+tour [title]
+  "Tour"
+  One of Cohen's official tours
+
+performance [date]
+  "Performance"
+  Any live performance. Has a tracklist if available, content is transcript (excluding setlist)
+
+song [title]
+  "Song"
+  A song
+
+album [date, title, tracklist]
+  "Album"
+  An album. Songs contained are children, but tracklist is needed to order them
+
+poem [title]
+  "Poem"
+  A poem
+
+book [date, title]
+  "Book"
+  A book, found in both Novels and
