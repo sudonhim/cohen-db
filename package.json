@@ -1,0 +1,22 @@
+{
+  "name": "cohen-db",
+  "version": "1.0.0",
+  "description": "A custom database of everything Leonard Cohen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoNhim/cohen-db.git"
+  },
+  "author": "Brenton Milne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudoNhim/cohen-db/issues"
+  },
+  "homepage": "https://github.com/SudoNhim/cohen-db#readme",
+  "devDependencies": {
+    "ajv": "^6.10.2"
+  }
+}

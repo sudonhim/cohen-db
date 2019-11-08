@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://cohenmachine.net/schema/note.json",
+    "title": "Note",
+    "description": "A text segment, which may optionally refer to another document",
+    "type": "object",
+    "properties": {
+        "kind": {
+            "const": "note"
+        },
+        "reference": {
+            "description": "ID of the document that this note is about, if any",
+            "type": "string"
+        },
+        "content": {
+            "$ref": "http://cohenmachine.net/schema/canon.json"
+        }
+    },
+    "required": ["kind", "content"]
+}

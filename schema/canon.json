@@ -1,0 +1,17 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://cohenmachine.net/schema/canon.json",
+    "title": "Note",
+    "description": "Canonical text content, immutable and eternal",
+    "type": "object",
+    "properties": {
+        "kind": {
+            "const": "canon"
+        },
+        "text": {
+            
+        }
+        
+    },
+    "required": ["kind", "content"]
+}
