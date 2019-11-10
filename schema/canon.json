@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "http://cohenmachine.net/schema/canon.json",
+    "$id": "canon.json",
     "title": "Note",
     "description": "Canonical text content, immutable and eternal",
     "type": "object",
@@ -9,9 +9,28 @@
             "const": "canon"
         },
         "text": {
-            
+            "type": "array",
+            "description": "An array of paragraphs or stanzas, to be referenced by index",
+            "minItems": 1,
+            "items": {
+                "oneOf": [
+                    {
+                        "type": "string",
+                        "description": "A whole paragraph"
+                    },
+                    {
+                        "type": "array",
+                        "description": "A stanza",
+                        "minItems": 1,
+                        "items": {
+                            "type": "string",
+                            "description": "A line of the stanza"
+                        }
+                    }
+                ]
+            }
         }
         
     },
-    "required": ["kind", "content"]
+    "required": ["kind", "text"]
 }

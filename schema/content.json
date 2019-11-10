@@ -1,36 +1,50 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://cohenmachine.net/schema/content.schema.json",
+  "$id": "content.json",
   "title": "Content",
   "description": "The content of a document, which is either a single canonical text part, or a sequence of complex parts",
+  "properties": {
+    "preamble": {
+      "type": "string",
+      "description": "Information about the document itself"
+    }
+  },
   "oneOf": [
     {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "description": "Short ID for referencing a part of the document",
-            "type": "string"
-          },
-          "part": {
-            "oneOf": [
-              {
-                "$ref": "http://cohenmachine.net/schema/note.json"
+      "properties": {
+        "content": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "description": "Short ID for referencing a part of the document",
+                "type": "string"
               },
-              {
-                "$ref": "http://cohenmachine.net/schema/prologue.json"
-              },
-              {
-                "$ref": "http://cohenmachine.net/schema/variation.json"
+              "part": {
+                "oneOf": [
+                  {
+                    "$ref": "note.json"
+                  },
+                  {
+                    "$ref": "prologue.json"
+                  },
+                  {
+                    "$ref": "variation.json"
+                  }
+                ]
               }
-            ]
+            }
           }
         }
       }
     },
     {
-      "$ref": "http://cohenmachine.net/schema/canon.json"
+      "properties": {
+        "content": {
+          "$ref": "canon.json"
+        }
+      }
     }
   ]
 }
