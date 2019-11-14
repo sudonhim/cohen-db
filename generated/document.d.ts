@@ -55,9 +55,7 @@ export interface Content {
  * A text segment, which may optionally refer to another document
  */
 export interface Note {
-  kind: {
-    [k: string]: any;
-  };
+  kind: "note";
   /**
    * ID of the document that this note is about, if any
    */
@@ -68,9 +66,6 @@ export interface Note {
  * Canonical text content, immutable and eternal
  */
 export interface Canon {
-  kind: {
-    [k: string]: any;
-  };
   /**
    * An array of paragraphs or stanzas, to be referenced by index
    */
@@ -80,9 +75,7 @@ export interface Canon {
  * Words spoken about another work, before performing it
  */
 export interface Prologue {
-  kind: {
-    [k: string]: any;
-  };
+  kind: "prologue";
   /**
    * ID of the document that this prologue is about
    */
@@ -93,9 +86,7 @@ export interface Prologue {
  * A variation on another work, while performing it
  */
 export interface Variation {
-  kind: {
-    [k: string]: any;
-  };
+  kind: "variation";
   /**
    * ID of the document that this variation is of
    */

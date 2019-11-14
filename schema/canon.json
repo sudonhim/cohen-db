@@ -5,9 +5,6 @@
     "description": "Canonical text content, immutable and eternal",
     "type": "object",
     "properties": {
-        "kind": {
-            "const": "canon"
-        },
         "text": {
             "type": "array",
             "description": "An array of paragraphs or stanzas, to be referenced by index",

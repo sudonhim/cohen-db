@@ -6,7 +6,7 @@
     "type": "object",
     "properties": {
         "kind": {
-            "const": "variation"
+            "enum": [ "variation" ]
         },
         "reference": {
             "description": "ID of the document that this variation is of",

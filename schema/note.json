@@ -6,7 +6,7 @@
     "type": "object",
     "properties": {
         "kind": {
-            "const": "note"
+            "enum": [ "note" ]
         },
         "reference": {
             "description": "ID of the document that this note is about, if any",
