@@ -4,6 +4,10 @@
     "title": "Document",
     "description": "A collection of canonical material tied to a particular time, place, or release",
     "properties": {
+        "title": {
+            "type": "string",
+            "description": "The string to use when showing this item in menus and links. The only mandatory property."
+        },
         "metadata": {
             "$ref": "metadata.json"
         },
@@ -12,10 +16,12 @@
         },
         "children": {
             "type": "array",
+            "description": "A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.",
             "items": {
                 "type": "string"
             }
         }
-    }
+    },
+    "required": ["title"]
   }
   
