@@ -8,7 +8,7 @@
 /**
  * A collection of canonical material tied to a particular time, place, or release
  */
-export interface Document {
+export interface DocumentFile {
   /**
    * The string to use when showing this item in menus and links. The only mandatory property.
    */
