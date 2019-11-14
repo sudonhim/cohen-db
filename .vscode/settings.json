@@ -2,9 +2,10 @@
     "json.schemas": [
         {
             "fileMatch": [
-                "/db/**/*.json"
+                "/db/**.json",
+                "/db.json"
             ],
-            "url": "./schema/document.json"
+            "url": "./schema/document-file.json"
         }
     ]
 }
