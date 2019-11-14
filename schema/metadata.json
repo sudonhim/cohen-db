@@ -11,6 +11,23 @@
       "date": {
         "type": "string",
         "format": "date"
+      },
+      "event": {
+        "type": "string"
+      },
+      "location": {
+        "type": "object",
+        "properties": {
+          "country": {
+            "type": "string"
+          },
+          "city": {
+            "type": "string"
+          },
+          "venue": {
+            "type": "string"
+          }
+        }
       }
     }
   }
