@@ -32,7 +32,9 @@
                   }
                 ]
               }
-            }
+            },
+            "required": ["id", "part"],
+            "additionalProperties": false
           }
         },
         {
@@ -40,5 +42,7 @@
         }
       ]
     }
-  }
+  },
+  "required": ["content"],
+  "additionalProperties": false
 }

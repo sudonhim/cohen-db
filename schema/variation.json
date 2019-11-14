@@ -16,5 +16,6 @@
             "$ref": "canon.json"
         }
     },
-    "required": ["kind", "reference", "content"]
+    "required": ["kind", "reference", "content"],
+    "additionalProperties": false
 }
