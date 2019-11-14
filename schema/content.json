@@ -7,12 +7,10 @@
     "preamble": {
       "type": "string",
       "description": "Information about the document itself"
-    }
-  },
-  "oneOf": [
-    {
-      "properties": {
-        "content": {
+    },
+    "content": {
+      "oneOf": [
+        {
           "type": "array",
           "items": {
             "type": "object",
@@ -36,15 +34,11 @@
               }
             }
           }
-        }
-      }
-    },
-    {
-      "properties": {
-        "content": {
+        },
+        {
           "$ref": "canon.json"
         }
-      }
+      ]
     }
-  ]
+  }
 }
