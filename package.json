@@ -4,7 +4,8 @@
   "description": "A custom database of everything Leonard Cohen",
   "main": "index.js",
   "scripts": {
-    "gen": "ts-node generate-types.ts"
+    "gen": "ts-node run/generate-types.ts",
+    "test": "ts-node run/validate-data.ts"
   },
   "repository": {
     "type": "git",

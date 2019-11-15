@@ -1,17 +1,17 @@
-import { DocumentFile } from './schema';
-import Ajv from 'ajv';
-import fs from 'fs';
+import { DocumentFile } from '../schema';
+import * as Ajv from 'ajv';
+import * as fs from 'fs';
 
 const schemas = fs.readdirSync('./schema')
-    .map(name => require(`./schema/${name}`));
+    .map(name => require(`../schema/${name}`));
 const ajv = new Ajv({schemas});
 const validator = ajv.getSchema('document-file.json');
 
-function LoadAndValidateOne(fullid: string): DocumentFile {
-    const data = require(`./${fullid}.json`);
+function LoadAndValidateOne(id: string): DocumentFile {
+    const data = require(`../${id}.json`);
     const valid = validator(data);
     if (!valid) {
-        console.log(`Failed to validate ${fullid}`);
+        console.log(`Failed to validate ${id}`);
         console.log(ajv.errorsText(validator.errors));
         throw 'Validation failure';
     }
@@ -29,6 +29,16 @@ export function LoadAndValidate(): DocDb {
     const out: DocDb = {
         db: LoadAndValidateOne('db')
     };
+
+    const loadChildren = (pid: string) => {
+        for (var name of out[pid].children || []) {
+            const cid = `${pid}/${name}`;
+            out[cid] = LoadAndValidateOne(cid);
+            loadChildren(cid);
+        }
+    }
+
+    loadChildren('db');
 
     return out;
 }
