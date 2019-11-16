@@ -2,9 +2,6 @@
     "title": "CohenDB Database Root",
     "children": [
         "songs",
-        "poems_and_prose",
-        "performances",
-        "interviews",
-        "novels"
+        "performances"
     ]
 }
