@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "gen": "ts-node run/generate-types.ts",
-    "test": "ts-node run/validate-data.ts"
+    "validate": "ts-node run/validate-data.ts",
+    "test-roundtrip": "ts-node run/load-save-roundtrip.ts"
   },
   "repository": {
     "type": "git",
