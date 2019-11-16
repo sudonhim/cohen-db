@@ -1,14 +1,14 @@
 {
-    "title": "Performances",
-    "children": [
-        "the_smokey_life_tour",
-        "various_positions_tour",
-        "im_your_man_tour",
-        "the_future_world_tour",
-        "leonard_cohen_tour",
-        "old_ideas_world_tour",
-        "radio",
-        "television",
-        "other_performances"
-    ]
+  "title": "Performances",
+  "children": [
+    "the_smokey_life_tour",
+    "various_positions_tour",
+    "im_your_man_tour",
+    "the_future_world_tour",
+    "leonard_cohen_tour",
+    "old_ideas_world_tour",
+    "radio",
+    "television",
+    "other_performances"
+  ]
 }
