@@ -29,6 +29,6 @@
         }
         
     },
-    "required": ["kind", "text"],
+    "required": ["text"],
     "additionalProperties": false
 }

@@ -1,6 +1,7 @@
 import { DocumentFile } from '../schema';
 import * as Ajv from 'ajv';
 import * as fs from 'fs';
+import slugify from 'slugify';
 
 const schemas = fs.readdirSync('./schema')
     .map(name => require(`../schema/${name}`));
@@ -41,4 +42,8 @@ export function LoadAndValidate(): DocDb {
     loadChildren('db');
 
     return out;
+}
+
+export function TitleToId(title: string): string {
+    return slugify(title, { replacement: '_', lower: true });
 }

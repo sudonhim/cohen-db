@@ -1,5 +1,5 @@
 import { DocDb, LoadAndValidate } from '../lib/utils';
 
-const docDb = LoadAndValidate();
+const docDb: DocDb = LoadAndValidate();
 
 console.log(`Validation completed for ${Object.keys(docDb).length} documents`);
