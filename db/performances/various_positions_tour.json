@@ -1,5 +1,8 @@
 {
   "title": "Various Positions Tour",
+  "metadata": {
+    "date": "1985-01-31"
+  },
   "children": [
     "1985_01_31_mannheim",
     "1985_02_01_munster",
@@ -43,7 +46,7 @@
     "1985_04_30_philadelphia",
     "1985_05_01_philadelphia",
     "1985_05_04_boston",
-    "1985_05_05_new_york_city",
+    "1985_05_05_new_york",
     "1985_05_09_ottawa",
     "1985_05_10_montreal",
     "1985_05_11_toronto",
@@ -57,14 +60,15 @@
     "1985_06_02_adelaide",
     "1985_06_04_perth",
     "1985_06_05_perth",
+    "1985_06_06_perth",
     "1985_06_08_san_francisco",
     "1985_06_09_los_angeles",
     "1985_06_27_helsinki",
     "1985_06_28_roskilde",
     "1985_06_29_helsingborg",
-    "1985_06_30_oslo",
+    "1985_06_30_kalvoya",
     "1985_07_02_jerusalem",
-    "1985_07_04_caesarea",
+    "1985_07_04_caesarea_maritima",
     "1985_07_06_vienna",
     "1985_07_07_graz",
     "1985_07_09_montreux",
