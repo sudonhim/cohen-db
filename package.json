@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A custom database of everything Leonard Cohen",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "gen": "ts-node run/generate-types.ts",
     "validate": "ts-node run/validate-data.ts",

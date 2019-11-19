@@ -1,4 +1,5 @@
 import { DocumentFile } from "../schema";
+import { DocDb } from "../index";
 import * as Ajv from "ajv";
 import * as fs from "fs";
 import slugify from "slugify";
@@ -11,11 +12,8 @@ const validator = ajv.getSchema("document-file.json");
 
 export function EnsureValid(doc: DocumentFile) {
   const valid = validator(doc);
-  if (!valid) {
-    console.log(`Failed to validate ${doc.title}`);
-    console.log(ajv.errorsText(validator.errors));
-    throw "Validation failure";
-  }
+  if (!valid)
+    throw `Failed to validate ${doc.title}; ${ajv.errorsText(validator.errors)}`;
 }
 
 function LoadAndValidateOne(id: string): DocumentFile {
@@ -23,12 +21,6 @@ function LoadAndValidateOne(id: string): DocumentFile {
   EnsureValid(data);
 
   return data as DocumentFile;
-}
-
-// All the database documents in a dictionary
-export interface DocDb {
-  db: DocumentFile;
-  [id: string]: DocumentFile;
 }
 
 export function LoadAndValidate(): DocDb {
