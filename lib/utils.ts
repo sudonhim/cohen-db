@@ -74,29 +74,21 @@ function deleteFolderRecursive(path: string) {
 }
 
 export function ValidateAndSave(docDb: DocDb) {
+  deleteFolderRecursive('./build');
+  fs.mkdirSync('./build');
+
   const visited: string[] = [];
   const visitRecursive = (id: string) => {
     const doc = docDb[id];
     if (!doc) throw `Referenced document ${id} does not exist`;
 
     EnsureValid(doc);
-    const fpath = `./${id}.json`;
+    const fpath = `./build/${id}.json`;
     const docStr = StringifyDoc(doc);
-    if (!fs.existsSync(fpath) || fs.readFileSync(fpath, "utf8") !== docStr) {
-      console.log(`Updating document ${id}`);
-      fs.writeFileSync(fpath, docStr);
-      const dirPath = `./${id}`;
-      if (doc.children) {
-        if (!fs.existsSync(dirPath)) {
-          console.log(`Creating directory ${dirPath}`);
-          fs.mkdirSync(dirPath);
-        }
-      } else {
-        if (fs.existsSync(dirPath)) {
-            console.log(`Removing directory ${dirPath}`);
-            deleteFolderRecursive(dirPath);
-        }
-      }
+    fs.writeFileSync(fpath, docStr);
+    const dirPath = `./build/${id}`;
+    if (doc.children) {
+      fs.mkdirSync(dirPath);
     }
 
     visited.push(id);
