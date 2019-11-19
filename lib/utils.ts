@@ -50,7 +50,7 @@ export function LoadAndValidate(): DocDb {
 }
 
 export function TitleToId(title: string): string {
-  return slugify(title, { replacement: "_", lower: true });
+  return slugify(title, { replacement: "_", lower: true }).replace(/\W/g, '');
 }
 
 export function StringifyDoc(doc: DocumentFile): string {
