@@ -1,5 +1,8 @@
 {
   "title": "The Future World Tour",
+  "metadata": {
+    "date": "1993-04-25"
+  },
   "children": [
     "1993_04_25_holstebro",
     "1993_04_26_holstebro",
@@ -10,6 +13,7 @@
     "1993_05_03_stockholm",
     "1993_05_04_stockholm",
     "1993_05_06_copenhagen",
+    "1993_05_07_copenhagen",
     "1993_05_08_the_hague",
     "1993_05_09_ghent",
     "1993_05_10_london",
@@ -34,7 +38,7 @@
     "1993_06_08_ottawa",
     "1993_06_10_montreal",
     "1993_06_11_quebec_city",
-    "1993_06_14_new_york_city",
+    "1993_06_14_new_york",
     "1993_06_16_toronto",
     "1993_06_17_toronto",
     "1993_06_18_toronto",
@@ -53,11 +57,11 @@
     "1993_07_06_los_angeles",
     "1993_07_08_san_diego",
     "1993_07_09_santa_fe",
-    "1993_07_11_austin",
+    "1993_07_11_bee_cave",
     "1993_07_13_atlanta",
-    "1993_07_15_philadelphia",
+    "1993_07_15_glenside",
     "1993_07_16_boston",
-    "1993_07_18_washington_d.c.",
+    "1993_07_18_washington",
     "1993_07_20_toronto",
     "1993_07_22_thunder_bay",
     "1993_07_24_winnipeg",
