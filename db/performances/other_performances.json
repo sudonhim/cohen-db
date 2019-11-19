@@ -1,3 +1,37 @@
 {
-  "title": "Other Performances"
+  "title": "Other Performances",
+  "children": [
+    "1967_04_06_buffalo",
+    "1967_04_30_new_york",
+    "1967_05_22_toronto",
+    "1967_07_16_newport",
+    "1967_07_21_new_york",
+    "1967_07_22_montreal",
+    "1967_07_23_montreal",
+    "1967_07_24_montreal",
+    "1967_07_25_montreal",
+    "1967_07_26_montreal",
+    "1967_07_27_montreal",
+    "1967_08_13_caledon",
+    "1970_07_25_queens",
+    "1970_08_02_aix_en_provence",
+    "1970_08_10_saratoga_springs",
+    "1970_08_30_freshwater",
+    "1970_10_15_kingston",
+    "1970_10_30_madison",
+    "1970_11_14_los_angeles",
+    "1970_11_15_berkeley",
+    "1970_12_09_montreal",
+    "1974_11_29_new_york",
+    "1974_11_30_new_york",
+    "1974_12_01_new_york",
+    "1975_11_12_willimantic",
+    "1975_11_13_willimantic",
+    "1975_11_23_bryn_mawr",
+    "1984_10_20_brussels",
+    "1984_12_15_bremen",
+    "1993_02_10_new_york",
+    "2006_05_13_toronto",
+    "2008_01_20_wellington"
+  ]
 }
