@@ -7,5 +7,57 @@
       "country": "England",
       "venue": "Royal Albert Hall"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "fsp",
+        "part": {
+          "kind": "prologue",
+          "reference": "Ain't no cure for love",
+          "content": {
+            "text": [
+              "When He was hangin' on the cross He looked about Him and He said \" Why hast thou forsaken me? \".And He looked around Him,from mountain to mountain. He understood that a lever had been thrown in the Cosmos and He said \"It is finished\".And then He looked below Him at the human faces of envy,greed,joy ,indifference,revenge and then He knew for certain that there ain't no cure for love...."
+            ]
+          }
+        }
+      },
+      {
+        "id": "ain",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              "About a thousand years ago I used to live in this hotel in New York City, a very good hotel. In the elevator of that hotel, early in the morning I used to bump into a young woman. After about a week, I gathered my courage and I said to her, \"Are you looking for someone?\" She said, \"Yes,I'm looking for Kris Kristofferson.\" I said, \"Little Lady, you're in luck. I'm Kris Kristofferson. \"Those were very generous times as you may have read.So she never lead on that she really knew I wasn't Kris Kristofferson. Maybe I was Kris Kristofferson. I wasn't wearing cowboy boots until that moment. A couple of years later I was sitting at the bar of this Polynesian restaurant in Miami Beach, some place I hope I never bump into you. They serve drinks in ceramic coconut shells. All up and down the boulevards there are real coconut trees with real coconut shells. There is some arcane meaning in all of that but I couldn't penetrate it. I was sitting at that bar and this young woman's presence became very strong and I wrote this song for Janis Joplin at the Chelsea Hotel."
+            ]
+          }
+        }
+      },
+      {
+        "id": "vgv",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
+          "content": {
+            "text": [
+              "Thank you so much, comrades. I do not concede the word \"comrades\" to the communists. I use it freely.Yes, why should they have special parts of the English language? And the extreme right too, why should they have blood and soil, honor, integrity, family? I like those words. I intend to use them freely. You're very kind and it's true, you are kind and very warm and it's not for me to stand up here and judge the people who come to see me. But I want to tell you that even though your hospitality is profound it will not detour me from my appointed task which is to take Manhattan, then Berlin and several other cities..."
+            ]
+          }
+        }
+      },
+      {
+        "id": "ngw",
+        "part": {
+          "kind": "prologue",
+          "reference": "I'm your man",
+          "content": {
+            "text": [
+              "Over the last five or ten thousand years, men have been asking the question \"What does a woman want?\" And for the last few hundred years even women have been asking the question \"What does a woman want?\" And now men are asking the question \"What does a man want?\" And I just want to notify you that if these thoughts interest you for even a moment, you are lost. I have abandoned this type of question and I stand ready to signify my intention to do anything at all that she wants in order to deserve her caress. And therefore I declare I am your man"
+            ]
+          }
+        }
+      }
+    ]
   }
 }

@@ -7,5 +7,81 @@
       "country": "United States",
       "venue": "Warfield Theatre"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "qsp",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              [
+                "I was in the manager's office downstairs and on the wall I saw a picture of a woman. It remembered to me the time that I left Montreal for New York City. My mother said to me, even though I was a grown man, \"Watch out for those people Leonard, they aren't like we are.\" I was deeply offended by her presumption of giving a man of such (?) this advice but after I'd lost the copyright to \"Suzanne\" and \"The Stranger Song\" and \"Dress Rehearsal Rag,\" I think I knew what she was talking about. There was however some compensations, some consolations, a sophisticated hotel on 23rd Street. You can enter with a pigmy and a polar bear and not an eyebrow was raised, the key was just shoved across the counter.  I used to ride the elevator late at night, up and down.I noticed that there was a young woman in that elevator.  I did not know the great fame, the renowned she had attained. All I knew was that she was a nightrider like myself, trying to pass the hours of the early morning. I gathered my courage and I summoned the most razor-like approach that I could carve for her presence and I said, \"Are you looking for someone?\" She said, \"Yes I'm looking for Kris Kristofferson.\" I said, \"Lucky lady, you're in luck tonight. I'm Kris Kristofferson.\" Well, such was the generosity of those times that she never called me on it.  A couple of years later after she passed over to the other side, I found myself at this bar in a Polynesian restaurant in Miami Beach. Life leads the thoughtful man on a path of many windings. I was drinking a cocktail out of a ceramic coconut.  This was an imponderable mystery because the entire place was frothing with actual, authentic coconuts. I hold these mysteries on the level of the trinity. Not only can they not be",
+                " penetrated but there is no need to penetrate them.  They are comforting in their obscurity. The very obscurity is what offers such solace. I think we can take a lesson from this. Many of the mysteries that seem to beset us, just lie back on them and relax. The thought of the young woman came to me very strongly as I sat at that bar and I wrote this song for Janis Joplin."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "zhl",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/the_future/democracy",
+          "content": {
+            "text": [
+              "Spoken additional verse",
+              [
+                " First we killed the Lord,then we stole the Blues",
+                " This guttered people always in the news",
+                " But who really gets to laugh behind the Black man's back",
+                " When he makes his little crack about the Jews?",
+                " Who really gets to profit?And who really gets to pay?",
+                " Who gets to ride the slavery ship right into Charleston Bay?"
+              ],
+              "Democracy is coming to the USA"
+            ]
+          }
+        }
+      },
+      {
+        "id": "ioz",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
+          "content": {
+            "text": [
+              "I want to thank you for the items that you sent me. Very useful.I've been studying them very carefully, abstractionist as is the style of the city, refracted through certain obscure and subtle lens of a position that is not easily discerned. Nevertheless [not] without a certain compelling charm, especially when viewed through several glasses of an excellent Bordeaux.   I am sincerely grateful for the notes; for the missives; for the few broken tiles, no doubt from some street battle long past and lost to the memory of mankind, nevertheless a certain historic significance; slivers of cobblestone from unknown conflicts. I really don't know what they stand for at all but I'm deeply grateful that my dressing room is heaped with this kind of debris from many other positions of course, but my own. I love every precious shard. I thank you for the monkey and the plywood violin and I've practiced every night and now I am ready...."
+            ]
+          }
+        }
+      },
+      {
+        "id": "dbi",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/take_this_waltz",
+          "content": {
+            "text": [
+              "You know it was many years ago in the city of Montreal that I stumbled upon this volume. I opened it and I accepted the poet's invitation to enter into this world where fistfuls of ants were thrown at the sun and crystals obscured the pine trees and there were the arches of Elvira to pass through and begin weeping and there were those thighs that slipped away like schools of silver minnows. That was the irresistible seductive invitation I could not resist. I slipped into that fist, I did, I lived among the ants and I learned their ways. I mastered the crystals. I healed many alcoholic gurus with my crystal powers. I passed through the arches of Elvira and I did, I began weeping. That's nothing new. I saw those thighs glistening like hunting horns and I touched them, I did, I pulled my hand away and I slipped away like a school of silver minnows. I've never left that world. I stand here tonight and I invite you all to join me here. There's lots of space, there's no boundaries, there's no politics, no language. All you have to do is celebrate the sunlight coming through the hair of your beloved. It's a simple thing. And it's my great honour and my great privilege and my tiny duty to render this homage to the great Spanish poet who invited me there, Federico Garcia Lorca.Take this waltz, take this waltz."
+            ]
+          }
+        }
+      },
+      {
+        "id": "uyo",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
+          "content": {
+            "text": [
+              "About a thousand years ago there was this brief period of about eleven minutes that are now referred to by the term known as the sixties. A kind of interesting sociological black hole into which all our best aspirations were sucked and disappeared. A seductive movement, I myself accepted the invitation for three or four seconds. And then gloomy chap that I am, I was compelled back in 1970 or 1971 to write this song."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

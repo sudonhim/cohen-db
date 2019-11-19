@@ -7,5 +7,41 @@
       "country": "France",
       "venue": "Le Zénith"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "knq",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/various_positions/hallelujah",
+          "content": {
+            "text": [
+              "verse variation",
+              [
+                "   ....Well I've seen your walls ( alternative * your fortress) , your towers on the marble arch.",
+                "       But Love is not a victory march...."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "rfi",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/the_future/the_future",
+          "content": {
+            "text": [
+              [
+                "Rendez-moi le mur de Berlin  (Give me back the Berlin Wall)",
+                " Rendez moi Jesus et St Paul  (Give me Jesus and St Paul)",
+                " J'ai vu l'avenir : c'est un massacre !  (It's a slaughter)....."
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

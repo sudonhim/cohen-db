@@ -8,5 +8,45 @@
       "country": "Belgium",
       "venue": "Flanders Expo"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "rpo",
+        "part": {
+          "kind": "prologue",
+          "reference": "Ain't no cure for love",
+          "content": {
+            "text": [
+              "When the Prince of Peace gazed down at the faces looking up at Him,the faces of envy,anger,envy,despair,He didn't know why,He just happened to like them all.He knew,He knew for certain there was no getting away from this dismal reality:There ain't no cure for love."
+            ]
+          }
+        }
+      },
+      {
+        "id": "fjo",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
+          "content": {
+            "text": [
+              "You know,they expected 10,000 people to come tonight.But only 5,000 came tonight,but it doesn't matter,it doesn't matter at all.This is a good number to begin with.This is a good number to begin,to make yourself strong and to make yourself cheerful and to enable yourself to take Manhattan,and then Berlin (..)..."
+            ]
+          }
+        }
+      },
+      {
+        "id": "qqg",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/take_this_waltz",
+          "content": {
+            "text": [
+              "A long time ago i came upon the poems of a great Spanish poet and tonight once again I offer my tiny homage to Federico Garcia Lorca."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

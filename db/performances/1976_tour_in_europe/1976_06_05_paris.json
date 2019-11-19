@@ -7,5 +7,303 @@
       "country": "France",
       "venue": "L'Olympia Bruno Coquatrix"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "iso",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+          "content": {
+            "text": [
+              "(the verses from the Serge Lama's french cover \"Vivre tout seul\" are sung there,in french,as additional verses)",
+              [
+                " Je veux vivre tout seul,vivre comme un oiseau sur son fil",
+                "  (I wanna live all alone,like a bird on his wire)",
+                " Sans femme sans famille sans amis",
+                "  (No woman,no family,no friends)",
+                " Je veux vivre tout seul,vivre comme un poete en exil",
+                "  (I wanna live all alone,like an exiled poet)",
+                " Sans visage,sans papiers sans pays",
+                "  (No face,no papers,no country)"
+              ],
+              [
+                " J'en ai marre de toujours faire le beau",
+                "  (I'm tired of always showing up)",
+                " De sourire quand j'ai mal dans mon coeur",
+                "  (Of smiling when my heart is aching)",
+                " J'en ai marre,je veux monter plus haut",
+                "  (I'm so tired i want to go higher)",
+                " A l'abri des chiens et des chasseurs",
+                "  (Away from hunters and their dogs)"
+              ],
+              [
+                " Certains soirs je trouve sur ta peau",
+                "  (Some nights i found on your skin)",
+                " Quelque chose qui ressemble au bonheur",
+                "  (Seems like happiness)",
+                " Mais helas tu t'endors aussit�t",
+                "  (Alas you're already asleep)",
+                " Le matin tu te leves � 8hOO",
+                "  (The morning,you'll get up at eight)"
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "zfr",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              "Il y a un Hotel a New York ou viennent beaucoup d'artistes (there is a Hotel in NYC where a lot of musicians used to stay), et j'ai rencontre une grande chanteuse la-bas (and i met a great woman singer there), dans l'ascenseur (in the elevator) and after she died, i wrote her this song.  It's a very beautiful woman, i loved her attitude... est-ce que vous comprenez anglais??  (Do you speak english?) parce que moi je parle pas fran�ais, ni anglais. Une autre langue mais.. (another language, but..). I loved her attitude towards her music. You know if you study the lyrics of today, that is if you are so idle and foolish as to actually study the lyrics of today, you find that so many of the singers are concerned with the difficulties of being a popstar. A very great serious question into this world to be a popstar. The difficulties in getting servants and how hard it is to shop for jewels and there are many burdens (..) upon the shoulders of the popstars and we should.... we should understand their great suffering and anguish. Of course,here in France, anguish is profundally understood except when it concerns the popstars. And there was not of that sound of her and when she split, she split for good. And i used to met her as i said in french in the elevator. She wasn't looking for me. And i wasn't looking for her. I was looking for Brigitte Bardot. She was looking for Kris Kristofferson, someone taller than me. But we fell into each other's arms, through some process of elimination. That's the process by which everything happens. There is nothing more i can say about her, except she was a very great singer. And after she died i wrote this song for her. Janis Joplin."
+            ]
+          }
+        }
+      },
+      {
+        "id": "sba",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/i_tried_to_leave_you",
+          "content": {
+            "text": [
+              [
+                "Une chanson traduite par Graeme Allwright, \"Je voulais te quitter\"",
+                "  (A song translated by Graeme Allwright, \"I Tried To Leave You\")."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "ylf",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/lady_midnight",
+          "content": {
+            "text": [
+              "Then she pointed at me,while I begged like a dog on her floor"
+            ]
+          }
+        }
+      },
+      {
+        "id": "hnj",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/lover_lover_lover",
+          "content": {
+            "text": [
+              [
+                "Une chanson que j'ai ecrite pendant la guerre entre les Egyptiens et les Israelites,pour les deux cotes.",
+                "  A song that i wrote during the war between egyptian and jewish people,for both sides."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "lrl",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+          "content": {
+            "text": [
+              "(verse variations)",
+              [
+                " Ah but the morning  never really came.Nancy was alone.",
+                " A  PK-45 beside her head, an open telephone.",
+                " We told her she was beautiful.We  all  told her she was free.",
+                " But none of us would meet her in.",
+                " The House of Mystery,the House of Mystery"
+              ],
+              [
+                " OK so now you can look all around you.See her everywhere.",
+                " Many of you use her  style of body now,many comb her hair.",
+                " And in the hollow of the night,when you are cold and numb",
+                " You can hear her talking freely then.",
+                " She's happy that you've come,she's happy that you've come."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "ioz",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_of_leonard_cohen/store_room",
+          "content": {
+            "text": [
+              [
+                "I love you, without caring whom you love.",
+                " My hands below the belt, or my hands above",
+                " In the arms of other men,",
+                " Or in my bed again."
+              ],
+              [
+                " It's just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ],
+              [
+                " Oh I love to see you sitting there upon your throne,",
+                " Yeah Your preachers all around you",
+                " Being bored, and your prophet straight and tall.",
+                " They'll undermine it all."
+              ],
+              [
+                " It's just a man, just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ],
+              [
+                " Yeah, Shakespeare he said it all, and he said no more",
+                " And he left me feeling just like a two bit whore.",
+                " Well the silence broke my heart",
+                " But I spread my legs apart."
+              ],
+              [
+                " It's just a man, just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ],
+              [
+                " Refusing to keep on (..)once appeared",
+                " In a period that haunts you (..)",
+                " The prophet in the Wild,",
+                " The parent in the child."
+              ],
+              [
+                " It's just a man, just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ],
+              [
+                " Oh my love, let us continue",
+                " What has been begun",
+                " Bringing for the mother and the father",
+                " The daughter and the son.",
+                " But should one refuse to come,",
+                " No it does not subtract the sum",
+                " It's just a man, just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ],
+              [
+                " It's not the wind that keeps you up",
+                " It's not the snow, it's not the moon",
+                " Coming like a headlight now but through your window",
+                " No these wars that you did not stop,",
+                " They do not tear your sleep apart."
+              ],
+              [
+                " It's just a man, just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ],
+              [
+                " Yeah can a woman when she's by your side, and she's awake?",
+                " But there's nothing you want to give her,",
+                " And there's nothing that you really want to take.",
+                " You don't even try to prove that the noisy neighbour is making love."
+              ],
+              [
+                " It's just a man, just a man,",
+                " Taking what he needs,",
+                " From the store room,",
+                " Store room, store room."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "czj",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/story_of_isaac",
+          "content": {
+            "text": [
+              "verse variation",
+              [
+                " A scheme is not a vision",
+                " And you never ever have been tempted",
+                " By a Demon let alone a God."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "qmc",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
+          "content": {
+            "text": [
+              "verse variations",
+              [
+                "  So keep your beauty to wind",
+                "So give all this beauty to the wind",
+                " Put your (precious) pride to rest",
+                " And let me judge your famous love affair",
+                " In this very room where I have sentenced mine to (total) death",
+                " I'll even wear these old laurel leaves",
+                " That he's shaken from his head"
+              ],
+              [
+                " Just take this longing, take it from my tongue",
+                " All the  lonely things that these hands have done;",
+                " Let me see your beauty ,let me see it broken down",
+                " Like you would do for someone you love"
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "otu",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_from_a_room/the_partisan",
+          "content": {
+            "text": [
+              "I dedicate this song to those who are forgotten"
+            ]
+          }
+        }
+      },
+      {
+        "id": "jdo",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_of_leonard_cohen/the_stranger_song",
+          "content": {
+            "text": [
+              "verse variation",
+              [
+                " You hate to watch another tired man lay down his hand",
+                " like he was giving up the Holy Game of Poker.",
+                " And while he talks his dreams to sleep,you notice there's a highway",
+                " that is curling up like smoke above his shoulder.",
+                " Now suddenly,  you feel a little older.",
+                " Yes suddenly  you look a little older."
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

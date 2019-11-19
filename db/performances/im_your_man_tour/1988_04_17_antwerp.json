@@ -7,5 +7,113 @@
       "country": "Belgium",
       "venue": "Koningin Elisabethzaal"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "inu",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/various_positions/coming_back_to_you",
+          "content": {
+            "text": [
+              "This is a song in which i have achieved the ultimate confusion of God and Women.It's called \"Coming back to you\"."
+            ]
+          }
+        }
+      },
+      {
+        "id": "csk",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
+          "content": {
+            "text": [
+              "It's a curious song. I used to know what it means but I don't remember what it means anymore. And I think it was just a moment ago that I wrote it. I think I intended to take Manhattan and then Berlin."
+            ]
+          }
+        }
+      },
+      {
+        "id": "uuq",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/various_positions/hallelujah",
+          "content": {
+            "text": [
+              "You know,I wrote this song a couple of..,it seems like yesterday but I guess it was five or six years ago and it had a chorus called Hallelujah.  And it was a song that had references to the Bible in it,although these references became more and more remote as the song went from beginning to the end.And finally I understood that it was not necesary to refere to the Bible anymore.And I rewrote this song;this is the \"secular\" Hallelujah.<<Baby I've been here before..>>."
+            ]
+          }
+        }
+      },
+      {
+        "id": "edk",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/other_songs/passing_through",
+          "content": {
+            "text": [
+              "Ah I hope you all pass a pleasant Easter and a pleasant Passover. I hope you left the land of Egypt as your fathers did. I hope you are resurrected with the living Christ."
+            ]
+          }
+        }
+      },
+      {
+        "id": "wrk",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/take_this_waltz",
+          "content": {
+            "text": [
+              "Last year it was the 50th anniversary of the death of Federico Garcia Lorca, a great Spanish writer. He was the first poet that ever touched me. And i remember the first lines of his that i ever read that moved me into this delicious racket called poetry. It was: \"I want to pass through the arches of Elvira*, to see your thighs and begin weeping\". That line burned itself into my heart and i've written it over and over again in a hundred songs. This is a song of his,called \"Little Viennese Waltz\" that i had the great honor to translate and set to music.",
+              " *The \"Arch Of Elvira\" (\"Puerta De Elvira\" , XI th century) is a famous monument in Granada,where the poet spent most of his life.",
+              [
+                " *This mention refers to the poem by Lorca called \"Divan Del Tamarit\":",
+                "  \"Through the arch of Elvira (the wife of Don Juan)",
+                "  I'm going to see you pass",
+                "  to see your thighs",
+                "  and begin weeping\""
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "sgq",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/various_positions/the_law",
+          "content": {
+            "text": [
+              "This is an old song,not so old. It's called The Law. There is a Law, there is an arm, there is a hand. We're not going to beat the rap. We're not going to evade the ancient law of cause and effect. We're going to buy it, we're going to bite the bullet. We can't escape."
+            ]
+          }
+        }
+      },
+      {
+        "id": "qkz",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_of_leonard_cohen/the_stranger_song",
+          "content": {
+            "text": [
+              "This comes out of a thousand hotel rooms,ten thousand railway stations..."
+            ]
+          }
+        }
+      },
+      {
+        "id": "acx",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
+          "content": {
+            "text": [
+              "This next song arises from a prayer that is sung in the synagogue on the Day of Atonement. I used to stand beside my tall uncles in their black suits waiting for this prayer in which was listed all the ways in which we eventually must come to stand before the creator:who by fire,who by water...."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

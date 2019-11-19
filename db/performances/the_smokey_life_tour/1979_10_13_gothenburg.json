@@ -7,5 +7,24 @@
       "country": "Sweden",
       "venue": "Scandinavium"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "qix",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              [
+                "verse variation",
+                " \"..told me once again you'd prefer younger men..\""
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

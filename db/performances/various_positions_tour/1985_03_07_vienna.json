@@ -7,5 +7,49 @@
       "country": "Austria",
       "venue": "Konzerthaus"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "wfp",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
+          "content": {
+            "text": [
+              "sung as an additional verse",
+              [
+                " I haven't said a word since you've been gone",
+                " That (?) liar couldn't still his voice",
+                " I can't believe the static coming on",
+                " You were (?)",
+                " You were my (?)",
+                " And there are no letters in the mailbox..."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "lub",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/various_positions/the_law",
+          "content": {
+            "text": [
+              "Additional stanza",
+              [
+                "Now the solitudes vary",
+                " They go from nothing to loud",
+                " If you're buying lonely",
+                " Pick the one with the crowd",
+                " You can get solitary",
+                " But it is never your brain."
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

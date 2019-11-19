@@ -7,5 +7,41 @@
       "country": "Germany",
       "venue": "Kuppelsaal"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "jsj",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/various_positions/the_law",
+          "content": {
+            "text": [
+              "additional verses",
+              [
+                " You can blame it on nature",
+                " Or you can blame it on God",
+                " You can say it's a creature",
+                " Just stepping out of the mud",
+                " But I ain't here cause a fossil",
+                " Has been found in the sand",
+                " There's a Law, there's an Arm, there's a Hand",
+                " There's a Law, there's an Arm, there's a Hand"
+              ],
+              [
+                " Well I've done lots of time boys",
+                " Now I know why",
+                " You can turn on a dime",
+                " But on a dollar you die",
+                " This will never make sense",
+                " To the fat of the land",
+                " Ah but, there's a Law, there's an Arm, there's a Hand",
+                " There's a Law, there's an Arm, there's a Hand"
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

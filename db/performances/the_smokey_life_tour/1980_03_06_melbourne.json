@@ -7,5 +7,33 @@
       "country": "Australia",
       "venue": "Comedy Theatre"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "qfl",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/other_songs/blues_by_the_jews",
+          "content": {
+            "text": [
+              "I don't know if any of you recall that there was a preacher in America about thirty years ago, called Billy Sunday, who went around frightening everybody. \"You're in a promised land\" (says a man in the crowd). These days everyone seems to be infected by the Holy Spirit. Along with my other infections, it's one I've had for a long time. This is a blues."
+            ]
+          }
+        }
+      },
+      {
+        "id": "hsk",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
+          "content": {
+            "text": [
+              "The melody on which this next song is based I first heard when I was four or five years old, in the synagogue, on the Day of Atonement, standing beside my tall uncles in their black suits. It�s a �liturgical prayer that talks about the way in which you can quit this vale of tears. It's according to a tradition, an ancient tradition that on a certain day of the year, the Book of Life is opened, and in it is inscribed the names of all those who will live and all those who will die, who by fire, who by water..."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

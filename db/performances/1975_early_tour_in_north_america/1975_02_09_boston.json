@@ -7,5 +7,21 @@
       "country": "United States",
       "venue": "Symphony Hall"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "umj",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/is_this_what_you_wanted",
+          "content": {
+            "text": [
+              "This following song is a dialogue between you and your perfect lover.Unfortunately your perfect lover is not present for the conversation."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

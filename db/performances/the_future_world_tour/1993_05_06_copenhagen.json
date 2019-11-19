@@ -7,5 +7,42 @@
       "country": "Denmark",
       "venue": "Falkoner Teatret"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "nec",
+        "part": {
+          "kind": "prologue",
+          "reference": "Ain't no cure for love",
+          "content": {
+            "text": [
+              "When the Prince of Peace was hanging from his final tree and he looked down at the people beneath him, the Roman soldiers, the Pharisees, the Sadducees , the Hellenist, the Jews. And he saw their up-turned faces. The faces of anger, envy, bewilderment, greed, despair. He looked into those faces and he felt that a lever had been thrown in the cosmos and nothing ever would be the same again. And He looked down at them and He knew for certain, He knew for sure, He knew for all time, there ain't no cure for love."
+            ]
+          }
+        }
+      },
+      {
+        "id": "jol",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/the_future/democracy",
+          "content": {
+            "text": [
+              "spoken additional verse",
+              [
+                " From the church where the outcasts can hide from the Masque",
+                " Where the blood is dignified",
+                " Like the fingers on your hand, like an hourglass of sand",
+                " We can separate but not divide",
+                " And I know your baby's missing, but we sited her today",
+                " She was cleaning her machine-gun, she was waving her beret"
+              ],
+              " Democracy is coming to the USA"
+            ]
+          }
+        }
+      }
+    ]
   }
 }

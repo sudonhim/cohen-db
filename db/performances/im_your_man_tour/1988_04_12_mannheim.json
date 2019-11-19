@@ -7,5 +7,49 @@
       "country": "Germany",
       "venue": "Mannheimer Rosengarten"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "bhh",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/various_positions/hallelujah",
+          "content": {
+            "text": [
+              "Verse Variation",
+              [
+                " Forgive me Lord if you're up there above",
+                " But all I ever learned from love...."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "yfs",
+        "part": {
+          "kind": "prologue",
+          "reference": "I Can't Forget",
+          "content": {
+            "text": [
+              "This is a song about what I can't forget."
+            ]
+          }
+        }
+      },
+      {
+        "id": "ocw",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/various_positions/the_law",
+          "content": {
+            "text": [
+              "This is a song about guilt. Yes guilt is a very under-estimated emotion. It has a lot of bad press today, guilt has. Actually, it is the only way�we know when we're doing a wrong thing."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

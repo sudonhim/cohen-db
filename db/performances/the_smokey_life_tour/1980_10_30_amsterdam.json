@@ -7,5 +7,63 @@
       "country": "Netherlands",
       "venue": "Concertgebouw"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "hje",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              "Once upon a time, there was a hotel in New York City. There was an elevator in that hotel. One evening, about three in the morning, I met a young woman in that hotel. I didn't know who she was. It turned out she was a very great singer. It was a very dismal evening in New York City. I'd been to the Bronco Burger. I had a cheeseburger. It didn't help at all. (Sings: Didn�t help at all.  The cheeseburger didn�t help all.) Went to the White Horse Tavern, looking for Dylan Thomas (Sings: But Dylan Thomas was dead). Ah, I got back to the elevator and there she was. She wasn't looking for me either. She was looking for Kris Kristofferson (Sings: Lay your head upon the pillow...).  I wasn't looking for her, I was looking for Lili Marlene. Forgive me for these circumlocutions. I later found out she was Janis Joplin and we fell into each other's arms through some divine process of elimination, which makes a compassion out of indifference. And after she died, I wrote this song for her. It's called \"The Chelsea Hotel.\""
+            ]
+          }
+        }
+      },
+      {
+        "id": "xmi",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/death_of_a_ladies'_man/memories",
+          "content": {
+            "text": [
+              "Long time ago, in my distant middle age, I sat down with Phil Spector on a mahogany piano bench and collaborated with him, one of the most dismal periods of my entire creative life. I wrote a song into which I have placed my most banal adolescent recollections. A song of profound and abiding irrelevance, which will probably last forever. Oh, how I long for the day when upon these shabby balustrades of the \"Concertgebouw\", you will erase one of the lesser names of Wagner, of Stravinsky and in its place, in bright and shiny gold letters, inscribe the name...(laughs). Forgive me great gods of music. I am but a tiny worm groveling in the bright illumination of your memories. That reminds me the name of the tune, it's called \"Memories.\""
+            ]
+          }
+        }
+      },
+      {
+        "id": "qny",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+          "content": {
+            "text": [
+              "A song I wrote for a young woman in Montreal."
+            ]
+          }
+        }
+      },
+      {
+        "id": "vze",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+          "content": {
+            "text": [
+              "variation 2nd verse ",
+              [
+                " And now you want to travel with him",
+                " You want to travel blind",
+                " And you think  okay this time he'll trust you",
+                " For he's touched your perfect body with his mind."
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

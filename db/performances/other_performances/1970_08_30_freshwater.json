@@ -7,5 +7,45 @@
       "country": "United Kingdom",
       "venue": "Afton Down"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "zvq",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+          "content": {
+            "text": [
+              "Oh It's good to be here alone in front of six hundred thousand people. It's a large nation but it's still weak, still very weak. It needs to get a lot stronger before it can claim a right to a land"
+            ]
+          }
+        }
+      },
+      {
+        "id": "ntg",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/tonight_will_be_fine",
+          "content": {
+            "text": [
+              [
+                "(sung as additional verses)",
+                " I've looked into the mirrors in numberless places",
+                " They all smile back at me with the most troublesome faces.",
+                " The cards that they dealt me, no there weren't any aces",
+                " And the horses just don't listen to me at the races."
+              ],
+              [
+                " There's still one or two of us, walking the street",
+                " No arrows of direction painted under our feet",
+                " No angels to warn us away from the heat",
+                " And no honey to keep us where it is sweet"
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

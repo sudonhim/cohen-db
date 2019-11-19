@@ -7,5 +7,28 @@
       "country": "Austria",
       "venue": "Grazer Schloßberg"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "nxa",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+          "content": {
+            "text": [
+              "Modified verses",
+              [
+                "I saw this beggar standing on his wooden crutch",
+                "He says \"How Dare You, how dare you,",
+                "how dare you ask for so God damn much ?\"",
+                " There was a woman leaning in her darkened door",
+                "She says \"come on, you can ask for just a little bit more\"…"
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

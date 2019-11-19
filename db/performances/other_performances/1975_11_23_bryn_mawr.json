@@ -7,5 +7,184 @@
       "country": "United States",
       "venue": "The Main Point"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "bil",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/death_of_a_ladies'_man/iodine",
+          "content": {
+            "text": [
+              "An early version of \"Iodine\" was sung in Bryn Mawr, during the 1975 tour",
+              [
+                "A lady saw me boasting in Guerrero",
+                " When I was running smoke across the knife",
+                " She let me love her till I was a failure",
+                " Her beauty on my bruise like Iodine"
+              ],
+              [
+                " When I was weak enough to learn her method",
+                " I said \"Will I be punished for my crime?\"",
+                " She said \"There is a table set in heaven\"",
+                " But I don't like to meet there all the time."
+              ],
+              [
+                " She pulled away the mask",
+                " Of the Madonna",
+                " She pulled away the valleys",
+                " Of her thighs",
+                " She bid me find herself",
+                " In other women",
+                " Until I should destroy her last disguise"
+              ],
+              [
+                " Then I was with her when there was no ocean",
+                " When there was no moon to spill the tide",
+                " Yeah long before the wild imagination",
+                " Her layers in Guerrero side by side"
+              ],
+              [
+                " She pulled away the mask",
+                " Of the Madonna",
+                " She pulled away the valleys",
+                " Of her thighs",
+                " She bid me find herself",
+                " In other women",
+                " Until I should exhaust her last disguise"
+              ],
+              [
+                " Then I was with her when there was no ocean",
+                " When there was no moon to spill the tide",
+                " Well long before the wild imagination",
+                " Her layers in Guerrero side by side",
+                " Her layers in Guerrero side by side"
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "exz",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_from_a_room/the_partisan",
+          "content": {
+            "text": [
+              "This song comes from a happier time when we knew who the enemy was."
+            ]
+          }
+        }
+      },
+      {
+        "id": "uvd",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/recent_songs/the_smokey_life",
+          "content": {
+            "text": [
+              "Early version sung four years before its official release in 1979",
+              [
+                "You know I've never seen your eyes so wide",
+                " Your appetite this occupied",
+                " With someone else",
+                " As if we'd been alone "
+              ],
+              [
+                "Now it ain't my style to hold on that tight",
+                " Let's be married one more night",
+                " I guess it's time, I finally let you go "
+              ],
+              [
+                "Oh I recall the scenery started fading",
+                " I held you til you learned to walk on air",
+                " Don't look down, it's gone, it's faded baby",
+                " The Smokey Life is practiced everywhere"
+              ],
+              [
+                "Set your little restless heart at ease",
+                " The lessons in all of these autumn leaves",
+                " Ain't no sense in waiting for the snow",
+                " Hurry, hurry, hurry now or you'll be late",
+                " There's nothing to investigate"
+              ],
+              [
+                "I guess it's time, I finally let you go Oh I recall the scenery started fading",
+                " I held you til you learned to walk on air",
+                " Don't look down, it's gone, it's faded baby",
+                " The Smokey Life is practiced everywhere"
+              ],
+              [
+                " Come back when the moment lends",
+                " You can look up all my very closest friends"
+              ],
+              " I guess it's time, I finally let you go"
+            ]
+          }
+        }
+      },
+      {
+        "id": "emq",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/recent_songs/the_traitor",
+          "content": {
+            "text": [
+              "Early version sung 4 years before its official release",
+              [
+                " The Swan it floated on the English river",
+                " The Rose of Sharon opened like a mess",
+                " A suntanned woman yawned through the summer",
+                " Unfolding like a fan to my request"
+              ],
+              [
+                " I told my mother, Mother I must leave you",
+                " Preserve my room but do not shed a tear",
+                " Should rumors of a shabby ending reach you",
+                " It was half my fault and half the atmosphere"
+              ],
+              [
+                " Well I broke the glass an arm above that hammer",
+                " And the fire touched me with a magnet flame",
+                " At last she said I was her finest lover",
+                " And if she withered, I would be to blame"
+              ],
+              [
+                " She held me tight just like a soldier's widow",
+                " But soon I heard reports of the attack",
+                " Yes and past her hair and through the steamy window",
+                " I saw the men of action falling back."
+              ],
+              [
+                " But I lingered on her thighs a fatal moment",
+                " I kissed her lips as though I thirsted still",
+                " My falsity it stung me like a hornet",
+                " The poison sank and it paralized my will"
+              ],
+              [
+                " I could not move to warn the younger soldiers",
+                " That they had been deserted from above",
+                " So on battlefields from here to Barcelona",
+                " I'm listed with the enemies of love"
+              ],
+              [
+                " And long ago she said, I must be leaving",
+                " But keep my body here to lie upon",
+                " Yes and move it up and down and",
+                " When It's sleeping",
+                " You can wire up the rose and wind the Swan"
+              ],
+              [
+                " So daily I renew my idle duty",
+                " I touch her here and there, I know my place",
+                " I kiss her open mouth and I praise her beauty",
+                " And people call me Traitor to my face."
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

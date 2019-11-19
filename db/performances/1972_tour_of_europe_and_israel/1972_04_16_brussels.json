@@ -7,5 +7,28 @@
       "country": "Belgium",
       "venue": "Ancienne Belgique"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "zvb",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_from_a_room/you_know_who_i_am",
+          "content": {
+            "text": [
+              "First stanza repeated and modified",
+              [
+                "I cannot follow you my love",
+                "You cannot follow me",
+                "I am not life, I am not death",
+                " I am not a slave or free.",
+                "Oh you know who I am...."
+              ]
+            ]
+          }
+        }
+      }
+    ]
   }
 }

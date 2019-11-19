@@ -7,5 +7,33 @@
       "country": "England",
       "venue": "Birmingham Odeon"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "dgy",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/other_songs/blues_by_the_jews",
+          "content": {
+            "text": [
+              "We had a concert the night before last - it was about our 45th concert in this tour - and, ah, it was under a lot of tension�- it �was in London, and you know London is a discerning people : you got to be careful there you know. We can try this, this song I hope you do not consider as blasphemy because it really isn�t, but it's a very nasty song. I think it's in G. We never did this before. How do you want to do ? should I come over there and we split these lyrics between the three of us ? Okay I'll come over there. John Wood is our engineer, he's over there. He doesn�t know about this at all."
+            ]
+          }
+        }
+      },
+      {
+        "id": "kgd",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              "That was written in a brown Hotel room, in the Penn Terminal Hotel. That's outside of the Bus Terminal on the 34th Street in NYC. The Penn Terminal Hotel,the very last place. There was a really lovely room there,you couldn't open the windows. The elevator... the elevator was a lovely place,not so good as the Chelsea Hotel's, which was quite a social venture, the elevator in the Chelsea Hotel. A tiny room that you never left alone. It was on 23d Street. On 23d Street there was an automat. That's a fast food establishment. You put a coin in the wall and piece of pie comes rushing out at you ...... extremely high velocity. I wrote a quatrain about that automat. It's extremely undistinguished. And I'm afraid I'm going to inflict it on you. It goes like this \"I wandered into the automat - Wearing a kind of religious hat - The peas were round and the pancakes were flat - I pray God in Heaven to keep it like that\" That's not very good but .... It's not good ... (applause) ... I do not think you are discriminating ... but from the same poem there's another quatrain, equally irrelevant. It goes  << I was arrested for kissing a broom - The Judge said \"Were you the bride or the groom?\" - I thought for a while - And I finally spoke - \"Judge I don't have to listen to that kind of joke, that's not funny\".>> ... Anyhow, forgive me for indulging myself with these timeless verses. In the Chelsea Hotel, there were a lot of musicians who used to stay there. I remember Phil Ochs ... lot of musicians who aren't with us any longer ... and there was Jimi Hendrix, there was Tim Buckley. A lot of great men and women. And in the elevator one night, I met an extremely beautiful kind and compassionate young american singer. She was actually looking for Kris Kristofferson. But through some process of elimination, we fell into each other's arms. And after she died - that didn't have anything to do with my embrace; my embrace is poisonous but not fatal - but anyhow. I loved the attitude in relationship she had with the people she sang for. And when she left, she left for good. I wrote this song for her. It was Janis Joplin at the Chelsea Hotel."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

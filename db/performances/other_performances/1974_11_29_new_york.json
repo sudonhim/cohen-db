@@ -7,5 +7,45 @@
       "country": "United States",
       "venue": "The Bottom Line"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "jdm",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/is_this_what_you_wanted",
+          "content": {
+            "text": [
+              "This is a song which represents a dialogue between you and your ideal lover. The ideal lover is not present for this particular dialogue, if indeed your ideal lover exists at all."
+            ]
+          }
+        }
+      },
+      {
+        "id": "jcn",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_from_a_room/the_partisan",
+          "content": {
+            "text": [
+              "This next song comes out of the second world war. It stands for Resistance"
+            ]
+          }
+        }
+      },
+      {
+        "id": "rtu",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
+          "content": {
+            "text": [
+              "A song taken from the liturgy of the Day of Atonement"
+            ]
+          }
+        }
+      }
+    ]
   }
 }

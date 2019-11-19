@@ -7,5 +7,47 @@
       "country": "France",
       "venue": "Salle Pleyel"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "sfl",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              "Je voudrais chanter une chanson que j'ai crit il y a longtemps ... que je t'aime jamais je ne t'oublierai. C'�tait dans un h�tel � New-York, dans un ascenseur. Au milieu de la nuit j'ai rencontr� dans cet ascenseur une tr�s grande chanteuse am�ricaine. Elle cherchait Kris Kristofferson et moi je cherchais Brigitte Bardot mais nous �tions dans le m�me espace et qu'est-ce qu'on peut faire ?... J'ai �crit cette chanson pour elle, c'�tait Janis Joplin au Chelsea Hotel",
+              "English translation: I'd like to sing a song I wrote long time ago .... (performing an old traditional French song) \"...long time since I loved you, and never will I forget you....\" It was in an Hotel in NY, in an elevator. In the middle of the night I met in that elevator a very great American singer. She was looking for Kris Kristofferson, I was looking for Brigitte Bardot, but we were in the same space and what can you do when you're there. I wrote this song for her, it was Janis Joplin at the Chelsea Hotel."
+            ]
+          }
+        }
+      },
+      {
+        "id": "cjy",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/i_tried_to_leave_you",
+          "content": {
+            "text": [
+              "I'd like to do a blues song now, called \"I Tried To Leave You\".."
+            ]
+          }
+        }
+      },
+      {
+        "id": "qba",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
+          "content": {
+            "text": [
+              "J'ai re�u un t�l�gramme juste avant le spectacle, si je peux appeler �a comme �a. C'�tait une jeune fille de 6 ans et elle m'a demand� de jouer \"Joan Of Arc\", et je veux la faire pour elle",
+              "English translation: \"I received a telegram just before the show, if I can call that a show. It was from a 6 years old girl who asked me to perform \"Joan Of Arc\", and I want to play it for her."
+            ]
+          }
+        }
+      }
+    ]
   }
 }

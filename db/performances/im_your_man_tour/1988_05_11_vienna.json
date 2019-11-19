@@ -7,5 +7,57 @@
       "country": "Austria",
       "venue": "Musikverein"
     }
+  },
+  "content": {
+    "content": [
+      {
+        "id": "mvb",
+        "part": {
+          "kind": "prologue",
+          "reference": "Ain't no cure for love",
+          "content": {
+            "text": [
+              "I imagined that since we are in that religious frame of mind, when the Prince of Peace was hanging on the cross, He looked up at the Heavens and He said those words: \"Elie Elie,la'masabachtha'ni,my Lord,my Lord,why hast thou forsaken me?\" And He looked around Him, from mountain to mountain and horizon to horizon, and He knew a lever had been thrown in the Cosmos and he said \"It is finished.\" And He looked down at the Romans and the Jews, at all those expressions of joy, revenge, sadism, remorse, indifference, joy. He looked down at those faces and He knew for certain there ain't no cure for love."
+            ]
+          }
+        }
+      },
+      {
+        "id": "nzj",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/various_positions/dance_me_to_the_end_of_love",
+          "content": {
+            "text": [
+              "I wanna go to that place where one is free from love, and one is free from God, and one is free from song, and one is free from politics. I'll try to get there in this song called \"Dance me to the end of love\"."
+            ]
+          }
+        }
+      },
+      {
+        "id": "xkz",
+        "part": {
+          "kind": "prologue",
+          "reference": "I'm your man",
+          "content": {
+            "text": [
+              "I don't know if you know this song, but it's a new song. It's a song that is a response to a question that has been perplexing men for 5 or 6,000 years. That is the question:\"What does a woman want?\". I really was taken by this question,and I devoted twenty years of research to discovering what a woman wants and finally I didn't find out what a woman wants and I abandoned the question. It is with a certain sense of vindication now that I see that women are asking the question \"What does a woman want?\". I feel now we are truly in the same boat. None of us knows what a woman wants. I myself have decided to abandon the inquiry. I have decided to surrender. I'm ready to be whatever I must be in order to deserve her voluntary caress. That is why I say without shame and unconditionnaly: I'm your man."
+            ]
+          }
+        }
+      },
+      {
+        "id": "pid",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/i'm_your_man/take_this_waltz",
+          "content": {
+            "text": [
+              "Last year I had the great honour to translate into English a poem by the Spanish poet Federico Garcia Lorca,a man who effectively ruined my life when I was fifteen. I found a book of his in a secondhand bookstore. I read the lines, \"I want to pass through the arches of Elvira to see your thighs and begin weeping.\" And for the next thirty years, I was looking for the arches of Elvira, I was looking for those thighs, I was looking for my tears. I'm glad I've forgotten all that and I could revenge him with this act of homage, by translating one of his great poems into clumsy English. Take this Waltz,take this waltz."
+            ]
+          }
+        }
+      }
+    ]
   }
 }
