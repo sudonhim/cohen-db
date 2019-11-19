@@ -1,0 +1,24 @@
+{
+  "title": "1988-06-18 - Poetry Commotion magazine",
+  "metadata": {
+    "date": "1988-06-18"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "pyo",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/i'm_your_man/everybody_knows",
+          "content": {
+            "text": [
+              "About the verse \"Everybody knows the plague is coming\"",
+              " The plague in the most physical sense is AIDS. But there's another kind of plague going on too, of which AIDS is one of the symptoms. If indeed disease does have ultimately a psychic origin, then there's a plague of alienation and separation and lassitude and panic; a sense of not being in control.",
+              " *Read the complete interview"
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

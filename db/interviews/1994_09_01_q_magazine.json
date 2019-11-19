@@ -1,0 +1,23 @@
+{
+  "title": "1994-09-01 - Q Magazine",
+  "metadata": {
+    "date": "1994-09-01"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "ggq",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/various_positions/if_it_be_your_will",
+          "content": {
+            "text": [
+              "Which song you wish you had written?   \"If it be Your Will\". And I wrote it.*",
+              "My favorite verse in it is \"All your children here in their rags of light\""
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

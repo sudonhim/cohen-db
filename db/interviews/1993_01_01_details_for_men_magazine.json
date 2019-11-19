@@ -1,0 +1,49 @@
+{
+  "title": "1993-01-01 - Details for Men magazine",
+  "metadata": {
+    "date": "1993-01-01"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "ejp",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+          "content": {
+            "text": [
+              "That was written with Janis Joplin in mind. A couple of years after she died I was in a Polynesian restaurant in Miami and the thought of her was very strong. I started writing that lyric and finished it in a town in the north of Ethiopia. I went there after the Yom Kippur War for some odd reason, and I ended up in the Imperial Hotel finishing that song, getting the last chorus: \"I need you, I don't need you, and all that jiving around.\""
+            ]
+          }
+        }
+      },
+      {
+        "id": "hit",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/songs_of_love_and_hate/famous_blue_raincoat",
+          "content": {
+            "text": [
+              [
+                "It's one of the better tunes I've written",
+                " but lyrically it's too mysterious, too unclear."
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "omo",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/songs_of_love_and_hate/famous_blue_raincoat",
+          "content": {
+            "text": [
+              "That was written on Clinton Street. I never felt I really sealed that song; I never felt the carpentry was finished. That song and \"Bird on the Wire\" were two songs I never successfully finished, but they were good enough to be used. Also, with the poverty of songs I have for each record, I can't afford to discard one as good as that. It's one of the better tunes I've written, but lyrically it's too mysterious, too unclear."
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "2001-11-01 - Mojo magazine",
+  "metadata": {
+    "date": "2001-11-01"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "zfa",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/ten_new_songs/boogie_street",
+          "content": {
+            "text": [
+              "About the verse \"It is in love that we are made, in love we disappear\".",
+              "That's just a journalistic reportage of the process. We are made in love and in love we disappear. But that love is not the romantic love, it's the impersonal, benign activity that governs creation and destruction."
+            ]
+          }
+        }
+      },
+      {
+        "id": "mti",
+        "part": {
+          "kind": "note",
+          "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+          "content": {
+            "text": [
+              "About the relation between John Simon (producer of the album \"Songs Of L. Cohen\") and Leonard",
+              "We did have a falling out over the song Suzanne. He wanted a heavy piano syncopated and maybe drums and I didn't want drums on any of my songs, so that was a bone of contention. Also, he was ready to substitute this heavy chordal structure under the song to give it forward movement and I didn't like that."
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
