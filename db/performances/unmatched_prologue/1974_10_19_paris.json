@@ -1,0 +1,46 @@
+{
+  "title": "1974-10-19 - Paris",
+  "metadata": {
+    "date": "1974-10-19"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "iav",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
+          "content": {
+            "text": [
+              "Now a song about a woman that has haunted me for a long time."
+            ]
+          }
+        }
+      },
+      {
+        "id": "vxe",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
+          "content": {
+            "text": [
+              "Sometimes i'm interviewed by Newspapers,and they ask me the meaning   of my songs.And if the interviewers are French,they ask the meaning of meaning.This is my platform."
+            ]
+          }
+        }
+      },
+      {
+        "id": "ona",
+        "part": {
+          "kind": "prologue",
+          "reference": "Why don't you try",
+          "content": {
+            "text": [
+              "The next song is composed of some questions that lovers ask one another.And in the third verse i tried to stop their argument and marry the poor devils forever."
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

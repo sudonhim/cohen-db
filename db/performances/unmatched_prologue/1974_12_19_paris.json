@@ -1,0 +1,22 @@
+{
+  "title": "1974-12-19 - Paris",
+  "metadata": {
+    "date": "1974-12-19"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "drd",
+        "part": {
+          "kind": "prologue",
+          "reference": "db/songs/songs_of_leonard_cohen/one_of_us_cannot_be_wrong",
+          "content": {
+            "text": [
+              "The window is opened,and the lovers have fled. Maybe they were never there to begin with.They were never there to begin with."
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

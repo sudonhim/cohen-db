@@ -1,0 +1,64 @@
+{
+  "title": "1966-01-01 - From the original \"Selected Poems - 1956/1968\"",
+  "metadata": {
+    "date": "1966-01-01"
+  },
+  "content": {
+    "content": [
+      {
+        "id": "kli",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_of_love_and_hate/avalanche",
+          "content": {
+            "text": [
+              "Some verses in the original poem are somehow different from the sung verses of 1972.",
+              "Second Stanza",
+              [
+                "The cripple that you clothe and feed",
+                "Is neither starve nor cold",
+                "I do not beg for company",
+                "In the centre of the world"
+              ],
+              "Fifth stanza",
+              [
+                "I have begun to claim you",
+                "I who have no greed",
+                " I have begun to long for you",
+                "I who have no need",
+                "The avalanche you're knocking at",
+                " Is unhabited"
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "ikk",
+        "part": {
+          "kind": "variation",
+          "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+          "content": {
+            "text": [
+              "The original poem verses are different from the sung verses of 1968",
+              [
+                "\"...And she feeds you tea and oranges",
+                " That come all the way from China.",
+                " Just when you mean to tell her",
+                " That you have no gifts to give her,",
+                " She gets you on her wavelength...\""
+              ],
+              "last verse",
+              [
+                "And you want to travel with her",
+                " And you want to travel blind",
+                " And you're sure that she can find you",
+                " Because she's touched her perfect body with her mind"
+              ]
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
