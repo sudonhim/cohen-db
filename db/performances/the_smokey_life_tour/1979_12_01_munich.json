@@ -11,60 +11,48 @@
   "content": {
     "content": [
       {
-        "id": "ogz",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
-          "content": {
-            "text": [
-              "It is a song I wrote a long time ago, for a very great american singer. Forgotten by some, remembered by some like the rest of us singers,all destined to be remembered or forgotten. It doesn't really matters which name is remembered and which name is forgotten. There will always be singers.This one was a great one. Her name was Janis Joplin."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "content": {
+          "text": [
+            "It is a song I wrote a long time ago, for a very great american singer. Forgotten by some, remembered by some like the rest of us singers,all destined to be remembered or forgotten. It doesn't really matters which name is remembered and which name is forgotten. There will always be singers.This one was a great one. Her name was Janis Joplin."
+          ]
         }
       },
       {
-        "id": "ubf",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/death_of_a_ladies'_man/iodine",
-          "content": {
-            "text": [
-              [
-                "This is a song that I wrote with that great genius who lives in a cold",
-                " mansion, in the darkest of Hollywood hills,Phil Spector. This is a song",
-                " called IODINE."
-              ]
+        "kind": "prologue",
+        "reference": "db/songs/death_of_a_ladies'_man/iodine",
+        "content": {
+          "text": [
+            [
+              "This is a song that I wrote with that great genius who lives in a cold",
+              " mansion, in the darkest of Hollywood hills,Phil Spector. This is a song",
+              " called IODINE."
             ]
-          }
+          ]
         }
       },
       {
-        "id": "ffl",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/recent_songs/the_guests",
-          "content": {
-            "text": [
-              "This song is called \"The Guests\", and it's from my new album. I have been rather surprised, i've been rather surprised with everything actually, but I've been rather surprised by the reception this song has had in this country."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/recent_songs/the_guests",
+        "content": {
+          "text": [
+            "This song is called \"The Guests\", and it's from my new album. I have been rather surprised, i've been rather surprised with everything actually, but I've been rather surprised by the reception this song has had in this country."
+          ]
         }
       },
       {
-        "id": "dmc",
-        "part": {
-          "kind": "variation",
-          "reference": "db/songs/songs_of_leonard_cohen/the_stranger_song",
-          "content": {
-            "text": [
-              "4Th verse variation",
-              [
-                " But now another stranger seems to want you to ignore his dreams, as though they were the burden of some other.",
-                " You've seen that man before,his golden arm dispatching cards, but now it's rusted from the elbow to the finger.",
-                " And he wants to trade  the song he sings for shelter. Yeah he wants to trade  the song he knows for shelter."
-              ]
+        "kind": "variation",
+        "reference": "db/songs/songs_of_leonard_cohen/the_stranger_song",
+        "content": {
+          "text": [
+            "4Th verse variation",
+            [
+              " But now another stranger seems to want you to ignore his dreams, as though they were the burden of some other.",
+              " You've seen that man before,his golden arm dispatching cards, but now it's rusted from the elbow to the finger.",
+              " And he wants to trade  the song he sings for shelter. Yeah he wants to trade  the song he knows for shelter."
             ]
-          }
+          ]
         }
       }
     ]

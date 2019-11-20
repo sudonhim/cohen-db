@@ -6,30 +6,24 @@
   "content": {
     "content": [
       {
-        "id": "nqt",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/the_future/democracy",
-          "content": {
-            "text": [
-              "Most of the time you cannot speak. Most of the time you cannot sing. Most of the time you don't have the words. Once in a while a word comes to you, \"Democracy is Coming to the USA,\" one of my new songs. You may say \"What are you trying to say, that the USA is not a democratic society now? Is it a criticism of the U.S., is it a dream, is it an optimistic projection? Is it a protest or an affirmation?\" It doesn't matter because the times when something comes to you so strongly are so rare and precious that you accept them: \"Democracy is Coming to the USA.\" It's as if someone holds out a sandwich to you when you are starved. You take it and maybe you don't like it. I don't particularly like \"Democracy is Coming to the USA.\"",
-              " * Read the complete interview"
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/the_future/democracy",
+        "content": {
+          "text": [
+            "Most of the time you cannot speak. Most of the time you cannot sing. Most of the time you don't have the words. Once in a while a word comes to you, \"Democracy is Coming to the USA,\" one of my new songs. You may say \"What are you trying to say, that the USA is not a democratic society now? Is it a criticism of the U.S., is it a dream, is it an optimistic projection? Is it a protest or an affirmation?\" It doesn't matter because the times when something comes to you so strongly are so rare and precious that you accept them: \"Democracy is Coming to the USA.\" It's as if someone holds out a sandwich to you when you are starved. You take it and maybe you don't like it. I don't particularly like \"Democracy is Coming to the USA.\"",
+            " * Read the complete interview"
+          ]
         }
       },
       {
-        "id": "rfh",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
-          "content": {
-            "text": [
-              "About his relationship with Nico",
-              " I gave her that song. She sang it to me a couple times but never recorded it. Nico was very strange. I tried to talk to her and she always replied very mysteriously. No matter what you said she always replied in a curious fashion. It was only after many weeks, after being perplexed by her conversation and paralyzed by her beauty that she told me she was deaf. She responded to everyone with whatever came into her mind because she could hardly hear a thing. Which explains her particularly strange style. But I definitely wrote \"Take This Longing\" thinking of her.",
-              " **  Read the complete interview"
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
+        "content": {
+          "text": [
+            "About his relationship with Nico",
+            " I gave her that song. She sang it to me a couple times but never recorded it. Nico was very strange. I tried to talk to her and she always replied very mysteriously. No matter what you said she always replied in a curious fashion. It was only after many weeks, after being perplexed by her conversation and paralyzed by her beauty that she told me she was deaf. She responded to everyone with whatever came into her mind because she could hardly hear a thing. Which explains her particularly strange style. But I definitely wrote \"Take This Longing\" thinking of her.",
+            " **  Read the complete interview"
+          ]
         }
       }
     ]

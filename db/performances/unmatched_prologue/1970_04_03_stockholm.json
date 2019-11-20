@@ -6,15 +6,12 @@
   "content": {
     "content": [
       {
-        "id": "qhh",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
-          "content": {
-            "text": [
-              "A song that I wrote for a brave woman"
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
+        "content": {
+          "text": [
+            "A song that I wrote for a brave woman"
+          ]
         }
       }
     ]

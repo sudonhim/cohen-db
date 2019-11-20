@@ -6,15 +6,12 @@
   "content": {
     "content": [
       {
-        "id": "qow",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/various_positions/hallelujah",
-          "content": {
-            "text": [
-              "Hallelujah is a Hebrew word which means \"Glory to the Lord.\" The song explains that many kinds of Hallelujahs do exist . I say : \"All the perfect and broken Hallelujahs have an equal value .\" It's, as I say, a desire to affirm my faith in life,not in some formal religious way but with enthusiasm, with emotion."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/various_positions/hallelujah",
+        "content": {
+          "text": [
+            "Hallelujah is a Hebrew word which means \"Glory to the Lord.\" The song explains that many kinds of Hallelujahs do exist . I say : \"All the perfect and broken Hallelujahs have an equal value .\" It's, as I say, a desire to affirm my faith in life,not in some formal religious way but with enthusiasm, with emotion."
+          ]
         }
       }
     ]

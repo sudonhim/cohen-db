@@ -6,16 +6,13 @@
   "content": {
     "content": [
       {
-        "id": "kjj",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/the_future/closing_time",
-          "content": {
-            "text": [
-              "Answering a fan who asked \"When exactly is \"Closing Time\" ?",
-              "It's that wild, or beautiful, or terrible time when things reach their maximum point of expansion, and then begin to contract. It's the time we're in."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/the_future/closing_time",
+        "content": {
+          "text": [
+            "Answering a fan who asked \"When exactly is \"Closing Time\" ?",
+            "It's that wild, or beautiful, or terrible time when things reach their maximum point of expansion, and then begin to contract. It's the time we're in."
+          ]
         }
       }
     ]

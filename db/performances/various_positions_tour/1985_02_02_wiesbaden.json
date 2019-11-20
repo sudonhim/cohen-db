@@ -11,71 +11,56 @@
   "content": {
     "content": [
       {
-        "id": "hfe",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
-          "content": {
-            "text": [
-              "It was a long time ago, in an elevator, in the Chelsea Hotel, that I wrote this song. Oh that was a lovely elevator. God ! If I could only ride up and down up and down in that elevator all my life. I think I am riding up and down all my life. They're such pretty buttons. You could reach everyone of them. You didn't have to be a giant. You just had to be ordinary human-sized. There they were, 1 2 3 4 5 6, these buttons. Where is the elevator and these buttons. They would take me to the delights that I so richly deserved. The Penta Hotel. It's not that bad you know. It's a good Hotel. It has a very deep bathtub. I brought my fish. At this very moment my fish is sporting itself in the bathtub at the Penta Hotel. There's a lot of space for my fish. My fish is sad. It deserves the Ocean it believes. My fish is full of anxiety and ambition for the Ocean. I will have to tame my fish. My fish will be tamed in the bathtub at the Penta Hotel. It is not the only Hotel. My fish does not ride in the elevator. My fish travels through windows. My fish is a liar. I have no fish. I lied to you about my fish. My fish is a dog. He lives with an old woman. Back to the Chelsea Hotel, and the elevator in the Chelsea Hotel before I was so rudely interrupted by my rebellious thoughts. I believe I lived there once. I was a young singer trying to make it in NY. I was eating amphetamine and I was a hundred and nineteen pounds, of fury. It was late one night. I think it was a Tuesday, but I may be wrong about that. If there are any historians here, don't hold me to the fact. I have a certain poetic licence. Maybe it was Thursday, what the hell !! We're all friends. Let's say it was a Thursday night. There were no buttons in the elevator, I lied about that too. It worked on a kind of ESP, you kind of willed yourself to the floor that you lived on. I'm sorry for going on about it now like this. I'm just an old man with an electric guitar. You know how that leads you into all kinds of disasters and predicaments. One night I met a very lovely young woman in that elevator. She was dressed in leather and feather and fringes. It was the style of the time. In those days they hadn't heard about black. One thing led to another. I knew she was hungry. I could tell by her fringes. She was looking for Kris Kristofferson. A name we rarely hear these days. But my name is not that prominent either, so what have I got to complain about. And I was looking for Brigitte Bardot., but she was already establishing that intimate relationship with the seal that excluded all other human companionship. I didn't know at that time. I pressed on and on. Forever the optimist. Anyhow the young woman in that elevator was Janis Joplin, and the young man was Leonard Cohen, an unlikely combination. However, out of that grotesque union, came this song."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "content": {
+          "text": [
+            "It was a long time ago, in an elevator, in the Chelsea Hotel, that I wrote this song. Oh that was a lovely elevator. God ! If I could only ride up and down up and down in that elevator all my life. I think I am riding up and down all my life. They're such pretty buttons. You could reach everyone of them. You didn't have to be a giant. You just had to be ordinary human-sized. There they were, 1 2 3 4 5 6, these buttons. Where is the elevator and these buttons. They would take me to the delights that I so richly deserved. The Penta Hotel. It's not that bad you know. It's a good Hotel. It has a very deep bathtub. I brought my fish. At this very moment my fish is sporting itself in the bathtub at the Penta Hotel. There's a lot of space for my fish. My fish is sad. It deserves the Ocean it believes. My fish is full of anxiety and ambition for the Ocean. I will have to tame my fish. My fish will be tamed in the bathtub at the Penta Hotel. It is not the only Hotel. My fish does not ride in the elevator. My fish travels through windows. My fish is a liar. I have no fish. I lied to you about my fish. My fish is a dog. He lives with an old woman. Back to the Chelsea Hotel, and the elevator in the Chelsea Hotel before I was so rudely interrupted by my rebellious thoughts. I believe I lived there once. I was a young singer trying to make it in NY. I was eating amphetamine and I was a hundred and nineteen pounds, of fury. It was late one night. I think it was a Tuesday, but I may be wrong about that. If there are any historians here, don't hold me to the fact. I have a certain poetic licence. Maybe it was Thursday, what the hell !! We're all friends. Let's say it was a Thursday night. There were no buttons in the elevator, I lied about that too. It worked on a kind of ESP, you kind of willed yourself to the floor that you lived on. I'm sorry for going on about it now like this. I'm just an old man with an electric guitar. You know how that leads you into all kinds of disasters and predicaments. One night I met a very lovely young woman in that elevator. She was dressed in leather and feather and fringes. It was the style of the time. In those days they hadn't heard about black. One thing led to another. I knew she was hungry. I could tell by her fringes. She was looking for Kris Kristofferson. A name we rarely hear these days. But my name is not that prominent either, so what have I got to complain about. And I was looking for Brigitte Bardot., but she was already establishing that intimate relationship with the seal that excluded all other human companionship. I didn't know at that time. I pressed on and on. Forever the optimist. Anyhow the young woman in that elevator was Janis Joplin, and the young man was Leonard Cohen, an unlikely combination. However, out of that grotesque union, came this song."
+          ]
         }
       },
       {
-        "id": "lku",
-        "part": {
-          "kind": "variation",
-          "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
-          "content": {
-            "text": [
-              "Verse variation",
-              [
-                "I see you changed the water all into wine",
-                " That was a pretty trick to do",
-                " I sit at your table every night",
-                " Baby I just can't get through (..) to you.",
-                " And there are no letters in your mailbox",
-                " There are no grapes upon the vine"
-              ]
+        "kind": "variation",
+        "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
+        "content": {
+          "text": [
+            "Verse variation",
+            [
+              "I see you changed the water all into wine",
+              " That was a pretty trick to do",
+              " I sit at your table every night",
+              " Baby I just can't get through (..) to you.",
+              " And there are no letters in your mailbox",
+              " There are no grapes upon the vine"
             ]
-          }
+          ]
         }
       },
       {
-        "id": "ncf",
-        "part": {
-          "kind": "prologue",
-          "reference": "Hey, That's No Way To Say Goodbye",
-          "content": {
-            "text": [
-              "This is an old song that I wrote in another time when I was someone else, and it comes from a brown Hotel room, on 34th street, called the \"Penn Terminal Hotel\". I don't want any of you to go there, I don't want any of you to be seen there. It's not a bad Hotel, but it's very very brown. Don't go there. If I see you there I will chase you right out off the lobby."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "Hey, That's No Way To Say Goodbye",
+        "content": {
+          "text": [
+            "This is an old song that I wrote in another time when I was someone else, and it comes from a brown Hotel room, on 34th street, called the \"Penn Terminal Hotel\". I don't want any of you to go there, I don't want any of you to be seen there. It's not a bad Hotel, but it's very very brown. Don't go there. If I see you there I will chase you right out off the lobby."
+          ]
         }
       },
       {
-        "id": "iyp",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/various_positions/the_law",
-          "content": {
-            "text": [
-              "Here's a new song that I wrote in the courtroom. It's called \"The Law\"."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/various_positions/the_law",
+        "content": {
+          "text": [
+            "Here's a new song that I wrote in the courtroom. It's called \"The Law\"."
+          ]
         }
       },
       {
-        "id": "hac",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
-          "content": {
-            "text": [
-              "Thank you comrades. It's a wonderful convention that we have in this vale of tears to clap after a song. It gives the performers some sense that they're doing what they should. You may accuse me of being a conservative but I'm for these old conventions."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
+        "content": {
+          "text": [
+            "Thank you comrades. It's a wonderful convention that we have in this vale of tears to clap after a song. It gives the performers some sense that they're doing what they should. You may accuse me of being a conservative but I'm for these old conventions."
+          ]
         }
       }
     ]

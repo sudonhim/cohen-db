@@ -11,107 +11,83 @@
   "content": {
     "content": [
       {
-        "id": "wel",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
-          "content": {
-            "text": [
-              "This is a song called \"Bird on the Wire\".You know people have asked about how the song was written.And it's very hard to decide but.this song was written looking at a bird on a wire.",
-              " Verse variation",
-              [
-                " Like a  fish on a hook",
-                " Like a Knight from some old-fashioned book",
-                " I have  broken all my sorrows to thee."
-              ]
+        "kind": "prologue",
+        "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+        "content": {
+          "text": [
+            "This is a song called \"Bird on the Wire\".You know people have asked about how the song was written.And it's very hard to decide but.this song was written looking at a bird on a wire.",
+            " Verse variation",
+            [
+              " Like a  fish on a hook",
+              " Like a Knight from some old-fashioned book",
+              " I have  broken all my sorrows to thee."
             ]
-          }
+          ]
         }
       },
       {
-        "id": "wli",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_love_and_hate/famous_blue_raincoat",
-          "content": {
-            "text": [
-              "This comment was spoken in the middle of the song ,following an untimely clapping",
-              " I wrote this in NY you know..and I really mean this one because you know this is...What is it on the guitar? Sometimes the guitar mutinates, you know. The rebellion of a guitar. This is a song that I really wrote recently. You heard two verses of it and really it's not mercyful to interrupt into this course of creation but this is one of those songs that I really mean it's against the greatest tyranny that I myself experienced. I feel many kinds of tyranies that almost everytime men brute themselves together. I flash their tyranies.. but this is not the government or anything, this is the tyranny that I feel myself which is the possession of women and women's possession of men. I know those chains have to be broken before aything can happen. All the manifest all the demonstration will change nothing until we start unslaving each other, especially within the sexual embrace....."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_love_and_hate/famous_blue_raincoat",
+        "content": {
+          "text": [
+            "This comment was spoken in the middle of the song ,following an untimely clapping",
+            " I wrote this in NY you know..and I really mean this one because you know this is...What is it on the guitar? Sometimes the guitar mutinates, you know. The rebellion of a guitar. This is a song that I really wrote recently. You heard two verses of it and really it's not mercyful to interrupt into this course of creation but this is one of those songs that I really mean it's against the greatest tyranny that I myself experienced. I feel many kinds of tyranies that almost everytime men brute themselves together. I flash their tyranies.. but this is not the government or anything, this is the tyranny that I feel myself which is the possession of women and women's possession of men. I know those chains have to be broken before aything can happen. All the manifest all the demonstration will change nothing until we start unslaving each other, especially within the sexual embrace....."
+          ]
         }
       },
       {
-        "id": "tlk",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
-          "content": {
-            "text": [
-              "This is a song called \"The Marriage of Joan Of Arc\""
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
+        "content": {
+          "text": [
+            "This is a song called \"The Marriage of Joan Of Arc\""
+          ]
         }
       },
       {
-        "id": "waz",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_leonard_cohen/one_of_us_cannot_be_wrong",
-          "content": {
-            "text": [
-              "This song was written in the Chelsea Hotel, in the elevator, waiting for my friend to wake up..."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_leonard_cohen/one_of_us_cannot_be_wrong",
+        "content": {
+          "text": [
+            "This song was written in the Chelsea Hotel, in the elevator, waiting for my friend to wake up..."
+          ]
         }
       },
       {
-        "id": "zmt",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_love_and_hate/sing_another_song_boys",
-          "content": {
-            "text": [
-              "This is a song about a man and a woman.It's called \"Let's sing another song boys\".And an example... I can go and give this like a german doctoral thesis.The song pertains to dissect the intimate connections in the ordinary relationship.Coming to no satisfactory conclusions the author of the melody abandons it and begins another song. hence the title \"Let's sing another song Boys\".At which point,in the author's mind he invisits the audience, rising to its feet, then throat burning and singing the new song which speaks of the end of all the tyrannies that we place upon each other in the living room.And the song is completed in a triumphal march on the Bastille."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_love_and_hate/sing_another_song_boys",
+        "content": {
+          "text": [
+            "This is a song about a man and a woman.It's called \"Let's sing another song boys\".And an example... I can go and give this like a german doctoral thesis.The song pertains to dissect the intimate connections in the ordinary relationship.Coming to no satisfactory conclusions the author of the melody abandons it and begins another song. hence the title \"Let's sing another song Boys\".At which point,in the author's mind he invisits the audience, rising to its feet, then throat burning and singing the new song which speaks of the end of all the tyrannies that we place upon each other in the living room.And the song is completed in a triumphal march on the Bastille."
+          ]
         }
       },
       {
-        "id": "hxf",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
-          "content": {
-            "text": [
-              "Curious feeling tonight but when we first read those headlines, I felt all day you know, I don't get into politics but this kind of headlines.. man.. I  know it's not mean but.. .Today with those headlines I really felt that somehow a war was begun. And it's against that kind of people that I'm gonna sing this next song. Few years ago I was in Edmonton, Alberta, a Northern Canadian city. There I first begun to encounter a different look in people's eye something much more profund than a difference of dress, but a different kind of expression and a different kind of greeting. And I met in a Cafe two young girls, and we spent the day together, they showed me through the snowstorm in Edmonton - they have 6 months of winter - and  we slept together in the evening the three of us. And during the night, although the sleep was gentle, I woke up and I wrote this song very very quickly and I actually had it ready for them once they woke up and as soon as they woke up -These are one of the few bonuses of being a poet, believe me.. .When they woke up I was ready with this song, I'll do anything you know."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
+        "content": {
+          "text": [
+            "Curious feeling tonight but when we first read those headlines, I felt all day you know, I don't get into politics but this kind of headlines.. man.. I  know it's not mean but.. .Today with those headlines I really felt that somehow a war was begun. And it's against that kind of people that I'm gonna sing this next song. Few years ago I was in Edmonton, Alberta, a Northern Canadian city. There I first begun to encounter a different look in people's eye something much more profund than a difference of dress, but a different kind of expression and a different kind of greeting. And I met in a Cafe two young girls, and we spent the day together, they showed me through the snowstorm in Edmonton - they have 6 months of winter - and  we slept together in the evening the three of us. And during the night, although the sleep was gentle, I woke up and I wrote this song very very quickly and I actually had it ready for them once they woke up and as soon as they woke up -These are one of the few bonuses of being a poet, believe me.. .When they woke up I was ready with this song, I'll do anything you know."
+          ]
         }
       },
       {
-        "id": "ywt",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
-          "content": {
-            "text": [
-              "I know all the words to these songs,merely because i wrote them,but sometimes I forget the emotion of a song.But I really wanted to remember them now after night and.... This song is about a woman - i imagine everyone will sing it - called \"So long Marianne\"."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
+        "content": {
+          "text": [
+            "I know all the words to these songs,merely because i wrote them,but sometimes I forget the emotion of a song.But I really wanted to remember them now after night and.... This song is about a woman - i imagine everyone will sing it - called \"So long Marianne\"."
+          ]
         }
       },
       {
-        "id": "sjh",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_from_a_room/the_partisan",
-          "content": {
-            "text": [
-              "This is a song called \"The Partisan\". When I say in the song \"The Germans poured across the borders...then the Germans came... \" I don't really mean the Germans you know. And when I say in the song \"I took my gun and vanished\" I don't really mean that I took my gun and vanished. Nothing that I say in the song doesn't really mean. But there must be something true about it, and I'll try to locate that each time. I'd like to dedicate this song to the memories of the four students....(*)",
-              " *The four students from the Kent State University (Ohio,USA) killed by the Police on the 4th of May 1970.   read more"
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "content": {
+          "text": [
+            "This is a song called \"The Partisan\". When I say in the song \"The Germans poured across the borders...then the Germans came... \" I don't really mean the Germans you know. And when I say in the song \"I took my gun and vanished\" I don't really mean that I took my gun and vanished. Nothing that I say in the song doesn't really mean. But there must be something true about it, and I'll try to locate that each time. I'd like to dedicate this song to the memories of the four students....(*)",
+            " *The four students from the Kent State University (Ohio,USA) killed by the Police on the 4th of May 1970.   read more"
+          ]
         }
       }
     ]

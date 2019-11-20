@@ -11,43 +11,34 @@
   "content": {
     "content": [
       {
-        "id": "kik",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
-          "content": {
-            "text": [
-              "This is a story that I tell every time I sing this song and I'm going to keep on telling it as long as I'm singing. It's a story about a young woman that I met in an elevator in a hotel in New York City. One of the greatest singers that I ever heard. I was wandering around all night.that was a great elevator, you know. It was only about 4 feet wide. It was the very hub of my social activity. I didn't get around very much but sometimes I'd meet somebody in that elevator. Around three in the morning, I used to see this other dismal person in this elevator. And I looked into her eyes. She avoided my eyes and it became clear to me that she wasn't looking for me. She was looking for Kris Kristofferson. I said, \"I am Kris Kristofferson.\" She said, \"I thought you were a lot taller.\" I said, \"I am a lot taller but it's just photography.\" And the truth be told, I wasn't looking for her; she was a kind of sad-looking girl with knotty, curling hair and a very bad complexion. I wasn't looking for her. I said, \"Well, the truth be told, I'm looking for the granddaughter of Mae West,\" who doesn't even exist. And one thing lead to another. Well, we found ourselves together. And it was a long time later after she died that I wrote this song for her. Her name was Janis Joplin. It was at the Chelsea Hotel."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "content": {
+          "text": [
+            "This is a story that I tell every time I sing this song and I'm going to keep on telling it as long as I'm singing. It's a story about a young woman that I met in an elevator in a hotel in New York City. One of the greatest singers that I ever heard. I was wandering around all night.that was a great elevator, you know. It was only about 4 feet wide. It was the very hub of my social activity. I didn't get around very much but sometimes I'd meet somebody in that elevator. Around three in the morning, I used to see this other dismal person in this elevator. And I looked into her eyes. She avoided my eyes and it became clear to me that she wasn't looking for me. She was looking for Kris Kristofferson. I said, \"I am Kris Kristofferson.\" She said, \"I thought you were a lot taller.\" I said, \"I am a lot taller but it's just photography.\" And the truth be told, I wasn't looking for her; she was a kind of sad-looking girl with knotty, curling hair and a very bad complexion. I wasn't looking for her. I said, \"Well, the truth be told, I'm looking for the granddaughter of Mae West,\" who doesn't even exist. And one thing lead to another. Well, we found ourselves together. And it was a long time later after she died that I wrote this song for her. Her name was Janis Joplin. It was at the Chelsea Hotel."
+          ]
         }
       },
       {
-        "id": "jcv",
-        "part": {
-          "kind": "prologue",
-          "reference": "Hey, That's No Way To Say Goodbye",
-          "content": {
-            "text": [
-              [
-                "This is a very old song, I guess you'll recognize. It comes from a hotel on 34th Street in New York City. It's a terrible hotel. I don't want to see anyone of you in there. It's called the Penn Terminal Hotel. Please don't go,",
-                " whatever you do. But you know sometimes out of these brown hotel rooms, where the windows don't open and you can't turn off the radiator, just under such circumstances a beam of light arises from your pillow and",
-                " you come up with a song or two."
-              ]
+        "kind": "prologue",
+        "reference": "Hey, That's No Way To Say Goodbye",
+        "content": {
+          "text": [
+            [
+              "This is a very old song, I guess you'll recognize. It comes from a hotel on 34th Street in New York City. It's a terrible hotel. I don't want to see anyone of you in there. It's called the Penn Terminal Hotel. Please don't go,",
+              " whatever you do. But you know sometimes out of these brown hotel rooms, where the windows don't open and you can't turn off the radiator, just under such circumstances a beam of light arises from your pillow and",
+              " you come up with a song or two."
             ]
-          }
+          ]
         }
       },
       {
-        "id": "rkz",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/dear_heather/tennessee_waltz",
-          "content": {
-            "text": [
-              "Friends, I'd like to sing a song that I didn't write. It's an old song, it's a beautiful song. I wrote a couple extra words to it. And it's a song that I loved all the time I was growing up, and I hope you'll like it too. It's called \"The Tennessee Waltz.\""
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/dear_heather/tennessee_waltz",
+        "content": {
+          "text": [
+            "Friends, I'd like to sing a song that I didn't write. It's an old song, it's a beautiful song. I wrote a couple extra words to it. And it's a song that I loved all the time I was growing up, and I hope you'll like it too. It's called \"The Tennessee Waltz.\""
+          ]
         }
       }
     ]

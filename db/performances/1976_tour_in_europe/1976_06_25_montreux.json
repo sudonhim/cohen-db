@@ -11,51 +11,39 @@
   "content": {
     "content": [
       {
-        "id": "acz",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
-          "content": {
-            "text": [
-              "A long time ago there was a hotel in New York City where a lot of musicians used to stay. Among them there was a very great singer, a woman. I used to bump into her in the elevator about three in the morning, completely by mistake. She wasn't looking for me. I think she was looking for Kris Kristofferson. And I wasn't looking for her. I was looking for...Brigitte Bardot. Anyhow, we fell into each other's arms through some process of elimination, which is the process by which most things happen and I loved...There's music going on here that is not my own. How delightful. How delightful to hear music that is not my own. Bring it up...Last time I saw her was on 23d Street. She said, \"Hey man, you in town to read poetry for old ladies?\" That was her view of my career. Anyhow, there was no sense of ambiguity or division in her relation with her audience, with her public, and after she split, after she died, I wrote this song for her, Janis Joplin."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "content": {
+          "text": [
+            "A long time ago there was a hotel in New York City where a lot of musicians used to stay. Among them there was a very great singer, a woman. I used to bump into her in the elevator about three in the morning, completely by mistake. She wasn't looking for me. I think she was looking for Kris Kristofferson. And I wasn't looking for her. I was looking for...Brigitte Bardot. Anyhow, we fell into each other's arms through some process of elimination, which is the process by which most things happen and I loved...There's music going on here that is not my own. How delightful. How delightful to hear music that is not my own. Bring it up...Last time I saw her was on 23d Street. She said, \"Hey man, you in town to read poetry for old ladies?\" That was her view of my career. Anyhow, there was no sense of ambiguity or division in her relation with her audience, with her public, and after she split, after she died, I wrote this song for her, Janis Joplin."
+          ]
         }
       },
       {
-        "id": "tmw",
-        "part": {
-          "kind": "prologue",
-          "reference": "Hey, That's No Way To Say Goodbye",
-          "content": {
-            "text": [
-              "This is an old song that I wrote when I was old. I was a lot older then. I was living in a brown hotel room on 34th Street in the Penn Terminal Hotel. Perhaps some of you know it. Perhaps some of you were living with me then. I'm glad I don't remember you. It was a terrible hotel room. The windows wouldn't close. The radiator wouldn't stop hissing. The faucet wouldn't stop its mythological drip into the destroying porcelain sink. I was with the wrong woman as usual. But as your Eastern physicians, Eastern metaphysicians know, just as from the darkest mud blooms the whitest lotus, so from the brownest hotel room you occasionally get a good song."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "Hey, That's No Way To Say Goodbye",
+        "content": {
+          "text": [
+            "This is an old song that I wrote when I was old. I was a lot older then. I was living in a brown hotel room on 34th Street in the Penn Terminal Hotel. Perhaps some of you know it. Perhaps some of you were living with me then. I'm glad I don't remember you. It was a terrible hotel room. The windows wouldn't close. The radiator wouldn't stop hissing. The faucet wouldn't stop its mythological drip into the destroying porcelain sink. I was with the wrong woman as usual. But as your Eastern physicians, Eastern metaphysicians know, just as from the darkest mud blooms the whitest lotus, so from the brownest hotel room you occasionally get a good song."
+          ]
         }
       },
       {
-        "id": "lbc",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/i_tried_to_leave_you",
-          "content": {
-            "text": [
-              "I've written many songs of parting. Don't wanna feel that I'm leaving you anywhere that I'm not going. Anyhow, this is a song of staying. It's one of those delirious songs of monotony called marriage. This is a song written out of my old age, my middle-age, my wrinkles, my weakness, and my failures called \"Je voulais te quitter\"  (I Tried To Leave You\")."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/i_tried_to_leave_you",
+        "content": {
+          "text": [
+            "I've written many songs of parting. Don't wanna feel that I'm leaving you anywhere that I'm not going. Anyhow, this is a song of staying. It's one of those delirious songs of monotony called marriage. This is a song written out of my old age, my middle-age, my wrinkles, my weakness, and my failures called \"Je voulais te quitter\"  (I Tried To Leave You\")."
+          ]
         }
       },
       {
-        "id": "ixz",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_of_leonard_cohen/store_room",
-          "content": {
-            "text": [
-              "Une nouvelle chanson (A new song),Store Room,depot ??,quelque chose comme ca (something like that).The place where everything comes from."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_of_leonard_cohen/store_room",
+        "content": {
+          "text": [
+            "Une nouvelle chanson (A new song),Store Room,depot ??,quelque chose comme ca (something like that).The place where everything comes from."
+          ]
         }
       }
     ]

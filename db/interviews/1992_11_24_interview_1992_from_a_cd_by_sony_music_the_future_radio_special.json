@@ -6,15 +6,12 @@
   "content": {
     "content": [
       {
-        "id": "ptg",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/the_future/always",
-          "content": {
-            "text": [
-              "Well, there is an introduction, that kind of patter that used to be popular in the songs of the twenties and the thirties where the guy would set up the song in some way and this really is the chorus. Although, it became the song and people don't do the patter anymore, don't do that kind of set-up for it. But, there is one, it's very charming. I have a couple of improvised lines in there. I wouldn't have kept the track if it didn't have such exuberance. A number of the musicians told me it was among the happiest sessions they'd ever played. It was a good party."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/the_future/always",
+        "content": {
+          "text": [
+            "Well, there is an introduction, that kind of patter that used to be popular in the songs of the twenties and the thirties where the guy would set up the song in some way and this really is the chorus. Although, it became the song and people don't do the patter anymore, don't do that kind of set-up for it. But, there is one, it's very charming. I have a couple of improvised lines in there. I wouldn't have kept the track if it didn't have such exuberance. A number of the musicians told me it was among the happiest sessions they'd ever played. It was a good party."
+          ]
         }
       }
     ]

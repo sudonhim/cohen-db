@@ -11,15 +11,12 @@
   "content": {
     "content": [
       {
-        "id": "ujt",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/various_positions/hallelujah",
-          "content": {
-            "text": [
-              "In solemn testimony of that unbroken faith, which binds a generation one to another, I hereby bestow upon you the ancient priestly benediction \"May the Lord bless you and keep you, May the Lord shine His Light upon you, May the Lord be gracious unto you, and grant you the blessings of Peace\"."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/various_positions/hallelujah",
+        "content": {
+          "text": [
+            "In solemn testimony of that unbroken faith, which binds a generation one to another, I hereby bestow upon you the ancient priestly benediction \"May the Lord bless you and keep you, May the Lord shine His Light upon you, May the Lord be gracious unto you, and grant you the blessings of Peace\"."
+          ]
         }
       }
     ]

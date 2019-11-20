@@ -11,15 +11,12 @@
   "content": {
     "content": [
       {
-        "id": "snx",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/various_positions/if_it_be_your_will",
-          "content": {
-            "text": [
-              "This is an old prayer it came to me to rewrite. It's about surrendering."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/various_positions/if_it_be_your_will",
+        "content": {
+          "text": [
+            "This is an old prayer it came to me to rewrite. It's about surrendering."
+          ]
         }
       }
     ]

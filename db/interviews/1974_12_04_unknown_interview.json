@@ -6,27 +6,21 @@
   "content": {
     "content": [
       {
-        "id": "gex",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/songs_of_love_and_hate/dress_rehearsal_rag",
-          "content": {
-            "text": [
-              "There are some songs which I never sing in public. I'm not trying to be supersensitive or coy about it. Just that particular song I very rarely sing to myself, to friends or any time. I wrote it, I taught it to Judy Collins and she recorded it and I never sang it in public. And maybe I've sung it three or four times to myself in that last time. It's an authentic song. I think it comes out of my own experience but I'm not interested in -I can't.. somehow- I haven't been able to release that song from its private area. I recorded it, I was surprised myself that I recorded it. I'm not happy with the recording. I think it has a number of�flaws in it as a recording , but I don't think I could ever do it under the spotlight. interviewer says : You refer to yourself as a closet suicide. Well I'm that kind of, you know�that, er, one speculates about these things in private, I no longer do. That's a song about suicide and I certainly don't want to present myself as a potential�suicide for any reason what so ever. So that's it�dropped out of my singing lanscape, I just don't think about song like that."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/songs_of_love_and_hate/dress_rehearsal_rag",
+        "content": {
+          "text": [
+            "There are some songs which I never sing in public. I'm not trying to be supersensitive or coy about it. Just that particular song I very rarely sing to myself, to friends or any time. I wrote it, I taught it to Judy Collins and she recorded it and I never sang it in public. And maybe I've sung it three or four times to myself in that last time. It's an authentic song. I think it comes out of my own experience but I'm not interested in -I can't.. somehow- I haven't been able to release that song from its private area. I recorded it, I was surprised myself that I recorded it. I'm not happy with the recording. I think it has a number of�flaws in it as a recording , but I don't think I could ever do it under the spotlight. interviewer says : You refer to yourself as a closet suicide. Well I'm that kind of, you know�that, er, one speculates about these things in private, I no longer do. That's a song about suicide and I certainly don't want to present myself as a potential�suicide for any reason what so ever. So that's it�dropped out of my singing lanscape, I just don't think about song like that."
+          ]
         }
       },
       {
-        "id": "xsi",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
-          "content": {
-            "text": [
-              "I always remember to dedicate this song to the girls for whom I wrote it. And like a lot of my material it's just completely documentary. It doesn't concern high metaphysical questions but an accurate reportage as authentic and precise as I can make it, a description of �exactly what happened on the interior landscape. And I was in Edmonton during a tour by myself of Canada, I guess this was around 67. I was walking along one of the main streets of Edmonton, it was bitter cold ; and I knew no-one and I passed these two girls on a doorway. They invited me to stand in the doorway with them. Of course I did. And�some time later, we found ourselves�in my little Hotel room in Edmonton and the three of us were gonna go to sleep together. Of course I had all kinds of erotic fantasies of what the evening might bring. Interviewer: How old were you ? �Oh I was an adult. I guess I was around my early 30's. And we went to bed together and I think we�all jammed into this one small couch in this�little Hotel and it became clear that it wasn't the purpose of the evening at all. And at one point, in the night, I found myself unable to sleep, I got up, and by the moonlight - It was very very bright, the moon was being reflected off the snow, and my windows were very bright - I wrote that poem by the ice-reflected moonlight while these women were sleeping and it was one of the few songs that I ever wrote from top to bottom without a line of revision . The words flowed and the melody flowed and by the time they woke up the next morning, it was dawn. I had this completed song to sing to them."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
+        "content": {
+          "text": [
+            "I always remember to dedicate this song to the girls for whom I wrote it. And like a lot of my material it's just completely documentary. It doesn't concern high metaphysical questions but an accurate reportage as authentic and precise as I can make it, a description of �exactly what happened on the interior landscape. And I was in Edmonton during a tour by myself of Canada, I guess this was around 67. I was walking along one of the main streets of Edmonton, it was bitter cold ; and I knew no-one and I passed these two girls on a doorway. They invited me to stand in the doorway with them. Of course I did. And�some time later, we found ourselves�in my little Hotel room in Edmonton and the three of us were gonna go to sleep together. Of course I had all kinds of erotic fantasies of what the evening might bring. Interviewer: How old were you ? �Oh I was an adult. I guess I was around my early 30's. And we went to bed together and I think we�all jammed into this one small couch in this�little Hotel and it became clear that it wasn't the purpose of the evening at all. And at one point, in the night, I found myself unable to sleep, I got up, and by the moonlight - It was very very bright, the moon was being reflected off the snow, and my windows were very bright - I wrote that poem by the ice-reflected moonlight while these women were sleeping and it was one of the few songs that I ever wrote from top to bottom without a line of revision . The words flowed and the melody flowed and by the time they woke up the next morning, it was dawn. I had this completed song to sing to them."
+          ]
         }
       }
     ]

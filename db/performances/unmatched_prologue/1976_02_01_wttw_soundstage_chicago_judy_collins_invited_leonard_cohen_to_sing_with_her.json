@@ -6,21 +6,18 @@
   "content": {
     "content": [
       {
-        "id": "zcn",
-        "part": {
-          "kind": "prologue",
-          "reference": "Hey, That's No Way To Say Goodbye",
-          "content": {
-            "text": [
-              [
-                "Judy Collins : And we'd like to sing together for you...",
-                " Leonard Cohen : this is a song that we first sing together in a Hotel room in Newport..",
-                " JC : That's right! That's right, the Festival it was...",
-                " LC : We sang it all night",
-                " JC : I know (laughs)...."
-              ]
+        "kind": "prologue",
+        "reference": "Hey, That's No Way To Say Goodbye",
+        "content": {
+          "text": [
+            [
+              "Judy Collins : And we'd like to sing together for you...",
+              " Leonard Cohen : this is a song that we first sing together in a Hotel room in Newport..",
+              " JC : That's right! That's right, the Festival it was...",
+              " LC : We sang it all night",
+              " JC : I know (laughs)...."
             ]
-          }
+          ]
         }
       }
     ]

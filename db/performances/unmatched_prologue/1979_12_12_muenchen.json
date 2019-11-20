@@ -6,15 +6,12 @@
   "content": {
     "content": [
       {
-        "id": "dif",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_from_a_room/the_partisan",
-          "content": {
-            "text": [
-              "Here's a song written by the ghosts of our grandfathers."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "content": {
+          "text": [
+            "Here's a song written by the ghosts of our grandfathers."
+          ]
         }
       }
     ]

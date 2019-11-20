@@ -6,29 +6,23 @@
   "content": {
     "content": [
       {
-        "id": "dez",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/ten_new_songs/a_thousand_kisses_deep",
-          "content": {
-            "text": [
-              "There are about 30 verses of it that I've done and hopefully they'll work their way into other songs. I think there are six verses in this version. On the Internet, I published 12 verses of the song. (..) It's taken so long to write and it was so much of my ordinary day even when I was in the meditation hall spending long hours. I suppose I was supposed to be calming my mind or directing it to other areas, but I was working on the rhymes for A Thousand Kisses Deep. I found the mediation hall was an excellent place to work on songs. I could concentrate on a verse, work out the rhymes and the ideas would come.",
-              " About the verse \"The invisible defeat\".",
-              "Well, I think it's a good line: \"summoned now to deal with your invincible defeat. . . . You live your life as if it's real.\" Even though the dreamy aspect of it begins to prevail, and the sense of having no control begins to be apparent. The evidence accumulates that you're not running the show. You still have to make choices as if you were running the show. But you make your choices with the intuitive understanding that it's unfolding as it must. And that's why I use that phrase \"a thousand kisses deep.\" That's the intuitive understanding of the fundamental mystery. And if you can relax in that, or if you can even touch it, or if it asserts itself from time to time, then the invincible defeat is transcended. That's a highfalutin explanation. It's hard to make a commentary, because you've worked so long establishing exactly the right resonance for every single line, the commentaries are more spontaneous and ill-thought."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/ten_new_songs/a_thousand_kisses_deep",
+        "content": {
+          "text": [
+            "There are about 30 verses of it that I've done and hopefully they'll work their way into other songs. I think there are six verses in this version. On the Internet, I published 12 verses of the song. (..) It's taken so long to write and it was so much of my ordinary day even when I was in the meditation hall spending long hours. I suppose I was supposed to be calming my mind or directing it to other areas, but I was working on the rhymes for A Thousand Kisses Deep. I found the mediation hall was an excellent place to work on songs. I could concentrate on a verse, work out the rhymes and the ideas would come.",
+            " About the verse \"The invisible defeat\".",
+            "Well, I think it's a good line: \"summoned now to deal with your invincible defeat. . . . You live your life as if it's real.\" Even though the dreamy aspect of it begins to prevail, and the sense of having no control begins to be apparent. The evidence accumulates that you're not running the show. You still have to make choices as if you were running the show. But you make your choices with the intuitive understanding that it's unfolding as it must. And that's why I use that phrase \"a thousand kisses deep.\" That's the intuitive understanding of the fundamental mystery. And if you can relax in that, or if you can even touch it, or if it asserts itself from time to time, then the invincible defeat is transcended. That's a highfalutin explanation. It's hard to make a commentary, because you've worked so long establishing exactly the right resonance for every single line, the commentaries are more spontaneous and ill-thought."
+          ]
         }
       },
       {
-        "id": "akn",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/ten_new_songs/boogie_street",
-          "content": {
-            "text": [
-              "There is an actual Boogie Street in the world. It's in Singapore. I don't know if it's still there. I was coming home from a tour of Australia many years ago and during the day Boogie Street is a scene of intense commercial activity. In fact, there's a lot of little stalls where bootleg records are sold. This was at a time when it was hard to find my records in the Western world. And they weren't displayed. But I asked the man if they had any Leonard Cohen, and he went into the tent where he kept his inventory, and he brought an entire box of all my cassettes for a dollar apiece. There was that kind of bazaar feeling. And at night, it was a scene of intense and alarming sexual exchange. Prostitution, and . . . everything seemed to be available. I don't even know if it was prostitution. It just seemed to be mutual availability.Boogie Street to me was that street of work and desire, the ordinary life and also the place we live in most of the time that is relieved by the embrace of your children, or the kiss of your beloved, or the peak experience in which you yourself are dissolved, and there is no one to experience it so you feel the refreshment when you come back from those moments. As my old teacher said: \"Paradise is a good place to visit, but you can't live there because there are no toilets or restaurants.\" So we all hope for those heavenly moments, which we get in those embraces and those sudden perceptions of beauty and sensations of pleasure, but we're immediately returned to Boogie Street."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/ten_new_songs/boogie_street",
+        "content": {
+          "text": [
+            "There is an actual Boogie Street in the world. It's in Singapore. I don't know if it's still there. I was coming home from a tour of Australia many years ago and during the day Boogie Street is a scene of intense commercial activity. In fact, there's a lot of little stalls where bootleg records are sold. This was at a time when it was hard to find my records in the Western world. And they weren't displayed. But I asked the man if they had any Leonard Cohen, and he went into the tent where he kept his inventory, and he brought an entire box of all my cassettes for a dollar apiece. There was that kind of bazaar feeling. And at night, it was a scene of intense and alarming sexual exchange. Prostitution, and . . . everything seemed to be available. I don't even know if it was prostitution. It just seemed to be mutual availability.Boogie Street to me was that street of work and desire, the ordinary life and also the place we live in most of the time that is relieved by the embrace of your children, or the kiss of your beloved, or the peak experience in which you yourself are dissolved, and there is no one to experience it so you feel the refreshment when you come back from those moments. As my old teacher said: \"Paradise is a good place to visit, but you can't live there because there are no toilets or restaurants.\" So we all hope for those heavenly moments, which we get in those embraces and those sudden perceptions of beauty and sensations of pleasure, but we're immediately returned to Boogie Street."
+          ]
         }
       }
     ]

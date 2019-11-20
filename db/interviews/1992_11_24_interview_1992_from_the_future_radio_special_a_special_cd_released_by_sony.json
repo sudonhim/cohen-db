@@ -6,16 +6,13 @@
   "content": {
     "content": [
       {
-        "id": "lkz",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/the_future/anthem",
-          "content": {
-            "text": [
-              "About the meaning of the chorus",
-              "...That is the background of the whole record, I mean if you have to come up with a philosophical ground, that is \"Ring the bells that still can ring\". It's no excuse...the dismal situation.. and the future is no excuse for an abdication of your own personal responsibilities towards yourself and your job and your love. \"Ring the bells that still can ring\" : they're few and far between but you can find them. \"Forget your perfect offering\" that is the hang-up that you're gonna work this thing out. Because we confuse this idea and we've forgotten the central myth of our culture which is the expulsion from the garden of Eden. This situation does not admit of solution of perfection. This is not the place where you make things perfect, neither in your marriage, nor in your work, nor anything, nor your love of God, nor your love of family or country. The thing is imperfect. And worse, there is a crack in everything that you can put together, physical objects, mental objects, constructions of any kind. But that's where the light gets in, and that's where the resurrection is and that's where the return, that's where the repentance is. It is with the confrontation, with the brokenness of things."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/the_future/anthem",
+        "content": {
+          "text": [
+            "About the meaning of the chorus",
+            "...That is the background of the whole record, I mean if you have to come up with a philosophical ground, that is \"Ring the bells that still can ring\". It's no excuse...the dismal situation.. and the future is no excuse for an abdication of your own personal responsibilities towards yourself and your job and your love. \"Ring the bells that still can ring\" : they're few and far between but you can find them. \"Forget your perfect offering\" that is the hang-up that you're gonna work this thing out. Because we confuse this idea and we've forgotten the central myth of our culture which is the expulsion from the garden of Eden. This situation does not admit of solution of perfection. This is not the place where you make things perfect, neither in your marriage, nor in your work, nor anything, nor your love of God, nor your love of family or country. The thing is imperfect. And worse, there is a crack in everything that you can put together, physical objects, mental objects, constructions of any kind. But that's where the light gets in, and that's where the resurrection is and that's where the return, that's where the repentance is. It is with the confrontation, with the brokenness of things."
+          ]
         }
       }
     ]

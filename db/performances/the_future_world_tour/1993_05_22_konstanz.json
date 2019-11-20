@@ -12,21 +12,18 @@
   "content": {
     "content": [
       {
-        "id": "xgh",
-        "part": {
-          "kind": "variation",
-          "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
-          "content": {
-            "text": [
-              "(sung as additional verse by chorists Julie Christensen and Perla Batalla)",
-              [
-                " Here comes the morning boat",
-                " Here comes the evening train",
-                " Here comes Marianna,to wave goodbye again.",
-                " So long Marianne...."
-              ]
+        "kind": "variation",
+        "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
+        "content": {
+          "text": [
+            "(sung as additional verse by chorists Julie Christensen and Perla Batalla)",
+            [
+              " Here comes the morning boat",
+              " Here comes the evening train",
+              " Here comes Marianna,to wave goodbye again.",
+              " So long Marianne...."
             ]
-          }
+          ]
         }
       }
     ]

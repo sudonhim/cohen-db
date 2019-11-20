@@ -11,55 +11,43 @@
   "content": {
     "content": [
       {
-        "id": "lzl",
-        "part": {
-          "kind": "prologue",
-          "reference": "Ain't no cure for love",
-          "content": {
-            "text": [
-              "Thank you for your silence. You might have asked me for a song I have not rehearsed. When the Prince of Peace was hanging from the branch in His final tree, and He looked down at the Romans and the Jews, and He saw the faces of bewilderment and envy and greed and despair and melancholy, a lever was thrown in the cosmos. And He looked down at these anxious faces and He knew, He knew for certain, He knew at last, He knew with a finality that He had never known before, there ain't no cure for love."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "Ain't no cure for love",
+        "content": {
+          "text": [
+            "Thank you for your silence. You might have asked me for a song I have not rehearsed. When the Prince of Peace was hanging from the branch in His final tree, and He looked down at the Romans and the Jews, and He saw the faces of bewilderment and envy and greed and despair and melancholy, a lever was thrown in the cosmos. And He looked down at these anxious faces and He knew, He knew for certain, He knew at last, He knew with a finality that He had never known before, there ain't no cure for love."
+          ]
         }
       },
       {
-        "id": "tju",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
-          "content": {
-            "text": [
-              "I thank you for the items that you sent me. Those roses that you sent to my hotel this morning. Whoever the kind person was, I thank you very much. They were the reddest roses with the largest thorns that I ever did see. And you were so kind as to sign your name in such a manner that I could not read it. I deeply appreciate your sense of modesty. I thank you for the items that you sent me, the monkey and the plywood violin, and I practiced every night and now I'm ready. First we take Manhattan, then we take Berlin."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
+        "content": {
+          "text": [
+            "I thank you for the items that you sent me. Those roses that you sent to my hotel this morning. Whoever the kind person was, I thank you very much. They were the reddest roses with the largest thorns that I ever did see. And you were so kind as to sign your name in such a manner that I could not read it. I deeply appreciate your sense of modesty. I thank you for the items that you sent me, the monkey and the plywood violin, and I practiced every night and now I'm ready. First we take Manhattan, then we take Berlin."
+          ]
         }
       },
       {
-        "id": "gbf",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/i'm_your_man/take_this_waltz",
-          "content": {
-            "text": [
-              "A long time ago in a second hand bookstore in the city of Montreal, I stumbled on a book that altered the course of my shabby and tiny existence. It was the \"Poems of Federico Garcia Lorca\". And I accepted his invitation to enter that world of crystals and ants and thighs and arches. And when I got old enough to realize that I owed someone my gratitude, I wrote him this tiny homage based on a great poem he wrote called \"Little Viennese Waltz.\""
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/i'm_your_man/take_this_waltz",
+        "content": {
+          "text": [
+            "A long time ago in a second hand bookstore in the city of Montreal, I stumbled on a book that altered the course of my shabby and tiny existence. It was the \"Poems of Federico Garcia Lorca\". And I accepted his invitation to enter that world of crystals and ants and thighs and arches. And when I got old enough to realize that I owed someone my gratitude, I wrote him this tiny homage based on a great poem he wrote called \"Little Viennese Waltz.\""
+          ]
         }
       },
       {
-        "id": "zku",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/the_future/the_future",
-          "content": {
-            "text": [
-              "Many of the places that we go to, we bring them our bad news. But we don't have to bring you the bad news because you know the bad news already. And the whole history of your country is knowing the bad news. In America there was recently a document (..) your people in which it was indicated that you were (..) depressed.But I come here to cheer myself up. Yeah give me back the Berlin Wall.....",
-              [
-                "Last Stanza modified",
-                "Give me back the Berlin Wall, give me Stalin and Saint Paul, give me Christ or give me Hiroshima.  Give me back the Ozone layer with that little hole we can't repair. I've seen the future, baby, it is murder."
-              ]
+        "kind": "prologue",
+        "reference": "db/songs/the_future/the_future",
+        "content": {
+          "text": [
+            "Many of the places that we go to, we bring them our bad news. But we don't have to bring you the bad news because you know the bad news already. And the whole history of your country is knowing the bad news. In America there was recently a document (..) your people in which it was indicated that you were (..) depressed.But I come here to cheer myself up. Yeah give me back the Berlin Wall.....",
+            [
+              "Last Stanza modified",
+              "Give me back the Berlin Wall, give me Stalin and Saint Paul, give me Christ or give me Hiroshima.  Give me back the Ozone layer with that little hole we can't repair. I've seen the future, baby, it is murder."
             ]
-          }
+          ]
         }
       }
     ]

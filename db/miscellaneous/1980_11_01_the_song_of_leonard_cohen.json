@@ -6,65 +6,50 @@
   "content": {
     "content": [
       {
-        "id": "hbg",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/songs_of_leonard_cohen/suzanne",
-          "content": {
-            "text": [
-              "\"Suzanne\", I wrote it in Montreal. I had been working on the melody and the idea. The landscape that was being written out was the landscape around the church \"Notre-Dame de Bon-Secours\". She's down the street. And that was the feeling in the song, those buildings at the St Laurent. I had the melody, I had the accompaniment. And then an old friend of mine,whose name was Suzanne, invited me down to her place near the river. And she served me tea and oranges that come all the way from China  (*) and you know the purity of the event was not compromised by any carnality. The song is almost a reportage. It's just a very accurate evocation of exactly what happened. But the song had been begun. It was as though she handed me the seed for the song. That's the song and that is the landscape of Old Montreal, that is the church. She becomes of course Our Lady of the Harbor. Notre-Dame de Bon-Secours, Our Lady of the Good Health is her church already there. So Suzanne becomes an incarnation of that Church for sailors, \"Notre-Dame du Bon Secours\" or \"Our Lady of Consolation\", that's her church. Suzanne becomes of course Our Lady of the Harbour, or she manifests as our Lady of the Harbour. \"Notre-Dame du Bon Secours\" is a church for sailors. Inside the church there are models of ships hanging. The church faces the river and it is the sailors that are blessed from that church. So the very next verse moves very easily into the idea that Jesus was a sailor, sank beneath your wisdom like a stone. So you know you could establish a real coherence in the song if that was where you  (i.e the interviewer, Harry Rasky) went, you know if you liked to do those sort of things. But it hangs together very very neatly\".",
-              "(*) \"a tea called Constant Comment, which has small pieces of orange rind in it, which gave birth to the image.\" (from the Interview in magazine \"Songtalk\" 1993)"
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+        "content": {
+          "text": [
+            "\"Suzanne\", I wrote it in Montreal. I had been working on the melody and the idea. The landscape that was being written out was the landscape around the church \"Notre-Dame de Bon-Secours\". She's down the street. And that was the feeling in the song, those buildings at the St Laurent. I had the melody, I had the accompaniment. And then an old friend of mine,whose name was Suzanne, invited me down to her place near the river. And she served me tea and oranges that come all the way from China  (*) and you know the purity of the event was not compromised by any carnality. The song is almost a reportage. It's just a very accurate evocation of exactly what happened. But the song had been begun. It was as though she handed me the seed for the song. That's the song and that is the landscape of Old Montreal, that is the church. She becomes of course Our Lady of the Harbor. Notre-Dame de Bon-Secours, Our Lady of the Good Health is her church already there. So Suzanne becomes an incarnation of that Church for sailors, \"Notre-Dame du Bon Secours\" or \"Our Lady of Consolation\", that's her church. Suzanne becomes of course Our Lady of the Harbour, or she manifests as our Lady of the Harbour. \"Notre-Dame du Bon Secours\" is a church for sailors. Inside the church there are models of ships hanging. The church faces the river and it is the sailors that are blessed from that church. So the very next verse moves very easily into the idea that Jesus was a sailor, sank beneath your wisdom like a stone. So you know you could establish a real coherence in the song if that was where you  (i.e the interviewer, Harry Rasky) went, you know if you liked to do those sort of things. But it hangs together very very neatly\".",
+            "(*) \"a tea called Constant Comment, which has small pieces of orange rind in it, which gave birth to the image.\" (from the Interview in magazine \"Songtalk\" 1993)"
+          ]
         }
       },
       {
-        "id": "ned",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/recent_songs/the_guests",
-          "content": {
-            "text": [
-              "We first hear an extract of the song:\"One by one,the guests arrive...the broken-hearted few....",
-              "I think that kind of imagery can be discovered all through the literature. The persian poet Rumi (XIII th century) uses the idea of the guests a lot,the festival,the feast and the guests. It's almost impossible to talk about that seed moment of when a song begins. It could be the soul comes into world. There is some notion the soul has that there is a feast, that there is a festival,that there is a banquet. It strives to experience the hospitality of the world. It doesn't achieve it. It feels lonely, this is everybody's experience. It feels lost. It stumbles around on the outskirts of the party. If the striving is deep enough or if the Grace of the host is turned towards the seeking guest, then suddenly the inner door flies open and he finds himself or the soul finds himself at that banquet table. Although no one knows where the night is going, no one knows why the wine is flowing. Noone actually understand the mechanics of this grace except that we experience it from time to time."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/recent_songs/the_guests",
+        "content": {
+          "text": [
+            "We first hear an extract of the song:\"One by one,the guests arrive...the broken-hearted few....",
+            "I think that kind of imagery can be discovered all through the literature. The persian poet Rumi (XIII th century) uses the idea of the guests a lot,the festival,the feast and the guests. It's almost impossible to talk about that seed moment of when a song begins. It could be the soul comes into world. There is some notion the soul has that there is a feast, that there is a festival,that there is a banquet. It strives to experience the hospitality of the world. It doesn't achieve it. It feels lonely, this is everybody's experience. It feels lost. It stumbles around on the outskirts of the party. If the striving is deep enough or if the Grace of the host is turned towards the seeking guest, then suddenly the inner door flies open and he finds himself or the soul finds himself at that banquet table. Although no one knows where the night is going, no one knows why the wine is flowing. Noone actually understand the mechanics of this grace except that we experience it from time to time."
+          ]
         }
       },
       {
-        "id": "hvr",
-        "part": {
-          "kind": "note",
-          "reference": "The Gypsy's Wife",
-          "content": {
-            "text": [
-              "\"The Gypsy's Wife\" was one of the last and sweetest song I've written. I started it in L.A. around the time I began recording, which was last March or April.The song was written in about three months. And of course my own marriage was breakin'up at that time and in a sense it was written for my gypsy wife, in other words the wife that was wandering away, but euh.. in another way it's just a song about the way men and women have lost one another. Men and women have wandered away from each other, have become gypsies to each other. And the last verse says: \"there is no man or woman you can touch - But you who come between them will be judged\". In other words, even though we are in the midst of some kind of psychic catastrophy, it's not an invitation to take an advantage of it. That's mostly what the song is about."
-            ]
-          }
+        "kind": "note",
+        "reference": "The Gypsy's Wife",
+        "content": {
+          "text": [
+            "\"The Gypsy's Wife\" was one of the last and sweetest song I've written. I started it in L.A. around the time I began recording, which was last March or April.The song was written in about three months. And of course my own marriage was breakin'up at that time and in a sense it was written for my gypsy wife, in other words the wife that was wandering away, but euh.. in another way it's just a song about the way men and women have lost one another. Men and women have wandered away from each other, have become gypsies to each other. And the last verse says: \"there is no man or woman you can touch - But you who come between them will be judged\". In other words, even though we are in the midst of some kind of psychic catastrophy, it's not an invitation to take an advantage of it. That's mostly what the song is about."
+          ]
         }
       },
       {
-        "id": "ojt",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
-          "content": {
-            "text": [
-              "That's an earlier version and I guess a less charitable version of the predicament. But it's important to have that because even in the midst of this flood or catastrophe which we are in, these are the days of the flood, these are the final days. In a sense all the institutions are and have been swept away and the ethical question is: \"What is the proper behaviour, what is the appropriate behaviour in the midst of a catastrophe?\" That song is a kind of war cry to strengthen to participants,to inform them that there was a conflict, but it's an uncharitable song and it's very difficult to sing correctly without making it sound like a slogan. There is a proper way to sing it but I don't think I've discovered the right way.."
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
+        "content": {
+          "text": [
+            "That's an earlier version and I guess a less charitable version of the predicament. But it's important to have that because even in the midst of this flood or catastrophe which we are in, these are the days of the flood, these are the final days. In a sense all the institutions are and have been swept away and the ethical question is: \"What is the proper behaviour, what is the appropriate behaviour in the midst of a catastrophe?\" That song is a kind of war cry to strengthen to participants,to inform them that there was a conflict, but it's an uncharitable song and it's very difficult to sing correctly without making it sound like a slogan. There is a proper way to sing it but I don't think I've discovered the right way.."
+          ]
         }
       },
       {
-        "id": "epb",
-        "part": {
-          "kind": "note",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
-          "content": {
-            "text": [
-              "That song derives very directly from a Hebrew prayer that is sung on the Day of Atonement, or the evening of the Day of the Atonement:(? Hebrew) Who by fire, who by sword, who by water? According to the tradition, the Book of Life is opened and in it is inscribed all those who will live and all those who will die for the following year. And in that prayer is catalogued all the various ways in which you can quit this veil of tears. The melody is if not actually stolen, is certainly derived from the melody that I heard in the synagogue as a boy.But of course, the conclusion of the song, as I write it, is somewhat different: \"Who shall I say is calling?\" Well, that is what makes the song into a prayer for me in my terms, which is who is it or what is it that determine who will live and who will die ? What is the source of this great furnace of creation ? Who lights it ? Who extinguishes it ?"
-            ]
-          }
+        "kind": "note",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
+        "content": {
+          "text": [
+            "That song derives very directly from a Hebrew prayer that is sung on the Day of Atonement, or the evening of the Day of the Atonement:(? Hebrew) Who by fire, who by sword, who by water? According to the tradition, the Book of Life is opened and in it is inscribed all those who will live and all those who will die for the following year. And in that prayer is catalogued all the various ways in which you can quit this veil of tears. The melody is if not actually stolen, is certainly derived from the melody that I heard in the synagogue as a boy.But of course, the conclusion of the song, as I write it, is somewhat different: \"Who shall I say is calling?\" Well, that is what makes the song into a prayer for me in my terms, which is who is it or what is it that determine who will live and who will die ? What is the source of this great furnace of creation ? Who lights it ? Who extinguishes it ?"
+          ]
         }
       }
     ]

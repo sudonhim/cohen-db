@@ -11,19 +11,16 @@
   "content": {
     "content": [
       {
-        "id": "rgt",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
-          "content": {
-            "text": [
-              [
-                "Comme l'oiseau sur la branche",
-                " Comme l'ivrogne dans le choeur de la nuit",
-                " J'ai cherche ma liberte"
-              ]
+        "kind": "prologue",
+        "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+        "content": {
+          "text": [
+            [
+              "Comme l'oiseau sur la branche",
+              " Comme l'ivrogne dans le choeur de la nuit",
+              " J'ai cherche ma liberte"
             ]
-          }
+          ]
         }
       }
     ]

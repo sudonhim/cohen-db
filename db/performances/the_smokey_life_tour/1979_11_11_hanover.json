@@ -11,95 +11,80 @@
   "content": {
     "content": [
       {
-        "id": "rnx",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/a_singer_must_die",
-          "content": {
-            "text": [
-              "In this next song I wrote from the feeling of being on trial - everyone's on trial -. In every living-room there's a trial going on, in every bedroom there's a trial going on, not just in the courtrooms, not just in the jails, but in the most private places of our lives, yeah we subject each other to judgement and to trial."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/a_singer_must_die",
+        "content": {
+          "text": [
+            "In this next song I wrote from the feeling of being on trial - everyone's on trial -. In every living-room there's a trial going on, in every bedroom there's a trial going on, not just in the courtrooms, not just in the jails, but in the most private places of our lives, yeah we subject each other to judgement and to trial."
+          ]
         }
       },
       {
-        "id": "qqn",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
-          "content": {
-            "text": [
-              "I'd like to sing this song for a very great singer that I met many years ago. She's remembered by some, and forgotten by others. I met her in an elevator, in a Hotel, in NYC. One of the greatest singers of our time, she died a few years ago. Her name was Janis Joplin."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "content": {
+          "text": [
+            "I'd like to sing this song for a very great singer that I met many years ago. She's remembered by some, and forgotten by others. I met her in an elevator, in a Hotel, in NYC. One of the greatest singers of our time, she died a few years ago. Her name was Janis Joplin."
+          ]
         }
       },
       {
-        "id": "eam",
-        "part": {
-          "kind": "variation",
-          "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
-          "content": {
-            "text": [
-              "Sung additional verse",
-              "  Hanover 1979",
-              [
-                "I think I told you this, back in the days of Vietnam",
-                "When the poets march for Uncle Ho (*)",
-                "And the jerks for Uncle Sam",
-                "Whose side you're gonna take now ?",
-                "Whose song you're gonna sing ?",
-                "With the mega-corpses stinking of a million in the wind�",
-                " And there are no letters in your mail-box�"
-              ],
-              " alternative in Birmingham 08/10/79, and then later in 1988",
-              [
-                " I think I told you all about it in the days of Vietnam",
-                " When your poets march for Uncle Ho (*)",
-                " And your children for Uncle Sam",
-                " Which side you gonna choose today?",
-                "Which song you gonna sing?",
-                " With the mega stench of corpses that is blowin' in the wind",
-                " And there are no diamonds in the mine..."
-              ],
-              "(*) Ho-Chi-Minh"
-            ]
-          }
+        "kind": "variation",
+        "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
+        "content": {
+          "text": [
+            "Sung additional verse",
+            "  Hanover 1979",
+            [
+              "I think I told you this, back in the days of Vietnam",
+              "When the poets march for Uncle Ho (*)",
+              "And the jerks for Uncle Sam",
+              "Whose side you're gonna take now ?",
+              "Whose song you're gonna sing ?",
+              "With the mega-corpses stinking of a million in the wind�",
+              " And there are no letters in your mail-box�"
+            ],
+            " alternative in Birmingham 08/10/79, and then later in 1988",
+            [
+              " I think I told you all about it in the days of Vietnam",
+              " When your poets march for Uncle Ho (*)",
+              " And your children for Uncle Sam",
+              " Which side you gonna choose today?",
+              "Which song you gonna sing?",
+              " With the mega stench of corpses that is blowin' in the wind",
+              " And there are no diamonds in the mine..."
+            ],
+            "(*) Ho-Chi-Minh"
+          ]
         }
       },
       {
-        "id": "cvr",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
-          "content": {
-            "text": [
-              "I wrote this song long time ago for a German girl, her name was Christa. She had another name that she used in America, but I found out that her name really was Christa. The most wonderful thing about this girl which I discovered after I had given this song to her and sung it for her was that she was deaf. She never even heard it but she kept nodding her head in deep appreciation. This is the song I wrote for her",
-              "* Christa Pfaggen, whose stage name was \"Nico\". ",
-              "Last verse modified",
-              [
-                " So give your beauty to the wind",
-                " Put your pride to rest",
-                " You thought I want you to be good",
-                " Now you know that I want you to be best",
-                " I'll even wear these old laurel leaves",
-                " That he's shaken from his head",
-                " Just take this longing from my tongue"
-              ]
+        "kind": "prologue",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
+        "content": {
+          "text": [
+            "I wrote this song long time ago for a German girl, her name was Christa. She had another name that she used in America, but I found out that her name really was Christa. The most wonderful thing about this girl which I discovered after I had given this song to her and sung it for her was that she was deaf. She never even heard it but she kept nodding her head in deep appreciation. This is the song I wrote for her",
+            "* Christa Pfaggen, whose stage name was \"Nico\". ",
+            "Last verse modified",
+            [
+              " So give your beauty to the wind",
+              " Put your pride to rest",
+              " You thought I want you to be good",
+              " Now you know that I want you to be best",
+              " I'll even wear these old laurel leaves",
+              " That he's shaken from his head",
+              " Just take this longing from my tongue"
             ]
-          }
+          ]
         }
       },
       {
-        "id": "flx",
-        "part": {
-          "kind": "prologue",
-          "reference": "db/songs/recent_songs/the_window",
-          "content": {
-            "text": [
-              "It's a song that is based on an old Persian poem that says \"Oh chosen love, Oh frozen love, O tangle of matter and ghost, O darling of angels, demons and saints. This is the first time I ever said it. I always sung it before. It's a song called \"The Window\"."
-            ]
-          }
+        "kind": "prologue",
+        "reference": "db/songs/recent_songs/the_window",
+        "content": {
+          "text": [
+            "It's a song that is based on an old Persian poem that says \"Oh chosen love, Oh frozen love, O tangle of matter and ghost, O darling of angels, demons and saints. This is the first time I ever said it. I always sung it before. It's a song called \"The Window\"."
+          ]
         }
       }
     ]
