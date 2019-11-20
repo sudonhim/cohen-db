@@ -1,4 +1,5 @@
-import { DocDb, LoadAndValidate, ValidateAndSave } from '../lib/utils';
+import { LoadAndValidate, ValidateAndSave } from '../lib/utils';
+import { DocDb } from '../index';
 
 const docDb: DocDb = LoadAndValidate();
 
