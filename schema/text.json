@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "canon.json",
-    "title": "Canon",
+    "$id": "text.json",
+    "title": "Text",
     "description": "Canonical text content, immutable and eternal",
     "type": "object",
     "properties": {

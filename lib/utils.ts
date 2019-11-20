@@ -1,5 +1,5 @@
-import { DocumentFile } from "../schema";
-import { DocDb } from "../index";
+import { CanonFile } from "../schema";
+import { CanonDb } from "../index";
 import * as Ajv from "ajv";
 import * as fs from "fs";
 import slugify from "slugify";
@@ -8,23 +8,23 @@ const schemas = fs
   .readdirSync("./schema")
   .map(name => require(`../schema/${name}`));
 const ajv = new Ajv({ schemas });
-const validator = ajv.getSchema("document-file.json");
+const validator = ajv.getSchema("canon-file.json");
 
-export function EnsureValid(doc: DocumentFile) {
+export function EnsureValid(doc: CanonFile) {
   const valid = validator(doc);
   if (!valid)
     throw `Failed to validate ${doc.title}; ${ajv.errorsText(validator.errors)}`;
 }
 
-function LoadAndValidateOne(id: string): DocumentFile {
+function LoadAndValidateOne(id: string): CanonFile {
   const data = require(`../${id}.json`);
   EnsureValid(data);
 
-  return data as DocumentFile;
+  return data as CanonFile;
 }
 
-export function LoadAndValidate(): DocDb {
-  const out: DocDb = {
+export function LoadAndValidate(): CanonDb {
+  const out: CanonDb = {
     db: LoadAndValidateOne("db")
   };
 
@@ -45,7 +45,7 @@ export function TitleToId(title: string): string {
   return slugify(title, { replacement: "_", lower: true }).replace(/\W/g, '');
 }
 
-export function StringifyDoc(doc: DocumentFile): string {
+export function StringifyDoc(doc: CanonFile): string {
   return JSON.stringify(doc, null, 2);
 }
 
@@ -65,7 +65,7 @@ function deleteFolderRecursive(path: string) {
   }
 }
 
-export function ValidateAndSave(docDb: DocDb) {
+export function ValidateAndSave(docDb: CanonDb) {
   deleteFolderRecursive('./build');
   fs.mkdirSync('./build');
 

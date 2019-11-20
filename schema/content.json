@@ -29,7 +29,7 @@
           "minItems": 1
         },
         {
-          "$ref": "canon.json"
+          "$ref": "text.json"
         }
       ]
     }

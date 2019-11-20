@@ -13,7 +13,7 @@
             "type": "string"
         },
         "content": {
-            "$ref": "canon.json"
+            "$ref": "text.json"
         }
     },
     "required": ["kind", "reference", "content"],

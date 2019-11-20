@@ -8,7 +8,7 @@
 /**
  * A collection of canonical material tied to a particular time, place, or release
  */
-export interface DocumentFile {
+export interface CanonFile {
   /**
    * The string to use when showing this item in menus and links. The only mandatory property.
    */
@@ -41,7 +41,7 @@ export interface Content {
    * Information about the document itself
    */
   preamble?: string;
-  content: (Note | Prologue | Variation)[] | Canon;
+  content: (Note | Prologue | Variation)[] | Text;
 }
 /**
  * A text segment, which may optionally refer to another document
@@ -52,12 +52,12 @@ export interface Note {
    * ID of the document that this note is about, if any
    */
   reference?: string;
-  content: Canon;
+  content: Text;
 }
 /**
  * Canonical text content, immutable and eternal
  */
-export interface Canon {
+export interface Text {
   /**
    * An array of paragraphs or stanzas, to be referenced by index
    */
@@ -72,7 +72,7 @@ export interface Prologue {
    * ID of the document that this prologue is about
    */
   reference: string;
-  content: Canon;
+  content: Text;
 }
 /**
  * A variation on another work, while performing it
@@ -83,5 +83,5 @@ export interface Variation {
    * ID of the document that this variation is of
    */
   reference: string;
-  content: Canon;
+  content: Text;
 }

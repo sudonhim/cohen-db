@@ -1,6 +1,6 @@
 import { LoadAndValidate } from '../lib/utils';
-import { DocDb } from '../index';
+import { CanonDb } from '../index';
 
-const docDb: DocDb = LoadAndValidate();
+const docDb: CanonDb = LoadAndValidate();
 
 console.log(`Validation completed for ${Object.keys(docDb).length} documents`);
