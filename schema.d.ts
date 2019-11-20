@@ -18,7 +18,7 @@ export interface DocumentFile {
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
    */
-  children?: string[];
+  children?: [string, ...string[]];
 }
 /**
  * The metadata of a document, which is a set of fully optional standardized properties
@@ -41,15 +41,7 @@ export interface Content {
    * Information about the document itself
    */
   preamble?: string;
-  content:
-    | {
-        /**
-         * Short ID for referencing a part of the document
-         */
-        id: string;
-        part: Note | Prologue | Variation;
-      }[]
-    | Canon;
+  content: (Note | Prologue | Variation)[] | Canon;
 }
 /**
  * A text segment, which may optionally refer to another document

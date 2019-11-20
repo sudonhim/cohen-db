@@ -12,30 +12,21 @@
       "oneOf": [
         {
           "type": "array",
+          "description": "The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.",
           "items": {
-            "type": "object",
-            "properties": {
-              "id": {
-                "description": "Short ID for referencing a part of the document",
-                "type": "string"
+            "oneOf": [
+              {
+                "$ref": "note.json"
               },
-              "part": {
-                "oneOf": [
-                  {
-                    "$ref": "note.json"
-                  },
-                  {
-                    "$ref": "prologue.json"
-                  },
-                  {
-                    "$ref": "variation.json"
-                  }
-                ]
+              {
+                "$ref": "prologue.json"
+              },
+              {
+                "$ref": "variation.json"
               }
-            },
-            "required": ["id", "part"],
-            "additionalProperties": false
-          }
+            ]
+          },
+          "minItems": 1
         },
         {
           "$ref": "canon.json"
