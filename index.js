@@ -1,1 +1,1 @@
-module.exports = require('./build/dist.json');
+module.exports.default = require('./build/dist.json');
