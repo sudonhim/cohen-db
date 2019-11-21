@@ -7,5 +7,6 @@
       "country": "Germany",
       "venue": "Böblingen Sporthalle"
     }
-  }
+  },
+  "kind": "live"
 }

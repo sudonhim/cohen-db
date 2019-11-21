@@ -7,5 +7,6 @@
       "country": "United States",
       "venue": "Late Night With David Letterman"
     }
-  }
+  },
+  "kind": "live"
 }

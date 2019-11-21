@@ -7,5 +7,6 @@
       "country": "Germany",
       "venue": "Berliner Philharmonie"
     }
-  }
+  },
+  "kind": "live"
 }

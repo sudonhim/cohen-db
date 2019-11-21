@@ -7,5 +7,6 @@
       "country": "France",
       "venue": "Parc des Expositions de Bordeaux"
     }
-  }
+  },
+  "kind": "live"
 }

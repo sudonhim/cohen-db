@@ -6,7 +6,12 @@
     "properties": {
         "title": {
             "type": "string",
-            "description": "The string to use when showing this item in menus and links. The only mandatory property."
+            "description": "The string to use when showing this item in menus and links."
+        },
+        "kind": {
+            "type": "string",
+            "enum": ["group", "song", "live", "album", "tour", "interview", "other"],
+            "description": "The category that this item belongs to."
         },
         "metadata": {
             "$ref": "metadata.json"
@@ -23,7 +28,7 @@
             "minItems": 1
         }
     },
-    "required": ["title"],
+    "required": ["title", "kind"],
     "additionalProperties": false
   }
   

@@ -7,5 +7,6 @@
       "country": "Norway",
       "venue": "Oslo Concert Hall"
     }
-  }
+  },
+  "kind": "live"
 }

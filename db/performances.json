@@ -17,5 +17,6 @@
     "other_performances",
     "unmatched_prologue",
     "unmatched_variation"
-  ]
+  ],
+  "kind": "group"
 }

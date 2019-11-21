@@ -10,9 +10,13 @@
  */
 export interface CanonFile {
   /**
-   * The string to use when showing this item in menus and links. The only mandatory property.
+   * The string to use when showing this item in menus and links.
    */
   title: string;
+  /**
+   * The category that this item belongs to.
+   */
+  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other";
   metadata?: Metadata;
   content?: Content;
   /**

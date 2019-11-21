@@ -8,5 +8,6 @@
       "country": "Switzerland",
       "venue": "Auditorium Stravinski"
     }
-  }
+  },
+  "kind": "live"
 }

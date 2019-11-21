@@ -7,5 +7,6 @@
       "country": "Sweden",
       "venue": "Konserthuset"
     }
-  }
+  },
+  "kind": "live"
 }
