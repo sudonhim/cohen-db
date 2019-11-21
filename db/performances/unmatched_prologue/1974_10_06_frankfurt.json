@@ -25,7 +25,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "Hey, That's No Way To Say Goodbye",
+        "reference": "db/songs/songs_of_leonard_cohen/hey_thats_no_way_to_say_goodbye",
         "content": {
           "text": [
             "An old song from an old hotel room"
@@ -100,7 +100,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "Why don't you try",
+        "reference": "db/songs/new_skin_for_the_old_ceremony/why_dont_you_try",
         "content": {
           "text": [
             [

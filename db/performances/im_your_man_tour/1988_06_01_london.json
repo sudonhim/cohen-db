@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "Ain't no cure for love",
+        "reference": "db/songs/im_your_man/aint_no_cure_for_love",
         "content": {
           "text": [
             "When He was hangin' on the cross He looked about Him and He said \" Why hast thou forsaken me? \".And He looked around Him,from mountain to mountain. He understood that a lever had been thrown in the Cosmos and He said \"It is finished\".And then He looked below Him at the human faces of envy,greed,joy ,indifference,revenge and then He knew for certain that there ain't no cure for love...."
@@ -30,7 +30,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/i'm_your_man/first_we_take_manhattan",
+        "reference": "db/songs/im_your_man/first_we_take_manhattan",
         "content": {
           "text": [
             "Thank you so much, comrades. I do not concede the word \"comrades\" to the communists. I use it freely.Yes, why should they have special parts of the English language? And the extreme right too, why should they have blood and soil, honor, integrity, family? I like those words. I intend to use them freely. You're very kind and it's true, you are kind and very warm and it's not for me to stand up here and judge the people who come to see me. But I want to tell you that even though your hospitality is profound it will not detour me from my appointed task which is to take Manhattan, then Berlin and several other cities..."
@@ -39,7 +39,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "I'm your man",
+        "reference": "db/songs/im_your_man",
         "content": {
           "text": [
             "Over the last five or ten thousand years, men have been asking the question \"What does a woman want?\" And for the last few hundred years even women have been asking the question \"What does a woman want?\" And now men are asking the question \"What does a man want?\" And I just want to notify you that if these thoughts interest you for even a moment, you are lost. I have abandoned this type of question and I stand ready to signify my intention to do anything at all that she wants in order to deserve her caress. And therefore I declare I am your man"

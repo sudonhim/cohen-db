@@ -26,7 +26,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "Hey, That's No Way To Say Goodbye",
+        "reference": "db/songs/songs_of_leonard_cohen/hey_thats_no_way_to_say_goodbye",
         "content": {
           "text": [
             "I wrote this in the Henry Hudson Hotel. No that wasn't the Henry Hudson Hotel, that was for \"Stranger Song.\" This is a song that I wrote in the Penn Terminal Hotel, It's a very sinister name, the Penn Terminal Hotel. I often stayed there and each time I thought it would be the last time."
@@ -110,7 +110,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "There's no reason why you should",
+        "reference": "db/songs/other_songs/theres_no_reason_why_you_should",
         "content": {
           "text": [
             "Now I'm going to give you a second chance. This is the formula in which you can articulate the very worse kind of anxieties, fears, short circuits between all possible relationships, and by singing it with me you'll resolve all those things and everything will be straight. You'll be straighter than you've ever been. You can really look at the person next to you and things will be so good, really."

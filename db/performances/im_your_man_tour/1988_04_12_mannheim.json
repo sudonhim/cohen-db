@@ -25,7 +25,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "I Can't Forget",
+        "reference": "db/songs/im_your_man/i_cant_forget",
         "content": {
           "text": [
             "This is a song about what I can't forget."

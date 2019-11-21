@@ -48,7 +48,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/death_of_a_ladies'_man/memories",
+        "reference": "db/songs/death_of_a_ladies_man/memories",
         "content": {
           "text": [
             "Oh, put away your hands for a moment. It is for us the honour to play for  a nation of such beautiful women and such brave men. It is our honour. Unfortunately, for my last song, I must offend your deepest sensibilities with an entirely irrelevant and vulgar ditty that I wrote some time ago with another Jew in Hollywood, where there are many. This is a song in which    I have placed my most irrelevant and banal adolescent recollections.I humbly ask you for your indulgence. As I look back to the red acne of my adolescence, to the unmanageable desire of my early teens, to that time when every woman shone like the eternal light above the altar place and   I myself, was always on my knees before some altar, unimaginably more quiescent, potent, powerful and relevant than anything I could ever command. I speak of nothing less than womanhood, that elusive butterfly...."
@@ -66,7 +66,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "The Gypsy's Wife",
+        "reference": "db/songs/recent_songs/the_gypsys_wife",
         "content": {
           "text": [
             "This is a little song that I wrote for my wife after she ran away."
