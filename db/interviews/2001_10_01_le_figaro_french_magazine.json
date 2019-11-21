@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/ten_new_songs/that_dont_make_it_junk",
+        "reference": "song.that_dont_make_it_junk",
         "content": {
           "text": [
             [

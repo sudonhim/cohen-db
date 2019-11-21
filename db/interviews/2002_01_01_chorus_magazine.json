@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/ten_new_songs/a_thousand_kisses_deep",
+        "reference": "song.a_thousand_kisses_deep",
         "content": {
           "text": [
             "What is that \"Boogie Street\" evocated in both \"A 1000 kisses deep\" and \"Boogie Street\"?",
@@ -17,7 +17,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/ten_new_songs/boogie_street",
+        "reference": "song.boogie_street",
         "content": {
           "text": [
             "What is that \"Boogie Street\" evocated in both \"A 1000 kisses deep\" and \"Boogie Street\"?",

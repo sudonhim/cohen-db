@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+        "reference": "song.bird_on_the_wire",
         "content": {
           "text": [
             [

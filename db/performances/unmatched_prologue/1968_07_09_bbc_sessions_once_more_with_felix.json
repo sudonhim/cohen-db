@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+        "reference": "song.bird_on_the_wire",
         "content": {
           "text": [
             "This is a song that is really good to sing because it has a confession in it. It has a line: Like a baby stillborn, like a beast with his horn, I have torn everyone who reached out for me. But I swear by this song and by all that I have done wrong that I will make it all up to thee."
@@ -16,7 +16,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_love_and_hate/dress_rehearsal_rag",
+        "reference": "song.dress_rehearsal_rag",
         "content": {
           "text": [
             "You know there's a song in, I think it was in Czechoslovakia, called \"Gloomy Sunday\"** that was forbidden to play because every time it would play people would leap out of windows and off of roofs. It was a tragic song. And I read in the Athens news the other day that the composer of it, who only really wrote that one song, he died recently, jumped out of a window himself. I have one of those songs that I have banned for myself. I sing it only on extremely joyous occasions when I know that the landscape can support the despair that I am about to project into it. It's called the \"Dress Rehearsal Rag.\"",
@@ -26,7 +26,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/hey_thats_no_way_to_say_goodbye",
+        "reference": "song.hey_thats_no_way_to_say_goodbye",
         "content": {
           "text": [
             "I wrote this in the Henry Hudson Hotel. No that wasn't the Henry Hudson Hotel, that was for \"Stranger Song.\" This is a song that I wrote in the Penn Terminal Hotel, It's a very sinister name, the Penn Terminal Hotel. I often stayed there and each time I thought it would be the last time."
@@ -35,7 +35,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/master_song",
+        "reference": "song.master_song",
         "content": {
           "text": [
             "I like to sing a song which is called the \"Master Song\" and it's about the trinity....... Leave that for the scholars : It's about three people..."
@@ -44,7 +44,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
+        "reference": "song.sisters_of_mercy",
         "content": {
           "text": [
             "When I was in Edmonton, about a year and a half ago, I was greeted at the airport by two young girls, who were wearing mini-skirts, and they said to me that they had introduced the mini-skirt to Edmonton. And they took very, very good care of me. And I wrote this song for them. It's called the \"Sisters Of Mercy.\""
@@ -53,7 +53,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
+        "reference": "song.so_long_marianne",
         "content": {
           "text": [
             "This song is called \"So Long, Marianne\" A girl called Marianne that I know very well, she came to me after I sang it for her first and she said, she's a Norwegian, she said, \"I'm certainly glad the song wasn't written for me.\" I said, \"Oh yeah?\" And she said, \"Yeah, cause my name is Marianna.\"",
@@ -69,7 +69,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/story_of_isaac",
+        "reference": "song.story_of_isaac",
         "content": {
           "text": [
             [
@@ -101,7 +101,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/teachers",
+        "reference": "song.teachers",
         "content": {
           "text": [
             "It's about all the teachers I've had...."
@@ -110,7 +110,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/other_songs/theres_no_reason_why_you_should",
+        "reference": "song.theres_no_reason_why_you_should",
         "content": {
           "text": [
             "Now I'm going to give you a second chance. This is the formula in which you can articulate the very worse kind of anxieties, fears, short circuits between all possible relationships, and by singing it with me you'll resolve all those things and everything will be straight. You'll be straighter than you've ever been. You can really look at the person next to you and things will be so good, really."

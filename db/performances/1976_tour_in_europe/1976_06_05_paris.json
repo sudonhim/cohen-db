@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+        "reference": "song.bird_on_the_wire",
         "content": {
           "text": [
             "(the verses from the Serge Lama's french cover \"Vivre tout seul\" are sung there,in french,as additional verses)",
@@ -51,7 +51,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "Il y a un Hotel a New York ou viennent beaucoup d'artistes (there is a Hotel in NYC where a lot of musicians used to stay), et j'ai rencontre une grande chanteuse la-bas (and i met a great woman singer there), dans l'ascenseur (in the elevator) and after she died, i wrote her this song.  It's a very beautiful woman, i loved her attitude... est-ce que vous comprenez anglais??  (Do you speak english?) parce que moi je parle pas fran�ais, ni anglais. Une autre langue mais.. (another language, but..). I loved her attitude towards her music. You know if you study the lyrics of today, that is if you are so idle and foolish as to actually study the lyrics of today, you find that so many of the singers are concerned with the difficulties of being a popstar. A very great serious question into this world to be a popstar. The difficulties in getting servants and how hard it is to shop for jewels and there are many burdens (..) upon the shoulders of the popstars and we should.... we should understand their great suffering and anguish. Of course,here in France, anguish is profundally understood except when it concerns the popstars. And there was not of that sound of her and when she split, she split for good. And i used to met her as i said in french in the elevator. She wasn't looking for me. And i wasn't looking for her. I was looking for Brigitte Bardot. She was looking for Kris Kristofferson, someone taller than me. But we fell into each other's arms, through some process of elimination. That's the process by which everything happens. There is nothing more i can say about her, except she was a very great singer. And after she died i wrote this song for her. Janis Joplin."
@@ -60,7 +60,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/i_tried_to_leave_you",
+        "reference": "song.i_tried_to_leave_you",
         "content": {
           "text": [
             [
@@ -72,7 +72,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/lady_midnight",
+        "reference": "song.lady_midnight",
         "content": {
           "text": [
             "Then she pointed at me,while I begged like a dog on her floor"
@@ -81,7 +81,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/lover_lover_lover",
+        "reference": "song.lover_lover_lover",
         "content": {
           "text": [
             [
@@ -93,7 +93,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+        "reference": "song.seems_so_long_ago_nancy",
         "content": {
           "text": [
             "(verse variations)",
@@ -116,7 +116,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_leonard_cohen/store_room",
+        "reference": "song.store_room",
         "content": {
           "text": [
             [
@@ -209,7 +209,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/story_of_isaac",
+        "reference": "song.story_of_isaac",
         "content": {
           "text": [
             "verse variation",
@@ -223,7 +223,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
+        "reference": "song.take_this_longing",
         "content": {
           "text": [
             "verse variations",
@@ -247,7 +247,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "I dedicate this song to those who are forgotten"
@@ -256,7 +256,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_leonard_cohen/the_stranger_song",
+        "reference": "song.the_stranger_song",
         "content": {
           "text": [
             "verse variation",

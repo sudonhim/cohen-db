@@ -13,7 +13,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
+        "reference": "song.so_long_marianne",
         "content": {
           "text": [
             "(sung as additional verse by chorists Julie Christensen and Perla Batalla)",

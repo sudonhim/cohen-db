@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/you_know_who_i_am",
+        "reference": "song.you_know_who_i_am",
         "content": {
           "text": [
             "First stanza repeated and modified",

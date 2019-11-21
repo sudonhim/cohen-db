@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "Every concert that I give, I dedicate a song to a great American singer that I met one night in an elevator in a shabby hotel in New York City. It was a fine elevator. We found ourselves there often. I don't know what she was doing there. I think she was looking for Kris Kristofferson. I told her that I was Kris Kristofferson. But she said, \"I thought he was bigger.\" I said, \"I used to be bigger but I've been sick.\" And we spent a little time together, and I loved the way that she sang, and she died, some odd reason, and some time later, I think I was sitting at a bar in a Polynesian restaurant in Miami Beach � I don�t know what I was doing there either� I have no program. I have no five-year plan. I just... (laughs). It doesn't mean you shouldn't have one... I just move from hotel to hotel and from bar to bar, and by the grace of the One above occasionally a song comes. And I remember sitting at this particularly obnoxious Polynesian Restaurant, where they served a kind of coconut drink that was particularly lethal and sinister which contained no alcohol but a certain chemical that demoralized you entirely. And I remember writing on one of their very badly designed napkins �I remember you well at the Chelsea Hotel� � So I dedicate this song to one of the great singers, Janis Joplin."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/various_positions/hallelujah",
+        "reference": "song.hallelujah",
         "content": {
           "text": [
             "Thank you very much friends. You know, since I�ve been here, many people have asked me what I have thought just about everything there is in this veil of tears. I don't know the answers to anything. I just come here to sing you these songs that have been inspired by something that I hope is deeper and bigger than myself. I have nothing to say about the way that Poland is governed. I have nothing to say about the resistance to the government. The relationship between a people and its government is an intimate thing. It is not for a stranger to comment. I know that there is an eye that watches all of us. There is a judgment that weighs everything we do. And before this great force which is greater than any government, I stand in awe and I kneel in respect. And it is to this great judgment, that I dedicate this next song: \"Hallelujah\"."
@@ -30,7 +30,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/hey_thats_no_way_to_say_goodbye",
+        "reference": "song.hey_thats_no_way_to_say_goodbye",
         "content": {
           "text": [
             "Please note that this intro is here related to \"Hey that's no way to say Goodbye\".We've been truthfull  to the songlist of \"Cohen in Warsaw\" release.But it seems more that it's the intro of Memories,regarding to the last prologue's sentence.",
@@ -40,7 +40,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/various_positions/if_it_be_your_will",
+        "reference": "song.if_it_be_your_will",
         "content": {
           "text": [
             "I don't know which side everybody's on any more, and ...I don't really care. There is a moment when we have to transcend the side we're on and understand that we are creatures of a higher order. It doesn't mean that I don't wish you courage in your struggle. There is on both sides of this struggle men of good will. That is important to remember... on both sides of this struggle. Some struggling for freedom, some struggling for safety. In solemn testimony of that unbroken faith which binds a generation one to another, I sing this song: �If it be your will�."
@@ -49,7 +49,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/dear_heather/tennessee_waltz",
+        "reference": "song.tennessee_waltz",
         "content": {
           "text": [
             "I want to say a little tiny thing. When I was in the distinguished Hotel Victoria in which.. Is that the name of it? Yeah that's the name of it! You know you get to see a lot of hotels when you're on the road, sometimes you forget the names. Of course we've been very hospitably treated at the Hotel Victoria and a young man came up to me this evening and he shook my hand and he was the president of the \"Country Western Music Association\" of Poland. That's a kind of music that is very dear to my heart. I don�t know if you met here at the concert tonight, but he gave a very beautiful pin, give us a few pins and I really appreciate that and � I dunno,  somehow that dissolves all the other concerns that we approached this evening and for this man � I know he was a man that worked hard because his hands were calloused...he'd done some hard work in his life.... and ... I want to dedicate this song to him and to all of us. It's a song I didn't write but it's a country western song that I've loved for a long time. I wrote a few extra-words to it but it doesn't change that much. Here it is:"
@@ -58,7 +58,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/various_positions/the_law",
+        "reference": "song.the_law",
         "content": {
           "text": [
             "Beyond the sovereignty of any nation, there is a judgment, there is a reward, there is a punishment, there is a Law, there is an arm, there is a hand...."
@@ -67,7 +67,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             [
@@ -80,7 +80,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
+        "reference": "song.there_is_a_war",
         "content": {
           "text": [
             "It was amusing to me that in an interview that I did in Poznan, that the commentator after hearing a version of this song in Polish, described it as \"decadent\". My mother would have been very angry with him. She sang songs like that around the house all the time. Was he saying that my mother was decadent?? There is a war between the rich and poor� There is a war......"
@@ -89,7 +89,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/who_by_fire",
+        "reference": "song.who_by_fire",
         "content": {
           "text": [
             "You know, I come from a country where we do not have the same struggles as you have. I respect your struggles. And it may surprise you but I respect both sides of this struggle. It seems to be that in Europe, there needs to be a left foot and a right foot to move forward. I wish that both feet move forward and that the Body move towards its proper destiny. This is an intense country. The people are heroic. The spirit is independent. It is a difficult country to govern. It needs a strong government and a strong Union. When I was a child and I went to the synagogue every Saturday morning - and once in this country there were thousands of synagogues and thousands of Jewish communities which were wiped out in a few months- In the synagogue at which I attended, there was a prayer for the government. We were happy and we are happy to pray for the welfare of the government. And I would like to say to you, to the leaders of the Left, and the leaders of the Right: I sing for everyone; my song has no flag, my song has no party. And I say the prayer that we said in our synagogue, I say it for the leader of your Union and the leader of your Party. May the Lord put a spirit of wisdom and understanding into the hearts of your leaders and into the heart of all their counsellors."

@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/a_singer_must_die",
+        "reference": "song.a_singer_must_die",
         "content": {
           "text": [
             "In this next song I wrote from the feeling of being on trial - everyone's on trial -. In every living-room there's a trial going on, in every bedroom there's a trial going on, not just in the courtrooms, not just in the jails, but in the most private places of our lives, yeah we subject each other to judgement and to trial."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "I'd like to sing this song for a very great singer that I met many years ago. She's remembered by some, and forgotten by others. I met her in an elevator, in a Hotel, in NYC. One of the greatest singers of our time, she died a few years ago. Her name was Janis Joplin."
@@ -30,7 +30,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
+        "reference": "song.diamonds_in_the_mine",
         "content": {
           "text": [
             "Sung additional verse",
@@ -60,7 +60,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
+        "reference": "song.take_this_longing",
         "content": {
           "text": [
             "I wrote this song long time ago for a German girl, her name was Christa. She had another name that she used in America, but I found out that her name really was Christa. The most wonderful thing about this girl which I discovered after I had given this song to her and sung it for her was that she was deaf. She never even heard it but she kept nodding her head in deep appreciation. This is the song I wrote for her",
@@ -80,7 +80,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/recent_songs/the_window",
+        "reference": "song.the_window",
         "content": {
           "text": [
             "It's a song that is based on an old Persian poem that says \"Oh chosen love, Oh frozen love, O tangle of matter and ghost, O darling of angels, demons and saints. This is the first time I ever said it. I always sung it before. It's a song called \"The Window\"."

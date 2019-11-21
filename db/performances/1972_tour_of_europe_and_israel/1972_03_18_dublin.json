@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "<<early version sung during the 1972 tour,sometimes called \"Chelsea Hotel # 1\";tune is sometimes different than the studio original release.>> We can read on the backcover of \"Greatest Hits\" this \"song note\" from Leonard,about Chelsea Hotel:<<....Ron Cornelius helped me with a chord change in an earlier version>>",
@@ -96,7 +96,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "Modified verses, in fact translation of the original verse of d'Astier de la Vigerie \"Effacez mon passage\"",

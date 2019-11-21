@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/the_future/democracy",
+        "reference": "song.democracy",
         "content": {
           "text": [
             "Most of the time you cannot speak. Most of the time you cannot sing. Most of the time you don't have the words. Once in a while a word comes to you, \"Democracy is Coming to the USA,\" one of my new songs. You may say \"What are you trying to say, that the USA is not a democratic society now? Is it a criticism of the U.S., is it a dream, is it an optimistic projection? Is it a protest or an affirmation?\" It doesn't matter because the times when something comes to you so strongly are so rare and precious that you accept them: \"Democracy is Coming to the USA.\" It's as if someone holds out a sandwich to you when you are starved. You take it and maybe you don't like it. I don't particularly like \"Democracy is Coming to the USA.\"",
@@ -17,7 +17,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/take_this_longing",
+        "reference": "song.take_this_longing",
         "content": {
           "text": [
             "About his relationship with Nico",

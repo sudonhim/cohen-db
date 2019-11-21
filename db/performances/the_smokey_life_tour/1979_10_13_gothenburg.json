@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             [

@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/im_your_man/first_we_take_manhattan",
+        "reference": "song.first_we_take_manhattan",
         "content": {
           "text": [
             "Answering a fan about the meaning of the song",

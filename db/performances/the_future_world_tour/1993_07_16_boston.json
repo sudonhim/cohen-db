@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/a_singer_must_die",
+        "reference": "song.a_singer_must_die",
         "content": {
           "text": [
             "The critics have begun to be very kind to me. I am reminded of that aphorisms articulated by the great cinema master who is now in disgrace, Woody Allen. \"Most of life is just showin' up.\""
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/aint_no_cure_for_love",
+        "reference": "song.aint_no_cure_for_love",
         "content": {
           "text": [
             "When Jesus Christ was hanging from his final branches, He looked beneath him at the  foot of the cross, at the upturned faces, faces of anger, envy, regret, contempt, bewilderment, indifference. And He heard the voices crying out, \"Get a life, get a life.\" He knew for certain that a lever had been thrown in the cosmos and nothing would ever be the same again. He knew for sure, He knew for certain, He knew without a doubt, He knew grand finality, that there ain't no cure for love."
@@ -30,7 +30,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/im_your_man/everybody_knows",
+        "reference": "song.everybody_knows",
         "content": {
           "text": [
             "spoken verse (Boston 1993)",
@@ -50,7 +50,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/first_we_take_manhattan",
+        "reference": "song.first_we_take_manhattan",
         "content": {
           "text": [
             "Oh thank you so much for your gracious welcome this evening and thank you for those letters, actually that letter you sent me backstage. I read it very, very carefully. Thank you for those demo tapes. I'll listen very, very carefully to them. There is nothing wrong with sending a demo tape to an artist that has hardly established himself in this country. I will do what I can to forward your career. I have barely managed to get a photo of myself in the marketplace but nevertheless, we thrive on these dreams. And in regard to those darker place of the psyche and for those more ambiguous gifts, always grateful friends, always grateful. The monkey and the plywood violin. I practiced every night and now I�m ready. First we take Manhattan, then we take Berlin."
@@ -59,7 +59,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/take_this_waltz",
+        "reference": "song.take_this_waltz",
         "content": {
           "text": [
             "It was many years ago in my home town of Montreal that I stumbled into this second hand bookstore. I opened up this volume and I accepted the poet's invitation to enter into this world of fistfuls of ants that were thrown at the sun and crystals that could not be climbed and the arches of Elvira through which you must pass through to see her thighs and began weeping. A seductive invitation, far more seductive than sixties. And I did, I squeezed myself into that fistful of ants and I lived among them and I learned their ways. I mastered the crystals and I cured many an alcoholic guru with those crystals. I passed through the arches of Elvira and did, I began weeping. I touched her thighs and I began weeping, and I slipped away like a school of silver minnows and I lived in that universe into which the poet invited me and invite you all to join me. Here there is no space and no time and no conflict, no fight, no language differences, no religious differences, we're just here smitten with the moonlight. And I take this opportunity to render my tiny homage to the great Spanish poet, who invited me into this dismal enlightenment, the great Spanish poet, Federico Garcia Lorca. Take this waltz, take this waltz."
@@ -68,7 +68,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
+        "reference": "song.there_is_a_war",
         "content": {
           "text": [
             "About a thousand years ago, there was this brief period of about 11 or 12 minutes, that is now referred to as the sixties, a hated time, an intoxicating time. I enjoyed myself thoroughly for five or six minutes. It has become a kind of black hole in the sociological cosmos, a kind of Bermuda Triangle, into which all the noblest and worthwhile ideas disappeared forever. A seductive moment, however being the gloomy chap that you know me to be, I was able to resist it. I think it was back in 1971 when it reached its most acute phase, it was then that I was inspired to write this mournful and bitter ditty in response to all the flabby liars of the Aquarian Age."

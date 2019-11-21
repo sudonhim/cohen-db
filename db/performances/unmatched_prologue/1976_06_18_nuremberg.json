@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_love_and_hate/famous_blue_raincoat",
+        "reference": "song.famous_blue_raincoat",
         "content": {
           "text": [
             "This is a song of another struggle. I mean the great struggles passes away like smoke and then�we�are left with the real struggle�that takes place in the living-room and in the bed-room."
@@ -16,7 +16,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+        "reference": "song.seems_so_long_ago_nancy",
         "content": {
           "text": [
             "This is a song that I wrote a real long time ago for a girl, you know, who seemed to be a bit ahead of her time. Her name was Nancy.....(?)"
@@ -25,7 +25,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
+        "reference": "song.sisters_of_mercy",
         "content": {
           "text": [
             "Long time ago, two girls named Barbara and lorraine took me out of a snowstorm in Edmonton, Alberta. Anyhow, it doesn't matter but if I don't mention their names, they visit me with�humiliation�every time I sing this song for them."
@@ -34,7 +34,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "A long time ago, your grandfathers and mine were engaged in some serious struggle which they have then forgotten. Out of that struggle came a song that stands as an allegory for resistance, everywhere."

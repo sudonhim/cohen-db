@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/a_singer_must_die",
+        "reference": "song.a_singer_must_die",
         "content": {
           "text": [
             "This song is for my critics and for my judges and for those who give marks to us everywhere, who evaluate our performance whether it is in the courtroom or the cloakroom or the bedroom. This is for the judges."
@@ -16,7 +16,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "It was the end of the 60's, the beginning of the 70's. We saw the battalion of a kind of apocalyptic vision about what the world was going be and what rock music or pop music was going to be in it. And toward the end of that time we saw the casualties, the burnt out acid heads, the dead singers, famous and obscure. This is a song that I wrote to one of those great singers that I knew. It comes out of a time when a lot musicians used to staying at the Chelsea Hotel in New York City."
@@ -25,7 +25,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/hey_thats_no_way_to_say_goodbye",
+        "reference": "song.hey_thats_no_way_to_say_goodbye",
         "content": {
           "text": [
             "An old song from an old hotel room"
@@ -34,7 +34,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/i_tried_to_leave_you",
+        "reference": "song.i_tried_to_leave_you",
         "content": {
           "text": [
             "This is a song from the marriage chamber"
@@ -43,7 +43,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_love_and_hate/love_calls_you_by_your_name",
+        "reference": "song.love_calls_you_by_your_name",
         "content": {
           "text": [
             "This next song is about that place between the beginning and the end of things,in which you summon yourself."
@@ -52,7 +52,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/lover_lover_lover",
+        "reference": "song.lover_lover_lover",
         "content": {
           "text": [
             "I wrote this next song about a year ago today,in the Sina� desert.I made it for the soldiers that are on both sides."
@@ -61,7 +61,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
+        "reference": "song.sisters_of_mercy",
         "content": {
           "text": [
             "This song is for Barbara and Lorraine.They took me out of a snowstorm in Edmonton,Alberta,1966."
@@ -70,7 +70,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/so_long_marianne",
+        "reference": "song.so_long_marianne",
         "content": {
           "text": [
             "This is a song of forgiveness"
@@ -79,7 +79,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/story_of_isaac",
+        "reference": "song.story_of_isaac",
         "content": {
           "text": [
             "This is a song about that curious place where the generations often meet, an altar or a butcher's block.The story of Isaac..."
@@ -88,7 +88,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             [
@@ -100,7 +100,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/why_dont_you_try",
+        "reference": "song.why_dont_you_try",
         "content": {
           "text": [
             [

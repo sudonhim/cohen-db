@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "Many years ago, I lived in a Hotel in NYC. And late at night, sometimes in the elevator, I used to bump into a famous singer there, a young woman, who entertained thousands so gracefully and so gloriously. And I would look at her in the elevator, and she would look at me. I knew that she was actually looking for Kris Kristofferson but she would, well maybe she'd settle for me..."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/various_positions/the_law",
+        "reference": "song.the_law",
         "content": {
           "text": [
             "This is a song called \"The Law\". There is no escaping from the Law. There is a Law, there is an extension of the Law, and there is the actuality of the Law. There is a Law, there is an arm, there is a hand."

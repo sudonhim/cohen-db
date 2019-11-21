@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/the_future/closing_time",
+        "reference": "song.closing_time",
         "content": {
           "text": [
             "Answering a fan who asked \"When exactly is \"Closing Time\" ?",

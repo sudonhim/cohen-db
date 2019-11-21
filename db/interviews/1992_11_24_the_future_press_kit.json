@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/the_future/anthem",
+        "reference": "song.anthem",
         "content": {
           "text": [
             "It's hard to do a comentary in special for this particular song because it took ten years to write.There's not a line in it that I couldn't defend. There's not a line in the album that I can't defend, but this song especially. I delayed its birth for so long because it wasn't right or appropriate or true or it was too easy or the ideas were too fast or too fuss, but the way it is now it deserves to be born. I've been playing this song for many years and I knew that I was on the track of a really good song. I knew it stood for something clear and strong in my own heart. And I despaired of ever getting it and I was playing it on Rebecca's synthesizer, and she said \"That's perfect just like that\" And I said \"Really ?\" She said \"Yeah let's go down to the studio now !\"",
@@ -17,7 +17,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/the_future/democracy",
+        "reference": "song.democracy",
         "content": {
           "text": [
             "These are the final days, this is the darkness, this is the flood. What is the appropriate behaviour in a catastrophy, in a flood? You know, while you're cleaning out your orange crate in the torrent and you pass somebody else hanging on to a spar of wood. What do you declare yourself ? \"left wing\" \"right wing\" \"pro-abortion\" \"against abortion\"?? All these things are luxuries which you can no longer afford. What is the proper behaviour in a flood?"
@@ -26,7 +26,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/the_future/the_future",
+        "reference": "song.the_future",
         "content": {
           "text": [
             "Answering a question by Bob Mackowitz, about the relation one can find between \"The Future\" and Yeat's line \"the centre cannot hold\".",
@@ -36,7 +36,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/the_future/the_future",
+        "reference": "song.the_future",
         "content": {
           "text": [
             "\"Future\" sounds true to me. It sounds like the situation that we have now and the attitudes that are taken there which are all extremist, which are all defensive in the extreme. Seem to be the mental landscape the people are, strolling through today. There is no comfort at the center. In fact there is no center."

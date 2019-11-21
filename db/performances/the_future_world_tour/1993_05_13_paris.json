@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/various_positions/hallelujah",
+        "reference": "song.hallelujah",
         "content": {
           "text": [
             "verse variation",
@@ -25,7 +25,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/the_future/the_future",
+        "reference": "song.the_future",
         "content": {
           "text": [
             [

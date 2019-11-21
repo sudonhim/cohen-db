@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "Here's a song written by the ghosts of our grandfathers."

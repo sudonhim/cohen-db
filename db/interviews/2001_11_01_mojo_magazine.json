@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/ten_new_songs/boogie_street",
+        "reference": "song.boogie_street",
         "content": {
           "text": [
             "About the verse \"It is in love that we are made, in love we disappear\".",
@@ -17,7 +17,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+        "reference": "song.suzanne",
         "content": {
           "text": [
             "About the relation between John Simon (producer of the album \"Songs Of L. Cohen\") and Leonard",

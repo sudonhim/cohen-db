@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_love_and_hate/avalanche",
+        "reference": "song.avalanche",
         "content": {
           "text": [
             "Some verses in the original poem are somehow different from the sung verses of 1972.",
@@ -32,7 +32,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+        "reference": "song.suzanne",
         "content": {
           "text": [
             "The original poem verses are different from the sung verses of 1968",

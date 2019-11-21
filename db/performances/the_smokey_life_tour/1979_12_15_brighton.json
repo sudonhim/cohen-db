@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/other_songs/blues_by_the_jews",
+        "reference": "song.blues_by_the_jews",
         "content": {
           "text": [
             "This is a curious song that I wrote three or four years...no it must be about a thousand years ago, but I haven't learned the words yet. I wrote it on the road, it's kind of irreverent, but you're not very religious in this part of the country anyway, so I doubt if it would offend anybody. Anyway, this is the \"Blues by the Jews\", here it is..."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/leaving_green_sleeves",
+        "reference": "song.leaving_green_sleeves",
         "content": {
           "text": [
             "Someone in the audience asks him to sing \"Leaving Green Sleeves\"",
@@ -31,7 +31,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+        "reference": "song.suzanne",
         "content": {
           "text": [
             "verse variation",

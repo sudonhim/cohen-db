@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+        "reference": "song.suzanne",
         "content": {
           "text": [
             "Oh It's good to be here alone in front of six hundred thousand people. It's a large nation but it's still weak, still very weak. It needs to get a lot stronger before it can claim a right to a land"
@@ -21,7 +21,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/tonight_will_be_fine",
+        "reference": "song.tonight_will_be_fine",
         "content": {
           "text": [
             [

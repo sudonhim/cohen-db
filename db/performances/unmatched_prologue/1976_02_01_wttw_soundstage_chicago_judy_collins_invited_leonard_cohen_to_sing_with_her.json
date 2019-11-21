@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/hey_thats_no_way_to_say_goodbye",
+        "reference": "song.hey_thats_no_way_to_say_goodbye",
         "content": {
           "text": [
             [

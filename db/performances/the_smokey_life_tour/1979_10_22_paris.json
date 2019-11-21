@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "This prologue contains an old french ballad, that begins the same way as the usual one Leonard uses to introduce \"Chelsea Hotel # 2\" : \"Il ya longtemps\" (There's a long time ago\") ",

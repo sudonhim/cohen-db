@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             [
@@ -24,7 +24,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/the_future/democracy",
+        "reference": "song.democracy",
         "content": {
           "text": [
             "Spoken additional verse",
@@ -42,7 +42,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/first_we_take_manhattan",
+        "reference": "song.first_we_take_manhattan",
         "content": {
           "text": [
             "I want to thank you for the items that you sent me. Very useful.I've been studying them very carefully, abstractionist as is the style of the city, refracted through certain obscure and subtle lens of a position that is not easily discerned. Nevertheless [not] without a certain compelling charm, especially when viewed through several glasses of an excellent Bordeaux.   I am sincerely grateful for the notes; for the missives; for the few broken tiles, no doubt from some street battle long past and lost to the memory of mankind, nevertheless a certain historic significance; slivers of cobblestone from unknown conflicts. I really don't know what they stand for at all but I'm deeply grateful that my dressing room is heaped with this kind of debris from many other positions of course, but my own. I love every precious shard. I thank you for the monkey and the plywood violin and I've practiced every night and now I am ready...."
@@ -51,7 +51,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/take_this_waltz",
+        "reference": "song.take_this_waltz",
         "content": {
           "text": [
             "You know it was many years ago in the city of Montreal that I stumbled upon this volume. I opened it and I accepted the poet's invitation to enter into this world where fistfuls of ants were thrown at the sun and crystals obscured the pine trees and there were the arches of Elvira to pass through and begin weeping and there were those thighs that slipped away like schools of silver minnows. That was the irresistible seductive invitation I could not resist. I slipped into that fist, I did, I lived among the ants and I learned their ways. I mastered the crystals. I healed many alcoholic gurus with my crystal powers. I passed through the arches of Elvira and I did, I began weeping. That's nothing new. I saw those thighs glistening like hunting horns and I touched them, I did, I pulled my hand away and I slipped away like a school of silver minnows. I've never left that world. I stand here tonight and I invite you all to join me here. There's lots of space, there's no boundaries, there's no politics, no language. All you have to do is celebrate the sunlight coming through the hair of your beloved. It's a simple thing. And it's my great honour and my great privilege and my tiny duty to render this homage to the great Spanish poet who invited me there, Federico Garcia Lorca.Take this waltz, take this waltz."
@@ -60,7 +60,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/there_is_a_war",
+        "reference": "song.there_is_a_war",
         "content": {
           "text": [
             "About a thousand years ago there was this brief period of about eleven minutes that are now referred to by the term known as the sixties. A kind of interesting sociological black hole into which all our best aspirations were sucked and disappeared. A seductive movement, I myself accepted the invitation for three or four seconds. And then gloomy chap that I am, I was compelled back in 1970 or 1971 to write this song."

@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "It is a song I wrote a long time ago, for a very great american singer. Forgotten by some, remembered by some like the rest of us singers,all destined to be remembered or forgotten. It doesn't really matters which name is remembered and which name is forgotten. There will always be singers.This one was a great one. Her name was Janis Joplin."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/death_of_a_ladies_man/iodine",
+        "reference": "song.iodine",
         "content": {
           "text": [
             [
@@ -34,7 +34,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/recent_songs/the_guests",
+        "reference": "song.the_guests",
         "content": {
           "text": [
             "This song is called \"The Guests\", and it's from my new album. I have been rather surprised, i've been rather surprised with everything actually, but I've been rather surprised by the reception this song has had in this country."
@@ -43,7 +43,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_leonard_cohen/the_stranger_song",
+        "reference": "song.the_stranger_song",
         "content": {
           "text": [
             "4Th verse variation",

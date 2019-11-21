@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "A long time ago there was this Hotel in NYC, where a lot of musicians used to stay. There's a very great singer who used to stay there in the old days along with lot of other very good musicians. And I used to meet her in the elevator, very late at night, around three in the morning. She wasn't looking for me, and I wasn't looking for her. But there was nobody else up at that time. I think she was looking for Kris Kristofferson. Anyway somebody a little taller than me. It really didn't�. Even Phil Ochs was taller than me in those days. He's not that tall now. Anyway she was a very great singer and the thing I loved about her was her attitude towards her audience. There was no division, there was no ambiguity about how she felt about singing. So many singers today have such a curious attitude towards their audience, and if you read the lyrics of their songs, they're filled with ambiguity about how difficult it is to be a pop-star, how difficult it is to get servants, how hard it is to shop for jewels, and the burden of being loved by everybody. These are serious problems that occupy the minds. Many of our most creative minds today are occupied by these serious problems. And in her life and in her work, she gave herself completely, and when she decided to stop giving herself, she cut out completely. And I wrote this song for her, it's for Janis Joplin."
@@ -16,7 +16,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+        "reference": "song.seems_so_long_ago_nancy",
         "content": {
           "text": [
             "Modified verse",
@@ -30,7 +30,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "So a long time ago, your grandfathers and my grandfathers were engaged in some kind of conflict. Nothing much remains of that conflict except some snow and some paper-weights, and some old songs. This is one of the songs that seem to persist."

@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_love_and_hate/joan_of_arc",
+        "reference": "song.joan_of_arc",
         "content": {
           "text": [
             "Modified Verses",
@@ -22,7 +22,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+        "reference": "song.seems_so_long_ago_nancy",
         "content": {
           "text": [
             "I'd like to sing a song for a most beautiful blonde woman who died in 1961, in Montreal."

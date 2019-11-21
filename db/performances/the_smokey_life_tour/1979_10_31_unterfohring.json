@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/bird_on_the_wire",
+        "reference": "song.bird_on_the_wire",
         "content": {
           "text": [
             "variation on first verse:",
@@ -26,7 +26,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/death_of_a_ladies_man/memories",
+        "reference": "song.memories",
         "content": {
           "text": [
             "This is a song i wrote a couple of years ago with the great genius of darkest Hollywood:Phil Spector.And it's a song based on my extremely boring and pathetic life at Westmont High School in Montreal.It's called Memories"
@@ -35,7 +35,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/recent_songs/the_guests",
+        "reference": "song.the_guests",
         "content": {
           "text": [
             "This is a new song and i'm very surprised that this song has gained any kind of popularity because it's a kind of difficult song. I think most of its popularity is due to the fact that Raffi Hakopian plays on it, and John Belezikjan. But..it's a song about how a new soul comes into the world looking for the feast, feeling completely separated from everything, feeling isolated and in exile, and how the great author of this dismoral catastrophe, this veil of tears, pulls each of these souls into the Feast and into the banquet. And noone knows where the night is going, noone knows why the wine is flowing and Oh Love I need You I need You I need You....."
@@ -44,7 +44,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/recent_songs/the_window",
+        "reference": "song.the_window",
         "content": {
           "text": [
             "This is another song; it's from my new album: it's called \"The Window\". It's a kind of prayer, (joining his hands) to bring the two parts of the Soul together. It's called \"The Window\"...."

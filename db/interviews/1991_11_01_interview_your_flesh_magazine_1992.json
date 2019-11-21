@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/im_your_man/take_this_waltz",
+        "reference": "song.take_this_waltz",
         "content": {
           "text": [
             "Lyrics based on the Federico Garcia Lorca's poem \"Little Viennese Waltz\" - (Pequeno Vals Vienes)",

@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/im_your_man/aint_no_cure_for_love",
+        "reference": "song.aint_no_cure_for_love",
         "content": {
           "text": [
             "sung as an additional verse",

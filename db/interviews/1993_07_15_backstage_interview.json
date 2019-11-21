@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/the_future/closing_time",
+        "reference": "song.closing_time",
         "content": {
           "text": [
             "I think \"Closing Time\" is just a sense that things as we know it are coming to an end, and that the flood is already here, the apocalypse has already occurred, like we don't need to wait for it. On the inner level, all the landmarks are down, and all the lights have been extinguished, and all the signs have been swept away. So we are in this period of closing time but all these songs, these sinister songs are married to, you know, hot little tracks�."
@@ -16,7 +16,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/the_future/democracy",
+        "reference": "song.democracy",
         "content": {
           "text": [
             "There are about 5 or 8 notebooks filled with verses for \"Democracy\". It took a long time to write the song. I started around 89 when the Berlin Wall came down. That's what really occasioned it 'cause I asked myself \"Is democracy really coming to the East, to the Soviet Union, to Hungary, to Romania ?\" I was very doubtful that democracy as we�. I think it is the religion of the West. It is the real thing that we have going and it's the American experiment. That version of it is the most vibrant you know, screwed up as things are. This is the place where they're confronting the problems that they're just beginning to look at in Europe now : racism, real confrontations."
@@ -25,7 +25,7 @@
       },
       {
         "kind": "note",
-        "reference": "db/songs/the_future/the_future",
+        "reference": "song.the_future",
         "content": {
           "text": [
             [

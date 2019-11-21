@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_love_and_hate/avalanche",
+        "reference": "song.avalanche",
         "content": {
           "text": [
             "Modified verses",
@@ -35,7 +35,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/seems_so_long_ago_nancy",
+        "reference": "song.seems_so_long_ago_nancy",
         "content": {
           "text": [
             "This is a song for a girl named Nancy who was a real girl, who went into the bathroom of her father's house, took her brother's shotgun and blew her head off. Age of 21. Maybe this is an arrogant thing to say, but maybe she did it because there weren't enough people saying what I've been saying."
@@ -44,7 +44,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_of_leonard_cohen/sisters_of_mercy",
+        "reference": "song.sisters_of_mercy",
         "content": {
           "text": [
             [
@@ -59,7 +59,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/story_of_isaac",
+        "reference": "song.story_of_isaac",
         "content": {
           "text": [
             "This is a song I wrote to the people who feel it is within their right to sacrifice the young for some purpose which they conceive to be holy or just. It's a song for them, and it's also a song for those who would enlist my aid in defeating those men. Because I don't want to join any program. I don't want to write my name at the end of any manifestion..."
@@ -68,7 +68,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "I don't expect the system to dissolve under the assault of this song.."
@@ -77,7 +77,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "Just after the last stanza, the following improvisation is spoken…:",

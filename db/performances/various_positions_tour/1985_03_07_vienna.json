@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/songs_of_love_and_hate/diamonds_in_the_mine",
+        "reference": "song.diamonds_in_the_mine",
         "content": {
           "text": [
             "sung as an additional verse",
@@ -29,7 +29,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/various_positions/the_law",
+        "reference": "song.the_law",
         "content": {
           "text": [
             "Additional stanza",

@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/chelsea_hotel_2",
+        "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
             "A long time ago,in an elevator in NYC,i met a great American singer.I don't know what that means to you who have real problems on your hands.In fact i wonder why you're concerned with my tiny neurotic sensibility at all.Anyway i'm proud to sing to a great people.."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/lover_lover_lover",
+        "reference": "song.lover_lover_lover",
         "content": {
           "text": [
             "Note about the genesis of the song.",
@@ -39,7 +39,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/new_skin_for_the_old_ceremony/lover_lover_lover",
+        "reference": "song.lover_lover_lover",
         "content": {
           "text": [
             "Back in 1973 I had the opportunity to observe the grace and the bravery of many Israeli soldier at the front, (?), in the Sahara Desert and in the Suez. After I came back from that invigorating and depressing experience, I wrote this song called \"Lover, Lover, Lover, Lover, Lover, Lover, Lover...�"
@@ -48,7 +48,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/death_of_a_ladies_man/memories",
+        "reference": "song.memories",
         "content": {
           "text": [
             "Oh, put away your hands for a moment. It is for us the honour to play for  a nation of such beautiful women and such brave men. It is our honour. Unfortunately, for my last song, I must offend your deepest sensibilities with an entirely irrelevant and vulgar ditty that I wrote some time ago with another Jew in Hollywood, where there are many. This is a song in which    I have placed my most irrelevant and banal adolescent recollections.I humbly ask you for your indulgence. As I look back to the red acne of my adolescence, to the unmanageable desire of my early teens, to that time when every woman shone like the eternal light above the altar place and   I myself, was always on my knees before some altar, unimaginably more quiescent, potent, powerful and relevant than anything I could ever command. I speak of nothing less than womanhood, that elusive butterfly...."
@@ -57,7 +57,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/recent_songs/the_guests",
+        "reference": "song.the_guests",
         "content": {
           "text": [
             "I don't know if I'm doing the right thing.  But this is a song from my latest group of songs.  It's a song very much influenced by a great poet, Farid ud-Din' Attar.  The song's called \"The Guests.\""
@@ -66,7 +66,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/recent_songs/the_gypsys_wife",
+        "reference": "song.the_gypsys_wife",
         "content": {
           "text": [
             "This is a little song that I wrote for my wife after she ran away."

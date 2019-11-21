@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "variation",
-        "reference": "db/songs/death_of_a_ladies_man/iodine",
+        "reference": "song.iodine",
         "content": {
           "text": [
             "An early version of \"Iodine\" was sung in Bryn Mawr, during the 1975 tour",
@@ -64,7 +64,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/songs_from_a_room/the_partisan",
+        "reference": "song.the_partisan",
         "content": {
           "text": [
             "This song comes from a happier time when we knew who the enemy was."
@@ -73,7 +73,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/recent_songs/the_smokey_life",
+        "reference": "song.the_smokey_life",
         "content": {
           "text": [
             "Early version sung four years before its official release in 1979",
@@ -117,7 +117,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/recent_songs/the_traitor",
+        "reference": "song.the_traitor",
         "content": {
           "text": [
             "Early version sung 4 years before its official release",

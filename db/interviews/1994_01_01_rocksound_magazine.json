@@ -7,7 +7,7 @@
     "content": [
       {
         "kind": "note",
-        "reference": "db/songs/songs_of_leonard_cohen/suzanne",
+        "reference": "song.suzanne",
         "content": {
           "text": [
             "About the fact of including \"Suzanne\" in the new Live album of 1994.",

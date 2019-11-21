@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/aint_no_cure_for_love",
+        "reference": "song.aint_no_cure_for_love",
         "content": {
           "text": [
             "When the Prince of Peace was hanging from His final tree, He looked down at the people looking up at Him. He saw the faces of anger, envy, regret, despair, melancholy, animosity, hatred. He looked down at them and He felt a lever thrown in the universe and He knew that nothing would ever be the same again. And He knew for certain, He finally knew that there ain't no cure for love."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "variation",
-        "reference": "db/songs/the_future/anthem",
+        "reference": "song.anthem",
         "content": {
           "text": [
             "verse variation",
@@ -34,7 +34,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/take_this_waltz",
+        "reference": "song.take_this_waltz",
         "content": {
           "text": [
             "It was a long time ago in a book store in Montreal I stumble on a book by a great Spanish poet. And in this book he invited me to enter a universe of ants and crystals and arches and minnows and thighs that slipped away like herds of tiny fish. I  entered that world and I'm so happy to say that I never left it. And here's my tiny homage to the great Spanish poet Federico Garcia Lorca.  Take this Waltz..."

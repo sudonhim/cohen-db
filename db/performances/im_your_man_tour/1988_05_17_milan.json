@@ -12,7 +12,7 @@
     "content": [
       {
         "kind": "prologue",
-        "reference": "db/songs/im_your_man/aint_no_cure_for_love",
+        "reference": "song.aint_no_cure_for_love",
         "content": {
           "text": [
             "It doesn't matter wether we found ourselves in the loneliness of separation or the vertigo of union, everyone finally learns there ain't no cure for love..."
@@ -21,7 +21,7 @@
       },
       {
         "kind": "prologue",
-        "reference": "db/songs/other_songs/whither_thou_goest",
+        "reference": "song.whither_thou_goest",
         "content": {
           "text": [
             "I want to tell you how grateful we all are up here for this extremely warm reception that you've given us tonight. I want to thank you personally, not just for tonight but for all the years that you've shown attention to my songs. I want to thank you for that. There's a few lines that are in the Bible in the Book of Ruth, and it speaks of people parting and people who are always with each other, regardless of where they go. It is those lines: \"Whither thou goest, I will go.....\""
