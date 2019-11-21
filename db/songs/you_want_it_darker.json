@@ -4,15 +4,15 @@
     "date": "2016-10-21"
   },
   "children": [
-    "you_want_it_darker",
-    "treaty",
-    "on_the_level",
-    "leaving_the_table",
-    "if_i_didnt_have_your_love",
-    "traveling_light",
-    "it_seemed_the_better_way",
-    "steer_your_way",
-    "string_reprise_treaty"
+    "song.you_want_it_darker",
+    "song.treaty",
+    "song.on_the_level",
+    "song.leaving_the_table",
+    "song.if_i_didnt_have_your_love",
+    "song.traveling_light",
+    "song.it_seemed_the_better_way",
+    "song.steer_your_way",
+    "song.string_reprise_treaty"
   ],
   "kind": "album"
 }

@@ -4,18 +4,18 @@
     "date": "1967-12-27"
   },
   "children": [
-    "suzanne",
-    "master_song",
-    "winter_lady",
-    "the_stranger_song",
-    "sisters_of_mercy",
-    "so_long_marianne",
-    "hey_thats_no_way_to_say_goodbye",
-    "stories_of_the_street",
-    "teachers",
-    "one_of_us_cannot_be_wrong",
-    "store_room",
-    "blessed_is_the_memory"
+    "song.suzanne",
+    "song.master_song",
+    "song.winter_lady",
+    "song.the_stranger_song",
+    "song.sisters_of_mercy",
+    "song.so_long_marianne",
+    "song.hey_thats_no_way_to_say_goodbye",
+    "song.stories_of_the_street",
+    "song.teachers",
+    "song.one_of_us_cannot_be_wrong",
+    "song.store_room",
+    "song.blessed_is_the_memory"
   ],
   "kind": "album"
 }

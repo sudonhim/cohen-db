@@ -1,10 +1,10 @@
 {
   "title": "CohenDB Database Root",
   "children": [
-    "songs",
-    "performances",
-    "interviews",
-    "miscellaneous"
+    "group.songs",
+    "group.performances",
+    "group.interviews",
+    "group.miscellaneous"
   ],
   "kind": "group"
 }

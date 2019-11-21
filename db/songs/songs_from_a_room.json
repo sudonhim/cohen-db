@@ -4,17 +4,17 @@
     "date": "1969-04-07"
   },
   "children": [
-    "bird_on_the_wire",
-    "story_of_isaac",
-    "a_bunch_of_lonesome_heroes",
-    "the_partisan",
-    "seems_so_long_ago_nancy",
-    "the_old_revolution",
-    "the_butcher",
-    "you_know_who_i_am",
-    "lady_midnight",
-    "tonight_will_be_fine",
-    "you_know_who_i_am"
+    "song.bird_on_the_wire",
+    "song.story_of_isaac",
+    "song.a_bunch_of_lonesome_heroes",
+    "song.the_partisan",
+    "song.seems_so_long_ago_nancy",
+    "song.the_old_revolution",
+    "song.the_butcher",
+    "song.you_know_who_i_am",
+    "song.lady_midnight",
+    "song.tonight_will_be_fine",
+    "song.you_know_who_i_am"
   ],
   "kind": "album"
 }

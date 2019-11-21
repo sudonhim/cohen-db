@@ -4,10 +4,10 @@
     "date": "1975-01-26"
   },
   "children": [
-    "1975_01_26_hamilton",
-    "1975_01_31_toronto",
-    "1975_02_09_boston",
-    "1975_02_10_montreal"
+    "live.1975_01_26_hamilton",
+    "live.1975_01_31_toronto",
+    "live.1975_02_09_boston",
+    "live.1975_02_10_montreal"
   ],
   "kind": "tour"
 }

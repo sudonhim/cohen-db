@@ -4,16 +4,16 @@
     "date": "1976-04-25"
   },
   "children": [
-    "1976_04_25_frankfurt",
-    "1976_05_02_saarbrucken",
-    "1976_05_15_glasgow",
-    "1976_05_16_edinburgh",
-    "1976_05_17_newcastle",
-    "1976_05_30_gothenburg",
-    "1976_06_05_paris",
-    "1976_06_09_reims",
-    "1976_06_14_vienna",
-    "1976_06_25_montreux"
+    "live.1976_04_25_frankfurt",
+    "live.1976_05_02_saarbrucken",
+    "live.1976_05_15_glasgow",
+    "live.1976_05_16_edinburgh",
+    "live.1976_05_17_newcastle",
+    "live.1976_05_30_gothenburg",
+    "live.1976_06_05_paris",
+    "live.1976_06_09_reims",
+    "live.1976_06_14_vienna",
+    "live.1976_06_25_montreux"
   ],
   "kind": "tour"
 }

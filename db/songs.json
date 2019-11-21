@@ -1,21 +1,21 @@
 {
   "title": "Songs",
   "children": [
-    "songs_of_leonard_cohen",
-    "songs_from_a_room",
-    "songs_of_love_and_hate",
-    "new_skin_for_the_old_ceremony",
-    "death_of_a_ladies_man",
-    "recent_songs",
-    "various_positions",
-    "im_your_man",
-    "the_future",
-    "ten_new_songs",
-    "dear_heather",
-    "old_ideas",
-    "popular_problems",
-    "you_want_it_darker",
-    "other_songs"
+    "album.songs_of_leonard_cohen",
+    "album.songs_from_a_room",
+    "album.songs_of_love_and_hate",
+    "album.new_skin_for_the_old_ceremony",
+    "album.death_of_a_ladies_man",
+    "album.recent_songs",
+    "album.various_positions",
+    "album.im_your_man",
+    "album.the_future",
+    "album.ten_new_songs",
+    "album.dear_heather",
+    "album.old_ideas",
+    "album.popular_problems",
+    "album.you_want_it_darker",
+    "group.other_songs"
   ],
   "kind": "group"
 }

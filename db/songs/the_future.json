@@ -4,15 +4,15 @@
     "date": "1992-11-24"
   },
   "children": [
-    "the_future",
-    "waiting_for_the_miracle",
-    "be_for_real",
-    "closing_time",
-    "anthem",
-    "democracy",
-    "light_as_the_breeze",
-    "always",
-    "tacoma_trailer"
+    "song.the_future",
+    "song.waiting_for_the_miracle",
+    "song.be_for_real",
+    "song.closing_time",
+    "song.anthem",
+    "song.democracy",
+    "song.light_as_the_breeze",
+    "song.always",
+    "song.tacoma_trailer"
   ],
   "kind": "album"
 }

@@ -4,15 +4,15 @@
     "date": "1970-04-12"
   },
   "children": [
-    "1970_04_12_hartford",
-    "1970_05_03_amsterdam",
-    "1970_05_04_hamburg",
-    "1970_05_06_frankfurt",
-    "1970_05_08_munich",
-    "1970_05_09_vienna",
-    "1970_05_10_london",
-    "1970_05_12_paris",
-    "1970_05_16_leeds"
+    "live.1970_04_12_hartford",
+    "live.1970_05_03_amsterdam",
+    "live.1970_05_04_hamburg",
+    "live.1970_05_06_frankfurt",
+    "live.1970_05_08_munich",
+    "live.1970_05_09_vienna",
+    "live.1970_05_10_london",
+    "live.1970_05_12_paris",
+    "live.1970_05_16_leeds"
   ],
   "kind": "tour"
 }

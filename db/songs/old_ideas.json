@@ -4,16 +4,16 @@
     "date": "2012-01-31"
   },
   "children": [
-    "going_home",
-    "amen",
-    "show_me_the_place",
-    "darkness",
-    "anyhow",
-    "crazy_to_love_you",
-    "come_healing",
-    "banjo",
-    "lullaby",
-    "different_sides"
+    "song.going_home",
+    "song.amen",
+    "song.show_me_the_place",
+    "song.darkness",
+    "song.anyhow",
+    "song.crazy_to_love_you",
+    "song.come_healing",
+    "song.banjo",
+    "song.lullaby",
+    "song.different_sides"
   ],
   "kind": "album"
 }

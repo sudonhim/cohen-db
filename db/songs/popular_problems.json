@@ -4,15 +4,15 @@
     "date": "2014-09-19"
   },
   "children": [
-    "slow",
-    "almost_like_the_blues",
-    "samson_in_new_orleans",
-    "a_street",
-    "did_i_ever_love_you",
-    "my_oh_my",
-    "nevermind",
-    "born_in_chains",
-    "you_got_me_singing"
+    "song.slow",
+    "song.almost_like_the_blues",
+    "song.samson_in_new_orleans",
+    "song.a_street",
+    "song.did_i_ever_love_you",
+    "song.my_oh_my",
+    "song.nevermind",
+    "song.born_in_chains",
+    "song.you_got_me_singing"
   ],
   "kind": "album"
 }

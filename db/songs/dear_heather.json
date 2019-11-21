@@ -4,19 +4,19 @@
     "date": "2004-10-26"
   },
   "children": [
-    "go_no_more_a_roving",
-    "because_of",
-    "the_letters",
-    "undertow",
-    "morning_glory",
-    "on_that_day",
-    "villanelle_for_our_time",
-    "there_for_you",
-    "dear_heather",
-    "nightingale",
-    "to_a_teacher",
-    "the_faith",
-    "tennessee_waltz"
+    "song.go_no_more_a_roving",
+    "song.because_of",
+    "song.the_letters",
+    "song.undertow",
+    "song.morning_glory",
+    "song.on_that_day",
+    "song.villanelle_for_our_time",
+    "song.there_for_you",
+    "song.dear_heather",
+    "song.nightingale",
+    "song.to_a_teacher",
+    "song.the_faith",
+    "song.tennessee_waltz"
   ],
   "kind": "album"
 }

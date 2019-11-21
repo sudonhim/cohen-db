@@ -1,22 +1,22 @@
 {
   "title": "Unmatched Prologue",
   "children": [
-    "1993_07_12_austin",
-    "1968_07_09_bbc_sessions_once_more_with_felix",
-    "1974_08_24_berlin",
-    "1974_10_06_frankfurt",
-    "1972_04_21_jerusalem",
-    "1976_05_04_mainz",
-    "1979_12_12_muenchen",
-    "1976_06_18_nuremberg",
-    "1976_06_06_paris",
-    "1974_10_19_paris",
-    "1974_12_19_paris",
-    "1974_10_20_paris",
-    "1974_12_20_paris",
-    "1970_04_03_stockholm",
-    "1976_02_01_wttw_soundstage_chicago_judy_collins_invited_leonard_cohen_to_sing_with_her",
-    "1976_02_01_wttw_soundstage_chicago"
+    "live.1993_07_12_austin",
+    "live.1968_07_09_bbc_sessions_once_more_with_felix",
+    "live.1974_08_24_berlin",
+    "live.1974_10_06_frankfurt",
+    "live.1972_04_21_jerusalem",
+    "live.1976_05_04_mainz",
+    "live.1979_12_12_muenchen",
+    "live.1976_06_18_nuremberg",
+    "live.1976_06_06_paris",
+    "live.1974_10_19_paris",
+    "live.1974_12_19_paris",
+    "live.1974_10_20_paris",
+    "live.1974_12_20_paris",
+    "live.1970_04_03_stockholm",
+    "live.1976_02_01_wttw_soundstage_chicago_judy_collins_invited_leonard_cohen_to_sing_with_her",
+    "live.1976_02_01_wttw_soundstage_chicago"
   ],
   "kind": "tour"
 }

@@ -1,22 +1,22 @@
 {
   "title": "Performances",
   "children": [
-    "1970_tour_in_europe",
-    "1972_tour_of_europe_and_israel",
-    "1974_european_tour",
-    "1975_early_tour_in_north_america",
-    "1976_tour_in_europe",
-    "the_smokey_life_tour",
-    "various_positions_tour",
-    "im_your_man_tour",
-    "the_future_world_tour",
-    "leonard_cohen_tour",
-    "old_ideas_world_tour",
-    "radio",
-    "television",
-    "other_performances",
-    "unmatched_prologue",
-    "unmatched_variation"
+    "tour.1970_tour_in_europe",
+    "tour.1972_tour_of_europe_and_israel",
+    "tour.1974_european_tour",
+    "tour.1975_early_tour_in_north_america",
+    "tour.1976_tour_in_europe",
+    "tour.the_smokey_life_tour",
+    "tour.various_positions_tour",
+    "tour.im_your_man_tour",
+    "tour.the_future_world_tour",
+    "tour.leonard_cohen_tour",
+    "tour.old_ideas_world_tour",
+    "group.radio",
+    "group.television",
+    "group.other_performances",
+    "tour.unmatched_prologue",
+    "tour.unmatched_variation"
   ],
   "kind": "group"
 }

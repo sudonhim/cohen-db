@@ -4,17 +4,17 @@
     "date": "1974-08-11"
   },
   "children": [
-    "is_this_what_you_wanted",
-    "chelsea_hotel_2",
-    "lover_lover_lover",
-    "field_commander_cohen",
-    "why_dont_you_try",
-    "there_is_a_war",
-    "a_singer_must_die",
-    "i_tried_to_leave_you",
-    "who_by_fire",
-    "take_this_longing",
-    "leaving_green_sleeves"
+    "song.is_this_what_you_wanted",
+    "song.chelsea_hotel_2",
+    "song.lover_lover_lover",
+    "song.field_commander_cohen",
+    "song.why_dont_you_try",
+    "song.there_is_a_war",
+    "song.a_singer_must_die",
+    "song.i_tried_to_leave_you",
+    "song.who_by_fire",
+    "song.take_this_longing",
+    "song.leaving_green_sleeves"
   ],
   "kind": "album"
 }

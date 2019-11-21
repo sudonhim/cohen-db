@@ -4,14 +4,14 @@
     "date": "1977-11-13"
   },
   "children": [
-    "true_love_leaves_no_traces",
-    "iodine",
-    "paper_thin_hotel",
-    "memories",
-    "i_left_a_woman_waiting",
-    "dont_go_home_with_your_hard_on",
-    "fingerprints",
-    "death_of_a_ladies_man"
+    "song.true_love_leaves_no_traces",
+    "song.iodine",
+    "song.paper_thin_hotel",
+    "song.memories",
+    "song.i_left_a_woman_waiting",
+    "song.dont_go_home_with_your_hard_on",
+    "song.fingerprints",
+    "song.death_of_a_ladies_man"
   ],
   "kind": "album"
 }

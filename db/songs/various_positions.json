@@ -4,15 +4,15 @@
     "date": "1984-12-11"
   },
   "children": [
-    "dance_me_to_the_end_of_love",
-    "coming_back_to_you",
-    "the_law",
-    "night_comes_on",
-    "hallelujah",
-    "the_captain",
-    "hunters_lullaby",
-    "heart_with_no_companion",
-    "if_it_be_your_will"
+    "song.dance_me_to_the_end_of_love",
+    "song.coming_back_to_you",
+    "song.the_law",
+    "song.night_comes_on",
+    "song.hallelujah",
+    "song.the_captain",
+    "song.hunters_lullaby",
+    "song.heart_with_no_companion",
+    "song.if_it_be_your_will"
   ],
   "kind": "album"
 }

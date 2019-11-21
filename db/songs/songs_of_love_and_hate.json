@@ -4,14 +4,14 @@
     "date": "1971-02-19"
   },
   "children": [
-    "avalanche",
-    "last_years_man",
-    "dress_rehearsal_rag",
-    "diamonds_in_the_mine",
-    "love_calls_you_by_your_name",
-    "famous_blue_raincoat",
-    "sing_another_song_boys",
-    "joan_of_arc"
+    "song.avalanche",
+    "song.last_years_man",
+    "song.dress_rehearsal_rag",
+    "song.diamonds_in_the_mine",
+    "song.love_calls_you_by_your_name",
+    "song.famous_blue_raincoat",
+    "song.sing_another_song_boys",
+    "song.joan_of_arc"
   ],
   "kind": "album"
 }
