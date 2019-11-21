@@ -16,8 +16,8 @@ export function EnsureValid(doc: CanonFile) {
     throw `Failed to validate ${doc.title}; ${ajv.errorsText(validator.errors)}`;
 }
 
-function LoadAndValidateOne(id: string): CanonFile {
-  const data = require(`../${id}.json`);
+function LoadAndValidateOne(path: string): CanonFile {
+  const data = require(`${path}.json`);
   EnsureValid(data);
 
   return data as CanonFile;
@@ -25,18 +25,21 @@ function LoadAndValidateOne(id: string): CanonFile {
 
 export function LoadAndValidate(): CanonDb {
   const out: CanonDb = {
-    db: LoadAndValidateOne("db")
+    db: LoadAndValidateOne("../db")
   };
 
-  const loadChildren = (pid: string) => {
-    for (var name of out[pid].children || []) {
-      const cid = `${pid}/${name}`;
-      out[cid] = LoadAndValidateOne(cid);
-      loadChildren(cid);
+  const loadRecursive = (path: string) => {
+    const doc = LoadAndValidateOne(path);
+
+    for (var id of doc.children || []) {
+      const [kind, name] = id.split('.');
+      out[id] = loadRecursive(`${path}/${name}`)
     }
+
+    return doc;
   };
 
-  loadChildren("db");
+  loadRecursive("../db");
 
   return out;
 }
@@ -70,27 +73,29 @@ export function ValidateAndSave(docDb: CanonDb) {
   fs.mkdirSync('./build');
 
   const visited: string[] = [];
-  const visitRecursive = (id: string) => {
+  const visitRecursive = (path: string, id: string) => {
     const doc = docDb[id];
     if (!doc) throw `Referenced document ${id} does not exist`;
 
     EnsureValid(doc);
-    const fpath = `./build/${id}.json`;
+
+    var [kind, name] = id.split('.');
+    name = name || kind;
+    const newPath = `${path}/${name}`;
     const docStr = StringifyDoc(doc);
-    fs.writeFileSync(fpath, docStr);
-    const dirPath = `./build/${id}`;
+    fs.writeFileSync(`${newPath}.json`, docStr);
     if (doc.children) {
-      fs.mkdirSync(dirPath);
+      fs.mkdirSync(newPath);
     }
 
     visited.push(id);
 
     for (var childId of doc.children || []) {
-        visitRecursive(`${id}/${childId}`);
+        visitRecursive(newPath, childId);
     }
   };
 
-  visitRecursive("db");
+  visitRecursive('./build', 'db');
 
   const unvisited = Object.keys(docDb).filter(key => !visited.includes(key));
   if (unvisited.length > 0)
