@@ -49,13 +49,13 @@ export function StringifyDoc(doc: CanonFile): string {
   return JSON.stringify(doc, null, 2);
 }
 
-function deleteFolderRecursive(path: string) {
+export function DeleteFolderRecursive(path: string) {
   if (fs.existsSync(path)) {
     fs.readdirSync(path).forEach(function(file, index) {
       var curPath = path + "/" + file;
       if (fs.lstatSync(curPath).isDirectory()) {
         // recurse
-        deleteFolderRecursive(curPath);
+        DeleteFolderRecursive(curPath);
       } else {
         // delete file
         fs.unlinkSync(curPath);
@@ -66,7 +66,7 @@ function deleteFolderRecursive(path: string) {
 }
 
 export function ValidateAndSave(docDb: CanonDb) {
-  deleteFolderRecursive('./build');
+  DeleteFolderRecursive('./build');
   fs.mkdirSync('./build');
 
   const visited: string[] = [];
