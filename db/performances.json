@@ -14,9 +14,7 @@
     "tour.old_ideas_world_tour",
     "group.radio",
     "group.television",
-    "group.other_performances",
-    "tour.unmatched_prologue",
-    "tour.unmatched_variation"
+    "group.other_performances"
   ],
   "kind": "group"
 }

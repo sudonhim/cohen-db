@@ -1,7 +1,11 @@
 {
   "title": "1974-10-20 - Paris",
   "metadata": {
-    "date": "1974-10-20"
+    "date": "1974-10-20",
+    "location": {
+      "country": "France",
+      "city": "Paris"
+    }
   },
   "content": {
     "content": [
@@ -38,6 +42,16 @@
         "content": {
           "text": [
             "In every generation there is a Resistance,and in every generation it's the only place to be. This song comes out of a resistance in an old conflict and perhaps the Resistance in this generation is not the resistance against another side but a Resistance against ideology as it is."
+          ]
+        }
+      },
+      {
+        "kind": "prologue",
+        "reference": "song.joan_of_arc",
+        "content": {
+          "text": [
+            "This song was written for a German girl (*) I used to know. She's a great singer, I love her songs. I recently read an interview where she was asked about me and my work. And she said \"I was completely unnecessary\". Anyhow.... I hope she's not here. This song came through her.",
+            " (*) Nico"
           ]
         }
       }
