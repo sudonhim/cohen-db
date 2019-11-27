@@ -56,6 +56,15 @@
             "I sing this song for the butchers and the victims."
           ]
         }
+      },
+      {
+        "kind": "prologue",
+        "reference": "song.joan_of_arc",
+        "content": {
+          "text": [
+            "A song that I wrote for a brave woman"
+          ]
+        }
       }
     ]
   },

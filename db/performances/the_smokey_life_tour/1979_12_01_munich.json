@@ -12,6 +12,15 @@
     "content": [
       {
         "kind": "prologue",
+        "reference": "song.the_partisan",
+        "content": {
+          "text": [
+            "Here's a song written by the ghosts of our grandfathers."
+          ]
+        }
+      },
+      {
+        "kind": "prologue",
         "reference": "song.chelsea_hotel_2",
         "content": {
           "text": [
