@@ -32,7 +32,9 @@
         "kind": "prologue",
         "reference": "song.so_long_marianne",
         "content": {
-          "text": ["a song for a beautiful,gracious,eternal woman."]
+          "text": [
+            "a song for a beautiful, gracious, eternal woman."
+          ]
         }
       },
       {
@@ -52,7 +54,9 @@
         "kind": "prologue",
         "reference": "song.the_partisan",
         "content": {
-          "text": ["This is a song for the resistance"]
+          "text": [
+            "This is a song for the resistance"
+          ]
         }
       },
       {
