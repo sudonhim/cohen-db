@@ -1,7 +1,12 @@
 {
-  "title": "1972-04-21 - Jerusalem",
+  "title": "1972-04-21 Jerusalem",
   "metadata": {
-    "date": "1972-04-21"
+    "date": "1972-04-21",
+    "location": {
+      "city": "Jerusalem",
+      "country": "Israel",
+      "venue": "Binyanei Há´oomah Concert Hall"
+    }
   },
   "content": {
     "content": [

@@ -1,7 +1,11 @@
 {
   "title": "1976-05-04 - Mainz",
   "metadata": {
-    "date": "1976-05-04"
+    "date": "1976-05-04",
+    "location": {
+      "city": "Mainz",
+      "country": "Germany"
+    }
   },
   "content": {
     "content": [

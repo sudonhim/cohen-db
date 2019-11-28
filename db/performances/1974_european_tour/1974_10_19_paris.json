@@ -1,7 +1,11 @@
 {
   "title": "1974-10-19 - Paris",
   "metadata": {
-    "date": "1974-10-19"
+    "date": "1974-10-19",
+    "location": {
+      "country": "France",
+      "city": "Paris"
+    }
   },
   "content": {
     "content": [
@@ -11,6 +15,15 @@
         "content": {
           "text": [
             "Now a song about a woman that has haunted me for a long time."
+          ]
+        }
+      },
+      {
+        "kind": "prologue",
+        "reference": "song.one_of_us_cannot_be_wrong",
+        "content": {
+          "text": [
+            "The window is opened,and the lovers have fled. Maybe they were never there to begin with.They were never there to begin with."
           ]
         }
       },

@@ -1,7 +1,11 @@
 {
   "title": "1974-10-06 - Frankfurt",
   "metadata": {
-    "date": "1974-10-06"
+    "date": "1974-10-06",
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    }
   },
   "content": {
     "content": [

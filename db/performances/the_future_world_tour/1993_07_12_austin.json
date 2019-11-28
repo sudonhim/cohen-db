@@ -1,7 +1,12 @@
 {
   "title": "1993-07-12 - Austin",
   "metadata": {
-    "date": "1993-07-12"
+    "date": "1993-07-12",
+    "location": {
+      "city": "Austin",
+      "country": "USA",
+      "venue": "Austin City Limits TV Studio"
+    }
   },
   "content": {
     "content": [

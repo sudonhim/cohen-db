@@ -1,7 +1,11 @@
 {
   "title": "1974-09-18 - Birmingham",
   "metadata": {
-    "date": "1974-09-18"
+    "date": "1974-09-18",
+    "location": {
+      "city": "Birmingham",
+      "country": "United Kingdom"
+    }
   },
   "content": {
     "content": [

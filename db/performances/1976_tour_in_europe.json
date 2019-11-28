@@ -6,13 +6,16 @@
   "children": [
     "live.1976_04_25_frankfurt",
     "live.1976_05_02_saarbrucken",
+    "live.1976_05_04_mainz",
     "live.1976_05_15_glasgow",
     "live.1976_05_16_edinburgh",
     "live.1976_05_17_newcastle",
     "live.1976_05_30_gothenburg",
     "live.1976_06_05_paris",
+    "live.1976_06_06_paris",
     "live.1976_06_09_reims",
     "live.1976_06_14_vienna",
+    "live.1976_06_18_nuremberg",
     "live.1976_06_25_montreux"
   ],
   "kind": "tour"

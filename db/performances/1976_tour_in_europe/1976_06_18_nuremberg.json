@@ -1,7 +1,11 @@
 {
   "title": "1976-06-18 - Nuremberg",
   "metadata": {
-    "date": "1976-06-18"
+    "date": "1976-06-18",
+    "location": {
+      "city": "Nuremburg",
+      "country": "Germany"
+    }
   },
   "content": {
     "content": [

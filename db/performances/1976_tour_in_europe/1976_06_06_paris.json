@@ -1,7 +1,12 @@
 {
   "title": "1976-06-06 - Paris",
   "metadata": {
-    "date": "1976-06-06"
+    "date": "1976-06-06",
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "venue": "L'Olympia Bruno Coquatrix"
+    }
   },
   "content": {
     "content": [

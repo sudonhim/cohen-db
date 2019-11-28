@@ -13,8 +13,12 @@
     "live.1974_09_14_liverpool",
     "live.1974_09_15_bristol",
     "live.1974_09_16_brighton",
+    "live.1974_09_18_birmingham",
     "live.1974_09_24_berlin",
-    "live.1974_10_07_vienna"
+    "live.1974_10_06_frankfurt",
+    "live.1974_10_07_vienna",
+    "live.1974_10_19_paris",
+    "live.1974_10_20_paris"
   ],
   "kind": "tour"
 }

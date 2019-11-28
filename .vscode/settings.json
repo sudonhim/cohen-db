@@ -5,7 +5,7 @@
                 "/db/**.json",
                 "/db.json"
             ],
-            "url": "./schema/document-file.json"
+            "url": "./schema/canon-file.json"
         }
     ]
 }

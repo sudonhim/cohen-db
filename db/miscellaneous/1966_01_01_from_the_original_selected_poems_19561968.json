@@ -10,7 +10,7 @@
         "reference": "song.avalanche",
         "content": {
           "text": [
-            "Some verses in the original poem are somehow different from the sung verses of 1972.",
+            "Some verses in the original poem are different from the sung verses of 1972.",
             "Second Stanza",
             [
               "The cripple that you clothe and feed",
@@ -55,5 +55,5 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "other"
 }
