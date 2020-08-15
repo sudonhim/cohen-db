@@ -6,6 +6,11 @@
  */
 
 /**
+ * Annotations attached to a file
+ */
+export type Annotations = Annotation[];
+
+/**
  * A collection of canonical material tied to a particular time, place, or release
  */
 export interface CanonFile {
@@ -89,15 +94,6 @@ export interface Variation {
    */
   reference: string;
   content: Text;
-}
-/**
- * Annotations attached to a file
- */
-export interface Annotations {
-  /**
-   * An array of individual annotations on the file
-   */
-  notes?: Annotation[];
 }
 /**
  * An annotation
