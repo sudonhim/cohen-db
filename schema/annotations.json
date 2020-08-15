@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "annotations.json",
+    "title": "Annotations",
+    "description": "Annotations attached to a file",
+    "type": "object",
+    "properties": {
+        "notes": {
+            "type": "array",
+            "description": "An array of individual annotations on the file",
+            "items": {
+                "type": "object",
+                "title": "Annotation",
+                "description": "An annotation",
+                "properties": {
+                    "anchor": {
+                        "type": "string",
+                        "description": "A reference to a location in the parent document"
+                    },
+                    "tokens": {
+                        "type": "array",
+                        "description": "An array of tokens constituting the annotation",
+                        "minItems": 1,
+                        "items": {
+                            "type": "object",
+                            "description": "A token of text content",
+                            "properties": {
+                                "text": {
+                                    "type": "string"
+                                },
+                                "link": {
+                                    "type": "string",
+                                    "description": "A link to a document part, or a URL"
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    }
+                },
+                "required": ["anchor", "tokens"],
+                "additionalProperties": false
+            }
+        }
+        
+    },
+    "additionalProperties": false
+}

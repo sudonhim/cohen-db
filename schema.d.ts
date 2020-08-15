@@ -19,6 +19,7 @@ export interface CanonFile {
   kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other";
   metadata?: Metadata;
   content?: Content;
+  annotations?: Annotations;
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
    */
@@ -88,4 +89,32 @@ export interface Variation {
    */
   reference: string;
   content: Text;
+}
+/**
+ * Annotations attached to a file
+ */
+export interface Annotations {
+  /**
+   * An array of individual annotations on the file
+   */
+  notes?: Annotation[];
+}
+/**
+ * An annotation
+ */
+export interface Annotation {
+  /**
+   * A reference to a location in the parent document
+   */
+  anchor: string;
+  /**
+   * An array of tokens constituting the annotation
+   */
+  tokens: {
+    text?: string;
+    /**
+     * A link to a document part, or a URL
+     */
+    link?: string;
+  }[];
 }

@@ -19,6 +19,9 @@
         "content": {
             "$ref": "content.json"
         },
+        "annotations": {
+            "$ref": "annotations.json"
+        },
         "children": {
             "type": "array",
             "description": "A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.",
