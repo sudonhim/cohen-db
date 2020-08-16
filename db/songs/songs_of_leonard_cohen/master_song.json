@@ -47,6 +47,42 @@
           "link": "https://en.wikipedia.org/wiki/Pauline_epistles"
         }
       ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "text": "The crucifix"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "text": "Christianity survived the Roman Empire"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l6",
+      "tokens": [
+        {
+          "text": "A human"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Sword of Damocles",
+          "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
+        }
+      ]
     }
   ],
   "content": {
