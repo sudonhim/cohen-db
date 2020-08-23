@@ -2,6 +2,14 @@
   "title": "Master Song",
   "annotations": [
     {
+      "anchor": "p1.l8",
+      "tokens": [
+        {
+          "text": "Communion, but it may be the only food on offer"
+        }
+      ]
+    },
+    {
       "anchor": "p3.l1",
       "tokens": [
         {
@@ -9,7 +17,7 @@
           "link": "https://en.wikipedia.org/wiki/Martin_Luther"
         },
         {
-          "text": ", the "
+          "text": ", German priest and seminal figure of the "
         },
         {
           "text": "Reformation",
@@ -21,7 +29,7 @@
       "anchor": "p3.l5",
       "tokens": [
         {
-          "text": "The Jews had The Word (scripture), and the rock is "
+          "text": "The word is scripture, and the rock is "
         },
         {
           "text": "Peter",
@@ -52,15 +60,15 @@
       "anchor": "p4.l1",
       "tokens": [
         {
-          "text": "The crucifix"
+          "text": "An aeroplane has the form of a cross. Crucifixion binds the hands. The crucified Christ led (piloted) his people after the loss of his human hands."
         }
       ]
     },
     {
-      "anchor": "p4.l4",
+      "anchor": "p4.l3",
       "tokens": [
         {
-          "text": "Christianity survived the Roman Empire"
+          "text": "Rain falls from a cracked firmament, bringing the flood, the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
         }
       ]
     },
@@ -81,6 +89,22 @@
         {
           "text": "Sword of Damocles",
           "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "text": "To live in the snow is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square. See 'snow' in the search feature, symbols lookup coming eventually."
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l2",
+      "tokens": [
+        {
+          "text": "The moon is the beckoning utopia, beautiful, though perhaps a false one. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
         }
       ]
     }
