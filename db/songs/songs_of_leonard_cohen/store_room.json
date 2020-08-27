@@ -111,5 +111,39 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "text": "It's not the winds of social change"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "text": "It's not the philosophy, it's not the pull of utopia"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "text": "Jesus said that Satan will come \"like a thief\""
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "tokens": [
+        {
+          "text": "It's not the immolating communities"
+        }
+      ]
+    }
+  ]
 }

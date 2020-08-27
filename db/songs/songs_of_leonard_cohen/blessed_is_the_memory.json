@@ -84,5 +84,63 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p10.l2",
+      "tokens": [
+        {
+          "text": "Nietzschean, possibly"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l1",
+      "tokens": [
+        {
+          "text": "Your laws are not holy enough, for the sea of faith you have to swim in."
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "tokens": [
+        {
+          "text": "Society became democratic, she \"laid down\" with those who lack vision"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l2",
+      "tokens": [
+        {
+          "text": "She needs Jesus"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "text": "This traditional honorific is usually used for the deceased"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy."
+        }
+      ]
+    }
+  ]
 }

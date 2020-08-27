@@ -40,5 +40,39 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "text": "Likely referring to American cities in the 60s, where much of the middle class was moving out to the suburbs to escape the chaos."
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "tokens": [
+        {
+          "text": "In LC's terms many leaders are \"hunters\" or \"killers\" - their words are weapons, their aim to spiritually kill or injure their opponents."
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "text": "See the poem \"A Kite is a Victim\""
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "tokens": [
+        {
+          "text": "Plans and dreams, but no light"
+        }
+      ]
+    }
+  ]
 }
