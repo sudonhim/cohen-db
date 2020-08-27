@@ -44,5 +44,15 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "text": "LC visited Cuba shortly before the Bay of Pigs invasion, and attempted to talk with the communists."
+        }
+      ]
+    }
+  ]
 }

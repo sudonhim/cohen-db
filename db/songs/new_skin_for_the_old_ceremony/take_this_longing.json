@@ -63,5 +63,15 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "text": "LC would like to seduce society in the present, instead he is standing in the detritus left behind her, reciting words, symbols, from her past. Winter clothes are the truths formed in harsher times. Sandal straps and ruins bring to mind collapsed civilizations, the Roman Empire."
+        }
+      ]
+    }
+  ]
 }

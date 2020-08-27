@@ -33,5 +33,31 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "text": "LC betrayed his revolution. See the song \"The Traitor\" for one of many accounts of this."
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l8",
+      "tokens": [
+        {
+          "text": "See the song \"Jazz Police\" for a similar account of these characters."
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "text": "LC wants to change truth and beauty, or to change \"the way we make love\", but he is not trying to do so by open disagreement. Instead his project is wrapped in a beautiful disguise that seduces and confounds. Its difficult to understand what he really means without agreeing with him."
+        }
+      ]
+    }
+  ]
 }
