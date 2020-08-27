@@ -46,5 +46,15 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p4.l8",
+      "tokens": [
+        {
+          "text": "LC gives what might be a reply to this question, trailing of \"la la la lala la lalalala la laaa...\"."
+        }
+      ]
+    }
+  ]
 }

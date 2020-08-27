@@ -40,5 +40,23 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l25",
+      "tokens": [
+        {
+          "text": "The moon is a stand-in for heaven, utopia"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l26",
+      "tokens": [
+        {
+          "text": "Likely another reference to the apollo missions, as well as a warning."
+        }
+      ]
+    }
+  ]
 }

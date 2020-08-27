@@ -60,5 +60,55 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "text": "The end of the year, the end of an era. This song has much in common with Last Year's Man"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "text": "This is a reference to the process of \"going clear\" in scientology, where harmful memories and ideas are purged from the mind."
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l2",
+      "tokens": [
+        {
+          "text": "The \"famous blue raincoat\" is the firmament, created by the prophet (Christ in this case) for us to live under. Its membrane restrains the waters of heaven, preventing the rain, and the biblical flood."
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "text": "Christ tried every route, but ultimately lost the girl."
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "text": "After Christ, society is chaotic, athiest, loveless, married to nobody."
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l1",
+      "tokens": [
+        {
+          "text": "LC sees the moral foundations of the US and Canada as fundamentally Christian rather than Jewish, although he doesn't draw the line between the two on self identification. He speaks here of a sense in which the Jewish prophet has suffered a spiritual death at the hands of Christ, his brother."
+        }
+      ]
+    }
+  ]
 }

@@ -44,5 +44,15 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l25",
+      "tokens": [
+        {
+          "text": "In a variation of this song he refers instead to \"miss liberty, the liberation's pride\" in this role. It's likely he sees secular politics both revolutionary and liberal as killing the next generation."
+        }
+      ]
+    }
+  ]
 }

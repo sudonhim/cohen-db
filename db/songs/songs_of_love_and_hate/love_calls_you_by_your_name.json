@@ -65,5 +65,15 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l7",
+      "tokens": [
+        {
+          "text": "The snowman is the man reduced to living in the snow, consisting of snow. Exiled from the temple, his spiritual life is tenuous. The rain falls down upon him from the cracked heavens, bringing the end of an era."
+        }
+      ]
+    }
+  ]
 }
