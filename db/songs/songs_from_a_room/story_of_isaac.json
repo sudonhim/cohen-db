@@ -70,5 +70,39 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p5.l1",
+      "tokens": [
+        {
+          "text": "The story turns to the current situation, especially the Vietnam war."
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "text": "LC claims that the current leaders lack the moral authority to sacrifice their children, such authority can come only from god."
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l1",
+      "tokens": [
+        {
+          "text": "Rebuking the US government for drafting soliders into Vietnam made you popular with the radical left, and thus now Cohen turns on the communists to rebuke them also. A decade later in a live performances of Diamonds in the Mine LC refers back to this song. He sings \"I thought I told you all about it / back in days of Vietnam / when your poets marched for Uncle Ho / and your jocks for Uncle Sam / well whose side are you on today / whose song are you gonna sing / with the mega stench of corpses / that is blowing in the wind!\""
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l3",
+      "tokens": [
+        {
+          "text": "This is a deep critique of communism. If men are to be brothers - brothers according to whose plan? Communists reject that it was according to God's plan, but struggle to agree on an alternative."
+        }
+      ]
+    }
+  ]
 }

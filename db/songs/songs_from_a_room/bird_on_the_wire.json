@@ -37,5 +37,15 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "text": "LC frequently alludes to our inner spiritual self as a \"beggar\". Beneath all our rational faculties, our great mind that can construct all manner of rational thought as it \"moves between yes and no\" but \"never provides the answers\", there is a deeper faculty, which \"operates with answers\", and begs to us."
+        }
+      ]
+    }
+  ]
 }

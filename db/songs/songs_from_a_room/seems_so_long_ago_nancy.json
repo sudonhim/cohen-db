@@ -58,5 +58,23 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "text": "Our Judeo-Christian religious inheritance is on trial for honesty"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "text": "Society was seduced onto a new course in the 60s"
+        }
+      ]
+    }
+  ]
 }
