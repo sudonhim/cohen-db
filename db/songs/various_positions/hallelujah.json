@@ -76,5 +76,23 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p3.l4",
+      "tokens": [
+        {
+          "text": "Seduced by her beauty the male figure is bound into her domestic arrangements. There are not many references to the kitchen in LC's work, but it seems to mean something like the economy, where the arrangements are made that determine 'who will serve and who will eat'."
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "text": "The old patriarchal spiritual hierarchy is destroyed, as is the source of the prophet's power (recall the secret to Samson's strength is his hair)."
+        }
+      ]
+    }
+  ]
 }

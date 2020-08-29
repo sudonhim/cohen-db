@@ -61,5 +61,31 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "text": "The temple and the snow form a sort of binary - those whose spiritual attachments are elevated and affirmed in the public square are in the temple, those who are exiled from it must make their home in the snow. Here LC locates the nurturing mother figure as being beneath both."
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "text": "The night is a time of comfort but also of illusion, as we are shielded from the world. In daytime we wrestle with reality, often in struggle and suffering, but our vision is clearer."
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "text": "This is the ceasefire agreement signed in the Yom Kippur war, which didn't last the night."
+        }
+      ]
+    }
+  ]
 }
