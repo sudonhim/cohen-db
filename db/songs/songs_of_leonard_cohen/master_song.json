@@ -5,7 +5,10 @@
       "anchor": "p1.l8",
       "tokens": [
         {
-          "text": "Communion, but it may be the only food on offer"
+          "docRef": "symbol.eucharist"
+        },
+        {
+          "text": ", but it may be the only food on offer"
         }
       ]
     },
@@ -13,7 +16,7 @@
       "anchor": "p2.l8",
       "tokens": [
         {
-          "text": "Kisses are affirmations"
+          "docRef": "symbol.kiss"
         }
       ]
     },
@@ -76,7 +79,16 @@
       "anchor": "p4.l3",
       "tokens": [
         {
-          "text": "Rain falls from a cracked firmament, bringing the flood, the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
+          "docRef": "symbol.rain"
+        },
+        {
+          "text": " falls from a cracked firmament, bringing the "
+        },
+        {
+          "docRef": "symbol.flood"
+        },
+        {
+          "text": "; the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
         }
       ]
     },
@@ -120,7 +132,13 @@
       "anchor": "p6.l4",
       "tokens": [
         {
-          "text": "To live in the snow is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square. See 'snow' in the search feature, symbols lookup coming eventually."
+          "text": "To live in the "
+        },
+        {
+          "docRef": "symbol.snow"
+        },
+        {
+          "text": " is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square."
         }
       ]
     },
@@ -128,7 +146,13 @@
       "anchor": "p7.l2",
       "tokens": [
         {
-          "text": "The moon is the beckoning utopia, beautiful, though perhaps a false one. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
+          "text": "The "
+        },
+        {
+          "docRef": "symbol.moon"
+        },
+        {
+          "text": " is the beckoning utopia, beautiful, though perhaps false. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
         }
       ]
     }

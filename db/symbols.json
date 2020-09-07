@@ -1,0 +1,12 @@
+{
+  "title": "Symbols",
+  "children": [
+    "symbol.eucharist",
+    "symbol.flood",
+    "symbol.kiss",
+    "symbol.moon",
+    "symbol.rain",
+    "symbol.snow"
+  ],
+  "kind": "group"
+}

@@ -10,7 +10,7 @@
         },
         "kind": {
             "type": "string",
-            "enum": ["group", "song", "live", "album", "tour", "interview", "other"],
+            "enum": ["group", "song", "live", "album", "tour", "interview", "other", "symbol"],
             "description": "The category that this item belongs to."
         },
         "metadata": {
