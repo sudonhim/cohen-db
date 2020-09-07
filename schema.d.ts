@@ -21,7 +21,7 @@ export interface CanonFile {
   /**
    * The category that this item belongs to.
    */
-  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other";
+  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
   metadata?: Metadata;
   content?: Content;
   annotations?: Annotations;
@@ -106,16 +106,27 @@ export interface Annotation {
   /**
    * An array of tokens constituting the annotation
    */
-  tokens: (
-    | {
-        text: string;
-      }
-    | {
-        text: string;
-        link: string;
-      }
-    | {
-        docRef: string;
-      }
-  )[];
+  tokens: (TextToken | ExternalLinkToken | DocrefToken)[];
+}
+/**
+ * A token of text content
+ */
+export interface TextToken {
+  kind: "text";
+  text: string;
+}
+/**
+ * A token referring to an external link
+ */
+export interface ExternalLinkToken {
+  kind: "link";
+  text: string;
+  link: string;
+}
+/**
+ * A token referring to another document
+ */
+export interface DocrefToken {
+  kind: "docref";
+  docRef: string;
 }

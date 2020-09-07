@@ -21,19 +21,27 @@
                     "oneOf": [
                         {
                             "type": "object",
+                            "title": "TextToken",
                             "description": "A token of text content",
                             "properties": {
+                                "kind": {
+                                    "enum": [ "text" ]
+                                },
                                 "text": {
                                     "type": "string"
                                 }
                             },
                             "additionalProperties": false,
-                            "required": ["text"]
+                            "required": ["kind", "text"]
                         },
                         {
                             "type": "object",
+                            "title": "ExternalLinkToken",
                             "description": "A token referring to an external link",
                             "properties": {
+                                "kind": {
+                                    "enum": [ "link" ]
+                                },
                                 "text": {
                                     "type": "string"
                                 },
@@ -42,18 +50,22 @@
                                 }
                             },
                             "additionalProperties": false,
-                            "required": ["text", "link"]
+                            "required": ["kind", "text", "link"]
                         },
                         {
                             "type": "object",
+                            "title": "DocrefToken",
                             "description": "A token referring to another document",
                             "properties": {
+                                "kind": {
+                                    "enum": [ "docref" ]
+                                },
                                 "docRef": {
                                     "type": "string"
                                 }
                             },
                             "additionalProperties": false,
-                            "required": ["docRef"]
+                            "required": ["kind", "docRef"]
                         }
                     ]
                 }
