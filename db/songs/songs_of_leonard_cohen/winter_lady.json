@@ -40,7 +40,8 @@
       "anchor": "p1.l3",
       "tokens": [
         {
-          "text": "The station symbolism is used through LC's work; society rests, but never forever. She will meet some stranger, and be seduced into travelling a new route."
+          "text": "The station symbolism is used through LC's work; society rests, but never forever. She will meet some stranger, and be seduced into travelling a new route.",
+          "kind": "text"
         }
       ]
     },
@@ -48,7 +49,8 @@
       "anchor": "p1.l4",
       "tokens": [
         {
-          "text": "LC acknowledges that he's not the messiah"
+          "text": "LC acknowledges that he's not the messiah",
+          "kind": "text"
         }
       ]
     },
@@ -56,7 +58,8 @@
       "anchor": "p1.l5",
       "tokens": [
         {
-          "text": "Snow represents ideas that are cold and crystalline, in contrast to the sea of faith, or the river of belief. To live in the snow is to have your social system be excluded from the temple, to exist only as facts, knowledge, and philosophy. A female child of snow would indicate some sort of social system that was born of exile, harsh necessity and reason."
+          "text": "Snow represents ideas that are cold and crystalline, in contrast to the sea of faith, or the river of belief. To live in the snow is to have your social system be excluded from the temple, to exist only as facts, knowledge, and philosophy. A female child of snow would indicate some sort of social system that was born of exile, harsh necessity and reason.",
+          "kind": "text"
         }
       ]
     },
@@ -64,7 +67,8 @@
       "anchor": "p2.l1",
       "tokens": [
         {
-          "text": "Hair usually means power."
+          "text": "Hair usually means power.",
+          "kind": "text"
         }
       ]
     }

@@ -117,7 +117,8 @@
       "anchor": "p1.l1",
       "tokens": [
         {
-          "text": "It's not the winds of social change"
+          "text": "It's not the winds of social change",
+          "kind": "text"
         }
       ]
     },
@@ -125,7 +126,8 @@
       "anchor": "p1.l2",
       "tokens": [
         {
-          "text": "It's not the philosophy, it's not the pull of utopia"
+          "text": "It's not the philosophy, it's not the pull of utopia",
+          "kind": "text"
         }
       ]
     },
@@ -133,7 +135,8 @@
       "anchor": "p2.l2",
       "tokens": [
         {
-          "text": "Jesus said that Satan will come \"like a thief\""
+          "text": "Jesus said that Satan will come \"like a thief\"",
+          "kind": "text"
         }
       ]
     },
@@ -141,7 +144,8 @@
       "anchor": "p3.l1",
       "tokens": [
         {
-          "text": "It's not the immolating communities"
+          "text": "It's not the immolating communities",
+          "kind": "text"
         }
       ]
     }

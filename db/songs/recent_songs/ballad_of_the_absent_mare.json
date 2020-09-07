@@ -132,7 +132,8 @@
       "anchor": "p1.l1",
       "tokens": [
         {
-          "text": "This song is based on the Ten Bulls story from the Zen tradition that depicts progress to enlightenment, but it is transposed east to west, and speaks to American politics."
+          "text": "This song is based on the Ten Bulls story from the Zen tradition that depicts progress to enlightenment, but it is transposed east to west, and speaks to American politics.",
+          "kind": "text"
         }
       ]
     },
@@ -140,7 +141,8 @@
       "anchor": "p1.l2",
       "tokens": [
         {
-          "text": "The cowboy refers to an old American archetype, white, male, individualistic, a libertarian of sorts. When Ronald Reagan was elected shortly after this song was released, the front page of the New York Times read \"The Cowboy President\". As related by the song, this class of people have lost the control that they had of \"their\" country."
+          "text": "The cowboy refers to an old American archetype, white, male, individualistic, a libertarian of sorts. When Ronald Reagan was elected shortly after this song was released, the front page of the New York Times read \"The Cowboy President\". As related by the song, this class of people have lost the control that they had of \"their\" country.",
+          "kind": "text"
         }
       ]
     },
@@ -148,7 +150,8 @@
       "anchor": "p10.l8",
       "tokens": [
         {
-          "text": "This this version the cowboy might possibly reconcile his relationship with the mare, or; America's old elite may yet reconcile their relationship with the new America, no longer ruling with \"the whip\" or \"the rein\", but in unity."
+          "text": "This this version the cowboy might possibly reconcile his relationship with the mare, or; America's old elite may yet reconcile their relationship with the new America, no longer ruling with \"the whip\" or \"the rein\", but in unity.",
+          "kind": "text"
         }
       ]
     }

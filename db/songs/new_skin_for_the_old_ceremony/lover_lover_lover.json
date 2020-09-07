@@ -66,7 +66,8 @@
       "anchor": "p11.l2",
       "tokens": [
         {
-          "text": "In summary this song is a dialogue between God and the Jewish people. The Jew cries out \"God, why have you abandoned me? How have you allowed us to fall into such a wretched condition? Give us a fresh start, let us escape it!\". And God replies \"It was you who forgot me, I never left you. I have given everything that you need.\""
+          "text": "In summary this song is a dialogue between God and the Jewish people. The Jew cries out \"God, why have you abandoned me? How have you allowed us to fall into such a wretched condition? Give us a fresh start, let us escape it!\". And God replies \"It was you who forgot me, I never left you. I have given everything that you need.\"",
+          "kind": "text"
         }
       ]
     },
@@ -74,7 +75,8 @@
       "anchor": "p2.l1",
       "tokens": [
         {
-          "text": "LC is borrowing a technique from the 13th century Persian poet Rumi, who famously referred to god as his \"lover\". Rumi is credited in the album sleeve."
+          "text": "LC is borrowing a technique from the 13th century Persian poet Rumi, who famously referred to god as his \"lover\". Rumi is credited in the album sleeve.",
+          "kind": "text"
         }
       ]
     },
@@ -82,7 +84,8 @@
       "anchor": "p3.l3",
       "tokens": [
         {
-          "text": "This is commonly interpreted as a moral test - to choose love (make a woman smile) over violence (use it as a weapon). This fits with the pacifist currents of the 70s in the US, but its probable that the correct interpretation is much darker. Aligning with the fifth verse, the spirit of this song is to succeed \"against the enemy\". The rather than a choice then, these two lines become the most important things you can do with your god-given body; to fight, and to reproduce. This makes a lot more sense under the circumstances in which the song was written."
+          "text": "This is commonly interpreted as a moral test - to choose love (make a woman smile) over violence (use it as a weapon). This fits with the pacifist currents of the 70s in the US, but its probable that the correct interpretation is much darker. Aligning with the fifth verse, the spirit of this song is to succeed \"against the enemy\". The rather than a choice then, these two lines become the most important things you can do with your god-given body; to fight, and to reproduce. This makes a lot more sense under the circumstances in which the song was written.",
+          "kind": "text"
         }
       ]
     },
@@ -90,7 +93,8 @@
       "anchor": "p5.l3",
       "tokens": [
         {
-          "text": "An Israeli comments: \"...the new face - is the new way of relating to Jewish culture, to being a Jew in new times when there is finally a state which didn’t exist before, the state which needs protection. Old stereotypes about Jews unable to defend themselves must be destroyed.\""
+          "text": "An Israeli comments: \"...the new face - is the new way of relating to Jewish culture, to being a Jew in new times when there is finally a state which didn’t exist before, the state which needs protection. Old stereotypes about Jews unable to defend themselves must be destroyed.\"",
+          "kind": "text"
         }
       ]
     },
@@ -98,7 +102,8 @@
       "anchor": "p9",
       "tokens": [
         {
-          "text": "The overall spirit of the song - written for Israeli toops in the Yom Kippur War, it is for strengthening Jewish identity in the face of adversity and moral ambiguity. LC does claim that the song is for \"both sides\", and indeed it is true for any people in this struggle."
+          "text": "The overall spirit of the song - written for Israeli toops in the Yom Kippur War, it is for strengthening Jewish identity in the face of adversity and moral ambiguity. LC does claim that the song is for \"both sides\", and indeed it is true for any people in this struggle.",
+          "kind": "text"
         }
       ]
     }

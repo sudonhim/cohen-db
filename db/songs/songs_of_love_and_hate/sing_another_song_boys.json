@@ -46,7 +46,8 @@
       "anchor": "p1.l25",
       "tokens": [
         {
-          "text": "The moon is a stand-in for heaven, utopia"
+          "text": "The moon is a stand-in for heaven, utopia",
+          "kind": "text"
         }
       ]
     },
@@ -54,7 +55,8 @@
       "anchor": "p1.l26",
       "tokens": [
         {
-          "text": "Likely another reference to the apollo missions, as well as a warning."
+          "text": "Likely another reference to the apollo missions, as well as a warning.",
+          "kind": "text"
         }
       ]
     }

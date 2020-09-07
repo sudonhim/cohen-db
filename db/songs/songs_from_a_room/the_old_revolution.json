@@ -47,7 +47,8 @@
       "anchor": "p4.l4",
       "tokens": [
         {
-          "text": "Our spiritual self is burdened by our material wealth"
+          "text": "Our spiritual self is burdened by our material wealth",
+          "kind": "text"
         }
       ]
     }

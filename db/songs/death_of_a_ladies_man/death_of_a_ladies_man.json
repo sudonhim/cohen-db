@@ -65,7 +65,8 @@
       "anchor": "p3.l2",
       "tokens": [
         {
-          "text": "\"Heart of Darkness\" is a book on The Congo Free State, a state in Africa privately owned by Belgium's Leopold II. The regime claimed to be benevolent, developing the region for the good of all, but in practice it was ruthlessly violent and exploitative, yielding vast wealth for Leopold from the rubber industry."
+          "text": "\"Heart of Darkness\" is a book on The Congo Free State, a state in Africa privately owned by Belgium's Leopold II. The regime claimed to be benevolent, developing the region for the good of all, but in practice it was ruthlessly violent and exploitative, yielding vast wealth for Leopold from the rubber industry.",
+          "kind": "text"
         }
       ]
     }

@@ -69,7 +69,8 @@
       "anchor": "p1.l1",
       "tokens": [
         {
-          "text": "The rain, falling from a cracked firmament, signifying the end of an era. It falls on the man of that era."
+          "text": "The rain, falling from a cracked firmament, signifying the end of an era. It falls on the man of that era.",
+          "kind": "text"
         }
       ]
     },
@@ -77,7 +78,8 @@
       "anchor": "p1.l2",
       "tokens": [
         {
-          "text": "A Jew's harp, like a crayon, is a cheap and crude instrument. The motif of the prophet saddled with poor instruments is one taken from William Blake."
+          "text": "A Jew's harp, like a crayon, is a cheap and crude instrument. The motif of the prophet saddled with poor instruments is one taken from William Blake.",
+          "kind": "text"
         }
       ]
     },
@@ -85,7 +87,8 @@
       "anchor": "p1.l7",
       "tokens": [
         {
-          "text": "The crack in the firmament. In hebrew skylight / skin / firmament share a root."
+          "text": "The crack in the firmament. In hebrew skylight / skin / firmament share a root.",
+          "kind": "text"
         }
       ]
     },
@@ -93,7 +96,8 @@
       "anchor": "p2.l1",
       "tokens": [
         {
-          "text": "LC talks of the current time as 'the darkness', a time of shelter and wealth where we get caught up in our dreams and games, but lack the divine light, which is often only revealed through hardship."
+          "text": "LC talks of the current time as 'the darkness', a time of shelter and wealth where we get caught up in our dreams and games, but lack the divine light, which is often only revealed through hardship.",
+          "kind": "text"
         }
       ]
     },
@@ -101,7 +105,8 @@
       "anchor": "p2.l3",
       "tokens": [
         {
-          "text": "One by one we come to understand that our society, though beautiful, is destined to self-immolate."
+          "text": "One by one we come to understand that our society, though beautiful, is destined to self-immolate.",
+          "kind": "text"
         }
       ]
     },
@@ -109,7 +114,8 @@
       "anchor": "p3.l1",
       "tokens": [
         {
-          "text": "The uniform may refer to Cohen's role as a priest, carrying forward symbols from the past. See the poem \"I've Seen Some Lonely History\""
+          "text": "The uniform may refer to Cohen's role as a priest, carrying forward symbols from the past. See the poem \"I've Seen Some Lonely History\"",
+          "kind": "text"
         }
       ]
     },
@@ -117,7 +123,8 @@
       "anchor": "p4.l1",
       "tokens": [
         {
-          "text": "Christianity"
+          "text": "Christianity",
+          "kind": "text"
         }
       ]
     },
@@ -125,7 +132,8 @@
       "anchor": "p5.l7",
       "tokens": [
         {
-          "text": "We read from prophets that the church is receding. As LC says, \"It will defeat itself. It will establish the wilderness in which the Brightness will manifest again.\""
+          "text": "We read from prophets that the church is receding. As LC says, \"It will defeat itself. It will establish the wilderness in which the Brightness will manifest again.\"",
+          "kind": "text"
         }
       ]
     }

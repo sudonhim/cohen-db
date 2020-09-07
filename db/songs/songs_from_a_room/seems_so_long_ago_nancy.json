@@ -64,7 +64,8 @@
       "anchor": "p2.l2",
       "tokens": [
         {
-          "text": "Our Judeo-Christian religious inheritance is on trial for honesty"
+          "text": "Our Judeo-Christian religious inheritance is on trial for honesty",
+          "kind": "text"
         }
       ]
     },
@@ -72,7 +73,8 @@
       "anchor": "p4.l4",
       "tokens": [
         {
-          "text": "Society was seduced onto a new course in the 60s"
+          "text": "Society was seduced onto a new course in the 60s",
+          "kind": "text"
         }
       ]
     }

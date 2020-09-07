@@ -37,7 +37,8 @@
       "anchor": "p1.l1",
       "tokens": [
         {
-          "text": "His early work, referred to consistently as a fire (which ultimately failed to catch and transfigure society)."
+          "text": "His early work, referred to consistently as a fire (which ultimately failed to catch and transfigure society).",
+          "kind": "text"
         }
       ]
     }

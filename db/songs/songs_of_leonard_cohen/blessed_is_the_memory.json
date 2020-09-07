@@ -90,7 +90,8 @@
       "anchor": "p10.l2",
       "tokens": [
         {
-          "text": "Nietzschean, possibly"
+          "text": "Nietzschean, possibly",
+          "kind": "text"
         }
       ]
     },
@@ -98,7 +99,8 @@
       "anchor": "p11.l1",
       "tokens": [
         {
-          "text": "Your laws are not holy enough, for the sea of faith you have to swim in."
+          "text": "Your laws are not holy enough, for the sea of faith you have to swim in.",
+          "kind": "text"
         }
       ]
     },
@@ -106,7 +108,8 @@
       "anchor": "p2.l1",
       "tokens": [
         {
-          "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power"
+          "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power",
+          "kind": "text"
         }
       ]
     },
@@ -114,7 +117,8 @@
       "anchor": "p2.l4",
       "tokens": [
         {
-          "text": "Society became democratic, she \"laid down\" with those who lack vision"
+          "text": "Society became democratic, she \"laid down\" with those who lack vision",
+          "kind": "text"
         }
       ]
     },
@@ -122,7 +126,8 @@
       "anchor": "p3.l2",
       "tokens": [
         {
-          "text": "She needs Jesus"
+          "text": "She needs Jesus",
+          "kind": "text"
         }
       ]
     },
@@ -130,7 +135,8 @@
       "anchor": "p3.l3",
       "tokens": [
         {
-          "text": "This traditional honorific is usually used for the deceased"
+          "text": "This traditional honorific is usually used for the deceased",
+          "kind": "text"
         }
       ]
     },
@@ -138,7 +144,8 @@
       "anchor": "p5.l4",
       "tokens": [
         {
-          "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy."
+          "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy.",
+          "kind": "text"
         }
       ]
     }

@@ -5,9 +5,11 @@
       "anchor": "p1.l8",
       "tokens": [
         {
+          "kind": "docref",
           "docRef": "symbol.eucharist"
         },
         {
+          "kind": "text",
           "text": ", but it may be the only food on offer"
         }
       ]
@@ -16,6 +18,7 @@
       "anchor": "p2.l8",
       "tokens": [
         {
+          "kind": "docref",
           "docRef": "symbol.kiss"
         }
       ]
@@ -24,13 +27,16 @@
       "anchor": "p3.l1",
       "tokens": [
         {
+          "kind": "link",
           "text": "Martin Luther",
           "link": "https://en.wikipedia.org/wiki/Martin_Luther"
         },
         {
+          "kind": "text",
           "text": ", German priest and seminal figure of the "
         },
         {
+          "kind": "link",
           "text": "Reformation",
           "link": "https://en.wikipedia.org/wiki/Reformation"
         }
@@ -40,16 +46,20 @@
       "anchor": "p3.l5",
       "tokens": [
         {
+          "kind": "text",
           "text": "The word is scripture, and the rock is "
         },
         {
+          "kind": "link",
           "text": "Peter",
           "link": "https://biblehub.com/matthew/16-18.htm"
         },
         {
+          "kind": "text",
           "text": "; Protestantism breaks away from some of Christianity's Jewish roots, and from the "
         },
         {
+          "kind": "link",
           "text": "apostolic succession",
           "link": "https://en.wikipedia.org/wiki/Apostolic_succession"
         }
@@ -59,9 +69,11 @@
       "anchor": "p3.l6",
       "tokens": [
         {
+          "kind": "text",
           "text": "Likely refers to the "
         },
         {
+          "kind": "link",
           "text": "Pauline epistles",
           "link": "https://en.wikipedia.org/wiki/Pauline_epistles"
         }
@@ -71,6 +83,7 @@
       "anchor": "p4.l1",
       "tokens": [
         {
+          "kind": "text",
           "text": "An aeroplane has the form of a cross. Crucifixion binds the hands. The crucified Christ led (piloted) his people after the loss of his human hands."
         }
       ]
@@ -79,15 +92,19 @@
       "anchor": "p4.l3",
       "tokens": [
         {
+          "kind": "docref",
           "docRef": "symbol.rain"
         },
         {
+          "kind": "text",
           "text": " falls from a cracked firmament, bringing the "
         },
         {
+          "kind": "docref",
           "docRef": "symbol.flood"
         },
         {
+          "kind": "text",
           "text": "; the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
         }
       ]
@@ -96,6 +113,7 @@
       "anchor": "p4.l4",
       "tokens": [
         {
+          "kind": "text",
           "text": "The 'crowds in the stands' refers to Roman civilization"
         }
       ]
@@ -104,6 +122,7 @@
       "anchor": "p4.l6",
       "tokens": [
         {
+          "kind": "text",
           "text": "A human"
         }
       ]
@@ -112,6 +131,7 @@
       "anchor": "p4.l8",
       "tokens": [
         {
+          "kind": "text",
           "text": "Possibly harps"
         }
       ]
@@ -120,9 +140,11 @@
       "anchor": "p5.l3",
       "tokens": [
         {
+          "kind": "text",
           "text": "The "
         },
         {
+          "kind": "link",
           "text": "Sword of Damocles",
           "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
         }
@@ -132,12 +154,15 @@
       "anchor": "p6.l4",
       "tokens": [
         {
+          "kind": "text",
           "text": "To live in the "
         },
         {
+          "kind": "docref",
           "docRef": "symbol.snow"
         },
         {
+          "kind": "text",
           "text": " is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square."
         }
       ]
@@ -146,12 +171,15 @@
       "anchor": "p7.l2",
       "tokens": [
         {
+          "kind": "text",
           "text": "The "
         },
         {
+          "kind": "docref",
           "docRef": "symbol.moon"
         },
         {
+          "kind": "text",
           "text": " is the beckoning utopia, beautiful, though perhaps false. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
         }
       ]
