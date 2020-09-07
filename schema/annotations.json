@@ -18,18 +18,44 @@
                 "description": "An array of tokens constituting the annotation",
                 "minItems": 1,
                 "items": {
-                    "type": "object",
-                    "description": "A token of text content",
-                    "properties": {
-                        "text": {
-                            "type": "string"
+                    "oneOf": [
+                        {
+                            "type": "object",
+                            "description": "A token of text content",
+                            "properties": {
+                                "text": {
+                                    "type": "string"
+                                }
+                            },
+                            "additionalProperties": false,
+                            "required": ["text"]
                         },
-                        "link": {
-                            "type": "string",
-                            "description": "A link to a document part, or a URL"
+                        {
+                            "type": "object",
+                            "description": "A token referring to an external link",
+                            "properties": {
+                                "text": {
+                                    "type": "string"
+                                },
+                                "link": {
+                                    "type": "string"
+                                }
+                            },
+                            "additionalProperties": false,
+                            "required": ["text", "link"]
+                        },
+                        {
+                            "type": "object",
+                            "description": "A token referring to another document",
+                            "properties": {
+                                "docRef": {
+                                    "type": "string"
+                                }
+                            },
+                            "additionalProperties": false,
+                            "required": ["docRef"]
                         }
-                    },
-                    "additionalProperties": false
+                    ]
                 }
             }
         },

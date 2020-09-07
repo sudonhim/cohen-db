@@ -106,11 +106,16 @@ export interface Annotation {
   /**
    * An array of tokens constituting the annotation
    */
-  tokens: {
-    text?: string;
-    /**
-     * A link to a document part, or a URL
-     */
-    link?: string;
-  }[];
+  tokens: (
+    | {
+        text: string;
+      }
+    | {
+        text: string;
+        link: string;
+      }
+    | {
+        docRef: string;
+      }
+  )[];
 }
