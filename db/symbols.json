@@ -2,11 +2,21 @@
   "title": "Symbols",
   "children": [
     "symbol.eucharist",
+    "symbol.day",
+    "symbol.death",
     "symbol.flood",
+    "symbol.gold",
+    "symbol.green",
+    "symbol.heart",
+    "symbol.highway",
+    "symbol.killer",
     "symbol.kiss",
     "symbol.moon",
+    "symbol.night",
     "symbol.rain",
-    "symbol.snow"
+    "symbol.snow",
+    "symbol.temple",
+    "symbol.train_station"
   ],
   "kind": "group"
 }
