@@ -104,11 +104,56 @@
       ]
     },
     {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.poker"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train_station"
+        }
+      ]
+    },
+    {
       "anchor": "p4.l2",
       "tokens": [
         {
           "text": "This possibly refers to classical liberalism, or something thereabouts. As a ruling social system it makes pretensions to be devoid of dreams, locating them in the individual only.",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gold"
         }
       ]
     },
@@ -127,6 +172,42 @@
         {
           "text": "Society shelters this system in return for the 'game', likely the system of capitalism, laws, etc which promise peace and prosperity.",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.poker"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.highway"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.doorway"
         }
       ]
     },
@@ -154,6 +235,24 @@
         {
           "text": "\"the bridge of the intellect\", which straddles the river of belief. But in this case the river is \"endless\", possibly the ocean, so this construction project may be doomed.",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bridge"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bridge"
         }
       ]
     }

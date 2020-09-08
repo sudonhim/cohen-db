@@ -87,11 +87,29 @@
   "kind": "song",
   "annotations": [
     {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.farm"
+        }
+      ]
+    },
+    {
       "anchor": "p10.l2",
       "tokens": [
         {
           "text": "Nietzschean, possibly",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
         }
       ]
     },
@@ -105,11 +123,29 @@
       ]
     },
     {
+      "anchor": "p11.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
       "anchor": "p2.l1",
       "tokens": [
         {
           "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.mountain"
         }
       ]
     },
@@ -141,11 +177,38 @@
       ]
     },
     {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train_station"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.snow"
+        }
+      ]
+    },
+    {
       "anchor": "p5.l4",
       "tokens": [
         {
           "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy.",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
         }
       ]
     }

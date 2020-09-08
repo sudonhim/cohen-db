@@ -89,11 +89,46 @@
   "kind": "song",
   "annotations": [
     {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gold"
+        }
+      ]
+    },
+    {
       "anchor": "p5.l2",
       "tokens": [
         {
           "text": "The symbolism of scalpels is that they remove. First the hair, which is the source of spiritual power but in current times unfashionable. Later, the flesh, in self destruction and suicide. There are relationships with reason and secularization - removing all that can't be proved by reason.",
           "kind": "text"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "text",
+          "text": "Similar to "
+        },
+        {
+          "kind": "docref",
+          "docRef": "symbol.razor"
+        },
+        {
+          "kind": "text",
+          "text": " except for the flesh"
         }
       ]
     },
