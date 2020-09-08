@@ -4,10 +4,7 @@ import { CanonDb } from '../index';
 import { Annotation } from '../schema';
 
 interface UpdatesBlob {
-    [docId: string]: {
-        canonRefs: string[],
-        text: string,
-    }[]
+    [docId: string]: Annotation[]
 }
 
 const docDb: CanonDb = LoadAndValidate();
@@ -21,10 +18,7 @@ async function run() {
     console.log(JSON.stringify(data, null, 2));
 
     for (var docId in data) {
-        const newAnnotations: Annotation[] = data[docId].map(anno => ({
-            anchor: anno.canonRefs[0],
-            tokens: [ { text: anno.text } ]
-        }));
+        const newAnnotations: Annotation[] = data[docId] as Annotation[];
         const allAnnotations = [...(docDb[docId].annotations || []), ...newAnnotations];
         allAnnotations.sort((a, b) => a.anchor.localeCompare(b.anchor));
         docDb[docId].annotations = allAnnotations;
