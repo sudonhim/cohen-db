@@ -7,9 +7,10 @@
   "scripts": {
     "prepare": "ts-node run/build.ts",
     "fetch-updates": "ts-node run/fetch-updates",
-    "gen": "ts-node run/generate-types.ts",
+    "generate-types": "ts-node run/generate-types.ts",
     "validate": "ts-node run/validate-data.ts",
-    "test-roundtrip": "ts-node run/load-save-roundtrip.ts"
+    "test-roundtrip": "ts-node run/load-save-roundtrip.ts",
+    "generate-syms": "ts-node run/generate-syms.ts"
   },
   "repository": {
     "type": "git",
@@ -23,10 +24,14 @@
   "homepage": "https://github.com/SudoNhim/cohen-db#readme",
   "devDependencies": {
     "@types/axios": "^0.14.0",
+    "@types/prettier": "^2.1.0",
+    "@types/stemmer": "^1.0.2",
     "ajv": "^6.10.2",
     "axios": "^0.20.0",
     "json-schema-to-typescript": "^7.1.0",
+    "prettier": "^2.1.1",
     "slugify": "^1.3.6",
+    "stemmer": "^1.0.5",
     "ts-node": "^8.5.0",
     "typescript": "^3.7.2"
   },
