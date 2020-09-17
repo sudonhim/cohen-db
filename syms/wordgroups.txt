@@ -1,14 +1,16 @@
 water, ice, snow, river, sea
+winter, summer
+winter, snow, ice, cold
 sea, seaweed, ship
 snowman, snow
 temple, snow
 bridge, river
-wind, rain
+wind, rain, flood
 hair, heart, flesh, blood, lip
-green, gold, blue
+green, gold, blue, white
 beggar
 killer, heart, death
-killer, hunter, soldier, doctor
+killer, hunter, soldier, doctor, gypsy
 razor, hair, scalpel
 suicide, death, razor, scalpel
 bird, raven, dove, swan
@@ -16,13 +18,13 @@ train, station, road
 room, door, window, bed
 farm
 master, slave, lover
-male, female
-female, mother, daughter
-male, father, son
+man, woman
+woman, mother, daughter
+man, father, son
 mother, father, daughter, son
-male, prophet, stranger
-female, holy ghost, thigh
-day, night, light, dark
+man, prophet, stranger
+woman, holy ghost, thigh
+day, night, light, dark, dusk, dawn
 night, sleep, dream
 light, fire, candle
 tree, wood, fire, smoke, ash
@@ -31,3 +33,7 @@ moon, star, sky, night
 sun, sky
 rain, sky
 eucharist, crucifixion
+kiss, dance
+rose
+sweetness
+kitchen
