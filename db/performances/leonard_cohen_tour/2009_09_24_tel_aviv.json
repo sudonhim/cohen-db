@@ -8,5 +8,24 @@
       "venue": "Ramat Gan Stadium"
     }
   },
+  "content": {
+    "content": [
+      {
+        "kind": "variation",
+        "reference": "song.lover_lover_lover",
+        "content": {
+          "text": [
+            "Before the final verse",
+            [
+              "You may come to me in happiness",
+              "Or you may come to be in grief",
+              "You may come to me in your deepest faith",
+              "Or you may come in disbelief"
+            ]
+          ]
+        }
+      }
+    ]
+  },
   "kind": "live"
 }
