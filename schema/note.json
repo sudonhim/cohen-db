@@ -16,6 +16,6 @@
             "$ref": "text.json"
         }
     },
-    "required": ["kind", "content"],
+    "required": ["kind"],
     "additionalProperties": false
 }

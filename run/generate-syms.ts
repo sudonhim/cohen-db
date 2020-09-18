@@ -1,5 +1,7 @@
 import * as fs from 'fs';
 import * as stemmer from 'stemmer';
+import { CanonDb } from '..';
+import { LoadAndValidate } from '../lib/utils';
 
 interface SymbolEntry {
     // How to display the word in UI
@@ -35,6 +37,7 @@ for (var grp of wordGroups) {
         }
     }
 }
+console.log(`Loaded ${wordGroups.length} word groups`);
 
 // Load synonyms
 const synsEntries = fs.readFileSync('./syms/synonyms.txt', 'utf8')
@@ -44,6 +47,7 @@ synsEntries.forEach(entry => {
     const [word, ...synonyms] = entry;
     synsLookup[word] = synonyms;
 });
+console.log(`Loaded synonyms for ${synsEntries.length} words`);
 
 // Generate SymbolsMap to be used for search
 const symsMap: SymbolsMap = {};
@@ -53,10 +57,50 @@ for (var word in related) {
         title: word.substr(0, 1).toUpperCase() + word.substr(1).toLowerCase(),
         id: `symbol.${word.replace(' ', '_')}`,
         related: related[word],
-        stems: [stemmer(word), ...(synsLookup[word] || []).map(syn => stemmer(syn))]
+        stems: [key, ...(synsLookup[word] || []).map(syn => stemmer(syn))]
+    }
+}
+console.log('Generated symbols map');
+
+const docDb: CanonDb = LoadAndValidate();
+console.log(`Loaded and validated ${Object.keys(docDb).length} documents`);
+
+// Generate documents for the symbols
+for (var key in symsMap) {
+    const entry = symsMap[key];
+    if (!docDb[entry.id]) {
+        docDb[entry.id] = {
+            kind: 'symbol',
+            title: entry.title
+        };
+    }
+
+    const dbEntry = docDb[entry.id];
+
+    for (var rel of entry.related) {
+        if (!dbEntry.content) {
+            dbEntry.content = {
+                content: []
+            };
+        }
+
+        const relId = symsMap[rel].id;
+        if (Array.isArray(dbEntry.content.content)
+            && !dbEntry.content.content.find(part => part.reference === relId)) {
+            dbEntry.content.content.push({
+                kind: 'note',
+                reference: relId
+            });
+        }
     }
 }
 
+// Annotate all other documents with references to the symbols
+for (var key in docDb) {
+    const doc = docDb[key];
+    if (doc.kind === 'symbol' || !doc.content) {
+        continue;
+    }
 
-
-
+    
+}

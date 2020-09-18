@@ -62,7 +62,7 @@ export interface Note {
    * ID of the document that this note is about, if any
    */
   reference?: string;
-  content: Text;
+  content?: Text;
 }
 /**
  * Canonical text content, immutable and eternal
