@@ -56,7 +56,7 @@ for (var word in related) {
     symsMap[key] = {
         title: word.substr(0, 1).toUpperCase() + word.substr(1).toLowerCase(),
         id: `symbol.${word.replace(' ', '_')}`,
-        related: related[word],
+        related: related[word].map(word => stemmer(word)),
         stems: [key, ...(synsLookup[word] || []).map(syn => stemmer(syn))]
     }
 }
@@ -96,11 +96,50 @@ for (var key in symsMap) {
 }
 
 // Annotate all other documents with references to the symbols
+console.log(`Searching ${Object.keys(docDb).length} documents for symbols...`)
 for (var key in docDb) {
     const doc = docDb[key];
     if (doc.kind === 'symbol' || !doc.content) {
         continue;
     }
+    const content = doc.content.content;
 
-    
+    const exploreLine = (ref: string, line: string) => {
+        const words = line.toLocaleLowerCase()
+            .replace(/[^\w\s]|_/g, '')
+            .split(/\b/).map(word => stemmer(word));
+        for (var key in symsMap) {
+            const entry = symsMap[key];
+            const symDocId = entry.id;
+            if (entry.stems.find(stem => words.find(word => word === stem))) {
+                doc.annotations = doc.annotations || [];
+                if (!doc.annotations.find(anno =>
+                    anno.anchor === ref && anno.tokens.some(tok =>
+                        (tok.kind === 'docref' && tok.docRef === symDocId)))) {
+                    doc.annotations.push({
+                        anchor: ref,
+                        tokens: [
+                            { kind: 'docref', docRef: symDocId }
+                        ]
+                    })
+                    console.log(`Added annotation to line:\n\t${line}\n=> ${symDocId}`);
+                }
+            }
+        }
+    };
+    const exploreParagraph = (prefix: string, paragraph: string | string[]) => {
+        if (Array.isArray(paragraph)) {
+            paragraph.forEach((line, li) => exploreLine(`${prefix}.l${li}`, line));
+        } else {
+            exploreLine(prefix, paragraph);
+        }
+    };
+    const exploreText = (prefix: string, text: (string | string[])[]) => {
+        text.forEach((paragraph, pi) => exploreParagraph(`${prefix}p${pi}`, paragraph));
+    };
+    if (Array.isArray(content)) {
+        content.forEach((section, si) => exploreText(`s${si}.`, section.content.text));
+    } else {
+        exploreText('', content.text);
+    }
 }
