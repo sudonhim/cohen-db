@@ -139,16 +139,16 @@ for (var key in docDb) {
     };
     const exploreParagraph = (prefix: string, paragraph: string | string[]) => {
         if (Array.isArray(paragraph)) {
-            paragraph.forEach((line, li) => exploreLine(`${prefix}.l${li}`, line));
+            paragraph.forEach((line, li) => exploreLine(`${prefix}.l${li + 1}`, line));
         } else {
             exploreLine(prefix, paragraph);
         }
     };
     const exploreText = (prefix: string, text: (string | string[])[]) => {
-        text.forEach((paragraph, pi) => exploreParagraph(`${prefix}p${pi}`, paragraph));
+        text.forEach((paragraph, pi) => exploreParagraph(`${prefix}p${pi + 1}`, paragraph));
     };
     if (Array.isArray(content)) {
-        content.forEach((section, si) => exploreText(`s${si}.`, section.content.text));
+        content.forEach((section, si) => exploreText(`s${si + 1}.`, section.content.text));
     } else {
         exploreText('', content.text);
     }
