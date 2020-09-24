@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as stemmer from 'stemmer';
 import { CanonDb } from '..';
-import { LoadAndValidate, ValidateAndSave } from '../lib/utils';
+import { LoadAndValidate } from '../lib/utils';
 
 interface SymbolEntry {
     // How to display the word in UI
@@ -95,14 +95,6 @@ for (var key in symsMap) {
     }
 }
 
-const symsRoot = docDb['group.symbols'];
-if (Array.isArray(symsRoot.children) && symsRoot.children.length > 0) {
-    for (var key in symsMap) {
-        symsRoot.children.push(symsMap[key].id);
-    }
-    symsRoot.children.sort();
-}
-
 // Annotate all other documents with references to the symbols
 console.log(`Searching ${Object.keys(docDb).length} documents for symbols...`)
 for (var key in docDb) {
@@ -111,7 +103,6 @@ for (var key in docDb) {
         continue;
     }
     const content = doc.content.content;
-    var count = 0;
 
     const exploreLine = (ref: string, line: string) => {
         const words = line.toLocaleLowerCase()
@@ -131,8 +122,7 @@ for (var key in docDb) {
                             { kind: 'docref', docRef: symDocId }
                         ]
                     })
-                    count++;
-                    // console.log(`Added annotation to line:\n\t${line}\n=> ${symDocId}`);
+                    console.log(`Added annotation to line:\n\t${line}\n=> ${symDocId}`);
                 }
             }
         }
@@ -152,10 +142,4 @@ for (var key in docDb) {
     } else {
         exploreText('', content.text);
     }
-
-    if (count > 0)
-        console.log(`Added ${count} annotations to ${doc.title}`)
 }
-
-console.log('Validating and saving changes');
-ValidateAndSave(docDb);
