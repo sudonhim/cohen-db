@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Stranger",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.man"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.prophet"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.stranger"
+      }
+    ]
+  }
+}

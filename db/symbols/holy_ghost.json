@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Holy ghost",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.woman"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.holy_ghost"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.thigh"
+      }
+    ]
+  }
+}

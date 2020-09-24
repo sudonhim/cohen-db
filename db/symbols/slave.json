@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Slave",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.master"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.slave"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.lover"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "symbol",
+  "title": "Summer",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.winter"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.summer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Candle",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.light"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.fire"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.candle"
+      }
+    ]
+  }
+}

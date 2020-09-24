@@ -1,0 +1,16 @@
+{
+  "kind": "symbol",
+  "title": "Snowman",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.snowman"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.snow"
+      }
+    ]
+  }
+}

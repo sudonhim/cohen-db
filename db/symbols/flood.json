@@ -1,4 +1,20 @@
 {
   "title": "Flood",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.wind"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.rain"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.flood"
+      }
+    ]
+  }
 }

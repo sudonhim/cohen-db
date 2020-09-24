@@ -1,0 +1,12 @@
+{
+  "kind": "symbol",
+  "title": "Beggar",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.beggar"
+      }
+    ]
+  }
+}

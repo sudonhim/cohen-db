@@ -1,4 +1,16 @@
 {
   "title": "Temple",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.temple"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.snow"
+      }
+    ]
+  }
 }

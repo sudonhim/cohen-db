@@ -1,0 +1,28 @@
+{
+  "kind": "symbol",
+  "title": "Mother",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.woman"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.mother"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.daughter"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.father"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.son"
+      }
+    ]
+  }
+}

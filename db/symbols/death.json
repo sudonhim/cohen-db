@@ -1,4 +1,32 @@
 {
   "title": "Death",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.killer"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.heart"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.death"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.suicide"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.razor"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.scalpel"
+      }
+    ]
+  }
 }

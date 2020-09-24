@@ -1,0 +1,16 @@
+{
+  "kind": "symbol",
+  "title": "Dance",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.kiss"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.dance"
+      }
+    ]
+  }
+}

@@ -1,4 +1,28 @@
 {
   "title": "Razor",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.razor"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.hair"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.scalpel"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.suicide"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.death"
+      }
+    ]
+  }
 }

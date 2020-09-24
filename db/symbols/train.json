@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Train",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.train"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.station"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.road"
+      }
+    ]
+  }
+}
