@@ -1,16 +1,4 @@
 {
   "title": "Eucharist",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.eucharist"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.crucifixion"
-      }
-    ]
-  }
+  "kind": "symbol"
 }

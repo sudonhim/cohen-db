@@ -16,25 +16,5 @@
       }
     ]
   },
-  "kind": "interview",
-  "annotations": [
-    {
-      "anchor": "s0.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ]
-    },
-    {
-      "anchor": "s0.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.light"
-        }
-      ]
-    }
-  ]
+  "kind": "interview"
 }

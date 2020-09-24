@@ -48,52 +48,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.father"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.cold"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.train"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.station"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.white"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

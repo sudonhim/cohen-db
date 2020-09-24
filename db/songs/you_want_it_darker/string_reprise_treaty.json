@@ -13,16 +13,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.water"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

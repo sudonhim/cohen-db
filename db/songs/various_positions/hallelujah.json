@@ -95,42 +95,6 @@
           "kind": "text"
         }
       ]
-    },
-    {
-      "anchor": "p2.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.kitchen"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.hair"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.lip"
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.light"
-        }
-      ]
     }
   ]
 }

@@ -24,16 +24,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l13",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bed"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

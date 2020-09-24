@@ -32,34 +32,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l6",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.lip"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l8",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.flood"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l20",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.room"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

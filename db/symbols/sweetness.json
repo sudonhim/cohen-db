@@ -1,12 +1,4 @@
 {
   "title": "Sweetness",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.sweetness"
-      }
-    ]
-  }
+  "kind": "symbol"
 }

@@ -48,43 +48,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.sweetness"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bed"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.flesh"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

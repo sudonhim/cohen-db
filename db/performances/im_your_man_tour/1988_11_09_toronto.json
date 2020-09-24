@@ -46,16 +46,5 @@
       }
     ]
   },
-  "kind": "live",
-  "annotations": [
-    {
-      "anchor": "s1.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.woman"
-        }
-      ]
-    }
-  ]
+  "kind": "live"
 }

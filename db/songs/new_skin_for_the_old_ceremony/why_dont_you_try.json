@@ -34,25 +34,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l10",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.sweetness"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

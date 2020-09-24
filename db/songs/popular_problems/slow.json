@@ -78,34 +78,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p3.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.blood"
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.lip"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

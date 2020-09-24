@@ -42,25 +42,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p2.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.rain"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.snow"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

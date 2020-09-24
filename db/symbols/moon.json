@@ -1,28 +1,4 @@
 {
   "title": "Moon",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.moon"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sun"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.star"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sky"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.night"
-      }
-    ]
-  }
+  "kind": "symbol"
 }

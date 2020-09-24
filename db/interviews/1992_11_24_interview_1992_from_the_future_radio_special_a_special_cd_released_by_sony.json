@@ -17,16 +17,5 @@
       }
     ]
   },
-  "kind": "interview",
-  "annotations": [
-    {
-      "anchor": "s0.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.light"
-        }
-      ]
-    }
-  ]
+  "kind": "interview"
 }

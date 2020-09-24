@@ -57,25 +57,5 @@
       }
     ]
   },
-  "kind": "live",
-  "annotations": [
-    {
-      "anchor": "s1.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.soldier"
-        }
-      ]
-    },
-    {
-      "anchor": "s2.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.father"
-        }
-      ]
-    }
-  ]
+  "kind": "live"
 }

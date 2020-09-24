@@ -36,34 +36,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p1.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.dark"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.dance"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.dance"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

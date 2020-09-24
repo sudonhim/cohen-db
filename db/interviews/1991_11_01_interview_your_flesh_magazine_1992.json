@@ -22,16 +22,5 @@
       }
     ]
   },
-  "kind": "interview",
-  "annotations": [
-    {
-      "anchor": "s0.p1.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.daughter"
-        }
-      ]
-    }
-  ]
+  "kind": "interview"
 }

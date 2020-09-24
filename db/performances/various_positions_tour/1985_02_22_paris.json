@@ -21,16 +21,5 @@
       }
     ]
   },
-  "kind": "live",
-  "annotations": [
-    {
-      "anchor": "s0.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.mother"
-        }
-      ]
-    }
-  ]
+  "kind": "live"
 }

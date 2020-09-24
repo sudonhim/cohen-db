@@ -21,25 +21,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bed"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.man"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

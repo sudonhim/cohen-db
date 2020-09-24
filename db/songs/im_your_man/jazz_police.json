@@ -55,52 +55,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.blue"
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.mother"
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.blood"
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.fire"
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.blue"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

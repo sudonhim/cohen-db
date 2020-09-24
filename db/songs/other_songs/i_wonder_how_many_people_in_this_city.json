@@ -16,34 +16,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.room"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.window"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

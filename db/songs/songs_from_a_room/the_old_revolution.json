@@ -51,60 +51,6 @@
           "kind": "text"
         }
       ]
-    },
-    {
-      "anchor": "p0.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.killer"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.light"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.sleep"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.day"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.beggar"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.lover"
-        }
-      ]
     }
   ]
 }

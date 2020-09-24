@@ -22,25 +22,5 @@
       }
     ]
   },
-  "kind": "live",
-  "annotations": [
-    {
-      "anchor": "s0.p0.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.room"
-        }
-      ]
-    },
-    {
-      "anchor": "s0.p0.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ]
-    }
-  ]
+  "kind": "live"
 }

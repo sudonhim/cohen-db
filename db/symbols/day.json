@@ -1,32 +1,4 @@
 {
   "title": "Day",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.day"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.night"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.light"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dark"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dusk"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dawn"
-      }
-    ]
-  }
+  "kind": "symbol"
 }

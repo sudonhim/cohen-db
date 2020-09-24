@@ -37,16 +37,5 @@
       }
     ]
   },
-  "kind": "interview",
-  "annotations": [
-    {
-      "anchor": "s2.p0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bird"
-        }
-      ]
-    }
-  ]
+  "kind": "interview"
 }

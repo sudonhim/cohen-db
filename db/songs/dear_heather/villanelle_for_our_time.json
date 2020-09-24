@@ -27,43 +27,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l11",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l17",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

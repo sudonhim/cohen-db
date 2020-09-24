@@ -47,34 +47,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p1.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.moon"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.man"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }

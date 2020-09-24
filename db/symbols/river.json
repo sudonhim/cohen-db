@@ -1,32 +1,4 @@
 {
   "title": "River",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.water"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.ice"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.snow"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.river"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sea"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.bridge"
-      }
-    ]
-  }
+  "kind": "symbol"
 }

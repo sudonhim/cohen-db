@@ -1,28 +1,4 @@
 {
   "title": "Doctor",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.killer"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.hunter"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.soldier"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.doctor"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.gypsy"
-      }
-    ]
-  }
+  "kind": "symbol"
 }

@@ -28,34 +28,5 @@
       ]
     }
   },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p0.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.water"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l0",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.fire"
-        }
-      ]
-    },
-    {
-      "anchor": "p0.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ]
-    }
-  ]
+  "kind": "song"
 }
