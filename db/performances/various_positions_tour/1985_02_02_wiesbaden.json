@@ -65,5 +65,88 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.water"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    }
+  ]
 }

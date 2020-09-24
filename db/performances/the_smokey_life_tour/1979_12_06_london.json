@@ -68,6 +68,42 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.ice"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.water"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.fire"
+        }
+      ]
     }
   ]
 }

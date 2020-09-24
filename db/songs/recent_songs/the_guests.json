@@ -87,5 +87,106 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dance"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sweetness"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dance"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p13.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    }
+  ]
 }

@@ -268,5 +268,403 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.son"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bird"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p3.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p3.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hunter"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p4.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s6.p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "s6.p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.cold"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.prophet"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p7.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.prophet"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p8.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p8.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p9.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.mother"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p9.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.father"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p9.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.daughter"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p9.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.son"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p10.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p10.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p11.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wind"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p11.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.snow"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p11.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.moon"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p11.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p11.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sleep"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p12.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p12.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p13.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p14.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p14.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s9.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wind"
+        }
+      ]
+    },
+    {
+      "anchor": "s9.p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wind"
+        }
+      ]
+    },
+    {
+      "anchor": "s9.p2.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.death"
+        }
+      ]
+    },
+    {
+      "anchor": "s9.p2.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s11.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s11.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.road"
+        }
+      ]
+    },
+    {
+      "anchor": "s11.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "s11.p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
+    }
+  ]
 }

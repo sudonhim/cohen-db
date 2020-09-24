@@ -48,5 +48,52 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    }
+  ]
 }

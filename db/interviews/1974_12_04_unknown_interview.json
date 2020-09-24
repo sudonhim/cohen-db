@@ -25,5 +25,97 @@
       }
     ]
   },
-  "kind": "interview"
+  "kind": "interview",
+  "annotations": [
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.suicide"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.snow"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.cold"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dawn"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sleep"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.moon"
+        }
+      ]
+    }
+  ]
 }

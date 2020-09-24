@@ -104,5 +104,16 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    }
+  ]
 }

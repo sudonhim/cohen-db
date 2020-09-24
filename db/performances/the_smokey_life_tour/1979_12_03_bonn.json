@@ -39,5 +39,70 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.fire"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.star"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.ice"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.fire"
+        }
+      ]
+    }
+  ]
 }

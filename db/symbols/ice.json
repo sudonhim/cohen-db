@@ -1,0 +1,36 @@
+{
+  "kind": "symbol",
+  "title": "Ice",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.water"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.ice"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.snow"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.river"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.sea"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.winter"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.cold"
+      }
+    ]
+  }
+}

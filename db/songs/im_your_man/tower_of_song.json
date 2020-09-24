@@ -56,5 +56,106 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bridge"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    }
+  ]
 }

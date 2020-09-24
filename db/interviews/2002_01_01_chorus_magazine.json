@@ -27,5 +27,43 @@
       }
     ]
   },
-  "kind": "interview"
+  "kind": "interview",
+  "annotations": [
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    }
+  ]
 }

@@ -170,5 +170,52 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p9.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sweetness"
+        }
+      ]
+    },
+    {
+      "anchor": "p13.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p19.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p24.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    }
+  ]
 }

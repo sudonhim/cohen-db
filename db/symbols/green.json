@@ -1,4 +1,24 @@
 {
   "title": "Green",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.green"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.gold"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.blue"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.white"
+      }
+    ]
+  }
 }

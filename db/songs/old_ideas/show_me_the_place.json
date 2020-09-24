@@ -47,5 +47,88 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.slave"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.slave"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.slave"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.slave"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.slave"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    }
+  ]
 }

@@ -154,6 +154,285 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.flood"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.road"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bridge"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.summer"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.snow"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gold"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.tree"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wind"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.tree"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sweetness"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.moon"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sweetness"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.fire"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
+    },
+    {
+      "anchor": "p12.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p12.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
     }
   ]
 }

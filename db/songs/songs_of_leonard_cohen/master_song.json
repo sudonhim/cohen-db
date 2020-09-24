@@ -219,6 +219,204 @@
           "docRef": "symbol.room"
         }
       ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lip"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.thigh"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.master"
+        }
+      ]
     }
   ],
   "content": {

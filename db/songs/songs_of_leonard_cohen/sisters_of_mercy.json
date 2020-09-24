@@ -59,6 +59,51 @@
           "docRef": "symbol.night"
         }
       ]
+    },
+    {
+      "anchor": "p3.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.green"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sleep"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
     }
   ]
 }

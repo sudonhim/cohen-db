@@ -63,5 +63,115 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.ship"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.doctor"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.ship"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.doctor"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    }
+  ]
 }

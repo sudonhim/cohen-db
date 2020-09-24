@@ -16,5 +16,34 @@
       }
     ]
   },
-  "kind": "interview"
+  "kind": "interview",
+  "annotations": [
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.mother"
+        }
+      ]
+    }
+  ]
 }

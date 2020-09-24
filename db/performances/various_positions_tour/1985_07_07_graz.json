@@ -28,5 +28,34 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.beggar"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    }
+  ]
 }

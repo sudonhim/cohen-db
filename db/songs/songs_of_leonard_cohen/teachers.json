@@ -158,6 +158,132 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.scalpel"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.scalpel"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p12.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p12.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
     }
   ]
 }

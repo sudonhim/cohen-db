@@ -28,5 +28,25 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.death"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.slave"
+        }
+      ]
+    }
+  ]
 }

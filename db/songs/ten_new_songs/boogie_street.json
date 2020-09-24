@@ -55,5 +55,124 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lip"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kitchen"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.flesh"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lip"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    }
+  ]
 }

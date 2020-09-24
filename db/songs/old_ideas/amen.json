@@ -90,5 +90,52 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    }
+  ]
 }

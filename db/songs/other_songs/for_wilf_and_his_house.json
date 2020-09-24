@@ -47,5 +47,70 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wood"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.flesh"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.road"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.father"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l9",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.raven"
+        }
+      ]
+    }
+  ]
 }

@@ -211,6 +211,60 @@
           "docRef": "symbol.room"
         }
       ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rose"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bird"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p11.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.seaweed"
+        }
+      ]
     }
   ]
 }

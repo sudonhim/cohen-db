@@ -92,5 +92,79 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s4.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.father"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.death"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.thigh"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p3.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.thigh"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.station"
+        }
+      ]
+    },
+    {
+      "anchor": "s8.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.water"
+        }
+      ]
+    },
+    {
+      "anchor": "s8.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    }
+  ]
 }

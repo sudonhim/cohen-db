@@ -255,6 +255,276 @@
           "docRef": "symbol.bridge"
         }
       ]
+    },
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.road"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sleep"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.road"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sleep"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bridge"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "p10.l9",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
     }
   ]
 }

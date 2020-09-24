@@ -32,5 +32,43 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blue"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blue"
+        }
+      ]
+    }
+  ]
 }

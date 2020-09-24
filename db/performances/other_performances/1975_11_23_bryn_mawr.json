@@ -175,5 +175,286 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.thigh"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p5.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.moon"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.thigh"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p7.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "s1.p7.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.moon"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.snow"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.swan"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rose"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.summer"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p3.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.mother"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.room"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p4.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.fire"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p5.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.thigh"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p6.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lip"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p6.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p7.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p8.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sleep"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p8.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wind"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p8.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.swan"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p8.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rose"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p9.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.kiss"
+        }
+      ]
+    }
+  ]
 }

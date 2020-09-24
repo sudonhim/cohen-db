@@ -1,4 +1,12 @@
 {
   "title": "Rose",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.rose"
+      }
+    ]
+  }
 }

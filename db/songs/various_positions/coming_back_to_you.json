@@ -71,6 +71,42 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rain"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
     }
   ]
 }

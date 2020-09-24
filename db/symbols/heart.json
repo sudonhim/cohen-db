@@ -1,4 +1,36 @@
 {
   "title": "Heart",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.hair"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.heart"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.flesh"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.blood"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.lip"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.killer"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.death"
+      }
+    ]
+  }
 }

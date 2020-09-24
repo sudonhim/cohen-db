@@ -98,5 +98,88 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s1.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.road"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "s7.p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.ash"
+        }
+      ]
+    },
+    {
+      "anchor": "s8.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.mother"
+        }
+      ]
+    },
+    {
+      "anchor": "s9.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    }
+  ]
 }

@@ -75,5 +75,61 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s2.p2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "s2.p2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "s3.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "s4.p1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    }
+  ]
 }

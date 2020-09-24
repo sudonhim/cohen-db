@@ -66,5 +66,97 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p3.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bridge"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.son"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.killer"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.temple"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.temple"
+        }
+      ]
+    },
+    {
+      "anchor": "p8.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.death"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.window"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.temple"
+        }
+      ]
+    }
+  ]
 }

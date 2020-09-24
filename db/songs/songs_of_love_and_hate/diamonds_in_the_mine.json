@@ -54,6 +54,114 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blue"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.white"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.tree"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l11",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l13",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l13",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l24",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.doctor"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l25",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l26",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.train"
+        }
+      ]
     }
   ]
 }

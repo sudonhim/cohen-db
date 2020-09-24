@@ -107,6 +107,114 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.bed"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l11",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.crucifixion"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l15",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l16",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.flesh"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l16",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.smoke"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l16",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rose"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.killer"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
     }
   ]
 }

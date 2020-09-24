@@ -1,4 +1,16 @@
 {
   "title": "Bridge",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.bridge"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.river"
+      }
+    ]
+  }
 }

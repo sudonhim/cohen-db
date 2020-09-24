@@ -90,5 +90,61 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p3.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.door"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.white"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p13.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.swan"
+        }
+      ]
+    }
+  ]
 }

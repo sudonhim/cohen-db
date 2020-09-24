@@ -51,5 +51,169 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.tree"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blue"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.water"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.river"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blue"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.water"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.ship"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l12",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l14",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blue"
+        }
+      ]
+    }
+  ]
 }

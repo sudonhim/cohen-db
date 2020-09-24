@@ -32,5 +32,70 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l11",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l14",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.star"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l19",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l20",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sun"
+        }
+      ]
+    }
+  ]
 }

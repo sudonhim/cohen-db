@@ -136,6 +136,24 @@
           "docRef": "symbol.razor"
         }
       ]
+    },
+    {
+      "anchor": "p5.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.cold"
+        }
+      ]
     }
   ]
 }

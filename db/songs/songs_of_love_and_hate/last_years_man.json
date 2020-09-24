@@ -136,6 +136,141 @@
           "kind": "text"
         }
       ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rain"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wood"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rain"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l9",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.soldier"
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.flesh"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.blood"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rain"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.lover"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.rain"
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l9",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
     }
   ]
 }

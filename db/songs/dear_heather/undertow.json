@@ -20,5 +20,43 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sky"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sea"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l11",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.heart"
+        }
+      ]
+    }
+  ]
 }

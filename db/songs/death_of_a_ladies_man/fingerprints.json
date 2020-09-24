@@ -56,5 +56,34 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l5",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.hair"
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dawn"
+        }
+      ]
+    }
+  ]
 }

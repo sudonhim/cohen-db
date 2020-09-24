@@ -66,5 +66,43 @@
       }
     ]
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": [
+    {
+      "anchor": "s3.p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.cold"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.stranger"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p2.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dream"
+        }
+      ]
+    },
+    {
+      "anchor": "s5.p2.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    }
+  ]
 }

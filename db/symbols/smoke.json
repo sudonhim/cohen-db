@@ -1,4 +1,28 @@
 {
   "title": "Smoke",
-  "kind": "symbol"
+  "kind": "symbol",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.tree"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.wood"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.fire"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.smoke"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.ash"
+      }
+    ]
+  }
 }

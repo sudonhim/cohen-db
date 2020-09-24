@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Dream",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.night"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.sleep"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.dream"
+      }
+    ]
+  }
+}

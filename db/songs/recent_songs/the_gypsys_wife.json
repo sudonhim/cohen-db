@@ -31,5 +31,151 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l1",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dance"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l6",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l7",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l11",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.light"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l14",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l15",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l17",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dove"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l18",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.flood"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l18",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.day"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l18",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l19",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.man"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l19",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.woman"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l22",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l23",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.gypsy"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "kind": "symbol",
+  "title": "Cold",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.winter"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.snow"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.ice"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.cold"
+      }
+    ]
+  }
+}

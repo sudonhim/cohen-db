@@ -1,0 +1,12 @@
+{
+  "kind": "symbol",
+  "title": "Kitchen",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.kitchen"
+      }
+    ]
+  }
+}

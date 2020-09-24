@@ -1,0 +1,20 @@
+{
+  "kind": "symbol",
+  "title": "Seaweed",
+  "content": {
+    "content": [
+      {
+        "kind": "note",
+        "reference": "symbol.sea"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.seaweed"
+      },
+      {
+        "kind": "note",
+        "reference": "symbol.ship"
+      }
+    ]
+  }
+}

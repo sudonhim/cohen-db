@@ -55,5 +55,16 @@
       }
     ]
   },
-  "kind": "other"
+  "kind": "other",
+  "annotations": [
+    {
+      "anchor": "s1.p3.l2",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.cold"
+        }
+      ]
+    }
+  ]
 }

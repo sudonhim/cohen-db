@@ -33,5 +33,61 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": [
+    {
+      "anchor": "p1.l8",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.night"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l13",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.dark"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l16",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.cold"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l16",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.wind"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l16",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.star"
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l18",
+      "tokens": [
+        {
+          "kind": "docref",
+          "docRef": "symbol.sweetness"
+        }
+      ]
+    }
+  ]
 }
