@@ -34,13 +34,17 @@
   "annotations": [
     {
       "anchor": "p1.l16",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

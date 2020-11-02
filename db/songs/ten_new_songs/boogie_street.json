@@ -59,133 +59,170 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l3",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.kiss"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kiss"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p2.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.kitchen"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kitchen"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.river"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l8",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.flesh"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p5.l5",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.flesh"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.blood"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blood"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.door"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.door"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p6.l3",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.kiss"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kiss"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

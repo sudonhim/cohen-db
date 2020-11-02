@@ -8,5 +8,6 @@
       "venue": "Auditorium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

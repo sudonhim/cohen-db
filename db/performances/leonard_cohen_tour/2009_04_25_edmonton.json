@@ -8,5 +8,6 @@
       "venue": "Rexall Place"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

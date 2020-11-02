@@ -35,173 +35,211 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "text": "His early work, referred to consistently as a fire (which ultimately failed to catch and transfigure society).",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p1.l1",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "His early work, referred to consistently as a fire (which ultimately failed to catch and transfigure society).",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.green"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l3",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.green"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.candle"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.clothing"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.heart"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.doctor"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.snow"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.candle"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.room"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.room"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p1.l3",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.clothing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.heart"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.doctor"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p3.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.snow"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p4.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l2",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.blue"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l2",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blue"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.ice"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l3",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.ice"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.wind"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.wind"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.ice"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.ice"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

@@ -76,93 +76,119 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.window"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.window"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.gypsy"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.gypsy"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p11.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.mountain"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p11.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.rain"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.green"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.green"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dark"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p9.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.razor"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.razor"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.cold"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "p5.l4",
-      "tokens": [
+      "anchor": "p11.l3",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dark"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.mountain"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "p9.l2",
-      "tokens": [
+      "anchor": "p11.l4",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.cold"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

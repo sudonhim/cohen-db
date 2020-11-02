@@ -62,73 +62,96 @@
   "annotations": [
     {
       "anchor": "p2.l2",
-      "tokens": [
+      "annotations": [
         {
-          "text": "Our Judeo-Christian religious inheritance is on trial for honesty",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l4",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Our Judeo-Christian religious inheritance is on trial for honesty",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "text": "Society was seduced onto a new course in the 60s",
-          "kind": "text"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.father"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p2.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.father"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.green"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.green"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Society was seduced onto a new course in the 60s",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p7.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.cold"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.cold"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

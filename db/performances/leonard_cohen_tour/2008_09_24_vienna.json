@@ -8,5 +8,6 @@
       "venue": "Wierner Konzerthaus"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

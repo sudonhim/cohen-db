@@ -8,5 +8,6 @@
       "venue": "Edinburgh Odeon"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Ottawa Convention Centre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

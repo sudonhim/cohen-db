@@ -8,5 +8,6 @@
       "venue": "Columbus Palace Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

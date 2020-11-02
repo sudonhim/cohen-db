@@ -33,64 +33,68 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s1.p1",
-      "tokens": [
+      "anchor": "s1.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.blue"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blue"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s1.p1",
-      "tokens": [
+      "anchor": "s2.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.water"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.day"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s2.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.water"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.fire"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s2.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.day"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s2.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.fire"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

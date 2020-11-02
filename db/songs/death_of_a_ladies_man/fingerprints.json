@@ -60,33 +60,45 @@
   "annotations": [
     {
       "anchor": "p1.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l8",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p7.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dawn"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dawn"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

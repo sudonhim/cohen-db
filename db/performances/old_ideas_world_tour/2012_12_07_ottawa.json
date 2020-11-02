@@ -8,5 +8,6 @@
       "venue": "Scotiabank Place"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

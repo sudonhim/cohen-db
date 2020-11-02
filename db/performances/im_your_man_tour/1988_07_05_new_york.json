@@ -24,54 +24,54 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s1.p1",
-      "tokens": [
+      "anchor": "s1.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.room"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.room"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.door"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.door"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.day"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

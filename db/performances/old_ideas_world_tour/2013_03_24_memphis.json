@@ -8,5 +8,6 @@
       "venue": "Orpheum Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

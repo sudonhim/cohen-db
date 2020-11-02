@@ -8,5 +8,6 @@
       "venue": "Sandalford Winery"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

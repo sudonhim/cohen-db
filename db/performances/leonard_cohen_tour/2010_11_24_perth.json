@@ -8,5 +8,6 @@
       "venue": "ME Bank Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

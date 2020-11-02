@@ -8,5 +8,6 @@
       "venue": "Helsingin Jäähalli"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

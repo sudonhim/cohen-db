@@ -8,5 +8,6 @@
       "venue": "Oakdale Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "London Centennial Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

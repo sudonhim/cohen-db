@@ -8,5 +8,6 @@
       "venue": "Kuppelsaal"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

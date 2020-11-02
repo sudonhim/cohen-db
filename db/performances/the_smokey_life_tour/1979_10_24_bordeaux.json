@@ -8,5 +8,6 @@
       "venue": "Parc des Expositions de Bordeaux"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

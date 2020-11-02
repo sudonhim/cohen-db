@@ -8,5 +8,6 @@
       "venue": "Parc des Expositions de Avignon"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

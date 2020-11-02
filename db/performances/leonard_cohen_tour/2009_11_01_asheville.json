@@ -8,5 +8,6 @@
       "venue": "Thomas Wolfe Auditorium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

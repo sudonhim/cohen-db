@@ -15,5 +15,6 @@
     "song.the_smokey_life",
     "song.ballad_of_the_absent_mare"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

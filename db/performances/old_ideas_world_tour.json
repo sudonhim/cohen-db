@@ -130,5 +130,6 @@
     "live.2013_12_18_wellington",
     "live.2013_12_21_auckland"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

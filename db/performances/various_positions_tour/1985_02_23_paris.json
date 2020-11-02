@@ -44,24 +44,32 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s1.p2",
-      "tokens": [
+      "anchor": "s1.p2.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s2.p1",
-      "tokens": [
+      "anchor": "s2.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.blue"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blue"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

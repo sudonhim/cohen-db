@@ -8,5 +8,6 @@
       "venue": "Allen Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

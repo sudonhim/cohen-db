@@ -73,113 +73,122 @@
   "annotations": [
     {
       "anchor": "s2.p3.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bird"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bird"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.tree"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s4.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.daughter"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.son"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s5.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.tree"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.green"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.thigh"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.daughter"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.son"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s5.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.hair"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s5.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.green"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s5.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.thigh"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

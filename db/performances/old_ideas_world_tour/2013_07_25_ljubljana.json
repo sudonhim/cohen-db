@@ -8,5 +8,6 @@
       "venue": "Arena Stožice"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

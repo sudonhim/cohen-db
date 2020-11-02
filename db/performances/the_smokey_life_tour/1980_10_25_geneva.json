@@ -8,5 +8,6 @@
       "venue": "Victoria Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

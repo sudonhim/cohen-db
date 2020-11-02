@@ -46,44 +46,55 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s1.p1",
-      "tokens": [
+      "anchor": "s1.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.tree"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.tree"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "s2.p2.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bird"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bird"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s2.p2.l1",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.day"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.thigh"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.thigh"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

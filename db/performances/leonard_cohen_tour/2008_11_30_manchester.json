@@ -8,5 +8,6 @@
       "venue": "Manchester Evening News Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

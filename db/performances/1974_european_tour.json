@@ -20,5 +20,6 @@
     "live.1974_10_19_paris",
     "live.1974_10_20_paris"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

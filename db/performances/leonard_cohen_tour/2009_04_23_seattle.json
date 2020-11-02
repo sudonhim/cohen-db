@@ -8,5 +8,6 @@
       "venue": "WaMu Theater"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

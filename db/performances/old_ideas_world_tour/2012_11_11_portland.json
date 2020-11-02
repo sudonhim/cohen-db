@@ -8,5 +8,6 @@
       "venue": "Rose Garden Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

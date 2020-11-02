@@ -8,5 +8,6 @@
       "venue": "Stadthalle Freiburg"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

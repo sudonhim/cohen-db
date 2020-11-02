@@ -8,5 +8,6 @@
       "venue": "Edinburgh Castle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Anfiteatro del Rincon de Goya"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

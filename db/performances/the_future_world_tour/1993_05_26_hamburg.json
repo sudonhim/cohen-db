@@ -8,5 +8,6 @@
       "venue": "Hamburger Stadtpark"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "L'Olympia"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Stadthalle Kassel"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

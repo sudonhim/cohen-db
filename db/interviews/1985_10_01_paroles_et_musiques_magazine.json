@@ -57,84 +57,96 @@
   "kind": "interview",
   "annotations": [
     {
-      "anchor": "s1.p1",
-      "tokens": [
+      "anchor": "s1.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s2.p1",
-      "tokens": [
+      "anchor": "s2.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.mother"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.father"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s4.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.mother"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.killer"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.father"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.soldier"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.killer"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.soldier"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.light"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

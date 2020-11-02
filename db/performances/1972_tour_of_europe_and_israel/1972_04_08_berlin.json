@@ -8,5 +8,6 @@
       "venue": "Sportpalast"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

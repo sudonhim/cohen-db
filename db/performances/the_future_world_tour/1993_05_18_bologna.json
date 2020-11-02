@@ -24,44 +24,45 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s1.p1",
-      "tokens": [
+      "anchor": "s1.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.blue"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blue"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.daughter"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s1.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.daughter"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.father"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.father"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

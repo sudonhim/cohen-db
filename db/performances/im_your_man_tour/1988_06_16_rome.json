@@ -8,5 +8,6 @@
       "venue": "Teatro Olimpico"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Grand Kremlin Palace"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Grieg Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Gothenburg Concert Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

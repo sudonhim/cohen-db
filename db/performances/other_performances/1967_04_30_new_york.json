@@ -8,5 +8,6 @@
       "venue": "The Town Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

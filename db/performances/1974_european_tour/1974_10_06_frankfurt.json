@@ -120,24 +120,32 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.room"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.room"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s6.p1",
-      "tokens": [
+      "anchor": "s6.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.soldier"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.soldier"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

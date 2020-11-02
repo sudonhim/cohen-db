@@ -8,5 +8,6 @@
       "venue": "Radio City Music Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

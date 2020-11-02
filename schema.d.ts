@@ -8,7 +8,7 @@
 /**
  * Annotations attached to a file
  */
-export type Annotations = Annotation[];
+export type Annotations = AnnotationsGroup[];
 
 /**
  * A collection of canonical material tied to a particular time, place, or release
@@ -96,18 +96,24 @@ export interface Variation {
   content: Text;
 }
 /**
- * An annotation
+ * The list of annotations attached to a single location in the parent document
  */
-export interface Annotation {
-  user: string;
+export interface AnnotationsGroup {
   /**
    * A reference to a location in the parent document
    */
   anchor: string;
+  annotations?: Annotation[];
+}
+/**
+ * A user-submitted annotation
+ */
+export interface Annotation {
+  user: string;
   /**
    * An array of tokens constituting the annotation
    */
-  tokens: (TextToken | ExternalLinkToken | DocrefToken)[];
+  content: (TextToken | ExternalLinkToken | DocrefToken)[];
 }
 /**
  * A token of text content

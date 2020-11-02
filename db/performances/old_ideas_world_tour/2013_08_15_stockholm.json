@@ -8,5 +8,6 @@
       "venue": "Ericsson Globe"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -15,5 +15,6 @@
     "song.lullaby",
     "song.different_sides"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

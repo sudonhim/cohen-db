@@ -8,5 +8,6 @@
       "venue": "Arkadenhof"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

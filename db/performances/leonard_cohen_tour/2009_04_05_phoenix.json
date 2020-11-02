@@ -8,5 +8,6 @@
       "venue": "Dodge Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

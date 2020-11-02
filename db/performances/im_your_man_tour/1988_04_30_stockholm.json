@@ -8,5 +8,6 @@
       "venue": "Stockholm Concert Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

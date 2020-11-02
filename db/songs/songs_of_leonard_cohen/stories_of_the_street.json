@@ -43,204 +43,249 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.rose"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.suicide"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l2",
-      "tokens": [
-        {
-          "text": "Likely referring to American cities in the 60s, where much of the middle class was moving out to the suburbs to escape the chaos.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p2.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "text": "In LC's terms many leaders are \"hunters\" or \"killers\" - their words are weapons, their aim to spiritually kill or injure their opponents.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.hunter"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.highway"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l5",
-      "tokens": [
-        {
-          "text": "See the poem \"A Kite is a Victim\"",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p3.l6",
-      "tokens": [
-        {
-          "text": "Plans and dreams, but no light",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p3.l6",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l6",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.blueprint"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.farm"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.window"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.window"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p1.l4",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rose"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.suicide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l2",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Likely referring to American cities in the 60s, where much of the middle class was moving out to the suburbs to escape the chaos.",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p2.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dusk"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dusk"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "In LC's terms many leaders are \"hunters\" or \"killers\" - their words are weapons, their aim to spiritually kill or injure their opponents.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hunter"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p2.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.road"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.highway"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.road"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "See the poem \"A Kite is a Victim\"",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Plans and dreams, but no light",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blueprint"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.farm"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p4.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.star"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p5.l1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.star"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.sky"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sky"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

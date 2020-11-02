@@ -8,5 +8,6 @@
       "venue": "Central Kino"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

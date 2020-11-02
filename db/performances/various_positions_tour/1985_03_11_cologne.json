@@ -8,5 +8,6 @@
       "venue": "Sporthalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

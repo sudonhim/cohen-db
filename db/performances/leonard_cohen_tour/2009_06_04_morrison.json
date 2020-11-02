@@ -8,5 +8,6 @@
       "venue": "Red Rocks Amphitheatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

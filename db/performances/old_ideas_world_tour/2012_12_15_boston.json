@@ -8,5 +8,6 @@
       "venue": "Wang Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

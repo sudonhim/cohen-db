@@ -8,5 +8,6 @@
       "venue": "Musikhuset Aarhus"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

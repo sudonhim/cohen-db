@@ -8,5 +8,6 @@
       "venue": "Copley Symphony Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

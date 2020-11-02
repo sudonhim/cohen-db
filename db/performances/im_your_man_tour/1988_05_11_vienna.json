@@ -51,54 +51,64 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s2.p1",
-      "tokens": [
+      "anchor": "s2.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dance"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dance"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s4.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.thigh"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.thigh"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

@@ -8,5 +8,6 @@
       "venue": "Nokia Theatre L.A. Live"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

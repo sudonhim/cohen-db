@@ -8,5 +8,6 @@
       "venue": "Scotiabank Saddledome"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

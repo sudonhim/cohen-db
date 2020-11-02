@@ -8,5 +8,6 @@
       "venue": "Globen Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

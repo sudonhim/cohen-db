@@ -8,5 +8,6 @@
       "venue": "Manchester Opera House"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

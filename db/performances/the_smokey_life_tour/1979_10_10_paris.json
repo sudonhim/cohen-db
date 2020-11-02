@@ -8,5 +8,6 @@
       "venue": "Théâtre des Champs Elysées"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

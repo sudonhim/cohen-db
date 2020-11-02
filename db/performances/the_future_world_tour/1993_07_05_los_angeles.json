@@ -8,5 +8,6 @@
       "venue": "Wiltern Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Rosengarten"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

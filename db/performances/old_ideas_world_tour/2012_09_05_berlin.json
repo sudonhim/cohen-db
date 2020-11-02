@@ -8,5 +8,6 @@
       "venue": "Waldbühne"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

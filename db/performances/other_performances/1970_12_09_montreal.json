@@ -8,5 +8,6 @@
       "venue": "Salle Wilfrid-Pelletier"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

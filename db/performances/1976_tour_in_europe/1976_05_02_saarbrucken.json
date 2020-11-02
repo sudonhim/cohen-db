@@ -8,5 +8,6 @@
       "venue": "Saarlandhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

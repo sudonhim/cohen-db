@@ -43,84 +43,86 @@
   "kind": "interview",
   "annotations": [
     {
-      "anchor": "s2.p1",
-      "tokens": [
+      "anchor": "s2.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.mother"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kitchen"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "s2.p1",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s2.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.mother"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s2.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.ship"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.kitchen"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.river"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.ship"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.man"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.woman"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

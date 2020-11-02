@@ -9,5 +9,6 @@
       "venue": "Place Massena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -14,5 +14,6 @@
     "song.born_in_chains",
     "song.you_got_me_singing"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

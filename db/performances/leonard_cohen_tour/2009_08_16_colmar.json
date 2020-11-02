@@ -9,5 +9,6 @@
       "venue": "Colmar Parc des Expositions"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

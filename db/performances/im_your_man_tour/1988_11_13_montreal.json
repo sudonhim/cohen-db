@@ -8,5 +8,6 @@
       "venue": "Théâtre Saint-Denis"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

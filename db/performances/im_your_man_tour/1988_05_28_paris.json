@@ -8,5 +8,6 @@
       "venue": "Le Grand Rex"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

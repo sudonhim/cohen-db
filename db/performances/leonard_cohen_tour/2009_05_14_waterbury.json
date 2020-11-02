@@ -8,5 +8,6 @@
       "venue": "Palace Theater"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

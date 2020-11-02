@@ -8,5 +8,6 @@
       "venue": "Auditorium Parco della Musica"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "National Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

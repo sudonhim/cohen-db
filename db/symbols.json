@@ -93,5 +93,6 @@
     "symbol.woman",
     "symbol.wood"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

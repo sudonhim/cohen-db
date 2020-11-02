@@ -8,5 +8,6 @@
       "venue": "Sydney Entertainment Centre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

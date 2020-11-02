@@ -8,5 +8,6 @@
       "venue": "Victoria Royal Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

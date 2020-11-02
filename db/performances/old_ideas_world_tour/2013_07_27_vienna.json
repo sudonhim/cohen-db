@@ -8,5 +8,6 @@
       "venue": "Wiener Stadthalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

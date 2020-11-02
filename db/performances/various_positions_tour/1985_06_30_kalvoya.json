@@ -8,5 +8,6 @@
       "venue": "Festivalplassen"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

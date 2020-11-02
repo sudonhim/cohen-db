@@ -96,483 +96,625 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "text": "The men could be prophets, ideologies, governments, 'great men' of history, or some combination thereof. What's clear is that society knows a procession of them, and each is insufficient.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The men could be prophets, ideologies, governments, 'great men' of history, or some combination thereof. What's clear is that society knows a procession of them, and each is insufficient.",
+              "kind": "text"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p1.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.sky"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.poker"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.window"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.train_station"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l2",
-      "tokens": [
-        {
-          "text": "This possibly refers to classical liberalism, or something thereabouts. As a ruling social system it makes pretensions to be devoid of dreams, locating them in the individual only.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.gold"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l6",
-      "tokens": [
-        {
-          "text": "Implying it was never real gold.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l8",
-      "tokens": [
-        {
-          "text": "Society shelters this system in return for the 'game', likely the system of capitalism, laws, etc which promise peace and prosperity.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p5.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.poker"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p5.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.highway"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p5.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.smoke"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p6.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.doorway"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p6.l5",
-      "tokens": [
-        {
-          "text": "She never really belonged here",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p7.l2",
-      "tokens": [
-        {
-          "text": "There's a consistent symbolism of trains, stations, and strangers. The station is where she stops for a time, and then embarks on a new path. The stranger may seduce her into choosing a different direction. Cohen ultimately failed at seduction, he later summarizes his role \"drove you to the station / never asked you why\"",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p8.l2",
-      "tokens": [
-        {
-          "text": "\"the bridge of the intellect\", which straddles the river of belief. But in this case the river is \"endless\", possibly the ocean, so this construction project may be doomed.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p8.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bridge"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p8.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bridge"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p1.l5",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sky"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p1.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sky"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sky"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.poker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.window"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p3.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.day"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train_station"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dream"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This possibly refers to classical liberalism, or something thereabouts. As a ruling social system it makes pretensions to be devoid of dreams, locating them in the individual only.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dream"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p4.l5",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.gold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l6",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Implying it was never real gold.",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l8",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Society shelters this system in return for the 'game', likely the system of capitalism, laws, etc which promise peace and prosperity.",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p5.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.poker"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p5.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.road"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.highway"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.road"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sleep"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dream"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "p5.l3",
-      "tokens": [
+      "anchor": "p5.l4",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sleep"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.smoke"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p5.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.dream"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.smoke"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.smoke"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.door"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.doorway"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.door"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.road"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.road"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "She never really belonged here",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p7.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "There's a consistent symbolism of trains, stations, and strangers. The station is where she stops for a time, and then embarks on a new path. The stranger may seduce her into choosing a different direction. Cohen ultimately failed at seduction, he later summarizes his role \"drove you to the station / never asked you why\"",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p7.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.heart"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.heart"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p8.l2",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "\"the bridge of the intellect\", which straddles the river of belief. But in this case the river is \"endless\", possibly the ocean, so this construction project may be doomed.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bridge"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p8.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.river"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bridge"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sleep"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sleep"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bridge"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bridge"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.window"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.window"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.day"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l8",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l9",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.stranger"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.stranger"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

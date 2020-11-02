@@ -8,5 +8,6 @@
       "venue": "Wollman Skating Rink"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

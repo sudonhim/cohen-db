@@ -88,203 +88,258 @@
   "annotations": [
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.farm"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.farm"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p10.l2",
-      "tokens": [
-        {
-          "text": "Nietzschean, possibly",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p10.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.sun"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p11.l1",
-      "tokens": [
-        {
-          "text": "Your laws are not holy enough, for the sea of faith you have to swim in.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p11.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.sea"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p2.l1",
-      "tokens": [
+      "annotations": [
         {
-          "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.mountain"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
-      "anchor": "p2.l1",
-      "tokens": [
+      "anchor": "p2.l2",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.mountain"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sun"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rose"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p2.l4",
-      "tokens": [
+      "annotations": [
         {
-          "text": "Society became democratic, she \"laid down\" with those who lack vision",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Society became democratic, she \"laid down\" with those who lack vision",
+              "kind": "text"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p3.l2",
-      "tokens": [
+      "annotations": [
         {
-          "text": "She needs Jesus",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "She needs Jesus",
+              "kind": "text"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p3.l3",
-      "tokens": [
+      "annotations": [
         {
-          "text": "This traditional honorific is usually used for the deceased",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This traditional honorific is usually used for the deceased",
+              "kind": "text"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p5.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train_station"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train_station"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.snow"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.snow"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l4",
-      "tokens": [
+      "annotations": [
         {
-          "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy.",
+              "kind": "text"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p8.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.room"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.room"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
-      "anchor": "p2.l2",
-      "tokens": [
+      "anchor": "p10.l2",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sun"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l2",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Nietzschean, possibly",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.rose"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sun"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p5.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.train"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bird"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bird"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p11.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dark"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Your laws are not holy enough, for the sea of faith you have to swim in.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dark"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p11.l2",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sea"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p11.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.seaweed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.seaweed"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

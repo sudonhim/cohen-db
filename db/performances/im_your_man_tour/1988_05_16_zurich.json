@@ -8,5 +8,6 @@
       "venue": "Kongresshaus"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -9,5 +9,6 @@
       "venue": "Nürburgring"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Musikhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

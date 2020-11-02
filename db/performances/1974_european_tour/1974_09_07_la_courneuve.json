@@ -8,5 +8,6 @@
       "venue": "Parc de La Courneuve"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

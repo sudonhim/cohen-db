@@ -2,460 +2,606 @@
   "title": "Master Song",
   "annotations": [
     {
-      "anchor": "p1.l8",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.eucharist"
-        },
-        {
-          "kind": "text",
-          "text": ", but it may be the only food on offer"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.temple"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l8",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.kiss"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l1",
-      "tokens": [
-        {
-          "kind": "link",
-          "text": "Martin Luther",
-          "link": "https://en.wikipedia.org/wiki/Martin_Luther"
-        },
-        {
-          "kind": "text",
-          "text": ", German priest and seminal figure of the "
-        },
-        {
-          "kind": "link",
-          "text": "Reformation",
-          "link": "https://en.wikipedia.org/wiki/Reformation"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p3.l5",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "The word is scripture, and the rock is "
-        },
-        {
-          "kind": "link",
-          "text": "Peter",
-          "link": "https://biblehub.com/matthew/16-18.htm"
-        },
-        {
-          "kind": "text",
-          "text": "; Protestantism breaks away from some of Christianity's Jewish roots, and from the "
-        },
-        {
-          "kind": "link",
-          "text": "apostolic succession",
-          "link": "https://en.wikipedia.org/wiki/Apostolic_succession"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p3.l6",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "Likely refers to the "
-        },
-        {
-          "kind": "link",
-          "text": "Pauline epistles",
-          "link": "https://en.wikipedia.org/wiki/Pauline_epistles"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l1",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "An aeroplane has the form of a cross. Crucifixion binds the hands. The crucified Christ led (piloted) his people after the loss of his human hands."
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.rain"
-        },
-        {
-          "kind": "text",
-          "text": " falls from a cracked firmament, bringing the "
-        },
-        {
-          "kind": "docref",
-          "docRef": "symbol.flood"
-        },
-        {
-          "kind": "text",
-          "text": "; the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l4",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "The 'crowds in the stands' refers to Roman civilization"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l6",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "A human"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l8",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "Possibly harps"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p5.l3",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "The "
-        },
-        {
-          "kind": "link",
-          "text": "Sword of Damocles",
-          "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p5.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.gold"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p6.l4",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "To live in the "
-        },
-        {
-          "kind": "docref",
-          "docRef": "symbol.snow"
-        },
-        {
-          "kind": "text",
-          "text": " is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square."
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p7.l2",
-      "tokens": [
-        {
-          "kind": "text",
-          "text": "The "
-        },
-        {
-          "kind": "docref",
-          "docRef": "symbol.moon"
-        },
-        {
-          "kind": "text",
-          "text": " is the beckoning utopia, beautiful, though perhaps false. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p7.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.window"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p7.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.room"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p1.l8",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.eucharist"
+            },
+            {
+              "kind": "text",
+              "text": ", but it may be the only food on offer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.temple"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p2.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.door"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.door"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p2.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p2.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p2.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p2.l8",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kiss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "link",
+              "text": "Martin Luther",
+              "link": "https://en.wikipedia.org/wiki/Martin_Luther"
+            },
+            {
+              "kind": "text",
+              "text": ", German priest and seminal figure of the "
+            },
+            {
+              "kind": "link",
+              "text": "Reformation",
+              "link": "https://en.wikipedia.org/wiki/Reformation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l5",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The word is scripture, and the rock is "
+            },
+            {
+              "kind": "link",
+              "text": "Peter",
+              "link": "https://biblehub.com/matthew/16-18.htm"
+            },
+            {
+              "kind": "text",
+              "text": "; Protestantism breaks away from some of Christianity's Jewish roots, and from the "
+            },
+            {
+              "kind": "link",
+              "text": "apostolic succession",
+              "link": "https://en.wikipedia.org/wiki/Apostolic_succession"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Likely refers to the "
+            },
+            {
+              "kind": "link",
+              "text": "Pauline epistles",
+              "link": "https://en.wikipedia.org/wiki/Pauline_epistles"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p3.l8",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "An aeroplane has the form of a cross. Crucifixion binds the hands. The crucified Christ led (piloted) his people after the loss of his human hands."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l3",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            },
+            {
+              "kind": "text",
+              "text": " falls from a cracked firmament, bringing the "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.flood"
+            },
+            {
+              "kind": "text",
+              "text": "; the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l4",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The 'crowds in the stands' refers to Roman civilization"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p4.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p4.l6",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l8",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Possibly harps"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p5.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The "
+            },
+            {
+              "kind": "link",
+              "text": "Sword of Damocles",
+              "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.gold"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p5.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bed"
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "To live in the "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.snow"
+            },
+            {
+              "kind": "text",
+              "text": " is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square."
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p7.l2",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.moon"
+            },
+            {
+              "kind": "text",
+              "text": " is the beckoning utopia, beautiful, though perhaps false. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l3",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l4",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.room"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p7.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p7.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.thigh"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.thigh"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p9.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p9.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p9.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.master"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.master"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ],
   "content": {

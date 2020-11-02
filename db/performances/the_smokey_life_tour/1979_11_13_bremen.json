@@ -8,5 +8,6 @@
       "venue": "Stadthalle Bremen"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

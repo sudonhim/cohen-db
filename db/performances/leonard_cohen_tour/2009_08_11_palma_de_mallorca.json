@@ -8,5 +8,6 @@
       "venue": "Palma Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -64,203 +64,253 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "text": "The end of the year, the end of an era. This song has much in common with Last Year's Man",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The end of the year, the end of an era. This song has much in common with Last Year's Man",
+              "kind": "text"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p3.l3",
-      "tokens": [
-        {
-          "text": "This is a reference to the process of \"going clear\" in scientology, where harmful memories and ideas are purged from the mind.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l2",
-      "tokens": [
-        {
-          "text": "The \"famous blue raincoat\" is the firmament, created by the prophet (Christ in this case) for us to live under. Its membrane restrains the waters of heaven, preventing the rain, and the biblical flood.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p4.l3",
-      "tokens": [
-        {
-          "text": "Christ tried every route, but ultimately lost the girl.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p5.l2",
-      "tokens": [
-        {
-          "text": "After Christ, society is chaotic, athiest, loveless, married to nobody.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p7.l1",
-      "tokens": [
-        {
-          "text": "LC sees the moral foundations of the US and Canada as fundamentally Christian rather than Jewish, although he doesn't draw the line between the two on self identification. He speaks here of a sense in which the Jewish prophet has suffered a spiritual death at the hands of Christ, his brother.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p1.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.cold"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.cold"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This is a reference to the process of \"going clear\" in scientology, where harmful memories and ideas are purged from the mind.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.blue"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The \"famous blue raincoat\" is the firmament, created by the prophet (Christ in this case) for us to live under. Its membrane restrains the waters of heaven, preventing the rain, and the biblical flood.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blue"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p4.l3",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Christ tried every route, but ultimately lost the girl.",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.station"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.station"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p5.l2",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "After Christ, society is chaotic, athiest, loveless, married to nobody.",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p6.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.rose"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rose"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p6.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.gypsy"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.gypsy"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p7.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.killer"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC sees the moral foundations of the US and Canada as fundamentally Christian rather than Jewish, although he doesn't draw the line between the two on self identification. He speaks here of a sense in which the Jewish prophet has suffered a spiritual death at the hands of Christ, his brother.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.killer"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p8.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p8.l2",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.sleep"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sleep"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p10.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

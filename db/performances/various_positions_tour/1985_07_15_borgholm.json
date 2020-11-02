@@ -9,5 +9,6 @@
       "venue": "Öland"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

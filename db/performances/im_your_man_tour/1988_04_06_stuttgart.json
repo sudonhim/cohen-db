@@ -8,5 +8,6 @@
       "venue": "Kongresszentrum Liederhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

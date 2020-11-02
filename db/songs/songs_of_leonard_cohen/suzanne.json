@@ -51,123 +51,174 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.river"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.river"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            }
+          ]
+        },
         {
-          "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
-          "kind": "text"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p3.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sea"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sea"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.water"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sea"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sea"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p3.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sky"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sky"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.river"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l7",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.lover"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.water"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sun"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sun"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p5.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.seaweed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.seaweed"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

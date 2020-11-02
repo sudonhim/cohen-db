@@ -8,5 +8,6 @@
       "venue": "Theatre Antique"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Konzerthaus"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

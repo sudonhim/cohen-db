@@ -8,5 +8,6 @@
       "venue": "KeyArena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Copps Coliseum"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

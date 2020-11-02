@@ -8,5 +8,6 @@
       "venue": "Meistersingerhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

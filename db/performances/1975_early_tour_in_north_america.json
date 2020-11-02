@@ -9,5 +9,6 @@
     "live.1975_02_09_boston",
     "live.1975_02_10_montreal"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

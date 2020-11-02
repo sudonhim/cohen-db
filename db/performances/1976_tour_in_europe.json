@@ -18,5 +18,6 @@
     "live.1976_06_18_nuremberg",
     "live.1976_06_25_montreux"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

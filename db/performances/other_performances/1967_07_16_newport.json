@@ -8,5 +8,6 @@
       "venue": "Festival Field"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

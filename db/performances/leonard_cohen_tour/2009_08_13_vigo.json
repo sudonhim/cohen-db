@@ -9,5 +9,6 @@
       "venue": "Vigo Festival Grounds"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -37,224 +37,277 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l3",
-      "tokens": [
+      "anchor": "p1.l2",
+      "annotations": [
         {
-          "text": "The station symbolism is used through LC's work; society rests, but never forever. She will meet some stranger, and be seduced into travelling a new route.",
-          "kind": "text"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p1.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train_station"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The station symbolism is used through LC's work; society rests, but never forever. She will meet some stranger, and be seduced into travelling a new route.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train_station"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.station"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l4",
-      "tokens": [
+      "annotations": [
         {
-          "text": "LC acknowledges that he's not the messiah",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC acknowledges that he's not the messiah",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
-      ],
-      "user": "sudonhim"
+      ]
     },
     {
       "anchor": "p1.l5",
-      "tokens": [
+      "annotations": [
         {
-          "text": "Snow represents ideas that are cold and crystalline, in contrast to the sea of faith, or the river of belief. To live in the snow is to have your social system be excluded from the temple, to exist only as facts, knowledge, and philosophy. A female child of snow would indicate some sort of social system that was born of exile, harsh necessity and reason.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p1.l5",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Snow represents ideas that are cold and crystalline, in contrast to the sea of faith, or the river of belief. To live in the snow is to have your social system be excluded from the temple, to exist only as facts, knowledge, and philosophy. A female child of snow would indicate some sort of social system that was born of exile, harsh necessity and reason.",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.snow"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.snow"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.soldier"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.soldier"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l8",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "text": "Hair usually means power.",
-          "kind": "text"
-        }
-      ],
-      "user": "sudonhim"
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.hair"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.smoke"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.gold"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.doorway"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p3.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.highway"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l2",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.night"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l3",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.station"
-        }
-      ],
-      "user": "symbols bot"
-    },
-    {
-      "anchor": "p1.l4",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.lover"
-        }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p1.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p1.l8",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p2.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Hair usually means power.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p2.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sleep"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sleep"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
+    },
+    {
+      "anchor": "p2.l4",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.smoke"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.gold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l2",
+      "annotations": [
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.doorway"
+            }
+          ]
+        }
+      ]
     },
     {
       "anchor": "p3.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.road"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.highway"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.road"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.station"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.station"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     },
     {
       "anchor": "p4.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
-      ],
-      "user": "symbols bot"
+      ]
     }
   ]
 }

@@ -9,5 +9,6 @@
       "venue": "Greek Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "The Playhouse"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

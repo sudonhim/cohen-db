@@ -8,5 +8,6 @@
       "venue": "Lisebergshallen"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

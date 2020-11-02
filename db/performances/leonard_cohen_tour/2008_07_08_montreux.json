@@ -9,5 +9,6 @@
       "venue": "Auditorium Stravinski"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

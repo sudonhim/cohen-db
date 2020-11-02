@@ -8,5 +8,6 @@
       "venue": "Rheingoldhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Walnut Street Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

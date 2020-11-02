@@ -8,5 +8,6 @@
       "venue": "Theater of Clouds"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

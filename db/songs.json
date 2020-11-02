@@ -18,5 +18,6 @@
     "album.thanks_for_the_dance",
     "group.other_songs"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

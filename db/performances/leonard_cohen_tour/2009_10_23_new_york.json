@@ -8,5 +8,6 @@
       "venue": "Madison Square Garden"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

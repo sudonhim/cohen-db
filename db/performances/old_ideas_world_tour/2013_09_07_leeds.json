@@ -8,5 +8,6 @@
       "venue": "First Direct Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

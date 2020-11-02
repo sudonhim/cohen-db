@@ -8,5 +8,6 @@
       "venue": "Beethovenhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

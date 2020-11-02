@@ -8,5 +8,6 @@
       "venue": "San Marco"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

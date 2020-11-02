@@ -8,5 +8,6 @@
       "venue": "Sultan's Pool"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }
