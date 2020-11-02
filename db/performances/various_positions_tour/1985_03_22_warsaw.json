@@ -107,7 +107,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -116,7 +117,8 @@
           "kind": "docref",
           "docRef": "symbol.stranger"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -125,7 +127,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -134,7 +137,8 @@
           "kind": "docref",
           "docRef": "symbol.road"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -143,7 +147,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1.l1",
@@ -152,7 +157,8 @@
           "kind": "docref",
           "docRef": "symbol.blood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1.l2",
@@ -161,7 +167,8 @@
           "kind": "docref",
           "docRef": "symbol.ash"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s8.p1",
@@ -170,7 +177,8 @@
           "kind": "docref",
           "docRef": "symbol.mother"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s9.p1",
@@ -179,7 +187,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

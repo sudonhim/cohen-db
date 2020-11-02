@@ -25,7 +25,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -34,7 +35,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

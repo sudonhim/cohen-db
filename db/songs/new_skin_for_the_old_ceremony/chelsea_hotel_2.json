@@ -57,7 +57,8 @@
           "kind": "docref",
           "docRef": "symbol.sweetness"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -66,7 +67,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l6",
@@ -75,7 +77,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -84,7 +87,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

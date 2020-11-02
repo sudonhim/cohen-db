@@ -50,7 +50,8 @@
           "text": "Our spiritual self is burdened by our material wealth",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l6",
@@ -59,7 +60,8 @@
           "kind": "docref",
           "docRef": "symbol.killer"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l6",
@@ -68,7 +70,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l5",
@@ -77,7 +80,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -86,7 +90,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -95,7 +100,8 @@
           "kind": "docref",
           "docRef": "symbol.beggar"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l5",
@@ -104,7 +110,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

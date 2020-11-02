@@ -55,7 +55,8 @@
           "kind": "docref",
           "docRef": "symbol.dawn"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l5",
@@ -64,7 +65,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l19",
@@ -73,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

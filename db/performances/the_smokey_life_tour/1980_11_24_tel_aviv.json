@@ -84,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2",
@@ -93,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -102,7 +104,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -111,7 +114,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -120,7 +124,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -129,7 +134,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

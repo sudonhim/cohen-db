@@ -77,7 +77,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -86,7 +87,8 @@
           "kind": "docref",
           "docRef": "symbol.candle"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -95,7 +97,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l8",
@@ -104,7 +107,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -113,7 +117,8 @@
           "kind": "docref",
           "docRef": "symbol.candle"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l5",
@@ -122,7 +127,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

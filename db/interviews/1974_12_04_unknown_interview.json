@@ -34,7 +34,8 @@
           "kind": "docref",
           "docRef": "symbol.suicide"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -43,7 +44,8 @@
           "kind": "docref",
           "docRef": "symbol.snow"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -52,7 +54,8 @@
           "kind": "docref",
           "docRef": "symbol.cold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -61,7 +64,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -70,7 +74,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -79,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -88,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -97,7 +104,8 @@
           "kind": "docref",
           "docRef": "symbol.dawn"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -106,7 +114,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -115,7 +124,8 @@
           "kind": "docref",
           "docRef": "symbol.moon"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

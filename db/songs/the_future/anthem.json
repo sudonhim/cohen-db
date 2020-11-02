@@ -84,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.bird"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -93,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l10",
@@ -102,7 +104,8 @@
           "kind": "docref",
           "docRef": "symbol.dove"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l14",
@@ -111,7 +114,8 @@
           "kind": "docref",
           "docRef": "symbol.dove"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -120,7 +124,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -129,7 +134,8 @@
           "kind": "docref",
           "docRef": "symbol.killer"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -138,7 +144,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l5",
@@ -147,7 +154,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l4",
@@ -156,7 +164,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l4",
@@ -165,7 +174,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l5",
@@ -174,7 +184,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l6",
@@ -183,7 +194,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

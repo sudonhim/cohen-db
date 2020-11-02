@@ -30,7 +30,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -39,7 +40,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -48,7 +50,8 @@
           "kind": "docref",
           "docRef": "symbol.daughter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -57,7 +60,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

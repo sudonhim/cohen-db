@@ -62,7 +62,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -71,7 +72,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

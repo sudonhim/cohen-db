@@ -40,7 +40,8 @@
           "text": "His early work, referred to consistently as a fire (which ultimately failed to catch and transfigure society).",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l1",
@@ -49,7 +50,8 @@
           "kind": "docref",
           "docRef": "symbol.green"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -58,7 +60,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -67,7 +70,8 @@
           "kind": "docref",
           "docRef": "symbol.clothing"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -76,7 +80,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -85,7 +90,8 @@
           "kind": "docref",
           "docRef": "symbol.doctor"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -94,7 +100,8 @@
           "kind": "docref",
           "docRef": "symbol.snow"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l1",
@@ -103,7 +110,8 @@
           "kind": "docref",
           "docRef": "symbol.candle"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -112,7 +120,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -121,7 +130,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -130,7 +140,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -139,7 +150,8 @@
           "kind": "docref",
           "docRef": "symbol.lip"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -148,7 +160,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -157,7 +170,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -166,7 +180,8 @@
           "kind": "docref",
           "docRef": "symbol.ice"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -175,7 +190,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -184,7 +200,8 @@
           "kind": "docref",
           "docRef": "symbol.ice"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

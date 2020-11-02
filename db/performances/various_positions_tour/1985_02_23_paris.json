@@ -50,7 +50,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -59,7 +60,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

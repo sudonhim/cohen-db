@@ -64,7 +64,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l3",
@@ -73,7 +74,8 @@
           "kind": "docref",
           "docRef": "symbol.mother"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l4",
@@ -82,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.blood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -91,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l2",
@@ -100,7 +104,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

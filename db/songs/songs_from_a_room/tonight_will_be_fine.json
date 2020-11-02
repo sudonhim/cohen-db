@@ -65,7 +65,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -74,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -83,7 +85,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -92,7 +95,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

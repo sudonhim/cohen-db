@@ -48,7 +48,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -57,7 +58,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l5",
@@ -66,7 +68,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l8",
@@ -75,7 +78,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l3",
@@ -84,7 +88,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l5",
@@ -93,7 +98,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l6",
@@ -102,7 +108,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

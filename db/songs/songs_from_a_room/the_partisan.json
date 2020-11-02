@@ -69,7 +69,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l3",
@@ -78,7 +79,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l1",
@@ -87,7 +89,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l2",
@@ -96,7 +99,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l1",
@@ -105,7 +109,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l2",
@@ -114,7 +119,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

@@ -72,7 +72,8 @@
           "text": "The rain, falling from a cracked firmament, signifying the end of an era. It falls on the man of that era.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -81,7 +82,8 @@
           "text": "A Jew's harp, like a crayon, is a cheap and crude instrument. The motif of the prophet saddled with poor instruments is one taken from William Blake.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -90,7 +92,8 @@
           "text": "The crack in the firmament. In hebrew skylight / skin / firmament share a root.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -99,7 +102,8 @@
           "text": "LC talks of the current time as 'the darkness', a time of shelter and wealth where we get caught up in our dreams and games, but lack the divine light, which is often only revealed through hardship.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -108,7 +112,8 @@
           "text": "One by one we come to understand that our society, though beautiful, is destined to self-immolate.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -117,7 +122,8 @@
           "text": "The uniform may refer to Cohen's role as a priest, carrying forward symbols from the past. See the poem \"I've Seen Some Lonely History\"",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -126,7 +132,8 @@
           "text": "Christianity",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l7",
@@ -135,7 +142,8 @@
           "text": "We read from prophets that the church is receding. As LC says, \"It will defeat itself. It will establish the wilderness in which the Brightness will manifest again.\"",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l1",
@@ -144,7 +152,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l1",
@@ -153,7 +162,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l6",
@@ -162,7 +172,8 @@
           "kind": "docref",
           "docRef": "symbol.wood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l8",
@@ -171,7 +182,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l9",
@@ -180,7 +192,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -189,7 +202,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -198,7 +212,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l7",
@@ -207,7 +222,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l6",
@@ -216,7 +232,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l7",
@@ -225,7 +242,8 @@
           "kind": "docref",
           "docRef": "symbol.blood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l1",
@@ -234,7 +252,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l1",
@@ -243,7 +262,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l5",
@@ -252,7 +272,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l8",
@@ -261,7 +282,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l9",
@@ -270,7 +292,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

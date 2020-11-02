@@ -78,7 +78,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1.l1",
@@ -87,7 +88,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1.l1",
@@ -96,7 +98,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1.l1",
@@ -105,7 +108,8 @@
           "kind": "docref",
           "docRef": "symbol.mother"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1.l1",
@@ -114,7 +118,8 @@
           "kind": "docref",
           "docRef": "symbol.stranger"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1.l1",
@@ -123,7 +128,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1.l2",
@@ -132,7 +138,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2.l1",
@@ -141,7 +148,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2.l3",
@@ -150,7 +158,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2.l6",
@@ -159,7 +168,8 @@
           "kind": "docref",
           "docRef": "symbol.ship"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -168,7 +178,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -177,7 +188,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -186,7 +198,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -195,7 +208,8 @@
           "kind": "docref",
           "docRef": "symbol.master"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -204,7 +218,8 @@
           "kind": "docref",
           "docRef": "symbol.thigh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -213,7 +228,8 @@
           "kind": "docref",
           "docRef": "symbol.tree"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -222,7 +238,8 @@
           "kind": "docref",
           "docRef": "symbol.sun"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

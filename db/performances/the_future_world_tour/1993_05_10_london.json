@@ -67,7 +67,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -76,7 +77,8 @@
           "kind": "docref",
           "docRef": "symbol.flood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -85,7 +87,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -94,7 +97,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -103,7 +107,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -112,7 +117,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -121,7 +127,8 @@
           "kind": "docref",
           "docRef": "symbol.daughter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -130,7 +137,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

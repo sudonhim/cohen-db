@@ -42,7 +42,8 @@
           "text": "LC betrayed his revolution. See the song \"The Traitor\" for one of many accounts of this.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l8",
@@ -51,7 +52,8 @@
           "text": "See the song \"Jazz Police\" for a similar account of these characters.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -60,7 +62,8 @@
           "text": "LC wants to change truth and beauty, or to change \"the way we make love\", but he is not trying to do so by open disagreement. Instead his project is wrapped in a beautiful disguise that seduces and confounds. Its difficult to understand what he really means without agreeing with him.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -69,7 +72,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l2",
@@ -78,7 +82,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -87,7 +92,8 @@
           "kind": "docref",
           "docRef": "symbol.thigh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l5",
@@ -96,7 +102,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -105,7 +112,8 @@
           "kind": "docref",
           "docRef": "symbol.sun"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

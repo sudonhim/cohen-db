@@ -81,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l1",
@@ -90,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l1",
@@ -99,7 +101,8 @@
           "kind": "docref",
           "docRef": "symbol.temple"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -108,7 +111,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p10.l1",
@@ -117,7 +121,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p11.l1",
@@ -126,7 +131,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

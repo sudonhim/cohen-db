@@ -99,7 +99,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -108,7 +109,8 @@
           "kind": "docref",
           "docRef": "symbol.door"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l1",
@@ -117,7 +119,8 @@
           "kind": "docref",
           "docRef": "symbol.white"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l3",
@@ -126,7 +129,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l4",
@@ -135,7 +139,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p13.l1",
@@ -144,7 +149,8 @@
           "kind": "docref",
           "docRef": "symbol.swan"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

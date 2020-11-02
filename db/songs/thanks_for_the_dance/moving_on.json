@@ -54,7 +54,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -63,7 +64,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -72,7 +74,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -81,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l1",
@@ -90,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

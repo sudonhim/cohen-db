@@ -74,7 +74,8 @@
           "kind": "docref",
           "docRef": "symbol.sea"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -83,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -92,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -101,7 +104,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -110,7 +114,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -119,7 +124,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2.l1",
@@ -128,7 +134,8 @@
           "kind": "docref",
           "docRef": "symbol.water"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2.l3",
@@ -137,7 +144,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -146,7 +154,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

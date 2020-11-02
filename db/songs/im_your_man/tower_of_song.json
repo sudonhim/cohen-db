@@ -65,7 +65,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -74,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -83,7 +85,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -92,7 +95,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -101,7 +105,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -110,7 +115,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l2",
@@ -119,7 +125,8 @@
           "kind": "docref",
           "docRef": "symbol.river"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l4",
@@ -128,7 +135,8 @@
           "kind": "docref",
           "docRef": "symbol.bridge"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l4",
@@ -137,7 +145,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l1",
@@ -146,7 +155,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l4",
@@ -155,7 +165,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

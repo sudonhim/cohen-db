@@ -48,7 +48,8 @@
           "kind": "docref",
           "docRef": "symbol.sun"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -57,7 +58,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

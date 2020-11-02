@@ -75,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.moon"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -84,7 +85,8 @@
           "kind": "docref",
           "docRef": "symbol.sun"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -93,7 +95,8 @@
           "kind": "docref",
           "docRef": "symbol.sea"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -102,7 +105,8 @@
           "kind": "docref",
           "docRef": "symbol.water"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -111,7 +115,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l3",
@@ -120,7 +125,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

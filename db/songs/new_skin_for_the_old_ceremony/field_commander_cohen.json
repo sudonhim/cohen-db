@@ -53,7 +53,8 @@
           "text": "LC visited Cuba shortly before the Bay of Pigs invasion, and attempted to talk with the communists.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l5",
@@ -62,7 +63,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -71,7 +73,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l8",
@@ -80,7 +83,8 @@
           "kind": "docref",
           "docRef": "symbol.suicide"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l9",
@@ -89,7 +93,8 @@
           "kind": "docref",
           "docRef": "symbol.sea"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l12",
@@ -98,7 +103,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -107,7 +113,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -116,7 +123,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -125,7 +133,8 @@
           "kind": "docref",
           "docRef": "symbol.lover"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

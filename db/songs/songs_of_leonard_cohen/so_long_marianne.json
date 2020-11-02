@@ -81,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -90,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.gypsy"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p11.l3",
@@ -99,7 +101,8 @@
           "kind": "docref",
           "docRef": "symbol.mountain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p11.l4",
@@ -108,7 +111,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l2",
@@ -117,7 +121,8 @@
           "kind": "docref",
           "docRef": "symbol.green"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -126,7 +131,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l2",
@@ -135,7 +141,8 @@
           "kind": "docref",
           "docRef": "symbol.razor"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -144,7 +151,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l2",
@@ -153,7 +161,8 @@
           "kind": "docref",
           "docRef": "symbol.cold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

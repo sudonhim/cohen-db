@@ -30,7 +30,8 @@
           "kind": "docref",
           "docRef": "symbol.bird"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p1",
@@ -39,7 +40,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

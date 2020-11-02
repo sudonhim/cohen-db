@@ -126,7 +126,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p1",
@@ -135,7 +136,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

@@ -73,7 +73,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -82,7 +83,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l2",
@@ -91,7 +93,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -100,7 +103,8 @@
           "kind": "docref",
           "docRef": "symbol.dream"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -109,7 +113,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -118,7 +123,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l2",
@@ -127,7 +133,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l1",
@@ -136,7 +143,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l2",
@@ -145,7 +153,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

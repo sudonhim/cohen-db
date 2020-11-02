@@ -48,7 +48,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -57,7 +58,8 @@
           "kind": "docref",
           "docRef": "symbol.star"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -66,7 +68,8 @@
           "kind": "docref",
           "docRef": "symbol.ice"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -75,7 +78,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -84,7 +88,8 @@
           "kind": "docref",
           "docRef": "symbol.stranger"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -93,7 +98,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -102,7 +108,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

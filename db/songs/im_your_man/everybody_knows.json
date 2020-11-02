@@ -103,7 +103,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l7",
@@ -112,7 +113,8 @@
           "kind": "docref",
           "docRef": "symbol.rose"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l4",
@@ -121,7 +123,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -130,7 +133,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -139,7 +143,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l6",
@@ -148,7 +153,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l6",
@@ -157,7 +163,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

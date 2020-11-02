@@ -50,7 +50,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -59,7 +60,8 @@
           "kind": "docref",
           "docRef": "symbol.daughter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -68,7 +70,8 @@
           "kind": "docref",
           "docRef": "symbol.thigh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

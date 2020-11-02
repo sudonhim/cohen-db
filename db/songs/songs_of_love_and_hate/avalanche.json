@@ -61,7 +61,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l8",
@@ -70,7 +71,8 @@
           "kind": "docref",
           "docRef": "symbol.gold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l10",
@@ -79,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.cold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l6",
@@ -88,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

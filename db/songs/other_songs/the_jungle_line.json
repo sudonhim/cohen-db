@@ -55,7 +55,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -64,7 +65,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -73,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -82,7 +85,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l7",
@@ -91,7 +95,8 @@
           "kind": "docref",
           "docRef": "symbol.moon"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l3",
@@ -100,7 +105,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l5",
@@ -109,7 +115,8 @@
           "kind": "docref",
           "docRef": "symbol.smoke"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l7",
@@ -118,7 +125,8 @@
           "kind": "docref",
           "docRef": "symbol.slave"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -127,7 +135,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -136,7 +145,8 @@
           "kind": "docref",
           "docRef": "symbol.room"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l5",
@@ -145,7 +155,8 @@
           "kind": "docref",
           "docRef": "symbol.bird"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l7",
@@ -154,7 +165,8 @@
           "kind": "docref",
           "docRef": "symbol.bridge"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

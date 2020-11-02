@@ -99,6 +99,7 @@ export interface Variation {
  * An annotation
  */
 export interface Annotation {
+  user: string;
   /**
    * A reference to a location in the parent document
    */

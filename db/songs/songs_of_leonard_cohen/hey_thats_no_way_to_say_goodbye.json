@@ -42,7 +42,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -51,7 +52,8 @@
           "kind": "docref",
           "docRef": "symbol.gold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -60,7 +62,8 @@
           "kind": "docref",
           "docRef": "symbol.sea"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -69,7 +72,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -78,7 +82,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -87,7 +92,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

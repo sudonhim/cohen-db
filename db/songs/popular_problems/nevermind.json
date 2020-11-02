@@ -179,7 +179,8 @@
           "kind": "docref",
           "docRef": "symbol.soldier"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p11.l3",
@@ -188,7 +189,8 @@
           "kind": "docref",
           "docRef": "symbol.sweetness"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p13.l3",
@@ -197,7 +199,8 @@
           "kind": "docref",
           "docRef": "symbol.blood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p19.l1",
@@ -206,7 +209,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p24.l1",
@@ -215,7 +219,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

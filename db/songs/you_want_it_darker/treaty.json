@@ -62,7 +62,8 @@
           "kind": "docref",
           "docRef": "symbol.water"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -71,7 +72,8 @@
           "kind": "docref",
           "docRef": "symbol.water"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -80,7 +82,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -89,7 +92,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

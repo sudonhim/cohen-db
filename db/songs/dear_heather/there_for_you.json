@@ -69,7 +69,8 @@
           "kind": "docref",
           "docRef": "symbol.ice"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l41",
@@ -78,7 +79,8 @@
           "kind": "docref",
           "docRef": "symbol.death"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l43",
@@ -87,7 +89,8 @@
           "kind": "docref",
           "docRef": "symbol.ice"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

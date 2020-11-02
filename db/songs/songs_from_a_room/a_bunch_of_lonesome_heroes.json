@@ -51,7 +51,8 @@
           "kind": "docref",
           "docRef": "symbol.road"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l2",
@@ -60,7 +61,8 @@
           "kind": "docref",
           "docRef": "symbol.smoke"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -69,7 +71,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -78,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -87,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -96,7 +101,8 @@
           "kind": "docref",
           "docRef": "symbol.gold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -105,7 +111,8 @@
           "kind": "docref",
           "docRef": "symbol.green"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -114,7 +121,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -123,7 +131,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l4",
@@ -132,7 +141,8 @@
           "kind": "docref",
           "docRef": "symbol.gold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

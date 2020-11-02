@@ -9,6 +9,9 @@
         "title": "Annotation",
         "description": "An annotation",
         "properties": {
+            "user": {
+                "type": "string"
+            },
             "anchor": {
                 "type": "string",
                 "description": "A reference to a location in the parent document"
@@ -71,7 +74,7 @@
                 }
             }
         },
-        "required": ["anchor", "tokens"],
+        "required": ["anchor", "tokens", "user"],
         "additionalProperties": false
     },
     "additionalProperties": false

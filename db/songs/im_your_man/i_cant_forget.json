@@ -51,7 +51,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -60,7 +61,8 @@
           "kind": "docref",
           "docRef": "symbol.smoke"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l9",
@@ -69,7 +71,8 @@
           "kind": "docref",
           "docRef": "symbol.road"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -78,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l3",
@@ -87,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.summer"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l4",
@@ -96,7 +101,8 @@
           "kind": "docref",
           "docRef": "symbol.winter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l5",
@@ -105,7 +111,8 @@
           "kind": "docref",
           "docRef": "symbol.summer"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

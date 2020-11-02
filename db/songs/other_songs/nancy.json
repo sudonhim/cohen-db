@@ -59,7 +59,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -68,7 +69,8 @@
           "kind": "docref",
           "docRef": "symbol.green"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -77,7 +79,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l5",
@@ -86,7 +89,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l6",
@@ -95,7 +99,8 @@
           "kind": "docref",
           "docRef": "symbol.cold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

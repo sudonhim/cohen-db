@@ -65,7 +65,8 @@
           "kind": "docref",
           "docRef": "symbol.ship"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -74,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.ship"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -83,7 +85,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -92,7 +95,8 @@
           "kind": "docref",
           "docRef": "symbol.blood"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -101,7 +105,8 @@
           "kind": "docref",
           "docRef": "symbol.gold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -110,7 +115,8 @@
           "kind": "docref",
           "docRef": "symbol.moon"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

@@ -128,7 +128,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -137,7 +138,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2",
@@ -146,7 +148,8 @@
           "kind": "docref",
           "docRef": "symbol.suicide"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -155,7 +158,8 @@
           "kind": "docref",
           "docRef": "symbol.stranger"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -164,7 +168,8 @@
           "kind": "docref",
           "docRef": "symbol.master"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p3.l2",
@@ -173,7 +178,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1.l1",
@@ -182,7 +188,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1.l1",
@@ -191,7 +198,8 @@
           "kind": "docref",
           "docRef": "symbol.son"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1.l2",
@@ -200,7 +208,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p4.l5",
@@ -209,7 +218,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p4.l5",
@@ -218,7 +228,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

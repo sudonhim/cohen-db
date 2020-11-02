@@ -57,7 +57,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l2",
@@ -66,7 +67,8 @@
           "kind": "docref",
           "docRef": "symbol.cold"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -75,7 +77,8 @@
           "kind": "docref",
           "docRef": "symbol.train"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l3",
@@ -84,7 +87,8 @@
           "kind": "docref",
           "docRef": "symbol.station"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l2",
@@ -93,7 +97,8 @@
           "kind": "docref",
           "docRef": "symbol.white"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

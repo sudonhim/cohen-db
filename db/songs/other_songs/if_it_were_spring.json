@@ -93,7 +93,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -102,7 +103,8 @@
           "kind": "docref",
           "docRef": "symbol.tree"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -111,7 +113,8 @@
           "kind": "docref",
           "docRef": "symbol.tree"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -120,7 +123,8 @@
           "kind": "docref",
           "docRef": "symbol.sun"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -129,7 +133,8 @@
           "kind": "docref",
           "docRef": "symbol.wind"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l3",
@@ -138,7 +143,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l3",
@@ -147,7 +153,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l2",
@@ -156,7 +163,8 @@
           "kind": "docref",
           "docRef": "symbol.blue"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l2",
@@ -165,7 +173,8 @@
           "kind": "docref",
           "docRef": "symbol.sky"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -174,7 +183,8 @@
           "kind": "docref",
           "docRef": "symbol.sun"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l4",
@@ -183,7 +193,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l2",
@@ -192,7 +203,8 @@
           "kind": "docref",
           "docRef": "symbol.death"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p13.l1",
@@ -201,7 +213,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p13.l3",
@@ -210,7 +223,8 @@
           "kind": "docref",
           "docRef": "symbol.tree"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

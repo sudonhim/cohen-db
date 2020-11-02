@@ -74,7 +74,8 @@
           "text": "The snowman is the man reduced to living in the snow, consisting of snow. Exiled from the temple, his spiritual life is tenuous. The rain falls down upon him from the cracked heavens, bringing the end of an era.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l6",
@@ -83,7 +84,8 @@
           "kind": "docref",
           "docRef": "symbol.sea"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -92,7 +94,8 @@
           "kind": "docref",
           "docRef": "symbol.snowman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -101,7 +104,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l7",
@@ -110,7 +114,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l7",
@@ -119,7 +124,8 @@
           "kind": "docref",
           "docRef": "symbol.train"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

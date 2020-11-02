@@ -101,7 +101,8 @@
           "kind": "docref",
           "docRef": "symbol.bird"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -110,7 +111,8 @@
           "kind": "docref",
           "docRef": "symbol.doctor"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -119,7 +121,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p1",
@@ -128,7 +131,8 @@
           "kind": "docref",
           "docRef": "symbol.winter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p1",
@@ -137,7 +141,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p1",
@@ -146,7 +151,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p1",
@@ -155,7 +161,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s6.p1",
@@ -164,7 +171,8 @@
           "kind": "docref",
           "docRef": "symbol.sleep"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1",
@@ -173,7 +181,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s7.p1",
@@ -182,7 +191,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

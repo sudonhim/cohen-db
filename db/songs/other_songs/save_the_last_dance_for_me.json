@@ -71,7 +71,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l3",
@@ -80,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -89,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.light"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l4",
@@ -98,7 +101,8 @@
           "kind": "docref",
           "docRef": "symbol.moon"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l7",
@@ -107,7 +111,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l4",
@@ -116,7 +121,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l7",
@@ -125,7 +131,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l1",
@@ -134,7 +141,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l2",
@@ -143,7 +151,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l8",
@@ -152,7 +161,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -161,7 +171,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l3",
@@ -170,7 +181,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -179,7 +191,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l1",
@@ -188,7 +201,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l3",
@@ -197,7 +211,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l4",
@@ -206,7 +221,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

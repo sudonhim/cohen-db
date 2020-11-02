@@ -41,7 +41,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l6",
@@ -50,7 +51,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l12",
@@ -59,7 +61,8 @@
           "kind": "docref",
           "docRef": "symbol.sweetness"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l14",
@@ -68,7 +71,8 @@
           "kind": "docref",
           "docRef": "symbol.winter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l18",
@@ -77,7 +81,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p1.l24",
@@ -86,7 +91,8 @@
           "kind": "docref",
           "docRef": "symbol.sweetness"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

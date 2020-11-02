@@ -45,7 +45,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l1",
@@ -54,7 +55,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l1",
@@ -63,7 +65,8 @@
           "kind": "docref",
           "docRef": "symbol.dance"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

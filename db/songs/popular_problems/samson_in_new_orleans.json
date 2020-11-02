@@ -75,7 +75,8 @@
           "kind": "docref",
           "docRef": "symbol.bridge"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p4.l4",
@@ -84,7 +85,8 @@
           "kind": "docref",
           "docRef": "symbol.son"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l1",
@@ -93,7 +95,8 @@
           "kind": "docref",
           "docRef": "symbol.killer"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -102,7 +105,8 @@
           "kind": "docref",
           "docRef": "symbol.temple"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p6.l4",
@@ -111,7 +115,8 @@
           "kind": "docref",
           "docRef": "symbol.temple"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l3",
@@ -120,7 +125,8 @@
           "kind": "docref",
           "docRef": "symbol.death"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l1",
@@ -129,7 +135,8 @@
           "kind": "docref",
           "docRef": "symbol.window"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l1",
@@ -138,7 +145,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l2",
@@ -147,7 +155,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p9.l4",
@@ -156,7 +165,8 @@
           "kind": "docref",
           "docRef": "symbol.temple"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

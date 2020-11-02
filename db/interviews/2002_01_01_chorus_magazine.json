@@ -36,7 +36,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p2",
@@ -45,7 +46,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -54,7 +56,8 @@
           "kind": "docref",
           "docRef": "symbol.kiss"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p2",
@@ -63,7 +66,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

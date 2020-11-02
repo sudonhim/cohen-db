@@ -87,7 +87,8 @@
           "kind": "docref",
           "docRef": "symbol.bed"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -96,7 +97,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p5.l4",
@@ -105,7 +107,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l1",
@@ -114,7 +117,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l2",
@@ -123,7 +127,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -132,7 +137,8 @@
           "kind": "docref",
           "docRef": "symbol.death"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l4",
@@ -141,7 +147,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l4",
@@ -150,7 +157,8 @@
           "kind": "docref",
           "docRef": "symbol.son"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l1",
@@ -159,7 +167,8 @@
           "kind": "docref",
           "docRef": "symbol.dawn"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l2",
@@ -168,7 +177,8 @@
           "kind": "docref",
           "docRef": "symbol.death"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l3",
@@ -177,7 +187,8 @@
           "kind": "docref",
           "docRef": "symbol.death"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l4",
@@ -186,7 +197,8 @@
           "kind": "docref",
           "docRef": "symbol.heart"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p8.l4",
@@ -195,7 +207,8 @@
           "kind": "docref",
           "docRef": "symbol.daughter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

@@ -43,7 +43,8 @@
           "kind": "docref",
           "docRef": "symbol.razor"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l5",
@@ -52,7 +53,8 @@
           "kind": "docref",
           "docRef": "symbol.son"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l11",
@@ -61,7 +63,8 @@
           "kind": "docref",
           "docRef": "symbol.white"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l21",
@@ -70,7 +73,8 @@
           "kind": "docref",
           "docRef": "symbol.dark"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l22",
@@ -79,7 +83,8 @@
           "kind": "docref",
           "docRef": "symbol.son"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p2.l23",
@@ -88,7 +93,8 @@
           "kind": "docref",
           "docRef": "symbol.father"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

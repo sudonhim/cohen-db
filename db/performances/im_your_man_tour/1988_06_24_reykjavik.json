@@ -78,7 +78,8 @@
           "kind": "docref",
           "docRef": "symbol.bird"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -87,7 +88,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -96,7 +98,8 @@
           "kind": "docref",
           "docRef": "symbol.night"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s3.p1",
@@ -105,7 +108,8 @@
           "kind": "docref",
           "docRef": "symbol.tree"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -114,7 +118,8 @@
           "kind": "docref",
           "docRef": "symbol.man"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -123,7 +128,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -132,7 +138,8 @@
           "kind": "docref",
           "docRef": "symbol.daughter"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -141,7 +148,8 @@
           "kind": "docref",
           "docRef": "symbol.son"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -150,7 +158,8 @@
           "kind": "docref",
           "docRef": "symbol.hair"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -159,7 +168,8 @@
           "kind": "docref",
           "docRef": "symbol.green"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s5.p1",
@@ -168,7 +178,8 @@
           "kind": "docref",
           "docRef": "symbol.thigh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

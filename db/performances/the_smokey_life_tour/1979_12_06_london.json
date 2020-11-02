@@ -67,7 +67,8 @@
           "text": "Billy Holiday was well known for her song Strange Fruit, which in extremely personal terms describes the scene of a lynching in the American south. At the time LC sung this live the song was having a resurgence in popularity, and was a popular symbol in the civil rights battle. The authenticity of the song is on rather shaky ground - Billie grew up in New York, and the song was written by a Jewish communist living in The Bronx, based on a photo he saw that was itself a civil rights symbol.",
           "kind": "text"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s2.p1",
@@ -76,7 +77,8 @@
           "kind": "docref",
           "docRef": "symbol.ice"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -85,7 +87,8 @@
           "kind": "docref",
           "docRef": "symbol.water"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -94,7 +97,8 @@
           "kind": "docref",
           "docRef": "symbol.day"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s4.p1",
@@ -103,7 +107,8 @@
           "kind": "docref",
           "docRef": "symbol.fire"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

@@ -37,7 +37,8 @@
           "kind": "docref",
           "docRef": "symbol.beggar"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p2.l4",
@@ -46,7 +47,8 @@
           "kind": "docref",
           "docRef": "symbol.door"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "s1.p2.l4",
@@ -55,7 +57,8 @@
           "kind": "docref",
           "docRef": "symbol.woman"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

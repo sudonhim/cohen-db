@@ -63,7 +63,8 @@
           "kind": "docref",
           "docRef": "symbol.flesh"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p7.l3",
@@ -72,7 +73,8 @@
           "kind": "docref",
           "docRef": "symbol.star"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }

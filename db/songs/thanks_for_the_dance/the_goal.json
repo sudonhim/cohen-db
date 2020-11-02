@@ -51,7 +51,8 @@
           "kind": "docref",
           "docRef": "symbol.rain"
         }
-      ]
+      ],
+      "user": "sudonhim"
     },
     {
       "anchor": "p3.l4",
@@ -60,7 +61,8 @@
           "kind": "docref",
           "docRef": "symbol.snow"
         }
-      ]
+      ],
+      "user": "sudonhim"
     }
   ]
 }
