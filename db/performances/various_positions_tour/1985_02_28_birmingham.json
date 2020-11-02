@@ -53,7 +53,7 @@
           "docRef": "symbol.hair"
         }
       ],
-      "user": "sudonhim"
+      "user": "symbols bot"
     },
     {
       "anchor": "s1.p1",
@@ -63,7 +63,7 @@
           "docRef": "symbol.woman"
         }
       ],
-      "user": "sudonhim"
+      "user": "symbols bot"
     },
     {
       "anchor": "s2.p1.l2",
@@ -73,7 +73,7 @@
           "docRef": "symbol.room"
         }
       ],
-      "user": "sudonhim"
+      "user": "symbols bot"
     },
     {
       "anchor": "s2.p1.l2",
@@ -83,7 +83,7 @@
           "docRef": "symbol.window"
         }
       ],
-      "user": "sudonhim"
+      "user": "symbols bot"
     },
     {
       "anchor": "s2.p1.l2",
@@ -93,7 +93,7 @@
           "docRef": "symbol.light"
         }
       ],
-      "user": "sudonhim"
+      "user": "symbols bot"
     }
   ]
 }
