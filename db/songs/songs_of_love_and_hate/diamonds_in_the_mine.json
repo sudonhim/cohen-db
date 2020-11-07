@@ -194,6 +194,20 @@
       ]
     },
     {
+      "anchor": "p1.l17",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "See the parable of the vineyard"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "anchor": "p1.l24",
       "annotations": [
         {
@@ -220,6 +234,15 @@
             {
               "kind": "docref",
               "docRef": "symbol.doctor"
+            }
+          ]
+        },
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The outcast feminine element of society has been \"sterilized\" with Marxism."
             }
           ]
         }

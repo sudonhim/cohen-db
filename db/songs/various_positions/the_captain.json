@@ -271,6 +271,20 @@
       ]
     },
     {
+      "anchor": "p3.l2",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "In a massacre the winning side is not decent, and standing with the losers is fatal."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "anchor": "p3.l3",
       "annotations": [
         {
@@ -279,6 +293,29 @@
             {
               "kind": "docref",
               "docRef": "symbol.woman"
+            }
+          ]
+        },
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The 'woman' in Cohen's symbology may be a literal woman, but may also be any social order that will have you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l6",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Places the soldier as a veteran of the Vietnam War."
             }
           ]
         }
