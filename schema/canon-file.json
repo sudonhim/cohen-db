@@ -31,7 +31,7 @@
             "minItems": 1
         }
     },
-    "required": ["title", "kind"],
+    "required": ["title", "kind", "annotations"],
     "additionalProperties": false
   }
   

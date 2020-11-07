@@ -24,7 +24,7 @@ export interface CanonFile {
   kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
   metadata?: Metadata;
   content?: Content;
-  annotations?: Annotations;
+  annotations: Annotations;
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
    */
@@ -103,7 +103,7 @@ export interface AnnotationsGroup {
    * A reference to a location in the parent document
    */
   anchor: string;
-  annotations?: Annotation[];
+  annotations: Annotation[];
 }
 /**
  * A user-submitted annotation
