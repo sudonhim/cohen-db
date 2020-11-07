@@ -157,20 +157,6 @@
       ]
     },
     {
-      "anchor": "p1.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l1",
       "annotations": [
         {
@@ -262,48 +248,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.road"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.station"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
             }
           ]
         }

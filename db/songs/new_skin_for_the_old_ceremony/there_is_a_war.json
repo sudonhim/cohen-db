@@ -87,20 +87,6 @@
       ]
     },
     {
-      "anchor": "p2.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l1",
       "annotations": [
         {
@@ -109,29 +95,6 @@
             {
               "text": "LC insists that we should reconcile ourselves with living in the midst of violent struggle. Note the parallel between these lines and the advice in \"The Captain\". \"There is no decent place to stand / in a massacre / but if a woman take your hand / then go and stand with her\"",
               "kind": "text"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
             }
           ]
         }

@@ -103,48 +103,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p5.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p9.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p9.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

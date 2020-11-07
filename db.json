@@ -7,5 +7,6 @@
     "group.miscellaneous",
     "group.symbols"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

@@ -99,20 +99,6 @@
       ]
     },
     {
-      "anchor": "p3.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p4.l2",
       "annotations": [
         {
@@ -135,15 +121,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
             }
           ]
         }

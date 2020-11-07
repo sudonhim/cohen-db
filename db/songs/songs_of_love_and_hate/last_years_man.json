@@ -140,34 +140,6 @@
       ]
     },
     {
-      "anchor": "p1.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l1",
       "annotations": [
         {
@@ -256,20 +228,6 @@
       ]
     },
     {
-      "anchor": "p5.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l7",
       "annotations": [
         {
@@ -293,29 +251,6 @@
       ]
     },
     {
-      "anchor": "p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rain"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p6.l5",
       "annotations": [
         {
@@ -324,34 +259,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
             }
           ]
         }

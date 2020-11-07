@@ -224,15 +224,6 @@
               "docRef": "symbol.ice"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
         }
       ]
     },
@@ -245,34 +236,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
             }
           ]
         }
@@ -301,20 +264,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.woman"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p9.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
             }
           ]
         }

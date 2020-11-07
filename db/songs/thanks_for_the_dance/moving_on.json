@@ -102,20 +102,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.hair"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

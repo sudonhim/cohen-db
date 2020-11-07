@@ -81,20 +81,6 @@
       ]
     },
     {
-      "anchor": "p1.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l1",
       "annotations": [
         {
@@ -112,34 +98,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.rose"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
             }
           ]
         }
@@ -219,34 +177,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
             }
           ]
         }

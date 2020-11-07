@@ -71,20 +71,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p4.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.tree"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

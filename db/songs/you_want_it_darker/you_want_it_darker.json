@@ -111,48 +111,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p4.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.fire"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.candle"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.fire"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

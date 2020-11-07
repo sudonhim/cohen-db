@@ -124,45 +124,8 @@
       ]
     },
     {
-      "anchor": "p4.l11",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.room"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p6.l3",
       "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        },
         {
           "user": "symbols bot",
           "content": [
@@ -189,77 +152,8 @@
       ]
     },
     {
-      "anchor": "p6.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p6.l14",
       "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sweetness"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l16",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        },
         {
           "user": "symbols bot",
           "content": [

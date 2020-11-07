@@ -132,20 +132,6 @@
       ]
     },
     {
-      "anchor": "p7.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p7.l3",
       "annotations": [
         {
@@ -197,45 +183,8 @@
       ]
     },
     {
-      "anchor": "p8.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.death"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.death"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p8.l4",
       "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        },
         {
           "user": "symbols bot",
           "content": [

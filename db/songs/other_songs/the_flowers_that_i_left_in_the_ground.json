@@ -73,20 +73,6 @@
       ]
     },
     {
-      "anchor": "p2.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.ship"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p4.l4",
       "annotations": [
         {

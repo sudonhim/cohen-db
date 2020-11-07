@@ -127,20 +127,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p3.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.summer"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -100,20 +100,6 @@
       ]
     },
     {
-      "anchor": "p2.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.hair"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l2",
       "annotations": [
         {
@@ -142,20 +128,6 @@
       ]
     },
     {
-      "anchor": "p3.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l8",
       "annotations": [
         {
@@ -178,34 +150,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.hair"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
             }
           ]
         }

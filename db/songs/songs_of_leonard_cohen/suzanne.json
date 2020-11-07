@@ -85,15 +85,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.lover"
             }
           ]
@@ -143,15 +134,6 @@
               "kind": "text"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
         }
       ]
     },
@@ -173,20 +155,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.sky"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
             }
           ]
         }

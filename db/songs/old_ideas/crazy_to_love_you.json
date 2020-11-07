@@ -54,20 +54,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p2.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.road"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

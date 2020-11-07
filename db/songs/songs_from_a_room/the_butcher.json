@@ -80,20 +80,6 @@
       ]
     },
     {
-      "anchor": "p1.l15",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p1.l30",
       "annotations": [
         {
@@ -116,20 +102,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.ice"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l32",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.son"
             }
           ]
         }

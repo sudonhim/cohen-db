@@ -116,29 +116,6 @@
       ]
     },
     {
-      "anchor": "p3.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p4.l1",
       "annotations": [
         {
@@ -167,94 +144,6 @@
       ]
     },
     {
-      "anchor": "p4.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p9.l1",
       "annotations": [
         {
@@ -263,29 +152,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
             }
           ]
         }
@@ -314,52 +180,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.tree"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p14.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p14.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
             }
           ]
         }

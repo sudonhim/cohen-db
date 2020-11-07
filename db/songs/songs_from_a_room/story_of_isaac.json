@@ -157,20 +157,6 @@
       ]
     },
     {
-      "anchor": "p4.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l1",
       "annotations": [
         {
@@ -193,20 +179,6 @@
             {
               "text": "LC claims that the current leaders lack the moral authority to sacrifice their children, such authority can come only from god.",
               "kind": "text"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
             }
           ]
         }

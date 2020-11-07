@@ -98,20 +98,6 @@
       ]
     },
     {
-      "anchor": "p3.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.fire"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l5",
       "annotations": [
         {

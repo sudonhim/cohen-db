@@ -100,20 +100,6 @@
       ]
     },
     {
-      "anchor": "p2.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l1",
       "annotations": [
         {
@@ -149,15 +135,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.woman"
             }
           ]
@@ -172,39 +149,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.moon"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l12",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.moon"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
             }
           ]
         }
@@ -221,15 +166,6 @@
               "docRef": "symbol.road"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sleep"
-            }
-          ]
         }
       ]
     },
@@ -242,34 +178,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
             }
           ]
         }

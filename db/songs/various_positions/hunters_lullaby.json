@@ -59,20 +59,6 @@
       ]
     },
     {
-      "anchor": "p2.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l3",
       "annotations": [
         {
@@ -87,34 +73,6 @@
       ]
     },
     {
-      "anchor": "p3.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p4.l3",
       "annotations": [
         {
@@ -123,20 +81,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.sleep"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
             }
           ]
         }
@@ -165,20 +109,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.hunter"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
             }
           ]
         }

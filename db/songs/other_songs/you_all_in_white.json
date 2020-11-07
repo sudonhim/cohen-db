@@ -184,20 +184,6 @@
       ]
     },
     {
-      "anchor": "p5.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.bed"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p6.l2",
       "annotations": [
         {
@@ -220,20 +206,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.dream"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
             }
           ]
         }

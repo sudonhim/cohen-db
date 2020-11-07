@@ -187,43 +187,6 @@
       ]
     },
     {
-      "anchor": "p1.l11",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l4",
       "annotations": [
         {
@@ -275,20 +238,6 @@
       ]
     },
     {
-      "anchor": "p4.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l12",
       "annotations": [
         {
@@ -317,48 +266,6 @@
       ]
     },
     {
-      "anchor": "p6.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.death"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p7.l14",
       "annotations": [
         {
@@ -366,100 +273,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p9.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p9.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p11.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
             }
           ]
         }

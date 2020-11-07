@@ -137,20 +137,6 @@
       ]
     },
     {
-      "anchor": "p1.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sky"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l1",
       "annotations": [
         {
@@ -203,34 +189,11 @@
               "docRef": "symbol.train"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.train"
-            }
-          ]
         }
       ]
     },
     {
       "anchor": "p3.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -261,20 +224,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.dream"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
             }
           ]
         }
@@ -323,34 +272,6 @@
       ]
     },
     {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.poker"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l3",
       "annotations": [
         {
@@ -379,34 +300,11 @@
               "docRef": "symbol.sleep"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dream"
-            }
-          ]
         }
       ]
     },
     {
       "anchor": "p5.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.smoke"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l5",
       "annotations": [
         {
           "user": "symbols bot",
@@ -443,20 +341,6 @@
       ]
     },
     {
-      "anchor": "p6.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.road"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p6.l5",
       "annotations": [
         {
@@ -465,29 +349,6 @@
             {
               "text": "She never really belonged here",
               "kind": "text"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
             }
           ]
         }
@@ -502,15 +363,6 @@
             {
               "text": "There's a consistent symbolism of trains, stations, and strangers. The station is where she stops for a time, and then embarks on a new path. The stranger may seduce her into choosing a different direction. Cohen ultimately failed at seduction, he later summarizes his role \"drove you to the station / never asked you why\"",
               "kind": "text"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.train"
             }
           ]
         }
@@ -561,156 +413,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.bridge"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.river"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sleep"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.bridge"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.window"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.train"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.stranger"
             }
           ]
         }

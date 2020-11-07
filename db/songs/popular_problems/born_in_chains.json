@@ -155,34 +155,6 @@
       ]
     },
     {
-      "anchor": "p6.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sweetness"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p7.l3",
       "annotations": [
         {
@@ -191,34 +163,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
             }
           ]
         }

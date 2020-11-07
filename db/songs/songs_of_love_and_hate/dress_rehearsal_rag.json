@@ -330,20 +330,6 @@
       ]
     },
     {
-      "anchor": "p15.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.razor"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p15.l3",
       "annotations": [
         {
@@ -352,20 +338,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p15.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
             }
           ]
         }

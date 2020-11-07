@@ -77,20 +77,6 @@
       ]
     },
     {
-      "anchor": "p1.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l1",
       "annotations": [
         {
@@ -102,20 +88,6 @@
             }
           ]
         },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l2",
-      "annotations": [
         {
           "user": "symbols bot",
           "content": [
@@ -156,34 +128,6 @@
       ]
     },
     {
-      "anchor": "p4.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l3",
       "annotations": [
         {
@@ -192,34 +136,6 @@
             {
               "text": "An Israeli comments: \"...the new face - is the new way of relating to Jewish culture, to being a Jew in new times when there is finally a state which didn’t exist before, the state which needs protection. Old stereotypes about Jews unable to defend themselves must be destroyed.\"",
               "kind": "text"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
             }
           ]
         }
@@ -240,34 +156,6 @@
       ]
     },
     {
-      "anchor": "p8.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p9.l1",
       "annotations": [
         {
@@ -282,48 +170,6 @@
       ]
     },
     {
-      "anchor": "p10.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p11.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p11.l2",
       "annotations": [
         {
@@ -332,15 +178,6 @@
             {
               "text": "In summary this song is a dialogue between God and the Jewish people. The Jew cries out \"God, why have you abandoned me? How have you allowed us to fall into such a wretched condition? Give us a fresh start, let us escape it!\". And God replies \"It was you who forgot me, I never left you. I have given everything that you need.\"",
               "kind": "text"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
             }
           ]
         }

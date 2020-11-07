@@ -114,34 +114,6 @@
       ]
     },
     {
-      "anchor": "p3.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.star"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l2",
       "annotations": [
         {
@@ -170,62 +142,6 @@
       ]
     },
     {
-      "anchor": "p6.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.star"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p9.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p10.l1",
       "annotations": [
         {
@@ -234,34 +150,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.road"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
             }
           ]
         }

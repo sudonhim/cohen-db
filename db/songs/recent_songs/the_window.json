@@ -120,20 +120,6 @@
       ]
     },
     {
-      "anchor": "p3.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l8",
       "annotations": [
         {
@@ -142,20 +128,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.rose"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.ice"
             }
           ]
         }
@@ -172,43 +144,11 @@
               "docRef": "symbol.fire"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rose"
-            }
-          ]
         }
       ]
     },
     {
       "anchor": "p5.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.fire"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sun"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -246,15 +186,6 @@
               "docRef": "symbol.death"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dream"
-            }
-          ]
         }
       ]
     },
@@ -267,20 +198,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.flesh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.ice"
             }
           ]
         }

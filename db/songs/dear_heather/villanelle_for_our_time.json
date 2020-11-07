@@ -42,66 +42,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p1.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l12",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l18",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

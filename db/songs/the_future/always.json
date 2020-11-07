@@ -101,34 +101,6 @@
       ]
     },
     {
-      "anchor": "p2.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l5",
       "annotations": [
         {
@@ -146,34 +118,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.summer"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
             }
           ]
         }

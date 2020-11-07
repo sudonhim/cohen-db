@@ -125,15 +125,6 @@
               "kind": "text"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
         }
       ]
     },
@@ -180,20 +171,6 @@
       ]
     },
     {
-      "anchor": "p2.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l10",
       "annotations": [
         {
@@ -202,24 +179,6 @@
             {
               "text": "The night is a time of comfort but also of illusion, as we are shielded from the world. In daytime we wrestle with reality, often in struggle and suffering, but our vision is clearer.",
               "kind": "text"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
             }
           ]
         }
@@ -257,43 +216,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.daughter"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.son"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
             }
           ]
         }

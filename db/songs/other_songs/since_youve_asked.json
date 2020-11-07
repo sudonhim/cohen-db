@@ -89,20 +89,6 @@
       ]
     },
     {
-      "anchor": "p3.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l4",
       "annotations": [
         {
@@ -111,20 +97,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.sun"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
             }
           ]
         }

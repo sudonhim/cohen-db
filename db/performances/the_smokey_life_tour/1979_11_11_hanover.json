@@ -120,48 +120,6 @@
       ]
     },
     {
-      "anchor": "s3.p5.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s3.p5.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s4.p4.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "s5.p1.l1",
       "annotations": [
         {

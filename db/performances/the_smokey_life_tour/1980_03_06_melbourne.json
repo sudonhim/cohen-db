@@ -81,15 +81,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.fire"
             }
           ]

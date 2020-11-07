@@ -169,20 +169,6 @@
       ]
     },
     {
-      "anchor": "p5.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.death"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p5.l3",
       "annotations": [
         {
@@ -205,15 +191,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.blue"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.death"
             }
           ]
         }
@@ -256,34 +233,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.snow"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.death"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p10.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
             }
           ]
         }
@@ -340,20 +289,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.flood"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p11.l9",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
             }
           ]
         }

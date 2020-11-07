@@ -76,15 +76,6 @@
               "docRef": "symbol.window"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
         }
       ]
     },
@@ -162,38 +153,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.moon"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.star"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sun"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.star"
             }
           ]
         }

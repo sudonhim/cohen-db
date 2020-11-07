@@ -64,20 +64,6 @@
       ]
     },
     {
-      "anchor": "p1.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l2",
       "annotations": [
         {
@@ -86,20 +72,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
             }
           ]
         }
@@ -120,20 +92,6 @@
       ]
     },
     {
-      "anchor": "p3.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p4.l1",
       "annotations": [
         {
@@ -142,48 +100,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.smoke"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
             }
           ]
         }

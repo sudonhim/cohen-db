@@ -77,29 +77,6 @@
       ]
     },
     {
-      "anchor": "p1.l11",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.blood"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p1.l14",
       "annotations": [
         {
@@ -107,62 +84,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.star"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l19",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l20",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sun"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sun"
             }
           ]
         }

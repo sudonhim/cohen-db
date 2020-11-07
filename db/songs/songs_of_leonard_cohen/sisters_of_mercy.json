@@ -120,20 +120,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p4.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

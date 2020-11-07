@@ -89,20 +89,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p1.l43",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.ice"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

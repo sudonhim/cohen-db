@@ -53,20 +53,6 @@
       ]
     },
     {
-      "anchor": "p1.l10",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l1",
       "annotations": [
         {
@@ -96,20 +82,6 @@
     },
     {
       "anchor": "p2.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sweetness"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l4",
       "annotations": [
         {
           "user": "symbols bot",

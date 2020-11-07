@@ -64,45 +64,8 @@
       ]
     },
     {
-      "anchor": "p1.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p1.l17",
       "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ]
-        },
         {
           "user": "symbols bot",
           "content": [
@@ -123,48 +86,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.water"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l21",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.water"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l22",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.water"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l25",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
             }
           ]
         }

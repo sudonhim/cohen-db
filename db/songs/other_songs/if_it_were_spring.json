@@ -115,20 +115,6 @@
       ]
     },
     {
-      "anchor": "p2.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.tree"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p2.l4",
       "annotations": [
         {
@@ -208,20 +194,6 @@
       ]
     },
     {
-      "anchor": "p7.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sun"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p7.l4",
       "annotations": [
         {
@@ -244,34 +216,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.death"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p13.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p13.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.tree"
             }
           ]
         }

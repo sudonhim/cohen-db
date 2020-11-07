@@ -10,7 +10,8 @@
     "generate-types": "ts-node run/generate-types.ts",
     "validate": "ts-node run/validate-data.ts",
     "test-roundtrip": "ts-node run/load-save-roundtrip.ts",
-    "generate-syms": "ts-node run/generate-syms.ts"
+    "generate-syms": "ts-node run/generate-syms.ts",
+    "clean-syms": "ts-node run/clean-syms.ts"
   },
   "repository": {
     "type": "git",

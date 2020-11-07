@@ -170,20 +170,6 @@
       ]
     },
     {
-      "anchor": "p2.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l3",
       "annotations": [
         {
@@ -201,34 +187,6 @@
             {
               "kind": "text",
               "text": "The kitchen represents the successful economic relationship he had with society. The panther; everything else."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
             }
           ]
         }
@@ -277,20 +235,6 @@
       ]
     },
     {
-      "anchor": "p6.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p7.l1",
       "annotations": [
         {
@@ -305,34 +249,6 @@
       ]
     },
     {
-      "anchor": "p7.l7",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.beggar"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p7.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p8.l6",
       "annotations": [
         {
@@ -341,20 +257,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.flood"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.heart"
             }
           ]
         }

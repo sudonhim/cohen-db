@@ -154,34 +154,6 @@
       ]
     },
     {
-      "anchor": "p3.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rose"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.swan"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l3",
       "annotations": [
         {
@@ -269,38 +241,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.wind"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.swan"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rose"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p8.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
             }
           ]
         }

@@ -199,15 +199,6 @@
               "docRef": "symbol.train"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.train"
-            }
-          ]
         }
       ]
     },
@@ -262,15 +253,6 @@
             {
               "text": "Nietzschean, possibly",
               "kind": "text"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sun"
             }
           ]
         }

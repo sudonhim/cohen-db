@@ -94,15 +94,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.bed"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.crucifixion"
             }
           ]
@@ -118,15 +109,6 @@
             {
               "text": "There are several ways these two lines could be interpreted. Perhaps the most likely is that in the modern west the Holocaust is a spiritual event with comparable potency to the crucifixion. Whatever team the captain and soldier on, they appear to have lost in both.",
               "kind": "text"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.bed"
             }
           ]
         }
@@ -149,15 +131,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.bed"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.heart"
             }
           ]
@@ -167,15 +140,6 @@
     {
       "anchor": "p1.l16",
       "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.bed"
-            }
-          ]
-        },
         {
           "user": "symbols bot",
           "content": [

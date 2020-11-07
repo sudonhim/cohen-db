@@ -210,15 +210,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.night"
             }
           ]
@@ -240,20 +231,6 @@
       ]
     },
     {
-      "anchor": "p1.l68",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p1.l103",
       "annotations": [
         {
@@ -261,25 +238,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.slave"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
             }
           ]
         }

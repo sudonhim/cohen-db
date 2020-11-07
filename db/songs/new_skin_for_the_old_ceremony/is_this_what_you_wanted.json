@@ -84,15 +84,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.dawn"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.father"
             }
           ]

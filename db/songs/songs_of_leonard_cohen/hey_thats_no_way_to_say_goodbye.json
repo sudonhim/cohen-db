@@ -85,34 +85,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "p3.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.hair"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

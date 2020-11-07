@@ -72,15 +72,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.heart"
             }
           ]

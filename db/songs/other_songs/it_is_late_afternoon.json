@@ -104,20 +104,6 @@
       ]
     },
     {
-      "anchor": "p3.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.moon"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "p3.l2",
       "annotations": [
         {
@@ -135,62 +121,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.window"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.window"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.moon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.room"
             }
           ]
         }
