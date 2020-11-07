@@ -53,20 +53,6 @@
       ]
     },
     {
-      "anchor": "s1.p3.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "s2.p1.l1",
       "annotations": [
         {
@@ -83,25 +69,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.night"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
             }
           ]
         }

@@ -56,34 +56,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "s2.p1.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s2.p2.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

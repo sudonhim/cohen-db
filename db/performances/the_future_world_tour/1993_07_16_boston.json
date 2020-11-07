@@ -124,15 +124,6 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.master"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.thigh"
             }
           ]

@@ -266,15 +266,6 @@
               "docRef": "symbol.gypsy"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ]
         }
       ]
     }

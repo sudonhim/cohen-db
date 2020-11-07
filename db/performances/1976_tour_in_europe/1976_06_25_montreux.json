@@ -93,15 +93,6 @@
               "docRef": "symbol.window"
             }
           ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ]
         }
       ]
     }

@@ -224,20 +224,6 @@
       ]
     },
     {
-      "anchor": "s7.p1.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "s7.p4.l5",
       "annotations": [
         {

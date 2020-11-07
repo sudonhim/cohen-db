@@ -168,43 +168,6 @@
       ]
     },
     {
-      "anchor": "s4.p1.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.room"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s5.p1.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "s7.p1.l1",
       "annotations": [
         {
@@ -231,15 +194,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.winter"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.room"
             }
           ]
         },
@@ -289,25 +243,7 @@
           "content": [
             {
               "kind": "docref",
-              "docRef": "symbol.room"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
               "docRef": "symbol.man"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
             }
           ]
         }

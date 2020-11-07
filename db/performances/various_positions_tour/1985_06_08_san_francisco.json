@@ -145,34 +145,6 @@
           ]
         }
       ]
-    },
-    {
-      "anchor": "s4.p2.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s5.p1.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

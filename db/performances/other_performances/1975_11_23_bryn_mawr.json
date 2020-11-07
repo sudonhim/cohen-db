@@ -234,48 +234,6 @@
       ]
     },
     {
-      "anchor": "s1.p6.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.thigh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s1.p7.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s1.p7.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.moon"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "s3.p3.l2",
       "annotations": [
         {
@@ -471,20 +429,6 @@
       ]
     },
     {
-      "anchor": "s4.p6.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.thigh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "s4.p6.l2",
       "annotations": [
         {
@@ -502,20 +446,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.kiss"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s4.p7.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.soldier"
             }
           ]
         }
@@ -544,38 +474,6 @@
             {
               "kind": "docref",
               "docRef": "symbol.wind"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.swan"
-            }
-          ]
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.rose"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "s4.p9.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
             }
           ]
         }
