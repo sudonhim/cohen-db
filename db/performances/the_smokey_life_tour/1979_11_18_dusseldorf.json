@@ -8,5 +8,6 @@
       "venue": "Philips Halle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

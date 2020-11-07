@@ -8,5 +8,6 @@
       "venue": "Rotterdam Ahoy"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

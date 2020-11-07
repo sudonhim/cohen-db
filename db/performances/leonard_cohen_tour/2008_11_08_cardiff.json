@@ -8,5 +8,6 @@
       "venue": "Cardiff International Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

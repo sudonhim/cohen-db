@@ -8,5 +8,6 @@
       "venue": "Bristol Hippodrome"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -22,5 +22,6 @@
       }
     ]
   },
-  "kind": "interview"
+  "kind": "interview",
+  "annotations": []
 }

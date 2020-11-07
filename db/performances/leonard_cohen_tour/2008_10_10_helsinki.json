@@ -8,5 +8,6 @@
       "venue": "Hartwall Areena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

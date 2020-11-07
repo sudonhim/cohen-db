@@ -8,5 +8,6 @@
       "venue": "Warsteiner HockeyPark"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

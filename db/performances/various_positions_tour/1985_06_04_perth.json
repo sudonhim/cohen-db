@@ -8,5 +8,6 @@
       "venue": "Perth Concert Hall"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

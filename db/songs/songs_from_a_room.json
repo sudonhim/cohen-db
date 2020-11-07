@@ -15,5 +15,6 @@
     "song.lady_midnight",
     "song.tonight_will_be_fine"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

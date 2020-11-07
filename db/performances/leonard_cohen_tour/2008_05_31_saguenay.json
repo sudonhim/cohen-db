@@ -8,5 +8,6 @@
       "venue": "Auditorium Dufour"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

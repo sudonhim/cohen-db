@@ -8,5 +8,6 @@
       "venue": "Plaza Pueblo"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

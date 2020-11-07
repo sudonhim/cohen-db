@@ -8,5 +8,6 @@
       "venue": "Place des Arts"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

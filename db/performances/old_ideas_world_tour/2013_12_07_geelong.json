@@ -9,5 +9,6 @@
       "venue": "The Hill Winery"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

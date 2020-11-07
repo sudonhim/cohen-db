@@ -8,5 +8,6 @@
       "venue": "Arena Zagreb"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

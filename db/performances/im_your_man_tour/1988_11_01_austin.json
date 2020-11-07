@@ -8,5 +8,6 @@
       "venue": "Opry House"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Verona Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

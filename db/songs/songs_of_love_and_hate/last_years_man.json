@@ -67,208 +67,293 @@
   "annotations": [
     {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "text": "The rain, falling from a cracked firmament, signifying the end of an era. It falls on the man of that era.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The rain, falling from a cracked firmament, signifying the end of an era. It falls on the man of that era.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "text": "A Jew's harp, like a crayon, is a cheap and crude instrument. The motif of the prophet saddled with poor instruments is one taken from William Blake.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l7",
-      "tokens": [
-        {
-          "text": "The crack in the firmament. In hebrew skylight / skin / firmament share a root.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "text": "LC talks of the current time as 'the darkness', a time of shelter and wealth where we get caught up in our dreams and games, but lack the divine light, which is often only revealed through hardship.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l3",
-      "tokens": [
-        {
-          "text": "One by one we come to understand that our society, though beautiful, is destined to self-immolate.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l1",
-      "tokens": [
-        {
-          "text": "The uniform may refer to Cohen's role as a priest, carrying forward symbols from the past. See the poem \"I've Seen Some Lonely History\"",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l1",
-      "tokens": [
-        {
-          "text": "Christianity",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l7",
-      "tokens": [
-        {
-          "text": "We read from prophets that the church is receding. As LC says, \"It will defeat itself. It will establish the wilderness in which the Brightness will manifest again.\"",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.rain"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "A Jew's harp, like a crayon, is a cheap and crude instrument. The motif of the prophet saddled with poor instruments is one taken from William Blake.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.wood"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.wood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l7",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The crack in the firmament. In hebrew skylight / skin / firmament share a root.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l8",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.rain"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l9",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.soldier"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC talks of the current time as 'the darkness', a time of shelter and wealth where we get caught up in our dreams and games, but lack the divine light, which is often only revealed through hardship.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.soldier"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dark"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "p2.l1",
-      "tokens": [
+      "anchor": "p2.l3",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dark"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "One by one we come to understand that our society, though beautiful, is destined to self-immolate.",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The uniform may refer to Cohen's role as a priest, carrying forward symbols from the past. See the poem \"I've Seen Some Lonely History\"",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p4.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Christianity",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.flesh"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.flesh"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p5.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p5.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.blood"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "We read from prophets that the church is receding. As LC says, \"It will defeat itself. It will establish the wilderness in which the Brightness will manifest again.\"",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blood"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.rain"
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l8",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.rain"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l9",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     }

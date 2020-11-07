@@ -8,5 +8,6 @@
       "venue": "ICC"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

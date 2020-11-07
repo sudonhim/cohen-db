@@ -8,5 +8,6 @@
       "venue": "Echo Arena Liverpool"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

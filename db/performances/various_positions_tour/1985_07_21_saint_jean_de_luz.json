@@ -8,5 +8,6 @@
       "venue": "Theatre de la Nature"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

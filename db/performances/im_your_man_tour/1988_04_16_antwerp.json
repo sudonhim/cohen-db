@@ -8,5 +8,6 @@
       "venue": "Koningin Elisabethzaal"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

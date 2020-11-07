@@ -13,5 +13,6 @@
     "song.sing_another_song_boys",
     "song.joan_of_arc"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

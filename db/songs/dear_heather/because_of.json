@@ -28,10 +28,15 @@
   "annotations": [
     {
       "anchor": "p1.l14",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
       ]
     }

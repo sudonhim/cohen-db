@@ -8,5 +8,6 @@
       "venue": "Atlas Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

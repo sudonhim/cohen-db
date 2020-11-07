@@ -8,5 +8,6 @@
       "venue": "Rådhusparken"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

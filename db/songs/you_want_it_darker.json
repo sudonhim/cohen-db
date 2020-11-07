@@ -14,5 +14,6 @@
     "song.steer_your_way",
     "song.string_reprise_treaty"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

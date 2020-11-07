@@ -20,11 +20,16 @@
   "kind": "interview",
   "annotations": [
     {
-      "anchor": "s1.p2",
-      "tokens": [
+      "anchor": "s1.p2.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
       ]
     }

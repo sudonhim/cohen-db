@@ -8,5 +8,6 @@
       "venue": "Rosenborg Castle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

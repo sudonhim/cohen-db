@@ -88,5 +88,6 @@
     "live.1988_11_15_boston",
     "live.1988_11_16_new_york"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

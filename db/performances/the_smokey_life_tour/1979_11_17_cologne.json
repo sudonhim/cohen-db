@@ -8,5 +8,6 @@
       "venue": "Messehalle Cologne"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

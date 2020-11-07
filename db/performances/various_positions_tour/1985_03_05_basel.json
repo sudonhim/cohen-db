@@ -8,5 +8,6 @@
       "venue": "Mustermessehalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

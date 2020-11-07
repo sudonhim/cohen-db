@@ -8,5 +8,6 @@
       "venue": "Brighton Dome"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

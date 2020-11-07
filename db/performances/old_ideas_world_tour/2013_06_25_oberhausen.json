@@ -8,5 +8,6 @@
       "venue": "König-Pilsener-Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

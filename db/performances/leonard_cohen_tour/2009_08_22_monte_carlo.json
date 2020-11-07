@@ -9,5 +9,6 @@
       "venue": "Monaco Sporting Club"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Alte Oper"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

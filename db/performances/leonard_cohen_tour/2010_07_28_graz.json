@@ -8,5 +8,6 @@
       "venue": "Stadthalle Graz"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

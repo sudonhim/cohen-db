@@ -8,5 +8,6 @@
       "venue": "Olympiahalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

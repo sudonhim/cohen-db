@@ -8,5 +8,6 @@
       "venue": "Teatro Goldoni"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

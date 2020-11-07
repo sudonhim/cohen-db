@@ -80,55 +80,75 @@
   "annotations": [
     {
       "anchor": "p3.l4",
-      "tokens": [
+      "annotations": [
         {
-          "text": "Seduced by her beauty the male figure is bound into her domestic arrangements. There are not many references to the kitchen in LC's work, but it seems to mean something like the economy, where the arrangements are made that determine 'who will serve and who will eat'.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Seduced by her beauty the male figure is bound into her domestic arrangements. There are not many references to the kitchen in LC's work, but it seems to mean something like the economy, where the arrangements are made that determine 'who will serve and who will eat'.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kitchen"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l5",
-      "tokens": [
+      "annotations": [
         {
-          "text": "The old patriarchal spiritual hierarchy is destroyed, as is the source of the prophet's power (recall the secret to Samson's strength is his hair).",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l4",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The old patriarchal spiritual hierarchy is destroyed, as is the source of the prophet's power (recall the secret to Samson's strength is his hair).",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.kitchen"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l5",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lip"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lip"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p5.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
       ]
     }

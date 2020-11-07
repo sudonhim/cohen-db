@@ -36,5 +36,6 @@
     "song.whither_thou_goest",
     "song.you_all_in_white"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

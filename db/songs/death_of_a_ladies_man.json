@@ -13,5 +13,6 @@
     "song.fingerprints",
     "song.death_of_a_ladies_man"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

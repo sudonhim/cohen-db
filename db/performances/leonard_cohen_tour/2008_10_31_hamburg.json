@@ -8,5 +8,6 @@
       "venue": "O2 World Hamburg"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Hammersmith Odeon"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

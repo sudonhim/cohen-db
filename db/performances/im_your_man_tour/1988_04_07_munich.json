@@ -8,5 +8,6 @@
       "venue": "Munich Gasteig"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

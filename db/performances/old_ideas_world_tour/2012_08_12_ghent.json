@@ -8,5 +8,6 @@
       "venue": "St. Peter's Square"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

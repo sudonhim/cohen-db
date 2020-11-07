@@ -8,5 +8,6 @@
       "venue": "St. Jakobshalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

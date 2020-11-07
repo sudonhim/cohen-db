@@ -68,56 +68,76 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l7",
-      "tokens": [
-        {
-          "text": "The snowman is the man reduced to living in the snow, consisting of snow. Exiled from the temple, his spiritual life is tenuous. The rain falls down upon him from the cracked heavens, bringing the end of an era.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
       "anchor": "p1.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sea"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sea"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.snowman"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l7",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The snowman is the man reduced to living in the snow, consisting of snow. Exiled from the temple, his spiritual life is tenuous. The rain falls down upon him from the cracked heavens, bringing the end of an era.",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.rain"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.snowman"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rain"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dark"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dark"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l7",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.train"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.train"
+            }
+          ]
         }
       ]
     }

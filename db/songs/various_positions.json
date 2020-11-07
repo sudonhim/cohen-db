@@ -14,5 +14,6 @@
     "song.heart_with_no_companion",
     "song.if_it_be_your_will"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

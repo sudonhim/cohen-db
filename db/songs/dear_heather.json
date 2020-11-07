@@ -18,5 +18,6 @@
     "song.the_faith",
     "song.tennessee_waltz"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

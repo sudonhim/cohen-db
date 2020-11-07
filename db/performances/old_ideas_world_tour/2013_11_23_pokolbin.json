@@ -9,5 +9,6 @@
       "venue": "Bimbadgen Estate Winery"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

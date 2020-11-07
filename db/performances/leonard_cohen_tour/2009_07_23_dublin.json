@@ -8,5 +8,6 @@
       "venue": "The O2"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

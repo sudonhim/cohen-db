@@ -8,5 +8,6 @@
       "venue": "Muziektheater"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

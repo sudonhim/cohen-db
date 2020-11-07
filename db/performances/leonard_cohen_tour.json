@@ -252,5 +252,6 @@
     "live.2010_12_10_las_vegas",
     "live.2010_12_11_las_vegas"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

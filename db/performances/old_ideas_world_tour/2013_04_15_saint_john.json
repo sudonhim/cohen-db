@@ -8,5 +8,6 @@
       "venue": "Harbour Station"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

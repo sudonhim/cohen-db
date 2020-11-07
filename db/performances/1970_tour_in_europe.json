@@ -14,5 +14,6 @@
     "live.1970_05_12_paris",
     "live.1970_05_16_leeds"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

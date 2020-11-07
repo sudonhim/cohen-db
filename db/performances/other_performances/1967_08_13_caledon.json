@@ -8,5 +8,6 @@
       "venue": "Innis Lake Campground"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

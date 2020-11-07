@@ -63,191 +63,286 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p11.l2",
-      "tokens": [
-        {
-          "text": "In summary this song is a dialogue between God and the Jewish people. The Jew cries out \"God, why have you abandoned me? How have you allowed us to fall into such a wretched condition? Give us a fresh start, let us escape it!\". And God replies \"It was you who forgot me, I never left you. I have given everything that you need.\"",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
-        {
-          "text": "LC is borrowing a technique from the 13th century Persian poet Rumi, who famously referred to god as his \"lover\". Rumi is credited in the album sleeve.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l3",
-      "tokens": [
-        {
-          "text": "This is commonly interpreted as a moral test - to choose love (make a woman smile) over violence (use it as a weapon). This fits with the pacifist currents of the 70s in the US, but its probable that the correct interpretation is much darker. Aligning with the fifth verse, the spirit of this song is to succeed \"against the enemy\". The rather than a choice then, these two lines become the most important things you can do with your god-given body; to fight, and to reproduce. This makes a lot more sense under the circumstances in which the song was written.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l3",
-      "tokens": [
-        {
-          "text": "An Israeli comments: \"...the new face - is the new way of relating to Jewish culture, to being a Jew in new times when there is finally a state which didn’t exist before, the state which needs protection. Old stereotypes about Jews unable to defend themselves must be destroyed.\"",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p9",
-      "tokens": [
-        {
-          "text": "The overall spirit of the song - written for Israeli toops in the Yom Kippur War, it is for strengthening Jewish identity in the face of adversity and moral ambiguity. LC does claim that the song is for \"both sides\", and indeed it is true for any people in this struggle.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.father"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.father"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.father"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.father"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC is borrowing a technique from the 13th century Persian poet Rumi, who famously referred to god as his \"lover\". Rumi is credited in the album sleeve.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l3",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This is commonly interpreted as a moral test - to choose love (make a woman smile) over violence (use it as a weapon). This fits with the pacifist currents of the 70s in the US, but its probable that the correct interpretation is much darker. Aligning with the fifth verse, the spirit of this song is to succeed \"against the enemy\". The rather than a choice then, these two lines become the most important things you can do with your god-given body; to fight, and to reproduce. This makes a lot more sense under the circumstances in which the song was written.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p5.l3",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "An Israeli comments: \"...the new face - is the new way of relating to Jewish culture, to being a Jew in new times when there is finally a state which didn’t exist before, the state which needs protection. Old stereotypes about Jews unable to defend themselves must be destroyed.\"",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p7.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.temple"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.temple"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p8.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p8.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p9.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The overall spirit of the song - written for Israeli toops in the Yom Kippur War, it is for strengthening Jewish identity in the face of adversity and moral ambiguity. LC does claim that the song is for \"both sides\", and indeed it is true for any people in this struggle.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p10.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p10.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p11.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p11.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.lover"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "In summary this song is a dialogue between God and the Jewish people. The Jew cries out \"God, why have you abandoned me? How have you allowed us to fall into such a wretched condition? Give us a fresh start, let us escape it!\". And God replies \"It was you who forgot me, I never left you. I have given everything that you need.\"",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.lover"
+            }
+          ]
         }
       ]
     }

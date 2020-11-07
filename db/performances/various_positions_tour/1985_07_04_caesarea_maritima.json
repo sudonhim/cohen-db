@@ -8,5 +8,6 @@
       "venue": "Old Roman Amphitheatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

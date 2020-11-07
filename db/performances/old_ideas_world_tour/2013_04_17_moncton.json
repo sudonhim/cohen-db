@@ -8,5 +8,6 @@
       "venue": "Moncton Coliseum"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

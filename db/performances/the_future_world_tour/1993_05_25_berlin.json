@@ -8,5 +8,6 @@
       "venue": "Tempodrom"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

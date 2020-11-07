@@ -1,78 +1,93 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "annotations.json",
-    "title": "Annotations",
-    "description": "Annotations attached to a file",
-    "type": "array",
-    "items": {
-        "type": "object",
-        "title": "Annotation",
-        "description": "An annotation",
-        "properties": {
-            "anchor": {
-                "type": "string",
-                "description": "A reference to a location in the parent document"
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "annotations.json",
+  "title": "Annotations",
+  "description": "Annotations attached to a file",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "AnnotationsGroup",
+    "description": "The list of annotations attached to a single location in the parent document",
+    "properties": {
+      "anchor": {
+        "type": "string",
+        "description": "A reference to a location in the parent document"
+      },
+      "annotations": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "title": "Annotation",
+          "description": "A user-submitted annotation",
+          "properties": {
+            "user": {
+              "type": "string"
             },
-            "tokens": {
-                "type": "array",
-                "description": "An array of tokens constituting the annotation",
-                "minItems": 1,
-                "items": {
-                    "oneOf": [
-                        {
-                            "type": "object",
-                            "title": "TextToken",
-                            "description": "A token of text content",
-                            "properties": {
-                                "kind": {
-                                    "enum": [ "text" ]
-                                },
-                                "text": {
-                                    "type": "string"
-                                }
-                            },
-                            "additionalProperties": false,
-                            "required": ["kind", "text"]
-                        },
-                        {
-                            "type": "object",
-                            "title": "ExternalLinkToken",
-                            "description": "A token referring to an external link",
-                            "properties": {
-                                "kind": {
-                                    "enum": [ "link" ]
-                                },
-                                "text": {
-                                    "type": "string"
-                                },
-                                "link": {
-                                    "type": "string"
-                                }
-                            },
-                            "additionalProperties": false,
-                            "required": ["kind", "text", "link"]
-                        },
-                        {
-                            "type": "object",
-                            "title": "DocrefToken",
-                            "description": "A token referring to another document",
-                            "properties": {
-                                "kind": {
-                                    "enum": [ "docref" ]
-                                },
-                                "docRef": {
-                                    "type": "string"
-                                }
-                            },
-                            "additionalProperties": false,
-                            "required": ["kind", "docRef"]
-                        }
-                    ]
-                }
+            "content": {
+              "type": "array",
+              "description": "An array of tokens constituting the annotation",
+              "minItems": 1,
+              "items": {
+                "oneOf": [
+                  {
+                    "type": "object",
+                    "title": "TextToken",
+                    "description": "A token of text content",
+                    "properties": {
+                      "kind": {
+                        "enum": ["text"]
+                      },
+                      "text": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false,
+                    "required": ["kind", "text"]
+                  },
+                  {
+                    "type": "object",
+                    "title": "ExternalLinkToken",
+                    "description": "A token referring to an external link",
+                    "properties": {
+                      "kind": {
+                        "enum": ["link"]
+                      },
+                      "text": {
+                        "type": "string"
+                      },
+                      "link": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false,
+                    "required": ["kind", "text", "link"]
+                  },
+                  {
+                    "type": "object",
+                    "title": "DocrefToken",
+                    "description": "A token referring to another document",
+                    "properties": {
+                      "kind": {
+                        "enum": ["docref"]
+                      },
+                      "docRef": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false,
+                    "required": ["kind", "docRef"]
+                  }
+                ]
+              }
             }
-        },
-        "required": ["anchor", "tokens"],
+          },
+        "required": ["content", "user"],
         "additionalProperties": false
+        }
+      }
     },
+    "required": ["anchor"],
     "additionalProperties": false
+  },
+  "additionalProperties": false
 }

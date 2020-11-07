@@ -8,5 +8,6 @@
       "venue": "WIN Entertainment Centre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

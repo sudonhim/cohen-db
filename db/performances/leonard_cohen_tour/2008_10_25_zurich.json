@@ -8,5 +8,6 @@
       "venue": "Hallenstadion"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

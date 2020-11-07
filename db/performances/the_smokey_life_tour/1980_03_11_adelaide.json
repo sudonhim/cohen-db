@@ -8,5 +8,6 @@
       "venue": "Apollo Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

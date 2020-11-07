@@ -8,5 +8,6 @@
       "venue": "Böblingen Sporthalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

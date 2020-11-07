@@ -8,5 +8,6 @@
       "venue": "Rochford Winery"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

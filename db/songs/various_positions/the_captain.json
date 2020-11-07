@@ -73,146 +73,242 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l12",
-      "tokens": [
-        {
-          "text": "There are several ways these two lines could be interpreted. Perhaps the most likely is that in the modern west the Holocaust is a spiritual event with comparable potency to the crucifixion. Whatever team the captain and soldier on, they appear to have lost in both.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l15",
-      "tokens": [
-        {
-          "text": "This likely refers to the ongoing spiritual battle occupying much of LC's work. People's hearts, their bundle of spiritual attachments, are immolating amid great social change.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l4",
-      "tokens": [
-        {
-          "text": "We revel in and perpetrate the spiritual destruction of others, just as we try to protect those we love. We may strive to be soldiers rather than killers, but this duality to our nature should be recognized.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p3.l1",
-      "tokens": [
-        {
-          "text": "Many give the easy answer of pacifism or neutrality in conflict, or a particular set of principles that can absolve you of it. These answers are denied by the captain.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bed"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l11",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.crucifixion"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.crucifixion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p1.l12",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "There are several ways these two lines could be interpreted. Perhaps the most likely is that in the modern west the Holocaust is a spiritual event with comparable potency to the crucifixion. Whatever team the captain and soldier on, they appear to have lost in both.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l15",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.heart"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "This likely refers to the ongoing spiritual battle occupying much of LC's work. People's hearts, their bundle of spiritual attachments, are immolating amid great social change.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.heart"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l16",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.flesh"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l16",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.smoke"
-        }
-      ]
-    },
-    {
-      "anchor": "p1.l16",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.flesh"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.rose"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.smoke"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.rose"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.soldier"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.soldier"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.killer"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "We revel in and perpetrate the spiritual destruction of others, just as we try to protect those we love. We may strive to be soldiers rather than killers, but this duality to our nature should be recognized.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.killer"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.blood"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p3.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Many give the easy answer of pacifism or neutrality in conflict, or a particular set of principles that can absolve you of it. These answers are denied by the captain.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.day"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.day"
+            }
+          ]
         }
       ]
     }

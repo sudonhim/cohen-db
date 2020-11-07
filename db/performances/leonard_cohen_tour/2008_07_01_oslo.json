@@ -8,5 +8,6 @@
       "venue": "Bislett Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

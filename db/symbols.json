@@ -49,7 +49,6 @@
     "symbol.man",
     "symbol.master",
     "symbol.moon",
-    "symbol.moon",
     "symbol.mother",
     "symbol.mountain",
     "symbol.night",
@@ -67,7 +66,6 @@
     "symbol.seaweed",
     "symbol.ship",
     "symbol.sky",
-    "symbol.sky",
     "symbol.slave",
     "symbol.sleep",
     "symbol.smoke",
@@ -81,13 +79,11 @@
     "symbol.suicide",
     "symbol.summer",
     "symbol.sun",
-    "symbol.sun",
     "symbol.swan",
     "symbol.sweetness",
     "symbol.temple",
     "symbol.thigh",
     "symbol.train",
-    "symbol.train_station",
     "symbol.tree",
     "symbol.water",
     "symbol.white",
@@ -97,5 +93,6 @@
     "symbol.woman",
     "symbol.wood"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

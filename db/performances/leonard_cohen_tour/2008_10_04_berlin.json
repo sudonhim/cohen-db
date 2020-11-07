@@ -8,5 +8,6 @@
       "venue": "O2 World Berlin"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

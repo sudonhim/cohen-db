@@ -8,5 +8,6 @@
       "venue": "Amsterdam Olympic Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

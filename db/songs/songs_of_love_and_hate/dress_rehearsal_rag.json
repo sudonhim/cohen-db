@@ -121,173 +121,253 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p12.l1",
-      "tokens": [
-        {
-          "text": "Ultimately the prophet is drawn down a path of self destruction and spiritual death, similar to that documented in Teachers.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
       "anchor": "p2.l4",
-      "tokens": [
+      "annotations": [
         {
-          "text": "The prophet needing to remove his hair is a motif LC carries on from the story of Samson and Delilah. It features in several songs.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l1",
-      "tokens": [
-        {
-          "text": "There's no passionate belief in the prophet",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p5.l2",
-      "tokens": [
-        {
-          "text": "And very little \"cold\" belief either",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p6.l4",
-      "tokens": [
-        {
-          "text": "Its not just modernity, the vision of the prophet himself is fading.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p7",
-      "tokens": [
-        {
-          "text": "In an absurd gambit the prophet replaces his lost beard with a synthetic one, and wins support by giving gifts to anybodybody who applauds him. This could be viewed as failing religious movement attempting to become socialists instead.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "The prophet needing to remove his hair is a motif LC carries on from the story of Samson and Delilah. It features in several songs.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.razor"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.razor"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p5.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.water"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "There's no passionate belief in the prophet",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.water"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p5.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.cold"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "And very little \"cold\" belief either",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.cold"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p6.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p6.l4",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Its not just modernity, the vision of the prophet himself is fading.",
+              "kind": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "p7.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "In an absurd gambit the prophet replaces his lost beard with a synthetic one, and wins support by giving gifts to anybodybody who applauds him. This could be viewed as failing religious movement attempting to become socialists instead.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p8.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p10.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.hair"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.hair"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p10.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.summer"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.summer"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p10.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p12.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.road"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "Ultimately the prophet is drawn down a path of self destruction and spiritual death, similar to that documented in Teachers.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.road"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p14.l4",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dream"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dream"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p15.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.razor"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.razor"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p15.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.dark"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.dark"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p15.l6",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.man"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.man"
+            }
+          ]
         }
       ]
     }

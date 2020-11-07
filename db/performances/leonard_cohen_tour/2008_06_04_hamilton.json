@@ -8,5 +8,6 @@
       "venue": "Hamilton Place Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

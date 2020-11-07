@@ -8,5 +8,6 @@
       "venue": "Acer Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

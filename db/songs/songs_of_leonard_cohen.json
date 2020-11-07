@@ -17,5 +17,6 @@
     "song.store_room",
     "song.blessed_is_the_memory"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

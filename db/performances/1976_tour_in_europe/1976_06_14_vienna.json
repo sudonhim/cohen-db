@@ -8,5 +8,6 @@
       "venue": "Wiener Konzerthaus"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Late Night With David Letterman"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

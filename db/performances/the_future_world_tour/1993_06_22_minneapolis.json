@@ -8,5 +8,6 @@
       "venue": "Minneapolis State Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

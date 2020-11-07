@@ -8,5 +8,6 @@
       "venue": "Musikteatret"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

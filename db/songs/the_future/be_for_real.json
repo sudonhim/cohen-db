@@ -44,5 +44,6 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "annotations": []
 }

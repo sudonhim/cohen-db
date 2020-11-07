@@ -8,5 +8,6 @@
       "venue": "Parc des Expositions de la Beaujoire"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

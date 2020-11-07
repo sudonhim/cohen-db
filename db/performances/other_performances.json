@@ -37,5 +37,6 @@
     "live.1993_02_10_new_york",
     "live.2006_05_13_toronto"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

@@ -25,5 +25,6 @@
     "live.1972_04_19_tel_aviv",
     "live.1972_04_21_jerusalem"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

@@ -14,5 +14,6 @@
     "tour.old_ideas_world_tour",
     "group.other_performances"
   ],
-  "kind": "group"
+  "kind": "group",
+  "annotations": []
 }

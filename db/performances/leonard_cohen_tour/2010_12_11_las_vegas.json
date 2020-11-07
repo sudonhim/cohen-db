@@ -8,5 +8,6 @@
       "venue": "The Colosseum at Caesars Palace"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

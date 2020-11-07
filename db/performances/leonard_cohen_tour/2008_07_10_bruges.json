@@ -8,5 +8,6 @@
       "venue": "Minnewaterpark"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

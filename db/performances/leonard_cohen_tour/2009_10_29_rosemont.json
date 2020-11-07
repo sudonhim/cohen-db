@@ -8,5 +8,6 @@
       "venue": "Rosemont Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

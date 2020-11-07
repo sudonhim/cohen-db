@@ -8,5 +8,6 @@
       "venue": "Rheinhalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

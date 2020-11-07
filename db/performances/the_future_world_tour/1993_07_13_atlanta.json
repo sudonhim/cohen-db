@@ -8,5 +8,6 @@
       "venue": "The Roxy"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

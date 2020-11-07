@@ -4,3 +4,4 @@ ice, freeze, froze, frozen
 fire, flame
 sweetness, sweeten
 kitchen, kitchenette
+farm, barn

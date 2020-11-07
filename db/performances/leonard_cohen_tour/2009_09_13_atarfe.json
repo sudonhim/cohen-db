@@ -8,5 +8,6 @@
       "venue": "Coliseo Ciudad de Atarfe"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

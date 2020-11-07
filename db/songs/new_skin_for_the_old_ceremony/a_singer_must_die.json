@@ -37,73 +37,108 @@
   "annotations": [
     {
       "anchor": "p1.l2",
-      "tokens": [
+      "annotations": [
         {
-          "text": "LC betrayed his revolution. See the song \"The Traitor\" for one of many accounts of this.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC betrayed his revolution. See the song \"The Traitor\" for one of many accounts of this.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p1.l8",
-      "tokens": [
+      "annotations": [
         {
-          "text": "See the song \"Jazz Police\" for a similar account of these characters.",
-          "kind": "text"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "See the song \"Jazz Police\" for a similar account of these characters.",
+              "kind": "text"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l1",
-      "tokens": [
+      "annotations": [
         {
-          "text": "LC wants to change truth and beauty, or to change \"the way we make love\", but he is not trying to do so by open disagreement. Instead his project is wrapped in a beautiful disguise that seduces and confounds. Its difficult to understand what he really means without agreeing with him.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
-      "anchor": "p2.l1",
-      "tokens": [
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC wants to change truth and beauty, or to change \"the way we make love\", but he is not trying to do so by open disagreement. Instead his project is wrapped in a beautiful disguise that seduces and confounds. Its difficult to understand what he really means without agreeing with him.",
+              "kind": "text"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.thigh"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.thigh"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p2.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p3.l2",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.sun"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.sun"
+            }
+          ]
         }
       ]
     }

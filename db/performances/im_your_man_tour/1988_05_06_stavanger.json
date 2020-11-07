@@ -8,5 +8,6 @@
       "venue": "Kongeparken"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

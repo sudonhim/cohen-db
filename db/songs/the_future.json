@@ -14,5 +14,6 @@
     "song.always",
     "song.tacoma_trailer"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

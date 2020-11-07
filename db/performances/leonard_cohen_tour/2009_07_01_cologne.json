@@ -8,5 +8,6 @@
       "venue": "Lanxess Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

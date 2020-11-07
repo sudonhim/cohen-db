@@ -14,5 +14,6 @@
     "song.the_hills",
     "song.listen_to_the_hummingbird"
   ],
-  "kind": "album"
+  "kind": "album",
+  "annotations": []
 }

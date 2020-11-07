@@ -8,5 +8,6 @@
       "venue": "O2 Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

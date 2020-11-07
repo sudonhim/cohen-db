@@ -8,5 +8,6 @@
       "venue": "Sonera Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Mahalia Jackson Theater"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Savoy Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

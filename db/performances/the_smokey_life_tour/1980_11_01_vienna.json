@@ -8,5 +8,6 @@
       "venue": "Wien Concertgebouw"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

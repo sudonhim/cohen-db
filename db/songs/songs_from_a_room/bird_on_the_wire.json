@@ -40,56 +40,76 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p4.l1",
-      "tokens": [
-        {
-          "text": "LC frequently alludes to our inner spiritual self as a \"beggar\". Beneath all our rational faculties, our great mind that can construct all manner of rational thought as it \"moves between yes and no\" but \"never provides the answers\", there is a deeper faculty, which \"operates with answers\", and begs to us.",
-          "kind": "text"
-        }
-      ]
-    },
-    {
       "anchor": "p1.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bird"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bird"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l1",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.beggar"
+          "user": "sudonhim",
+          "content": [
+            {
+              "text": "LC frequently alludes to our inner spiritual self as a \"beggar\". Beneath all our rational faculties, our great mind that can construct all manner of rational thought as it \"moves between yes and no\" but \"never provides the answers\", there is a deeper faculty, which \"operates with answers\", and begs to us.",
+              "kind": "text"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.beggar"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l3",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.door"
-        }
-      ]
-    },
-    {
-      "anchor": "p4.l3",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.door"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
       ]
     },
     {
       "anchor": "p4.l5",
-      "tokens": [
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bird"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bird"
+            }
+          ]
         }
       ]
     }

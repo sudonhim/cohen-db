@@ -91,5 +91,6 @@
     "live.1980_11_22_freiburg",
     "live.1980_11_24_tel_aviv"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

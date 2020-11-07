@@ -8,5 +8,6 @@
       "venue": "The King's Garden"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

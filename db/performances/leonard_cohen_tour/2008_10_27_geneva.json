@@ -8,5 +8,6 @@
       "venue": "SEG Geneva Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Teatro Orfeo"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

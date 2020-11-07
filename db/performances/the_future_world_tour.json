@@ -71,5 +71,6 @@
     "live.1993_07_29_vancouver",
     "live.1993_07_30_victoria"
   ],
-  "kind": "tour"
+  "kind": "tour",
+  "annotations": []
 }

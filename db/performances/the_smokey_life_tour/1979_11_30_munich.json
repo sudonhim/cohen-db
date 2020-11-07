@@ -8,5 +8,6 @@
       "venue": "Circus Krone"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

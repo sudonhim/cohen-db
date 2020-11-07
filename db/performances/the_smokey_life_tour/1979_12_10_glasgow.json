@@ -8,5 +8,6 @@
       "venue": "The Apollo Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

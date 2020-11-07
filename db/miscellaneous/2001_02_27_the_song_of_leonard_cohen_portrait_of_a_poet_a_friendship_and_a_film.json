@@ -100,146 +100,181 @@
   "kind": "other",
   "annotations": [
     {
-      "anchor": "s1.p3",
-      "tokens": [
+      "anchor": "s1.p3.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.light"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.light"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "s2.p3",
-      "tokens": [
+      "anchor": "s2.p3.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.heart"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.heart"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.night"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "s2.p3",
-      "tokens": [
+      "anchor": "s2.p6.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bird"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "s2.p3",
-      "tokens": [
+      "anchor": "s3.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.night"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.blue"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.mother"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.kitchen"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "s2.p6",
-      "tokens": [
+      "anchor": "s4.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.bird"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.father"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s6.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.blue"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.snow"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.room"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.bed"
+            }
+          ]
+        },
+        {
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.moon"
+            }
+          ]
         }
       ]
     },
     {
-      "anchor": "s3.p1",
-      "tokens": [
+      "anchor": "s9.p1.l1",
+      "annotations": [
         {
-          "kind": "docref",
-          "docRef": "symbol.mother"
-        }
-      ]
-    },
-    {
-      "anchor": "s3.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.winter"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.kitchen"
-        }
-      ]
-    },
-    {
-      "anchor": "s4.p1",
-      "tokens": [
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.gypsy"
+            }
+          ]
+        },
         {
-          "kind": "docref",
-          "docRef": "symbol.father"
-        }
-      ]
-    },
-    {
-      "anchor": "s6.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.snow"
-        }
-      ]
-    },
-    {
-      "anchor": "s6.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.room"
-        }
-      ]
-    },
-    {
-      "anchor": "s6.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.bed"
-        }
-      ]
-    },
-    {
-      "anchor": "s6.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.moon"
-        }
-      ]
-    },
-    {
-      "anchor": "s9.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.winter"
-        }
-      ]
-    },
-    {
-      "anchor": "s9.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.gypsy"
-        }
-      ]
-    },
-    {
-      "anchor": "s9.p1",
-      "tokens": [
-        {
-          "kind": "docref",
-          "docRef": "symbol.woman"
+          "user": "symbols bot",
+          "content": [
+            {
+              "kind": "docref",
+              "docRef": "symbol.woman"
+            }
+          ]
         }
       ]
     }

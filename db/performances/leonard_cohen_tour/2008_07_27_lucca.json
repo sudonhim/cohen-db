@@ -9,5 +9,6 @@
       "venue": "Piazza Napoleone"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

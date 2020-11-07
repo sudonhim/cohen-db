@@ -8,5 +8,6 @@
       "venue": "Bucharest Youth Stadium"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

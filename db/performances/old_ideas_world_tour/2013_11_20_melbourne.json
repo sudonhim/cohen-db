@@ -8,5 +8,6 @@
       "venue": "Rod Laver Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

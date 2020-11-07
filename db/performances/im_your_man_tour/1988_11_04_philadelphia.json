@@ -8,5 +8,6 @@
       "venue": "Theatre of the Living Arts"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

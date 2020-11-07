@@ -8,5 +8,6 @@
       "venue": "Jahrhunderthalle"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -8,5 +8,6 @@
       "venue": "Chicago Theatre"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }

@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { LoadAndValidate, ValidateAndSave } from '../lib/utils';
 import { CanonDb } from '../index';
 import { CanonFile } from '../schema';

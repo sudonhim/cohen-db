@@ -8,5 +8,6 @@
       "venue": "Wembley Arena"
     }
   },
-  "kind": "live"
+  "kind": "live",
+  "annotations": []
 }
