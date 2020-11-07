@@ -12,8 +12,10 @@ const validator = ajv.getSchema("canon-file.json");
 
 export function EnsureValid(doc: CanonFile) {
   const valid = validator(doc);
-  if (!valid)
+  if (!valid) {
+    console.log(JSON.stringify(doc, null, 2));
     throw `Failed to validate ${doc.title}; ${ajv.errorsText(validator.errors)}`;
+  }
 }
 
 function LoadAndValidateOne(path: string): CanonFile {
@@ -69,8 +71,6 @@ export function DeleteFolderRecursive(path: string) {
 }
 
 export function ValidateAndSave(docDb: CanonDb) {
-  DeleteFolderRecursive('./build');
-  fs.mkdirSync('./build');
 
   const visited: string[] = [];
   const visitRecursive = (path: string, id: string) => {
@@ -85,7 +85,9 @@ export function ValidateAndSave(docDb: CanonDb) {
     const docStr = StringifyDoc(doc);
     fs.writeFileSync(`${newPath}.json`, docStr);
     if (doc.children) {
-      fs.mkdirSync(newPath);
+      try {
+        fs.mkdirSync(newPath);
+      } catch {};
     }
 
     visited.push(id);
@@ -95,7 +97,7 @@ export function ValidateAndSave(docDb: CanonDb) {
     }
   };
 
-  visitRecursive('./build', 'db');
+  visitRecursive('.', 'db');
 
   const unvisited = Object.keys(docDb).filter(key => !visited.includes(key));
   if (unvisited.length > 0)

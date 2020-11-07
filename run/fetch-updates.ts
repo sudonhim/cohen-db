@@ -1,27 +1,25 @@
 import axios from 'axios';
 import { LoadAndValidate, ValidateAndSave } from '../lib/utils';
 import { CanonDb } from '../index';
-import { Annotation } from '../schema';
+import { CanonFile } from '../schema';
 
-interface UpdatesBlob {
-    [docId: string]: Annotation[]
+interface IUpdate {
+    docId: string;
+    file: CanonFile;
 }
 
 const docDb: CanonDb = LoadAndValidate();
 console.log(`Loaded and validated ${Object.keys(docDb).length} documents`);
 
 async function run() {
-    const src = 'https://cohen-machine.herokuapp.com/api/updates';
+    const src = 'https://leonardcohennotes.com/api/updates';
     console.log(`Fetching updates from [${src}]...`);
-    const data = await (await axios.get(src)).data as UpdatesBlob;
-    console.log('Response received:');
-    console.log(JSON.stringify(data, null, 2));
+    const updates = await (await axios.get(src)).data as IUpdate[];
+    console.log(`Recieved ${updates.length} updated documents`);
 
-    for (var docId in data) {
-        const newAnnotations: Annotation[] = data[docId] as Annotation[];
-        const allAnnotations = [...(docDb[docId].annotations || []), ...newAnnotations];
-        allAnnotations.sort((a, b) => a.anchor.localeCompare(b.anchor));
-        docDb[docId].annotations = allAnnotations;
+    for (var update of updates) {
+        console.log(`Updating ${update.docId}...`);
+        docDb[update.docId] = update.file;
     }
 
     console.log(`Begin validate and save...`);
