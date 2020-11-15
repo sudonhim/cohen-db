@@ -1,0 +1,30 @@
+themes/
+  influences/
+    cavafy
+    lorca
+    rumi
+    william blake
+  people and relationships/
+    bride & bridegroom
+    god
+    gypsys
+    holy spirit
+    jesus
+    lovers & the trinity
+    mothers & fathers
+    men & women
+    soldiers
+    strangers
+  politics and tribes/
+    america
+    blacks & jews
+    capitalism
+    communism
+    enlightenment & liberalism
+    left & right
+    jewish blood
+    nazis & jews
+    race & racism
+  philosophy/
+    materialism
+    nihilism
