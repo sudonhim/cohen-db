@@ -35,6 +35,20 @@
   "kind": "song",
   "annotations": [
     {
+      "anchor": "p1.l1",
+      "annotations": [
+        {
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A house - a structure, a spiritual arrangement, in which god/prophet lives with his people. LC failed as a prophet, he was not able to hold it together."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "anchor": "p1.l2",
       "annotations": [
         {
