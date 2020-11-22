@@ -44,7 +44,8 @@
               "kind": "docref",
               "docRef": "symbol.green"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -58,7 +59,8 @@
               "kind": "docref",
               "docRef": "symbol.son"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -72,7 +74,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -86,7 +89,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -100,7 +104,8 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -109,9 +114,12 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

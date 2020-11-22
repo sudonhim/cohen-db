@@ -104,7 +104,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -118,7 +119,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -132,7 +134,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -146,7 +149,8 @@
               "kind": "docref",
               "docRef": "symbol.ash"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -160,7 +164,8 @@
               "kind": "docref",
               "docRef": "symbol.flood"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -174,7 +179,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -188,7 +194,8 @@
               "kind": "docref",
               "docRef": "symbol.kitchen"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -202,7 +209,8 @@
               "kind": "docref",
               "docRef": "symbol.ship"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -216,9 +224,12 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

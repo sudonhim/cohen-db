@@ -41,7 +41,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -55,7 +56,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -64,9 +66,12 @@
               "kind": "docref",
               "docRef": "symbol.slave"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

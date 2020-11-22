@@ -48,7 +48,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -57,9 +58,12 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

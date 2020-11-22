@@ -71,7 +71,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -80,7 +81,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -94,7 +96,8 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -108,7 +111,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -122,7 +126,8 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -136,9 +141,12 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

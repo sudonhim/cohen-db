@@ -105,7 +105,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -119,7 +120,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -133,7 +135,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -147,7 +150,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -161,7 +165,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -170,9 +175,12 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

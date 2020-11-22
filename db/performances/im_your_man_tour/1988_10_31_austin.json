@@ -53,7 +53,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -67,7 +68,8 @@
               "kind": "docref",
               "docRef": "symbol.daughter"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -76,9 +78,12 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

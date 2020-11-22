@@ -15,6 +15,14 @@ export type Annotations = AnnotationsGroup[];
  */
 export interface CanonFile {
   /**
+   * The username that owns the document and may edit it.
+   */
+  user: string;
+  /**
+   * The iteration of the document. Every edit increases this by one.
+   */
+  version: number;
+  /**
    * The string to use when showing this item in menus and links.
    */
   title: string;
@@ -110,6 +118,10 @@ export interface AnnotationsGroup {
  */
 export interface Annotation {
   user: string;
+  /**
+   * ID unique to the anchor
+   */
+  id: string;
   /**
    * An array of tokens constituting the annotation
    */

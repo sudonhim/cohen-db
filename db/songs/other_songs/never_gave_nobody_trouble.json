@@ -44,7 +44,8 @@
               "kind": "text",
               "text": "A house - a structure, a spiritual arrangement, in which god/prophet lives with his people. LC failed as a prophet, he was not able to hold it together."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -58,7 +59,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -72,7 +74,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -86,7 +89,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -100,9 +104,12 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

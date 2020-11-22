@@ -78,7 +78,8 @@
               "kind": "docref",
               "docRef": "symbol.bridge"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -92,7 +93,8 @@
               "kind": "docref",
               "docRef": "symbol.son"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -106,7 +108,8 @@
               "kind": "docref",
               "docRef": "symbol.killer"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -120,7 +123,8 @@
               "kind": "docref",
               "docRef": "symbol.temple"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -134,7 +138,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -148,7 +153,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -157,7 +163,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -171,9 +178,12 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

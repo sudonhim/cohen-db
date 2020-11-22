@@ -65,7 +65,8 @@
               "kind": "text",
               "text": "This is most likely based on Jesus' prayer in Luke 22:42. According to theologian Doron B. Cohen no other prayer in the bible follows this formula."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -79,7 +80,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -93,7 +95,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -107,7 +110,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -121,9 +125,12 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

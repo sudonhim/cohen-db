@@ -121,7 +121,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -135,7 +136,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -144,7 +146,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -158,7 +161,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -172,7 +176,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -186,7 +191,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -200,7 +206,8 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -214,7 +221,8 @@
               "kind": "docref",
               "docRef": "symbol.water"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -223,7 +231,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -232,9 +241,12 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

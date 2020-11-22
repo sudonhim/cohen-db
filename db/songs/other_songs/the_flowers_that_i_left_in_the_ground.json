@@ -68,7 +68,8 @@
               "kind": "docref",
               "docRef": "symbol.ship"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -82,7 +83,8 @@
               "kind": "docref",
               "docRef": "symbol.flesh"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -91,7 +93,8 @@
               "kind": "docref",
               "docRef": "symbol.blood"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -100,7 +103,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "symbols bot",
@@ -109,9 +113,12 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "4"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

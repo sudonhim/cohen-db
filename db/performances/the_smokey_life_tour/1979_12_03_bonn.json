@@ -51,7 +51,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -60,7 +61,8 @@
               "kind": "docref",
               "docRef": "symbol.star"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -74,7 +76,8 @@
               "kind": "docref",
               "docRef": "symbol.ice"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -83,7 +86,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -92,7 +96,8 @@
               "kind": "docref",
               "docRef": "symbol.stranger"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "symbols bot",
@@ -101,9 +106,12 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "4"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

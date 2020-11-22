@@ -53,7 +53,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -67,9 +68,12 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

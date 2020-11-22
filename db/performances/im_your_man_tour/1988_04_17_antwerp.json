@@ -104,7 +104,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -118,7 +119,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -127,7 +129,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -136,7 +139,8 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -150,7 +154,8 @@
               "kind": "docref",
               "docRef": "symbol.station"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -164,7 +169,8 @@
               "kind": "docref",
               "docRef": "symbol.water"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -173,9 +179,12 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

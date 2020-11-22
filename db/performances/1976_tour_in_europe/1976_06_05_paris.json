@@ -280,7 +280,8 @@
               "kind": "docref",
               "docRef": "symbol.son"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -294,7 +295,8 @@
               "kind": "docref",
               "docRef": "symbol.bird"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -308,7 +310,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -322,7 +325,8 @@
               "kind": "docref",
               "docRef": "symbol.hunter"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -336,7 +340,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -350,7 +355,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -364,7 +370,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -378,7 +385,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -392,7 +400,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -406,7 +415,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -420,7 +430,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -434,7 +445,8 @@
               "kind": "docref",
               "docRef": "symbol.prophet"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -448,7 +460,8 @@
               "kind": "docref",
               "docRef": "symbol.mother"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -457,7 +470,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -471,7 +485,8 @@
               "kind": "docref",
               "docRef": "symbol.daughter"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -485,7 +500,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -499,7 +515,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -508,7 +525,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -522,7 +540,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -536,7 +555,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -550,7 +570,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -564,7 +585,8 @@
               "kind": "docref",
               "docRef": "symbol.road"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -573,7 +595,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -587,9 +610,12 @@
               "kind": "docref",
               "docRef": "symbol.smoke"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

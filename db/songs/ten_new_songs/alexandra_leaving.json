@@ -76,7 +76,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -90,7 +91,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -104,7 +106,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -118,7 +121,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -132,7 +136,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -146,7 +151,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -160,9 +166,12 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

@@ -99,7 +99,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -113,7 +114,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -127,7 +129,8 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -141,9 +144,12 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

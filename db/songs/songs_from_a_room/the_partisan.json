@@ -72,7 +72,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -86,7 +87,8 @@
               "kind": "docref",
               "docRef": "symbol.soldier"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -100,9 +102,12 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

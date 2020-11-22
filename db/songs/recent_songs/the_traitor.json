@@ -66,7 +66,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -75,7 +76,8 @@
               "kind": "docref",
               "docRef": "symbol.swan"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -89,7 +91,8 @@
               "kind": "docref",
               "docRef": "symbol.rose"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -103,7 +106,8 @@
               "kind": "docref",
               "docRef": "symbol.summer"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -112,7 +116,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -121,7 +126,8 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -135,7 +141,8 @@
               "kind": "docref",
               "docRef": "symbol.mother"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -149,7 +156,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -163,7 +171,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -177,7 +186,8 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -191,7 +201,8 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -200,7 +211,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -214,7 +226,8 @@
               "kind": "docref",
               "docRef": "symbol.soldier"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -228,7 +241,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -242,9 +256,12 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

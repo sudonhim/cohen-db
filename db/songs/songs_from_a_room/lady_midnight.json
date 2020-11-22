@@ -45,7 +45,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -59,7 +60,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -73,7 +75,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -82,7 +85,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -91,7 +95,8 @@
               "kind": "docref",
               "docRef": "symbol.star"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -105,9 +110,12 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

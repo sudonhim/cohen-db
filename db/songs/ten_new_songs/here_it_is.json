@@ -90,7 +90,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -104,7 +105,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -113,7 +115,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -127,7 +130,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -141,7 +145,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -155,7 +160,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -164,7 +170,8 @@
               "kind": "docref",
               "docRef": "symbol.son"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -178,7 +185,8 @@
               "kind": "docref",
               "docRef": "symbol.dawn"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -192,9 +200,12 @@
               "kind": "docref",
               "docRef": "symbol.daughter"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

@@ -76,7 +76,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -90,7 +91,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -99,7 +101,8 @@
               "kind": "docref",
               "docRef": "symbol.rose"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -113,7 +116,8 @@
               "kind": "docref",
               "docRef": "symbol.daughter"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -122,7 +126,8 @@
               "kind": "docref",
               "docRef": "symbol.son"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -136,7 +141,8 @@
               "kind": "docref",
               "docRef": "symbol.temple"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -150,7 +156,8 @@
               "kind": "docref",
               "docRef": "symbol.green"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -164,7 +171,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -178,9 +186,12 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

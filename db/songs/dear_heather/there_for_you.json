@@ -72,7 +72,8 @@
               "kind": "docref",
               "docRef": "symbol.ice"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -86,9 +87,12 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

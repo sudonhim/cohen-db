@@ -154,7 +154,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -168,7 +169,8 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -182,7 +184,8 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -196,7 +199,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -210,7 +214,8 @@
               "kind": "docref",
               "docRef": "symbol.summer"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -219,7 +224,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -233,7 +239,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -247,7 +254,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -261,7 +269,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -275,9 +284,12 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

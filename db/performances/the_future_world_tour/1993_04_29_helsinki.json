@@ -64,7 +64,8 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -78,7 +79,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -87,7 +89,8 @@
               "kind": "docref",
               "docRef": "symbol.rose"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -101,9 +104,12 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

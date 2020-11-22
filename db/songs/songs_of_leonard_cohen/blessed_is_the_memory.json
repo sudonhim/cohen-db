@@ -96,7 +96,8 @@
               "kind": "docref",
               "docRef": "symbol.farm"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -110,7 +111,8 @@
               "text": "The great, proud hierarchies were pushed aside, uncovering the source of raw power",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -119,7 +121,8 @@
               "kind": "docref",
               "docRef": "symbol.mountain"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -133,7 +136,8 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -142,7 +146,8 @@
               "kind": "docref",
               "docRef": "symbol.rose"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -156,7 +161,8 @@
               "text": "Society became democratic, she \"laid down\" with those who lack vision",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -170,7 +176,8 @@
               "text": "She needs Jesus",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -184,7 +191,8 @@
               "text": "This traditional honorific is usually used for the deceased",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -198,7 +206,8 @@
               "kind": "docref",
               "docRef": "symbol.train"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -212,7 +221,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -226,7 +236,8 @@
               "text": "Snow is cold, rational thought. The train symbolizes a journey she is taking, in this case carrying German philosophy.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -240,7 +251,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -254,7 +266,8 @@
               "text": "Nietzschean, possibly",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -268,7 +281,8 @@
               "kind": "docref",
               "docRef": "symbol.bird"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -282,7 +296,8 @@
               "text": "Your laws are not holy enough, for the sea of faith you have to swim in.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -291,7 +306,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -305,7 +321,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -319,9 +336,12 @@
               "kind": "docref",
               "docRef": "symbol.seaweed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

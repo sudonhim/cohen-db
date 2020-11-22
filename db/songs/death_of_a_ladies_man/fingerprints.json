@@ -68,7 +68,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -82,7 +83,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -96,9 +98,12 @@
               "kind": "docref",
               "docRef": "symbol.dawn"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

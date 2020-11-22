@@ -106,7 +106,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -120,7 +121,8 @@
               "kind": "docref",
               "docRef": "symbol.rose"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -134,7 +136,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -148,7 +151,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -157,7 +161,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -171,7 +176,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -185,7 +191,8 @@
               "kind": "text",
               "text": "This verse provides one of the clearest descriptions of  the feminine character that is Cohen's audience through much of his work. He tracks her heart from Jesus on the cross at Calvary to the modern media industry in Malibu, USA, where it is \"coming apart\". She is in a loose sense, Christianity."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -199,7 +206,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "sudonhim",
@@ -208,9 +216,12 @@
               "kind": "text",
               "text": "The sacred heart of Christ, a prominent symbol in Catholicism"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

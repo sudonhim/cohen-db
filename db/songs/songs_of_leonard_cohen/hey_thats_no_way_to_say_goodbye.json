@@ -45,7 +45,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -59,7 +60,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -68,7 +70,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -82,9 +85,12 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

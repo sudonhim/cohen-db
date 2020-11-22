@@ -67,7 +67,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -81,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -90,7 +92,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -104,7 +107,8 @@
               "kind": "docref",
               "docRef": "symbol.kitchen"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -118,7 +122,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -132,7 +137,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -146,7 +152,8 @@
               "kind": "docref",
               "docRef": "symbol.flesh"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -155,7 +162,8 @@
               "kind": "docref",
               "docRef": "symbol.blood"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -169,9 +177,12 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

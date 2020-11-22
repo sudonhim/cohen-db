@@ -33,7 +33,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -42,7 +43,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -51,7 +53,8 @@
               "kind": "docref",
               "docRef": "symbol.daughter"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "symbols bot",
@@ -60,9 +63,12 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "4"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

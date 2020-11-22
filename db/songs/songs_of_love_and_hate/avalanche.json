@@ -64,7 +64,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -78,7 +79,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -92,7 +94,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -106,9 +109,12 @@
               "kind": "docref",
               "docRef": "symbol.flesh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

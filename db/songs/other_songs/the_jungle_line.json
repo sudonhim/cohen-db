@@ -58,7 +58,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -72,7 +73,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -86,7 +88,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -100,7 +103,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -114,7 +118,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -128,7 +133,8 @@
               "kind": "docref",
               "docRef": "symbol.smoke"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -142,7 +148,8 @@
               "kind": "docref",
               "docRef": "symbol.slave"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -156,7 +163,8 @@
               "kind": "docref",
               "docRef": "symbol.soldier"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -170,7 +178,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -184,7 +193,8 @@
               "kind": "docref",
               "docRef": "symbol.bird"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -198,9 +208,12 @@
               "kind": "docref",
               "docRef": "symbol.bridge"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

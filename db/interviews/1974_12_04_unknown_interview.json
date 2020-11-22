@@ -37,7 +37,8 @@
               "kind": "docref",
               "docRef": "symbol.suicide"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -51,7 +52,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -60,7 +62,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -69,7 +72,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "symbols bot",
@@ -78,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "4"
         },
         {
           "user": "symbols bot",
@@ -87,7 +92,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "5"
         },
         {
           "user": "symbols bot",
@@ -96,7 +102,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "6"
         },
         {
           "user": "symbols bot",
@@ -105,7 +112,8 @@
               "kind": "docref",
               "docRef": "symbol.dawn"
             }
-          ]
+          ],
+          "id": "7"
         },
         {
           "user": "symbols bot",
@@ -114,7 +122,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "8"
         },
         {
           "user": "symbols bot",
@@ -123,9 +132,12 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "9"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

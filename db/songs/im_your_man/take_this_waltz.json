@@ -104,7 +104,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -118,7 +119,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -132,7 +134,8 @@
               "kind": "docref",
               "docRef": "symbol.dove"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -141,7 +144,8 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -155,7 +159,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -164,7 +169,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -178,7 +184,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -192,7 +199,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -206,7 +214,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -220,7 +229,8 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -234,7 +244,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -248,7 +259,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -262,7 +274,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -276,7 +289,8 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -290,9 +304,12 @@
               "kind": "docref",
               "docRef": "symbol.flood"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

@@ -60,7 +60,8 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -74,7 +75,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -88,7 +90,8 @@
               "kind": "docref",
               "docRef": "symbol.flesh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -102,9 +105,12 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

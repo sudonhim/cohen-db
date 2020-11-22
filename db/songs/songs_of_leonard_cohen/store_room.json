@@ -123,7 +123,8 @@
               "text": "It's not the winds of social change",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -132,7 +133,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -146,7 +148,8 @@
               "text": "It's not the philosophy, it's not the pull of utopia",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -155,7 +158,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -164,7 +168,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -178,7 +183,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -192,7 +198,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -201,7 +208,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -215,7 +223,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -229,7 +238,8 @@
               "text": "Jesus said that Satan will come \"like a thief\"",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -243,7 +253,8 @@
               "kind": "text",
               "text": "\"the place where everything comes from\""
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -252,7 +263,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -266,7 +278,8 @@
               "text": "It's not the immolating communities",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -275,7 +288,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -289,7 +303,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -303,9 +318,12 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

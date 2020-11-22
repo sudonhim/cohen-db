@@ -25,7 +25,8 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -39,9 +40,12 @@
               "kind": "docref",
               "docRef": "symbol.winter"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

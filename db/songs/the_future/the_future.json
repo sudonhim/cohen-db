@@ -128,7 +128,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -142,7 +143,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -156,7 +158,8 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -170,7 +173,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -184,7 +188,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -198,7 +203,8 @@
               "kind": "docref",
               "docRef": "symbol.road"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -207,7 +213,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -221,7 +228,8 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -230,7 +238,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -239,7 +248,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "sudonhim",
@@ -248,7 +258,8 @@
               "kind": "text",
               "text": "To dance is to maneuver with a tenuous hold on your partner. Thus we will see the white man practicing politics, with his tenuous grip on power."
             }
-          ]
+          ],
+          "id": "4"
         }
       ]
     },
@@ -262,9 +273,12 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

@@ -62,7 +62,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -76,7 +77,8 @@
               "kind": "docref",
               "docRef": "symbol.green"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -90,7 +92,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -104,7 +107,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -118,9 +122,12 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

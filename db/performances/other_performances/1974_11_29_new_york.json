@@ -51,7 +51,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -65,9 +66,12 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

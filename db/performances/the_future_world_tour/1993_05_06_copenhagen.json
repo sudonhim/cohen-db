@@ -51,7 +51,8 @@
               "kind": "docref",
               "docRef": "symbol.soldier"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -60,7 +61,8 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -74,9 +76,12 @@
               "kind": "docref",
               "docRef": "symbol.blood"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

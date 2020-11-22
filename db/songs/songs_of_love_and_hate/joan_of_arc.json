@@ -58,7 +58,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -72,7 +73,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -86,7 +88,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -100,7 +103,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -109,7 +113,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -123,7 +128,8 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -137,7 +143,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -151,7 +158,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -165,7 +173,8 @@
               "kind": "docref",
               "docRef": "symbol.smoke"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -179,7 +188,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -193,7 +203,8 @@
               "kind": "docref",
               "docRef": "symbol.ash"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -207,7 +218,8 @@
               "kind": "docref",
               "docRef": "symbol.wood"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -221,7 +233,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -235,9 +248,12 @@
               "text": "LC gives what might be a reply to this question, trailing of \"la la la lala la lalalala la laaa...\".",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

@@ -77,7 +77,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -86,7 +87,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -95,7 +97,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "symbols bot",
@@ -104,7 +107,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "4"
         },
         {
           "user": "symbols bot",
@@ -113,7 +117,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "5"
         },
         {
           "user": "symbols bot",
@@ -122,7 +127,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "6"
         }
       ]
     },
@@ -136,7 +142,8 @@
               "kind": "docref",
               "docRef": "symbol.water"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -150,9 +157,12 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

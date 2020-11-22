@@ -52,7 +52,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -61,7 +62,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -70,7 +72,8 @@
               "kind": "docref",
               "docRef": "symbol.mother"
             }
-          ]
+          ],
+          "id": "3"
         },
         {
           "user": "symbols bot",
@@ -79,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.kitchen"
             }
-          ]
+          ],
+          "id": "4"
         }
       ]
     },
@@ -93,7 +97,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -102,9 +107,12 @@
               "kind": "docref",
               "docRef": "symbol.ship"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

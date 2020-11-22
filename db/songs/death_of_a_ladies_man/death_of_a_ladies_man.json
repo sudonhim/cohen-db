@@ -71,7 +71,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -85,7 +86,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -99,7 +101,8 @@
               "kind": "docref",
               "docRef": "symbol.master"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -113,7 +116,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -127,7 +131,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -141,7 +146,8 @@
               "text": "\"Heart of Darkness\" is a book on The Congo Free State, a state in Africa privately owned by Belgium's Leopold II. The regime claimed to be benevolent, developing the region for the good of all, but in practice it was ruthlessly violent and exploitative, yielding vast wealth for Leopold from the rubber industry.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -155,7 +161,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -169,7 +176,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -183,9 +191,12 @@
               "kind": "docref",
               "docRef": "symbol.star"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

@@ -102,7 +102,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -111,7 +112,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -125,7 +127,8 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -139,7 +142,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -153,7 +157,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -167,7 +172,8 @@
               "kind": "docref",
               "docRef": "symbol.dawn"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -181,9 +187,12 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

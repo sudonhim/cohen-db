@@ -82,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -96,7 +97,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -110,7 +112,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -124,7 +127,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -138,7 +142,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -152,7 +157,8 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -166,7 +172,8 @@
               "text": "The story turns to the current situation, especially the Vietnam war.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -180,7 +187,8 @@
               "text": "LC claims that the current leaders lack the moral authority to sacrifice their children, such authority can come only from god.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -194,7 +202,8 @@
               "text": "Rebuking the US government for drafting soliders into Vietnam made you popular with the radical left, and thus now Cohen turns on the communists to rebuke them also. A decade later in a live performances of Diamonds in the Mine LC refers back to this song. He sings \"I thought I told you all about it / back in days of Vietnam / when your poets marched for Uncle Ho / and your jocks for Uncle Sam / well whose side are you on today / whose song are you gonna sing / with the mega stench of corpses / that is blowing in the wind!\"",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -208,7 +217,8 @@
               "text": "This is a deep critique of communism. If men are to be brothers - brothers according to whose plan? Communists reject that it was according to God's plan, but struggle to agree on an alternative.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -222,9 +232,12 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

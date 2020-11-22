@@ -56,7 +56,8 @@
               "text": "LC visited Cuba shortly before the Bay of Pigs invasion, and attempted to talk with the communists.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -70,7 +71,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -84,7 +86,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -98,7 +101,8 @@
               "kind": "docref",
               "docRef": "symbol.suicide"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -112,7 +116,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -126,7 +131,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -140,7 +146,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -154,9 +161,12 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

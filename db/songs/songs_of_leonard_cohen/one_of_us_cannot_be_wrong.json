@@ -43,7 +43,8 @@
               "text": "His early work, referred to consistently as a fire (which ultimately failed to catch and transfigure society).",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -52,7 +53,8 @@
               "kind": "docref",
               "docRef": "symbol.green"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -61,7 +63,8 @@
               "kind": "docref",
               "docRef": "symbol.candle"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -75,7 +78,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -89,7 +93,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -103,7 +108,8 @@
               "kind": "docref",
               "docRef": "symbol.clothing"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -117,7 +123,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -126,7 +133,8 @@
               "kind": "docref",
               "docRef": "symbol.doctor"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -140,7 +148,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -154,7 +163,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -168,7 +178,8 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -177,7 +188,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -186,7 +198,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -200,7 +213,8 @@
               "kind": "docref",
               "docRef": "symbol.ice"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -209,9 +223,12 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

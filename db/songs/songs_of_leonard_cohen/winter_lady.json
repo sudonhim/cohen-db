@@ -46,7 +46,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -60,7 +61,8 @@
               "text": "The station symbolism is used through LC's work; society rests, but never forever. She will meet some stranger, and be seduced into travelling a new route.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -69,7 +71,8 @@
               "kind": "docref",
               "docRef": "symbol.train"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -78,7 +81,8 @@
               "kind": "docref",
               "docRef": "symbol.station"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -92,7 +96,8 @@
               "text": "LC acknowledges that he's not the messiah",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -101,7 +106,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -115,7 +121,8 @@
               "text": "Snow represents ideas that are cold and crystalline, in contrast to the sea of faith, or the river of belief. To live in the snow is to have your social system be excluded from the temple, to exist only as facts, knowledge, and philosophy. A female child of snow would indicate some sort of social system that was born of exile, harsh necessity and reason.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -124,7 +131,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -138,7 +146,8 @@
               "kind": "docref",
               "docRef": "symbol.soldier"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -152,7 +161,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -166,7 +176,8 @@
               "text": "Hair usually means power.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -175,7 +186,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -189,7 +201,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -203,7 +216,8 @@
               "kind": "docref",
               "docRef": "symbol.smoke"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -212,7 +226,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -226,7 +241,8 @@
               "kind": "docref",
               "docRef": "symbol.doorway"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -240,7 +256,8 @@
               "kind": "docref",
               "docRef": "symbol.highway"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -249,9 +266,12 @@
               "kind": "docref",
               "docRef": "symbol.road"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

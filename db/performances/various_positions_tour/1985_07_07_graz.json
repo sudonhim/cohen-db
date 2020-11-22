@@ -40,7 +40,8 @@
               "kind": "docref",
               "docRef": "symbol.beggar"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -54,7 +55,8 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -63,9 +65,12 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

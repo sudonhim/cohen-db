@@ -23,6 +23,10 @@
             "user": {
               "type": "string"
             },
+            "id": {
+              "type": "string",
+              "description": "ID unique to the anchor"
+            },
             "content": {
               "type": "array",
               "description": "An array of tokens constituting the annotation",
@@ -81,7 +85,7 @@
               }
             }
           },
-        "required": ["content", "user"],
+        "required": ["content", "user", "id"],
         "additionalProperties": false
         }
       }

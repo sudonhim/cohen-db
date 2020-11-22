@@ -131,7 +131,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -140,7 +141,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -154,7 +156,8 @@
               "kind": "docref",
               "docRef": "symbol.suicide"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -168,7 +171,8 @@
               "kind": "docref",
               "docRef": "symbol.stranger"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -182,7 +186,8 @@
               "kind": "docref",
               "docRef": "symbol.master"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -196,7 +201,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -210,7 +216,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -219,7 +226,8 @@
               "kind": "docref",
               "docRef": "symbol.son"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -233,7 +241,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -242,9 +251,12 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

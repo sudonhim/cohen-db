@@ -52,7 +52,8 @@
               "kind": "docref",
               "docRef": "symbol.master"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -66,7 +67,8 @@
               "kind": "docref",
               "docRef": "symbol.train"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -80,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -94,7 +97,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -108,7 +112,8 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -122,7 +127,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -136,7 +142,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -145,7 +152,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -159,9 +167,12 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

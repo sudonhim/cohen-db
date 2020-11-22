@@ -138,7 +138,8 @@
               "text": "This song is based on the Ten Bulls story from the Zen tradition that depicts progress to enlightenment, but it is transposed east to west, and speaks to American politics.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -152,7 +153,8 @@
               "text": "The cowboy refers to an old American archetype, white, male, individualistic, a libertarian of sorts. When Ronald Reagan was elected shortly after this song was released, the front page of the New York Times read \"The Cowboy President\". As related by the song, this class of people have lost the control that they had of \"their\" country.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -166,7 +168,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -175,7 +178,8 @@
               "kind": "docref",
               "docRef": "symbol.flood"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -189,7 +193,8 @@
               "kind": "docref",
               "docRef": "symbol.road"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -203,7 +208,8 @@
               "kind": "docref",
               "docRef": "symbol.bridge"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -217,7 +223,8 @@
               "kind": "docref",
               "docRef": "symbol.summer"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -231,7 +238,8 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -245,7 +253,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -259,7 +268,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -273,7 +283,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -287,7 +298,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -301,7 +313,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -315,7 +328,8 @@
               "kind": "docref",
               "docRef": "symbol.tree"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -329,7 +343,8 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -343,7 +358,8 @@
               "kind": "docref",
               "docRef": "symbol.wind"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -357,7 +373,8 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -371,7 +388,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -380,7 +398,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -394,7 +413,8 @@
               "kind": "docref",
               "docRef": "symbol.moon"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -408,7 +428,8 @@
               "kind": "docref",
               "docRef": "symbol.sky"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -422,7 +443,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -436,7 +458,8 @@
               "text": "This this version the cowboy might possibly reconcile his relationship with the mare, or; America's old elite may yet reconcile their relationship with the new America, no longer ruling with \"the whip\" or \"the rein\", but in unity.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -450,9 +473,12 @@
               "kind": "docref",
               "docRef": "symbol.smoke"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

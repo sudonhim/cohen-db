@@ -75,7 +75,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -89,7 +90,8 @@
               "text": "LC would like to seduce society in the present, instead he is standing in the detritus left behind her, reciting words, symbols, from her past. Winter clothes are the truths formed in harsher times. Sandal straps and ruins bring to mind collapsed civilizations, the Roman Empire.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -98,7 +100,8 @@
               "kind": "docref",
               "docRef": "symbol.winter"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -112,7 +115,8 @@
               "kind": "docref",
               "docRef": "symbol.blue"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -126,7 +130,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -140,7 +145,8 @@
               "kind": "docref",
               "docRef": "symbol.death"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -149,9 +155,12 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

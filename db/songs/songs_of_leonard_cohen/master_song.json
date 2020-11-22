@@ -11,7 +11,8 @@
               "kind": "docref",
               "docRef": "symbol.master"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -25,7 +26,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -43,7 +45,8 @@
               "kind": "text",
               "text": ", but it may be the only food on offer"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -57,7 +60,8 @@
               "kind": "docref",
               "docRef": "symbol.temple"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -71,7 +75,8 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -85,7 +90,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -99,7 +105,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -113,7 +120,8 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -127,7 +135,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -151,7 +160,8 @@
               "text": "Reformation",
               "link": "https://en.wikipedia.org/wiki/Reformation"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -179,7 +189,8 @@
               "text": "apostolic succession",
               "link": "https://en.wikipedia.org/wiki/Apostolic_succession"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -198,7 +209,8 @@
               "text": "Pauline epistles",
               "link": "https://en.wikipedia.org/wiki/Pauline_epistles"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -212,7 +224,8 @@
               "kind": "text",
               "text": "An aeroplane has the form of a cross. Crucifixion binds the hands. The crucified Christ led (piloted) his people after the loss of his human hands."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -238,7 +251,8 @@
               "kind": "text",
               "text": "; the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -252,7 +266,8 @@
               "kind": "text",
               "text": "The 'crowds in the stands' refers to Roman civilization"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -266,7 +281,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -280,7 +296,8 @@
               "kind": "text",
               "text": "A human"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -294,7 +311,8 @@
               "kind": "text",
               "text": "Possibly harps"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -313,7 +331,8 @@
               "text": "Sword of Damocles",
               "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -322,7 +341,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -344,7 +364,8 @@
               "kind": "text",
               "text": " is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -366,7 +387,8 @@
               "kind": "text",
               "text": " is the beckoning utopia, beautiful, though perhaps false. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -380,7 +402,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -394,7 +417,8 @@
               "kind": "docref",
               "docRef": "symbol.room"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -408,7 +432,8 @@
               "kind": "docref",
               "docRef": "symbol.thigh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
@@ -509,5 +534,7 @@
       ]
     }
   },
-  "kind": "song"
+  "kind": "song",
+  "user": "sudonhim",
+  "version": 0
 }

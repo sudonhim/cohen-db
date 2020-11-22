@@ -98,7 +98,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -112,7 +113,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -126,7 +128,8 @@
               "kind": "docref",
               "docRef": "symbol.heart"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -140,7 +143,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -154,7 +158,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -168,7 +173,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -182,7 +188,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -196,7 +203,8 @@
               "text": "The symbolism of scalpels is that they remove. First the hair, which is the source of spiritual power but in current times unfashionable. Later, the flesh, in self destruction and suicide. There are relationships with reason and secularization - removing all that can't be proved by reason.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "sudonhim",
@@ -213,7 +221,8 @@
               "kind": "text",
               "text": " except for the flesh"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -222,7 +231,8 @@
               "kind": "docref",
               "docRef": "symbol.scalpel"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -236,7 +246,8 @@
               "text": "Societies that embrace the scalpel have not fared well.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -250,7 +261,8 @@
               "text": "Cohen talks of his own self destruction, his spiritual death.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -264,9 +276,12 @@
               "text": "Likely referring to his consumption of all the spiritual food that human history had to offer.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

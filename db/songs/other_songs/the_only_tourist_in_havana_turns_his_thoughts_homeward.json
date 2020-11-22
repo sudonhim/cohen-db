@@ -67,7 +67,8 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -81,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -95,9 +97,12 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

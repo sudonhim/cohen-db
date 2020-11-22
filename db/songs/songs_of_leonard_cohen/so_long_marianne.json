@@ -84,7 +84,8 @@
               "kind": "docref",
               "docRef": "symbol.window"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -98,7 +99,8 @@
               "kind": "docref",
               "docRef": "symbol.gypsy"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -112,7 +114,8 @@
               "kind": "docref",
               "docRef": "symbol.green"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -126,7 +129,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -135,7 +139,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -149,7 +154,8 @@
               "kind": "docref",
               "docRef": "symbol.razor"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -158,7 +164,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -172,7 +179,8 @@
               "kind": "docref",
               "docRef": "symbol.mountain"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -186,9 +194,12 @@
               "kind": "docref",
               "docRef": "symbol.rain"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

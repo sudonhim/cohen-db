@@ -36,7 +36,8 @@
               "kind": "docref",
               "docRef": "symbol.wood"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -50,7 +51,8 @@
               "kind": "docref",
               "docRef": "symbol.sweetness"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -64,9 +66,12 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

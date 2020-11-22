@@ -60,7 +60,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -74,7 +75,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -88,7 +90,8 @@
               "kind": "docref",
               "docRef": "symbol.train"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -97,7 +100,8 @@
               "kind": "docref",
               "docRef": "symbol.station"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -111,9 +115,12 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

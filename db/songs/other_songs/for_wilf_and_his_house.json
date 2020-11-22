@@ -59,7 +59,8 @@
               "kind": "docref",
               "docRef": "symbol.wood"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -73,7 +74,8 @@
               "kind": "docref",
               "docRef": "symbol.flesh"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -87,7 +89,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -101,7 +104,8 @@
               "kind": "docref",
               "docRef": "symbol.road"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -115,7 +119,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -129,7 +134,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -143,9 +149,12 @@
               "kind": "docref",
               "docRef": "symbol.raven"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

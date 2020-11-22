@@ -72,7 +72,8 @@
               "kind": "docref",
               "docRef": "symbol.bed"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -81,7 +82,8 @@
               "kind": "docref",
               "docRef": "symbol.stranger"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -95,7 +97,8 @@
               "kind": "docref",
               "docRef": "symbol.kiss"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -109,7 +112,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -123,7 +127,8 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -137,7 +142,8 @@
               "kind": "docref",
               "docRef": "symbol.sky"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -151,7 +157,8 @@
               "kind": "docref",
               "docRef": "symbol.fire"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -165,7 +172,8 @@
               "kind": "docref",
               "docRef": "symbol.gold"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -179,7 +187,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -193,7 +202,8 @@
               "kind": "docref",
               "docRef": "symbol.white"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -207,7 +217,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -221,9 +232,12 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

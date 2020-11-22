@@ -59,7 +59,8 @@
               "kind": "docref",
               "docRef": "symbol.river"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -73,7 +74,8 @@
               "kind": "docref",
               "docRef": "symbol.night"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -87,7 +89,8 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -101,7 +104,8 @@
               "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -110,7 +114,8 @@
               "kind": "docref",
               "docRef": "symbol.sea"
             }
-          ]
+          ],
+          "id": "2"
         },
         {
           "user": "symbols bot",
@@ -119,7 +124,8 @@
               "kind": "docref",
               "docRef": "symbol.water"
             }
-          ]
+          ],
+          "id": "3"
         }
       ]
     },
@@ -133,7 +139,8 @@
               "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -147,7 +154,8 @@
               "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -156,7 +164,8 @@
               "kind": "docref",
               "docRef": "symbol.sky"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -170,7 +179,8 @@
               "kind": "docref",
               "docRef": "symbol.sun"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -184,9 +194,12 @@
               "kind": "docref",
               "docRef": "symbol.seaweed"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

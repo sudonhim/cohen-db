@@ -80,7 +80,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -89,7 +90,8 @@
               "kind": "docref",
               "docRef": "symbol.father"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -103,7 +105,8 @@
               "kind": "docref",
               "docRef": "symbol.mother"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -117,7 +120,8 @@
               "kind": "docref",
               "docRef": "symbol.rain"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -131,9 +135,12 @@
               "kind": "docref",
               "docRef": "symbol.lip"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

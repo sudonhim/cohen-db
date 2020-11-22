@@ -49,7 +49,8 @@
               "kind": "docref",
               "docRef": "symbol.bird"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -63,7 +64,8 @@
               "text": "LC frequently alludes to our inner spiritual self as a \"beggar\". Beneath all our rational faculties, our great mind that can construct all manner of rational thought as it \"moves between yes and no\" but \"never provides the answers\", there is a deeper faculty, which \"operates with answers\", and begs to us.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -72,7 +74,8 @@
               "kind": "docref",
               "docRef": "symbol.beggar"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -86,7 +89,8 @@
               "kind": "docref",
               "docRef": "symbol.door"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -95,9 +99,12 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

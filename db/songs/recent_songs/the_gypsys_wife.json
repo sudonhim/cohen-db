@@ -43,7 +43,8 @@
               "kind": "docref",
               "docRef": "symbol.gypsy"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -57,7 +58,8 @@
               "kind": "docref",
               "docRef": "symbol.dance"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -71,7 +73,8 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -85,7 +88,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -99,7 +103,8 @@
               "kind": "docref",
               "docRef": "symbol.dove"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -113,7 +118,8 @@
               "kind": "docref",
               "docRef": "symbol.flood"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -122,7 +128,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -136,7 +143,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -145,9 +153,12 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

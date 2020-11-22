@@ -130,7 +130,8 @@
               "text": "The prophet needing to remove his hair is a motif LC carries on from the story of Samson and Delilah. It features in several songs.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -144,7 +145,8 @@
               "kind": "docref",
               "docRef": "symbol.razor"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -158,7 +160,8 @@
               "text": "There's no passionate belief in the prophet",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -167,7 +170,8 @@
               "kind": "docref",
               "docRef": "symbol.water"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -181,7 +185,8 @@
               "text": "And very little \"cold\" belief either",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -190,7 +195,8 @@
               "kind": "docref",
               "docRef": "symbol.cold"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -204,7 +210,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -218,7 +225,8 @@
               "text": "Its not just modernity, the vision of the prophet himself is fading.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -232,7 +240,8 @@
               "text": "In an absurd gambit the prophet replaces his lost beard with a synthetic one, and wins support by giving gifts to anybodybody who applauds him. This could be viewed as failing religious movement attempting to become socialists instead.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -246,7 +255,8 @@
               "kind": "docref",
               "docRef": "symbol.man"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -260,7 +270,8 @@
               "kind": "docref",
               "docRef": "symbol.hair"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -274,7 +285,8 @@
               "kind": "docref",
               "docRef": "symbol.summer"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -288,7 +300,8 @@
               "kind": "docref",
               "docRef": "symbol.woman"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -302,7 +315,8 @@
               "text": "Ultimately the prophet is drawn down a path of self destruction and spiritual death, similar to that documented in Teachers.",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -311,7 +325,8 @@
               "kind": "docref",
               "docRef": "symbol.road"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -325,7 +340,8 @@
               "kind": "docref",
               "docRef": "symbol.dream"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -339,9 +355,12 @@
               "kind": "docref",
               "docRef": "symbol.dark"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

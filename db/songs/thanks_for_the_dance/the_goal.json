@@ -54,7 +54,8 @@
               "kind": "docref",
               "docRef": "symbol.rain"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -68,9 +69,12 @@
               "kind": "docref",
               "docRef": "symbol.snow"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }

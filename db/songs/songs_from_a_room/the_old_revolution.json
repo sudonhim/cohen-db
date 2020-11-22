@@ -53,7 +53,8 @@
               "kind": "docref",
               "docRef": "symbol.killer"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -62,7 +63,8 @@
               "kind": "docref",
               "docRef": "symbol.light"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -76,7 +78,8 @@
               "kind": "docref",
               "docRef": "symbol.sleep"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "sudonhim",
@@ -85,7 +88,8 @@
               "kind": "text",
               "text": "Possible reference to Jeremiah 1:10"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -99,7 +103,8 @@
               "kind": "docref",
               "docRef": "symbol.day"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     },
@@ -113,7 +118,8 @@
               "text": "Our spiritual self is burdened by our material wealth",
               "kind": "text"
             }
-          ]
+          ],
+          "id": "1"
         },
         {
           "user": "symbols bot",
@@ -122,7 +128,8 @@
               "kind": "docref",
               "docRef": "symbol.beggar"
             }
-          ]
+          ],
+          "id": "2"
         }
       ]
     },
@@ -136,9 +143,12 @@
               "kind": "docref",
               "docRef": "symbol.lover"
             }
-          ]
+          ],
+          "id": "1"
         }
       ]
     }
-  ]
+  ],
+  "user": "sudonhim",
+  "version": 0
 }
