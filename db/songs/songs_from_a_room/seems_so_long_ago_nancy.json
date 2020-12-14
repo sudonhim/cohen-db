@@ -159,8 +159,23 @@
           "id": "1"
         }
       ]
+    },
+    {
+      "anchor": "p6.l4",
+      "annotations": [
+        {
+          "id": "1",
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A 'house' refers to a nation, or some similar statelike spiritual structure. The house of mystery then is the mystical version of this, perhaps the church."
+            }
+          ]
+        }
+      ]
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 1
 }

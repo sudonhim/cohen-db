@@ -152,8 +152,23 @@
           "id": "1"
         }
       ]
+    },
+    {
+      "anchor": "p1.l1",
+      "annotations": [
+        {
+          "id": "1",
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The trick to interpreting this song is that the perspective is flipped, it is her singing to Leonard."
+            }
+          ]
+        }
+      ]
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 1
 }
