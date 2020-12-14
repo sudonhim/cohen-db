@@ -93,7 +93,8 @@
           ],
           "id": "2"
         }
-      ]
+      ],
+      "newAnchor": "1:1"
     },
     {
       "anchor": "s3.p3.l1",
@@ -108,7 +109,8 @@
           ],
           "id": "1"
         }
-      ]
+      ],
+      "newAnchor": "3:5"
     }
   ],
   "user": "sudonhim",

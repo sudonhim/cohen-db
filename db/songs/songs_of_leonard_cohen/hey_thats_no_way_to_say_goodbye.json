@@ -48,7 +48,8 @@
           ],
           "id": "1"
         }
-      ]
+      ],
+      "newAnchor": "1"
     },
     {
       "anchor": "p1.l2",
@@ -73,7 +74,8 @@
           ],
           "id": "2"
         }
-      ]
+      ],
+      "newAnchor": "2"
     },
     {
       "anchor": "p2.l4",
@@ -88,7 +90,8 @@
           ],
           "id": "1"
         }
-      ]
+      ],
+      "newAnchor": "11"
     }
   ],
   "user": "sudonhim",
