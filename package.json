@@ -11,6 +11,7 @@
     "validate": "ts-node run/validate-data.ts",
     "test-roundtrip": "ts-node run/load-save-roundtrip.ts",
     "generate-syms": "ts-node run/generate-syms.ts",
+    "generate-new-refs": "ts-node run/generate-new-refs.ts",
     "clean-syms": "ts-node run/clean-syms.ts"
   },
   "repository": {
