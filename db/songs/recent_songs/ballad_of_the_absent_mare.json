@@ -180,6 +180,89 @@
             }
           ],
           "id": "2"
+        },
+        {
+          "id": "3",
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.river"
+            },
+            {
+              "kind": "text",
+              "text": " is something like 'public belief'. Less fundamental and unspoken than the "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.sea"
+            },
+            {
+              "kind": "text",
+              "text": " of faith, but not hard, explicit, and rational like "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.snow"
+            },
+            {
+              "kind": "text",
+              "text": " and "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.ice"
+            },
+            {
+              "kind": "text",
+              "text": ". As he explains in "
+            },
+            {
+              "kind": "link",
+              "text": "this interview",
+              "link": "https://www.youtube.com/watch?v=ah1SYKSYDmo"
+            },
+            {
+              "kind": "text",
+              "text": " the "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.bridge"
+            },
+            {
+              "kind": "text",
+              "text": " is the 'bridge of the intellect', which can build some sort of rational system over the top of the river (consequentially in "
+            },
+            {
+              "kind": "docref",
+              "docRef": "song.the_stranger_song"
+            },
+            {
+              "kind": "text",
+              "text": " the task of a completely rational system is to attempt to build a bridge over the ocean).\n\nThe symbolism fits in this verse then. The verse describes America's old aristocratic elite panicked and scrambling to regain their grip on power, while the river of pubic belief floods, and the structures that were built over it come apart. (Note also the "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.flood"
+            },
+            {
+              "kind": "text",
+              "text": " symbolism and "
+            },
+            {
+              "kind": "docref",
+              "docRef": "symbol.road"
+            },
+            {
+              "kind": "text",
+              "text": " symbolism)."
+            }
+          ]
         }
       ]
     },
@@ -415,6 +498,16 @@
             }
           ],
           "id": "1"
+        },
+        {
+          "id": "2",
+          "user": "sudonhim",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The moon represents a utopian ideal. Cohen asserts here that America appears to touch it when she 'paws at the sky'. This doubles as a reference to the moon landing."
+            }
+          ]
         }
       ]
     },
@@ -455,8 +548,8 @@
           "user": "sudonhim",
           "content": [
             {
-              "text": "This this version the cowboy might possibly reconcile his relationship with the mare, or; America's old elite may yet reconcile their relationship with the new America, no longer ruling with \"the whip\" or \"the rein\", but in unity.",
-              "kind": "text"
+              "kind": "text",
+              "text": "The cowboy might possibly reconcile his relationship with the mare, or; America's old elite may yet reconcile their relationship with the new America, no longer ruling with \"the whip\" or \"the rein\", but in unity."
             }
           ],
           "id": "1"
@@ -480,5 +573,5 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 3
 }

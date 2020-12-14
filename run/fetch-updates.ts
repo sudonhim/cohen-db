@@ -4,8 +4,11 @@ import { CanonFile } from '../schema';
 import axios from 'axios';
 
 interface IUpdate {
-    docId: string;
     file: CanonFile;
+    action: {
+        kind: string;
+        documentId: string;
+    };
 }
 
 const docDb: CanonDb = LoadAndValidate();
@@ -18,8 +21,17 @@ async function run() {
     console.log(`Recieved ${updates.length} updated documents`);
 
     for (var update of updates) {
-        console.log(`Updating ${update.docId}...`);
-        docDb[update.docId] = update.file;
+        const v1 = docDb[update.action.documentId].version;
+        const v2 = update.file.version;
+        console.log(`Updating ${update.action.kind} to ${update.action.documentId}...`);
+        console.log(`Version: ${v1} -> ${v2}`);
+        if (v1 >= v2) {
+            console.log(`Update version not newer, skipping...`);
+            continue;
+        }
+
+        docDb[update.action.documentId] = update.file;
+        console.log('...updated.');
     }
 
     console.log(`Begin validate and save...`);
