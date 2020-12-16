@@ -111,6 +111,10 @@ export interface AnnotationsGroup {
    * A reference to a location in the parent document
    */
   anchor: string;
+  /**
+   * Reference following the new schema
+   */
+  newAnchor?: string;
   annotations: Annotation[];
 }
 /**
