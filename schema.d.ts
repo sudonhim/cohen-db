@@ -17,10 +17,6 @@ export type Content =
     }
   | {
       kind?: "multipart";
-      /**
-       * The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.
-       */
-      sectionalContent?: SectionalContent[];
       content?: SectionalContent;
       additionalProperties?: any;
       [k: string]: any;

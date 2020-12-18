@@ -20,14 +20,6 @@
         "kind": {
           "enum": ["multipart"]
         },
-        "sectionalContent": {
-          "type": "array",
-          "description": "The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.",
-          "items": {
-            "$ref": "sectionalcontent.json"
-          },
-          "minItems": 1
-        },
         "content": {
           "$ref": "sectionalcontent.json"
         },
