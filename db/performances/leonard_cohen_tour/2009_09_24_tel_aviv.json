@@ -13,7 +13,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "variation_on_lover_lover_lover",
         "title": {

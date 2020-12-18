@@ -358,7 +358,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "variation_on_iodine",
         "title": {

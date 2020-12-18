@@ -5,7 +5,8 @@
   "kind": "symbol",
   "annotations": [],
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_day",
         "title": {

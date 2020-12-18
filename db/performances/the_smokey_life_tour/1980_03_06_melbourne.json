@@ -76,7 +76,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_blues_by_the_jews",
         "title": {

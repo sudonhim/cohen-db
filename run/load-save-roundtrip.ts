@@ -7,17 +7,12 @@ console.log(`Loaded and validated ${Object.keys(docDb).length} documents`);
 
 for (const id in docDb) {
   const doc = docDb[id];
-  docDb[id] = {
-    user: doc.user,
-    version: doc.version,
-    title: doc.title,
-    kind: doc.kind,
-    annotations: doc.annotations
-  };
-
-  if (doc.metadata) docDb[id].metadata = doc.metadata;
-  if (doc.children) docDb[id].children = doc.children;
-  if (doc.newContent) docDb[id].content = doc.newContent;
+  if (doc.content) {
+    doc.content = {
+      kind: doc.content.kind,
+      content: doc.content.content || doc.content.sectionalContent
+    }
+  }
 }
 
 ValidateAndSave(docDb);

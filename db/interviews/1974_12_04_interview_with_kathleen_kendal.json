@@ -35,7 +35,8 @@
     "date": "1974-12-04"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_joan_of_arc",
         "title": {

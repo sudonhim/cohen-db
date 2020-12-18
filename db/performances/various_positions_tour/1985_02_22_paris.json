@@ -30,7 +30,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_sisters_of_mercy",
         "title": {

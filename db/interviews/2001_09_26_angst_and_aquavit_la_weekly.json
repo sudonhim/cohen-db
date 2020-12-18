@@ -25,7 +25,8 @@
     "date": "2001-09-26"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_the_future",
         "title": {

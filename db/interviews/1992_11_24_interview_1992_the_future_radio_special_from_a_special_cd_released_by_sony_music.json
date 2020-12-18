@@ -8,7 +8,8 @@
     "date": "1992-11-24"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_tacoma_trailer",
         "title": {

@@ -159,7 +159,8 @@
     "date": "1980-11-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_suzanne",
         "title": {

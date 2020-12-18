@@ -25,7 +25,8 @@
     "date": "1991-11-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_take_this_waltz",
         "title": {

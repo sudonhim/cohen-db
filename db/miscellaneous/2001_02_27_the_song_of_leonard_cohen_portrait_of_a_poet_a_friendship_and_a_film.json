@@ -201,7 +201,8 @@
     "date": "2001-02-27"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_bird_on_the_wire",
         "title": {

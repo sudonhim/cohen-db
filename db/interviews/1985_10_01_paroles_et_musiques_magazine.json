@@ -97,7 +97,8 @@
     "date": "1985-10-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_hallelujah",
         "title": {

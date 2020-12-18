@@ -41,7 +41,8 @@
     "date": "1976-02-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_hey_thats_no_way_to_say_goodbye",
         "title": {

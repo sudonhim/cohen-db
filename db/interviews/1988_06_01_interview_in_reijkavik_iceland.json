@@ -35,7 +35,8 @@
     "date": "1988-06-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_hallelujah",
         "title": {

@@ -25,7 +25,8 @@
     "date": "2001-10-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_by_the_rivers_dark",
         "title": {

@@ -102,7 +102,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_anthem",
         "title": {

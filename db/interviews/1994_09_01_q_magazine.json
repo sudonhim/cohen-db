@@ -25,7 +25,8 @@
     "date": "1994-09-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_if_it_be_your_will",
         "title": {

@@ -25,7 +25,8 @@
     "date": "1991-08-21"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_democracy",
         "title": {

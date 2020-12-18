@@ -25,7 +25,8 @@
     "date": "1974-10-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_story_of_isaac",
         "title": {

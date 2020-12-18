@@ -56,7 +56,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "variation_on_bird_on_the_wire",
         "title": {

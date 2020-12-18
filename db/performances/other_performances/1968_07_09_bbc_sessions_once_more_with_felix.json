@@ -151,7 +151,8 @@
     "date": "1968-07-09"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_bird_on_the_wire",
         "title": {

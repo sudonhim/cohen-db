@@ -27,9 +27,6 @@
         "content": {
             "$ref": "content.json"
         },
-        "newContent": {
-            "$ref": "content.json"
-        },
         "annotations": {
             "$ref": "annotations.json"
         },

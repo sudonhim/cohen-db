@@ -25,7 +25,8 @@
     "date": "1994-01-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_suzanne",
         "title": {

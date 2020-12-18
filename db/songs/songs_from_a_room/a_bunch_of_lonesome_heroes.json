@@ -106,6 +106,7 @@
     }
   ],
   "content": {
+    "kind": "simple",
     "content": {
       "fragments": [
         {

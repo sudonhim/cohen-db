@@ -121,7 +121,8 @@
     "date": "1974-12-04"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_dress_rehearsal_rag",
         "title": {

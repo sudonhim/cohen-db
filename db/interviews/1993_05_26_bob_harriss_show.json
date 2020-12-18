@@ -41,7 +41,8 @@
     "date": "1993-05-26"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_democracy",
         "title": {

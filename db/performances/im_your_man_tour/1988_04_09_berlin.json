@@ -30,7 +30,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_first_we_take_manhattan",
         "title": {

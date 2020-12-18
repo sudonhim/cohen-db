@@ -41,7 +41,8 @@
     "date": "2002-01-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_a_thousand_kisses_deep",
         "title": {

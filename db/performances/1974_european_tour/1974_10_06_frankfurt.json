@@ -45,7 +45,8 @@
     }
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "prologue_to_a_singer_must_die",
         "title": {

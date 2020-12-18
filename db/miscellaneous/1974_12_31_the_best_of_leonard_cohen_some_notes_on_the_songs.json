@@ -179,7 +179,8 @@
     "date": "1974-12-31"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_bird_on_the_wire",
         "title": {

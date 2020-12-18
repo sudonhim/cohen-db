@@ -8,7 +8,8 @@
     "date": "2001-10-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_that_dont_make_it_junk",
         "title": {

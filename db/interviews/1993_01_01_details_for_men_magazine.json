@@ -25,7 +25,8 @@
     "date": "1993-01-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_chelsea_hotel_2",
         "title": {

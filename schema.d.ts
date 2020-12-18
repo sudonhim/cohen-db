@@ -6,6 +6,30 @@
  */
 
 /**
+ * The content of a document, which is either a single canonical text part, or a sequence of complex parts
+ */
+export type Content =
+  | {
+      kind?: "simple";
+      content?: MainContent;
+      additionalProperties?: any;
+      [k: string]: any;
+    }
+  | {
+      kind?: "multipart";
+      /**
+       * The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.
+       */
+      sectionalContent?: SectionalContent[];
+      content?: SectionalContent;
+      additionalProperties?: any;
+      [k: string]: any;
+    };
+/**
+ * A fragment of content, the smallest addressable unit of a document
+ */
+export type Fragment = LineBreakFragment | TextFragment;
+/**
  * A piece of contiguous inline content
  */
 export type Token = TextTokenNEW | ReferenceToken | LinkToken;
@@ -31,10 +55,6 @@ export type Reference =
       sectionId?: string;
       fragmentId: string;
     };
-/**
- * A fragment of content, the smallest addressable unit of a document
- */
-export type Fragment = LineBreakFragment | TextFragment;
 /**
  * Annotations attached to a file
  */
@@ -62,7 +82,6 @@ export interface CanonFile {
   kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
   metadata?: Metadata;
   content?: Content;
-  newContent?: Content;
   annotations: Annotations;
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
@@ -83,22 +102,16 @@ export interface Metadata {
   };
 }
 /**
- * The content of a document, which is either a single canonical text part, or a sequence of complex parts
+ * Content of a single part document
  */
-export interface Content {
-  /**
-   * The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.
-   */
-  sectionalContent?: SectionalContent[];
-  content?: MainContent;
+export interface MainContent {
+  fragments: Fragment[];
 }
 /**
- * A piece of content in a multipart document
+ * Fragment for a line break
  */
-export interface SectionalContent {
-  id: string;
-  title: TextFragment;
-  fragments: Fragment[];
+export interface LineBreakFragment {
+  kind: "lineBreak";
 }
 /**
  * A fragment of text
@@ -140,15 +153,11 @@ export interface LinkToken {
   link: string;
 }
 /**
- * Fragment for a line break
+ * A piece of content in a multipart document
  */
-export interface LineBreakFragment {
-  kind: "lineBreak";
-}
-/**
- * Content of a single part document
- */
-export interface MainContent {
+export interface SectionalContent {
+  id: string;
+  title: TextFragment;
   fragments: Fragment[];
 }
 /**

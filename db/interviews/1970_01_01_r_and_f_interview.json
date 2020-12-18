@@ -8,7 +8,8 @@
     "date": "1970-01-01"
   },
   "content": {
-    "sectionalContent": [
+    "kind": "multipart",
+    "content": [
       {
         "id": "on_the_partisan",
         "title": {
