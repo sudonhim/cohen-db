@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-09-14 Liverpool",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1974-09-14",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United Kingdom",
       "venue": "Empire Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

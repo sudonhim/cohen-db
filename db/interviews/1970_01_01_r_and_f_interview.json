@@ -1,26 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1970-01-01 - R & F interview",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "1970-01-01"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "My personal \"mythology\" for bravery and courage is filled with the Spanish Civil War, the French Resistance.... and the concentration camps. They might be forgotten by the younger generation but I think the emotions are still valid, and I wanted to again introduce into the air the energy and the emotions these experiences left. I believe it's useful."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_the_partisan",

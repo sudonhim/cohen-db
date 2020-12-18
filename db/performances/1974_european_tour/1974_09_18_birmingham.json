@@ -1,40 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-09-18 - Birmingham",
-  "metadata": {
-    "date": "1974-09-18",
-    "location": {
-      "city": "Birmingham",
-      "country": "United Kingdom"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.joan_of_arc",
-        "content": {
-          "text": [
-            "Modified Verses",
-            [
-              "Who are you ?, she sternly spoke",
-              "To the voice beneath the smoke",
-              " And saying this she climbed inside",
-              "To be his one, to be his virgin bride"
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.seems_so_long_ago_nancy",
-        "content": {
-          "text": [
-            "I'd like to sing a song for a most beautiful blonde woman who died in 1961, in Montreal."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -70,9 +37,14 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1974-09-18",
+    "location": {
+      "city": "Birmingham",
+      "country": "United Kingdom"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "variation_on_joan_of_arc",

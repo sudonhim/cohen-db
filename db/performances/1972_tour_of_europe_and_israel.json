@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972 Tour of Europe and Israel",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1972-03-18"
   },
@@ -24,9 +28,5 @@
     "live.1972_04_18_paris",
     "live.1972_04_19_tel_aviv",
     "live.1972_04_21_jerusalem"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

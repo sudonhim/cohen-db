@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-10-29 Montpellier",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1979-10-29",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Palais des Sports"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

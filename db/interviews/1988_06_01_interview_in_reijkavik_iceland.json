@@ -1,30 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-01 - Interview in Reijkavik, Iceland",
-  "metadata": {
-    "date": "1988-06-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "Yeah another song came on top of that. So I'd already recorded that one. And I wanted to push the Hallelujah deep into the secular world, into the ordinary world. The Hallelujah, the David's Hallelujah was still a religious song. So I wanted to indicate that Hallelujah can come out of things that have nothing to do with religion."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "There was a girl named Suzanne, who invited me down to her place near the river and she did serve me a kind of tea that had oranges in it and...... I didn't sleep with her, in that sense I touched her perfect body with my mind. The landscape was the Montreal Harbour. There is a church there that has a Virgin overlooking the Harbour, \"Our Lady of the Harbour\", \"Notre-Dame de Bon Secours\", it's her name, but the whole landscape is the Montreal waterfront. So in a sense it's just reportage, just as accurate as I could make it and the boats go by, and she invited me down to the river. She was a little flipped out. She did serve me tea and oranges. And that's exactly as it happened."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -54,9 +31,10 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1988-06-01"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_hallelujah",

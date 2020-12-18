@@ -1,39 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "After the Sabbath Prayers",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "After the Sabbath prayers",
-          "The Baal Shem's butterfly",
-          "Followed me down the hill.",
-          "Now the Baal Shem is dead",
-          "These hundreds of years",
-          "And a butterfly ends its life",
-          "In three flag-swept days.",
-          "So this was a miracle,",
-          "Dancing down all these wars and truces",
-          "Yellow as a first-day butterfly,",
-          "Nothing of time or massacre",
-          "In its bright flutter."
-        ],
-        [
-          "Now the sharp stars are in the sky",
-          "And I am shivering as I did last night,",
-          "And the wind is not warmer",
-          "For the yellow butterfly",
-          "Folded somewhere on a sticky leaf",
-          "And moving like a leaf itself.",
-          "And how truly great",
-          "A miracle this is, that I,",
-          "Who this morning saw the Baal Shem's butterfly",
-          "Doing its glory in the sun,",
-          "Should spend this night in darkness,",
-          "Hands pocketed against the flies and cold."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -175,9 +143,7 @@
       "newAnchor": "24"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

@@ -1,19 +1,10 @@
 {
-  "title": "Tacoma Trailer",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "[Instrumental]"
-        ]
-      ]
-    }
-  },
-  "kind": "song",
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Tacoma Trailer",
+  "kind": "song",
+  "annotations": [],
+  "content": {
     "content": {
       "fragments": [
         {

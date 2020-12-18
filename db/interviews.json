@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Interviews",
+  "kind": "group",
+  "annotations": [],
   "children": [
     "interview.1993_07_15_philadelphia_backstage_interview",
     "interview.1993_07_15_backstage_interview",
@@ -47,9 +51,5 @@
     "interview.1988_03_01_les_inrockuptibles_french_magazine",
     "interview.1994_09_01_q_magazine",
     "interview.1988_11_09_toronto_backstage_fm_interview"
-  ],
-  "kind": "group",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

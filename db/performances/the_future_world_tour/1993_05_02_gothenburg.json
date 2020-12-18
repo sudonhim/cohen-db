@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-02 Gothenburg",
-  "metadata": {
-    "date": "1993-05-02",
-    "location": {
-      "city": "Gothenburg",
-      "country": "Sweden",
-      "venue": "Lisebergshallen"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "In solemn testimony of that unbroken faith, which binds a generation one to another, I hereby bestow upon you the ancient priestly benediction \"May the Lord bless you and keep you, May the Lord shine His Light upon you, May the Lord be gracious unto you, and grant you the blessings of Peace\"."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -40,9 +21,15 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1993-05-02",
+    "location": {
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "venue": "Lisebergshallen"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_hallelujah",

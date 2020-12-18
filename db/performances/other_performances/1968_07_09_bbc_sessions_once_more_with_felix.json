@@ -1,124 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1968-07-09 - BBC Sessions - Once More With Felix",
-  "metadata": {
-    "date": "1968-07-09"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.bird_on_the_wire",
-        "content": {
-          "text": [
-            "This is a song that is really good to sing because it has a confession in it. It has a line: Like a baby stillborn, like a beast with his horn, I have torn everyone who reached out for me. But I swear by this song and by all that I have done wrong that I will make it all up to thee."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.dress_rehearsal_rag",
-        "content": {
-          "text": [
-            "You know there's a song in, I think it was in Czechoslovakia, called \"Gloomy Sunday\"** that was forbidden to play because every time it would play people would leap out of windows and off of roofs. It was a tragic song. And I read in the Athens news the other day that the composer of it, who only really wrote that one song, he died recently, jumped out of a window himself. I have one of those songs that I have banned for myself. I sing it only on extremely joyous occasions when I know that the landscape can support the despair that I am about to project into it. It's called the \"Dress Rehearsal Rag.\"",
-            "   ** Note : This song was written by Hungarian Seress Rezso, in 1933. It was called \"Szomoru Vasarnap\" or \"Sombre Dimanche\" (\"Gloomy Sunday\"). It had nick names like \"The Song Forbidden in Budapest\" or the \"Hungarian Suicide Song\". The verses are sung to the singer's deceased beloved. The composer committed suicide in 1968. It became a background tune for the American late 30's, during the Great Depression. It was first covered by Paul Robeson in 1940, then Billie Holiday (whose recording was banned from Radio Networks)."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.hey_thats_no_way_to_say_goodbye",
-        "content": {
-          "text": [
-            "I wrote this in the Henry Hudson Hotel. No that wasn't the Henry Hudson Hotel, that was for \"Stranger Song.\" This is a song that I wrote in the Penn Terminal Hotel, It's a very sinister name, the Penn Terminal Hotel. I often stayed there and each time I thought it would be the last time."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.master_song",
-        "content": {
-          "text": [
-            "I like to sing a song which is called the \"Master Song\" and it's about the trinity....... Leave that for the scholars : It's about three people..."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.sisters_of_mercy",
-        "content": {
-          "text": [
-            "When I was in Edmonton, about a year and a half ago, I was greeted at the airport by two young girls, who were wearing mini-skirts, and they said to me that they had introduced the mini-skirt to Edmonton. And they took very, very good care of me. And I wrote this song for them. It's called the \"Sisters Of Mercy.\""
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.so_long_marianne",
-        "content": {
-          "text": [
-            "This song is called \"So Long, Marianne\" A girl called Marianne that I know very well, she came to me after I sang it for her first and she said, she's a Norwegian, she said, \"I'm certainly glad the song wasn't written for me.\" I said, \"Oh yeah?\" And she said, \"Yeah, cause my name is Marianna.\"",
-            "Additional stanza",
-            [
-              "If you leave, where will I keep you then ?",
-              " In my heart as some men say",
-              " Then I who was born to love everyone",
-              " Why should I keep you so far away ?"
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.story_of_isaac",
-        "content": {
-          "text": [
-            [
-              "There's a story in the Bible about Isaac, how his father summoned him to go and climb a mountain, how his father built an altar there after he had been commanded to offer up his son.  And just at the last moment before",
-              " he was about to sacrifice Isaac, an angel held the hand of the father.  But today the children are being sacrificed and no one raises a hand to end the sacrifice.  And this is what this song is about."
-            ],
-            [
-              "Modified verses:",
-              "second stanza (The original second stanza is not sung)"
-            ],
-            [
-              "You who build the altars now",
-              "To sacrifice these children",
-              "You must not do it any more",
-              " For you have not had the vision",
-              "And you never have been tempted",
-              "By the Devil or the Lord..."
-            ],
-            [
-              " Last stanza",
-              " ..I wil help you if I can",
-              "And  may I never need to scorn",
-              " The body out of chaos born",
-              "The woman and the man",
-              "And Mercy on our uniform...."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.teachers",
-        "content": {
-          "text": [
-            "It's about all the teachers I've had...."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.theres_no_reason_why_you_should",
-        "content": {
-          "text": [
-            "Now I'm going to give you a second chance. This is the formula in which you can articulate the very worse kind of anxieties, fears, short circuits between all possible relationships, and by singing it with me you'll resolve all those things and everything will be straight. You'll be straighter than you've ever been. You can really look at the person next to you and things will be so good, really."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -264,9 +147,10 @@
       "newAnchor": "7:15"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1968-07-09"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_bird_on_the_wire",

@@ -1,116 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Store Room",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "its not the wind that keeps you up",
-          "its not the snow, its not the moon",
-          "coming like a headlight through your window.",
-          "its not the thumbnail of a scream",
-          "that scrapes away your dream"
-        ],
-        [
-          "its just this man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "its not the news of burning towns",
-          "that ruins your mind",
-          "like a spool you turn, and you turn",
-          "but it won't unwind",
-          "no these wars you did not start",
-          "they don't tear your sleep apart"
-        ],
-        [
-          "its just a man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "and now this woman",
-          "by your side well...she's asleep",
-          "and theres nothing you can give her ",
-          "and theres nothing you wanna keep",
-          "you don't even try to prove",
-          "that the noise is neighbors making love"
-        ],
-        [
-          "its just a man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "well go to sleep",
-          "and change the locks",
-          "when you wake up",
-          "share your toast maybe spill some coffee from your cup",
-          "oh theres nothing left to choose",
-          "and there is so much more to lose"
-        ],
-        [
-          "theres this man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "its not the wind that keeps you up",
-          "its not the snow, its not the moon",
-          "coming like a headlight through your window",
-          "its not the thumbnail of a scream ",
-          "that scrapes away your dream"
-        ],
-        [
-          "its just a man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "its not the news of burning towns",
-          "that ruins your mind",
-          "like a spool you turn and turn",
-          "but it won't unwind",
-          "no these wars you did not start",
-          "they don't tear your sleep apart"
-        ],
-        [
-          "its just a man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "and now the woman by your side",
-          "well shes awake",
-          "but theres nothing you can give her",
-          "and theres nothing you wanna take",
-          "you don't even try to prove",
-          "that the noise is neighbors making love"
-        ],
-        [
-          "its just a man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "aww go to sleep",
-          "and change the locks",
-          "when you wake up",
-          "share your toast maybe spill some coffee from your cup",
-          "hes got nothing left to choose",
-          "and you've got so much more to lose"
-        ],
-        [
-          "theres just a man",
-          "taking what he needs",
-          "from the store room"
-        ],
-        [
-          "its not the wind..."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -334,9 +225,7 @@
       "newAnchor": "18"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

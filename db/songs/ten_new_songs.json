@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Ten New Songs",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "2001-10-09"
   },
@@ -14,9 +18,5 @@
     "song.you_have_loved_enough",
     "song.boogie_street",
     "song.the_land_of_plenty"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

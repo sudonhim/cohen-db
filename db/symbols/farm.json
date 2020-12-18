@@ -1,18 +1,10 @@
 {
-  "title": "Farm",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.farm"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Farm",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_farm",

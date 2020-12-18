@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Smokey Life Tour",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1979-10-10"
   },
@@ -90,9 +94,5 @@
     "live.1980_11_21_hamburg",
     "live.1980_11_22_freiburg",
     "live.1980_11_24_tel_aviv"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

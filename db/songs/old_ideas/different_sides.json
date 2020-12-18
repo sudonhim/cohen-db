@@ -1,71 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 1,
   "title": "Different Sides",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "We find ourselves on different sides",
-          "Of a line nobody drew",
-          "Though it all may be one in the higher eye",
-          "Down here where we live it is two"
-        ],
-        [
-          "I to my side call the meek and the mild",
-          "You to your side call the Word",
-          "By virtue of suffering I claim to have won",
-          "You claim to have never been heard"
-        ],
-        [
-          "Both of us say there are laws to obey",
-          "But frankly I don’t like your tone",
-          "You want to change the way I make love",
-          "I want to leave it alone"
-        ],
-        [
-          "The pull of the moon, the thrust of the sun",
-          "And thus the ocean is crossed",
-          "The waters are blessed while a shadowy guest",
-          "Kindles a light for the lost"
-        ],
-        [
-          "Both of us say there are laws to obey",
-          "But frankly I don’t like your tone",
-          "You want to change the way I make love",
-          "I want to leave it alone"
-        ],
-        [
-          "Down in the valley the famine goes on",
-          "The famine up on the hill",
-          "I say that you shouldn’t, you couldn’t, you can’t",
-          "You say that you must and you will"
-        ],
-        [
-          "Both of us say there are laws to obey",
-          "But frankly I don’t like your tone",
-          "You want to change the way I make love",
-          "I want to leave it alone"
-        ],
-        [
-          "You want to live where the suffering is",
-          "I want to get out of town",
-          "C’mon baby give me a kiss",
-          "Stop writing everything down"
-        ],
-        [
-          "Both of us say there are laws to obey",
-          "Yeah, but frankly I don’t like your tone",
-          "You want to change the way I make love",
-          "I want to leave it alone"
-        ],
-        [
-          "Both of us say there are laws to obey",
-          "But frankly I don’t like your tone",
-          "You want to change the way I make love",
-          "I want to leave it alone"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -175,9 +111,7 @@
       "newAnchor": "1"
     }
   ],
-  "user": "sudonhim",
-  "version": 1,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

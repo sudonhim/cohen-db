@@ -62,7 +62,7 @@ export interface CanonFile {
   kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
   metadata?: Metadata;
   content?: Content;
-  newContent?: ContentNew;
+  newContent?: Content;
   annotations: Annotations;
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
@@ -86,58 +86,6 @@ export interface Metadata {
  * The content of a document, which is either a single canonical text part, or a sequence of complex parts
  */
 export interface Content {
-  /**
-   * Information about the document itself
-   */
-  preamble?: string;
-  content: (Note | Prologue | Variation)[] | Text;
-}
-/**
- * A text segment, which may optionally refer to another document
- */
-export interface Note {
-  kind: "note";
-  /**
-   * ID of the document that this note is about, if any
-   */
-  reference?: string;
-  content?: Text;
-}
-/**
- * Canonical text content, immutable and eternal
- */
-export interface Text {
-  /**
-   * An array of paragraphs or stanzas, to be referenced by index
-   */
-  text: (string | string[])[];
-}
-/**
- * Words spoken about another work, before performing it
- */
-export interface Prologue {
-  kind: "prologue";
-  /**
-   * ID of the document that this prologue is about
-   */
-  reference: string;
-  content: Text;
-}
-/**
- * A variation on another work, while performing it
- */
-export interface Variation {
-  kind: "variation";
-  /**
-   * ID of the document that this variation is of
-   */
-  reference: string;
-  content: Text;
-}
-/**
- * The content of a document, which is either a single canonical text part, or a sequence of complex parts
- */
-export interface ContentNew {
   /**
    * The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.
    */

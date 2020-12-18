@@ -1,26 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-01-01 - Interview (magazine \"Guitare et Claviers\" 1985)",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "1985-01-01"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "Hallelujah is a Hebrew word which means \"Glory to the Lord.\" The song explains that many kinds of Hallelujahs do exist . I say : \"All the perfect and broken Hallelujahs have an equal value .\" It's, as I say, a desire to affirm my faith in life,not in some formal religious way but with enthusiasm, with emotion."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_hallelujah",

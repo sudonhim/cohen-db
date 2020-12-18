@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-05-29 Boston",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-05-29",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Wang Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

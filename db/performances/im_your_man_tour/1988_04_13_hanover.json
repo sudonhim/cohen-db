@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-13 Hanover",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-04-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Kuppelsaal"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

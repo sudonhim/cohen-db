@@ -1,22 +1,10 @@
 {
-  "title": "Bridge",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.bridge"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.river"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Bridge",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_bridge",

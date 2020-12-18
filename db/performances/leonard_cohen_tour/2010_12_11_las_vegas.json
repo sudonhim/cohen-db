@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-12-11 Las Vegas",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-12-11",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "The Colosseum at Caesars Palace"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

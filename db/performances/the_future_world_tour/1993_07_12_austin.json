@@ -1,50 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-07-12 - Austin",
-  "metadata": {
-    "date": "1993-07-12",
-    "location": {
-      "city": "Austin",
-      "country": "USA",
-      "venue": "Austin City Limits TV Studio"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.democracy",
-        "content": {
-          "text": [
-            "Few years ago when the Berlin Wall came down there was a general sense of rejoicing throughout the world. I've been of course a gloomy chap and the sole exception. In those days there were slogans you know \"Democracy is coming to the East, is coming to the Soviet Union, is coming to Hungary, Poland\". And I thought to myself \"that doesn't seem right, something doesn't ring true in this rejoicing\", and among the many many verses that I wrote in the song you're about to hear, I asked myself that question: \"Where is democracy coming ?\" and country after country dissolved as an answer and there really only was one answer, that was \"Democracy is coming to the USA\"."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_future",
-        "content": {
-          "text": [
-            "Alternate Lyrics:",
-            [
-              "Give me speed and careless sex",
-              " Take the only tree that's left",
-              " And stuff it up the hole",
-              "In your culture"
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.there_is_a_war",
-        "content": {
-          "text": [
-            "About a thousand years ago there was a very brief period of time that is now referred to as the 60's, last eleven or twelve minutes before the hustlers and hoaxers poured in. And it has become a kind of \"black hole\" in the national Cosmos into which you know all the noblest and fiercest aspirations of a generation sunk and disappeared in a kind of Bermuda Triangle of Idealism. And this is the song that I wrote many many years ago when I refuse that seductive invitation to join in a general celebration of another silly idea."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -80,9 +37,15 @@
       "newAnchor": "2:3"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1993-07-12",
+    "location": {
+      "city": "Austin",
+      "country": "USA",
+      "venue": "Austin City Limits TV Studio"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_democracy",

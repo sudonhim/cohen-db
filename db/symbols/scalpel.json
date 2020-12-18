@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Scalpel",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.razor"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.hair"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.scalpel"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.suicide"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.death"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Scalpel",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_razor",

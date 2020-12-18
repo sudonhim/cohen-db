@@ -1,18 +1,10 @@
 {
-  "title": "Sweetness",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.sweetness"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Sweetness",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_sweetness",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-05-21 Palma de Mallorca",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-05-21",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Auditorium"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

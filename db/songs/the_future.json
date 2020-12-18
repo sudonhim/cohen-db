@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Future",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1992-11-24"
   },
@@ -13,9 +17,5 @@
     "song.light_as_the_breeze",
     "song.always",
     "song.tacoma_trailer"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

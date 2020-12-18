@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-07-16 Langesund",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-07-16",
     "event": "Langesund International Shantyfestival",
@@ -8,9 +12,5 @@
       "country": "Norway",
       "venue": "Mandssangforening"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

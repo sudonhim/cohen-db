@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-26 Hamburg",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-26",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Hamburger Stadtpark"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

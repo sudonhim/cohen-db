@@ -1,22 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Crucifixion",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.eucharist"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.crucifixion"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Crucifixion",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_eucharist",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-10 Bruges",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-10",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Belgium",
       "venue": "Minnewaterpark"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

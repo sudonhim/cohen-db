@@ -1,30 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-12-05 - Message to a fan",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "2001-12-05"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.alexandra_leaving",
-        "content": {
-          "text": [
-            "Answering to a fan, reader of the Cavafy's work : ",
-            [
-              "I am very sorry that I neglected to cite Constantine P. Cavafy, and his great poem, \"The God Forsakes Anthony\", as the inspiration for my song \"Alexandra Leaving\". Somehow the credit got left out of my liner notes, although I did make the connection clear in many interviews and on Jarkko's site, The Leonard Cohen Files. The work of Cavafy has touched and influenced me for many years. Even as I write this, there is a picture of him above my desk. Please accept my apologies.",
-              " Sincerely, L. Cohen."
-            ]
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_alexandra_leaving",

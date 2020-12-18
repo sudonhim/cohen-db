@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "I'm Your Man Tour",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1988-04-05"
   },
@@ -87,9 +91,5 @@
     "live.1988_11_14_montreal",
     "live.1988_11_15_boston",
     "live.1988_11_16_new_york"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

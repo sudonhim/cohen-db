@@ -1,122 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-10-06 - Frankfurt",
-  "metadata": {
-    "date": "1974-10-06",
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.a_singer_must_die",
-        "content": {
-          "text": [
-            "This song is for my critics and for my judges and for those who give marks to us everywhere, who evaluate our performance whether it is in the courtroom or the cloakroom or the bedroom. This is for the judges."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "It was the end of the 60's, the beginning of the 70's. We saw the battalion of a kind of apocalyptic vision about what the world was going be and what rock music or pop music was going to be in it. And toward the end of that time we saw the casualties, the burnt out acid heads, the dead singers, famous and obscure. This is a song that I wrote to one of those great singers that I knew. It comes out of a time when a lot musicians used to staying at the Chelsea Hotel in New York City."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.hey_thats_no_way_to_say_goodbye",
-        "content": {
-          "text": [
-            "An old song from an old hotel room"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.i_tried_to_leave_you",
-        "content": {
-          "text": [
-            "This is a song from the marriage chamber"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.love_calls_you_by_your_name",
-        "content": {
-          "text": [
-            "This next song is about that place between the beginning and the end of things,in which you summon yourself."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.lover_lover_lover",
-        "content": {
-          "text": [
-            "I wrote this next song about a year ago today,in the Sina desert.I made it for the soldiers that are on both sides."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.sisters_of_mercy",
-        "content": {
-          "text": [
-            "This song is for Barbara and Lorraine.They took me out of a snowstorm in Edmonton,Alberta,1966."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.so_long_marianne",
-        "content": {
-          "text": [
-            "This is a song of forgiveness"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.story_of_isaac",
-        "content": {
-          "text": [
-            "This is a song about that curious place where the generations often meet, an altar or a butcher's block.The story of Isaac..."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            [
-              "This is a song of Resistance. It was written a long time ago,about someone's grandparents, about your grandparents. But this song for",
-              " me is an allegory for Resistance."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.why_dont_you_try",
-        "content": {
-          "text": [
-            [
-              "There are songs of greeting and songs of parting and then songs of",
-              " injurance,of the long conversation of the endless embrace.This is a song",
-              " from that (..)"
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -152,9 +37,14 @@
       "newAnchor": "6:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1974-10-06",
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_a_singer_must_die",

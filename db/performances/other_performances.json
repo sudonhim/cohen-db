@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Other Performances",
+  "kind": "group",
+  "annotations": [],
   "children": [
     "live.1967_04_06_buffalo",
     "live.1967_04_30_new_york",
@@ -36,9 +40,5 @@
     "live.1988_04_04_german_tour_rehearsal",
     "live.1993_02_10_new_york",
     "live.2006_05_13_toronto"
-  ],
-  "kind": "group",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

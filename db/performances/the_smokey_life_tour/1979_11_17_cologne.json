@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-11-17 Cologne",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1979-11-17",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Messehalle Cologne"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

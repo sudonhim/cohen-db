@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Songs of Love and Hate",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1971-02-19"
   },
@@ -12,9 +16,5 @@
     "song.famous_blue_raincoat",
     "song.sing_another_song_boys",
     "song.joan_of_arc"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

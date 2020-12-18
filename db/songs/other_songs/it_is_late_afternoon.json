@@ -1,50 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "It Is Late Afternoon",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "It is late afternoon.",
-          "I have put Beethoven on.",
-          "It is foolish to impute pain",
-          "to the intense sky",
-          "but that is what I have done.",
-          "And I will impute loneliness",
-          "to the appearing moon."
-        ],
-        [
-          "It is early night.",
-          "Down in the lighted city",
-          "the tedious hunts begin.",
-          "I have been assured",
-          "there is no cause for shame.",
-          "I am not ashamed.",
-          "I turn the music louder."
-        ],
-        [
-          "There's the moon",
-          "in my room's window.",
-          "I balance it on my thumb",
-          "and try to flip it over.",
-          "It does not turn,",
-          "but still, my thumb",
-          "is not broken.",
-          "I open the window.",
-          "I make the music softer."
-        ],
-        [
-          "I walk on Murray Hill.",
-          "The moon needs no legend.",
-          "It proclaims its interest",
-          "in time, in the immediate night.",
-          "I decide to leave it alone.",
-          "In my room",
-          "the music is turning",
-          "because I expect a friend."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -138,9 +95,7 @@
       "newAnchor": "16"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

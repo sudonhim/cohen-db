@@ -1,38 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Dawn",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.day"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.night"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.light"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dark"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dusk"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dawn"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Dawn",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_day",

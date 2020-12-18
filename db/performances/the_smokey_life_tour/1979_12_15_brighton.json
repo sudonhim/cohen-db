@@ -1,49 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-12-15 Brighton",
-  "metadata": {
-    "date": "1979-12-15",
-    "location": {
-      "city": "Brighton",
-      "country": "England",
-      "venue": "Brighton Dome"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.blues_by_the_jews",
-        "content": {
-          "text": [
-            "This is a curious song that I wrote three or four years...no it must be about a thousand years ago, but I haven't learned the words yet. I wrote it on the road, it's kind of irreverent, but you're not very religious in this part of the country anyway, so I doubt if it would offend anybody. Anyway, this is the \"Blues by the Jews\", here it is..."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.leaving_green_sleeves",
-        "content": {
-          "text": [
-            "Someone in the audience asks him to sing \"Leaving Green Sleeves\"",
-            "\"Greensleeves\" ? Oh I haven't sung that for about 300 years. I used to sing that when I was a troubadour in the south of France. My name was Artaud. I used to walk on those dusty roads singing Greensleeves. I haven't sung that for a long time. Please also don't ask me for \"Don't pass me by\" because I only ever did that once."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "verse variation",
-            [
-              "You can hear the boats go by",
-              "You can hear the night beside her."
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -105,9 +63,15 @@
       "newAnchor": "3:3"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1979-12-15",
+    "location": {
+      "city": "Brighton",
+      "country": "England",
+      "venue": "Brighton Dome"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_blues_by_the_jews",

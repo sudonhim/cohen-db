@@ -1,47 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1970-08-30 Freshwater",
-  "metadata": {
-    "date": "1970-08-30",
-    "location": {
-      "city": "Freshwater",
-      "country": "United Kingdom",
-      "venue": "Afton Down"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "Oh It's good to be here alone in front of six hundred thousand people. It's a large nation but it's still weak, still very weak. It needs to get a lot stronger before it can claim a right to a land"
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.tonight_will_be_fine",
-        "content": {
-          "text": [
-            [
-              "(sung as additional verses)",
-              " I've looked into the mirrors in numberless places",
-              " They all smile back at me with the most troublesome faces.",
-              " The cards that they dealt me, no there weren't any aces",
-              " And the horses just don't listen to me at the races."
-            ],
-            [
-              " There's still one or two of us, walking the street",
-              " No arrows of direction painted under our feet",
-              " No angels to warn us away from the heat",
-              " And no honey to keep us where it is sweet"
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -61,9 +21,15 @@
       "newAnchor": "2:9"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1970-08-30",
+    "location": {
+      "city": "Freshwater",
+      "country": "United Kingdom",
+      "venue": "Afton Down"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_suzanne",

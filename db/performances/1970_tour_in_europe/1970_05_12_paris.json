@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1970-05-12 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1970-05-12",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "L'Olympia Bruno Coquatrix"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

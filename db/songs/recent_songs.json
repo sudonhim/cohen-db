@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Recent Songs",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1979-09-27"
   },
@@ -14,9 +18,5 @@
     "song.the_gypsys_wife",
     "song.the_smokey_life",
     "song.ballad_of_the_absent_mare"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

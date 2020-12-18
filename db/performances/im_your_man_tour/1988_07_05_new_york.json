@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-07-05 New York",
-  "metadata": {
-    "date": "1988-07-05",
-    "location": {
-      "city": "New York",
-      "country": "United States",
-      "venue": "The Ritz"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "A thousand years ago I lived at this Hotel in NYC. I was a frequent rider of the elevator on this Hotel. I will continuously leave my room and come back. I was an expert on the buttons of that elevator. One of the few technologies I really ever mastered. The door opened. I walked in. Put my finger right on the button. No hesitation. Great sense of mastery in those days. Late in the morning, early in the evening. I noticed a young woman in that elevator. She was riding it with as much delight as I was. Even though she commanded huge audiences, riding that elevator was the only thing she really knew how to do. My lung gathered my courage. I said to her \"Are  you looking for someone?\"  She said  \"Yes, I'm looking for Kris Kristofferson  \"I said  \"Little Lady, you're in luck, I am Kris Kristofferson.\"  Those were generous times. Even though she knew that I was someone shorter than Kris Kristofferson, she never led on. Great generosity prevailed in those doom decades. Anyhow I wrote this song for Janis Joplin at the Chelsea Hotel."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -80,9 +61,15 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1988-07-05",
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "venue": "The Ritz"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_chelsea_hotel_2",

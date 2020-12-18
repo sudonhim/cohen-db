@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Various Positions",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1984-12-11"
   },
@@ -13,9 +17,5 @@
     "song.hunters_lullaby",
     "song.heart_with_no_companion",
     "song.if_it_be_your_will"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

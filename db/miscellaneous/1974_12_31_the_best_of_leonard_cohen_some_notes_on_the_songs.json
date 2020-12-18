@@ -1,115 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-12-31 - The Best of Leonard Cohen - Some notes on the songs",
-  "metadata": {
-    "date": "1974-12-31"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.bird_on_the_wire",
-        "content": {
-          "text": [
-            "I always begin my concert with this song. It seems to return me to my duties. It was begun in Greece and finished in a motel in Hollywood    around 1969 along with everything else.  Some lines were changed in Oregon.  I can't seem to get it perfect.  Kris Kristofferson informed me   that I had stolen part of the melody from another Nashville writer. He also said that he's putting the first couple of lines on his tombstone, and I'll be hurt if he doesn't."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "I wrote this for an American singer who died a while ago. She used to stay at the Chelsea, too. I began it at a bar in a polynesian restaurant in Miami Beach in 1971 and finished it in Asmara, Ethiopia just before the throne was overturned. Ron Cornelius helped me with a chord change in an earlier version."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.famous_blue_raincoat",
-        "content": {
-          "text": [
-            "I had a good raincoat then, a Burberry I got in London in 1959. Elizabeth thought I looked like a spider in it. That was probably why she wouldn't go to Greece with me. It hung more heroically when I took out the lining, and achieved glory when the frayed sleeves were repaired with a little leather. Things were clear. I knew how to dress in those days. It was stolen from Marianne's loft in NY sometime suring the early seventies. I wasn't wearing it very much toward the end."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.hey_thats_no_way_to_say_goodbye",
-        "content": {
-          "text": [
-            [
-              "This song arises from an over-used bed in the Penn Terminal Hotel in 1966. The room is too hot. I can't open the windows. I am in the midst of a bitter quarrel with a blonde woman. The song is half-written in pencil but it protects us as we manoeuvre, each of us, for unconditional victory.",
-              " I am in the wrong room. I am with the wrong woman."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.lady_midnight",
-        "content": {
-          "text": [
-            "This was finished in the Henry Hudson Hotel on 58th Street in NY. Yafa was doing tricks with her silver bangles. I owe her the last verse. It was recorded in Nashville. The voice is uncertain. In those days it took me fifteen minutes to decide whether or not i should wear my cap when i went outside and a half hour whether i should take it off when I came back."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.last_years_man",
-        "content": {
-          "text": [
-            "I don't know why but I like this song. I used to play it on a Mexican twelve-string until I destroyed the instrument by jumping on it in a fit of impotent fury in 1967. The song had too many verses and it took about five years to sort out the right ones. I like the children* in this version. I always wait for them if I have to listen to it.",
-            "  *the children of the London Corona Academy, back vocals in some verses"
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.sisters_of_mercy",
-        "content": {
-          "text": [
-            "This was written in a few hours one winter night in a Hotel room in Edmonton, Alberta. Barbara and Lorraine were sleeping on the couch. The room was filled with moonlight reflected off the ice of the North Saskatchewan River. I had it ready for them when they woke up."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.so_long_marianne",
-        "content": {
-          "text": [
-            "I began this on Aylmer Street in Montreal and finished it a year or so later at the Chelsea Hotel in NY. I didn't think I was saying goodbye but I guess I was. She gave me many songs, and she has given songs to others too. She is a Muse. A lot of people I know think that there is nothing more important than making a song. Fortunately, this belief arises infrequently in their conversation."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "I wrote this in 1966. Suzanne had a room on a waterfront street in the port of Montreal. Everything happened just as it was put down. She was the wife of a man I knew. Her hospitality was immaculate. Some months later I sang it to Judy Collins over the telephone. The publishing rights were pilfered in NYC but it is probably appropriate that I don't own this song. Just the other day I heard some people singing it on a ship in the Caspian sea."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.take_this_longing",
-        "content": {
-          "text": [
-            "Buffy Ste Marie recorded an early version of this called \"The Bells\". It took me six or seven years to get a version for myself. I began while listening to Nico sing at the Dome on the 8th Dtreet in 1966. I broke the code in Asmara and finished the song in the shed of St Dominique Street in Montreal lat year."
-          ]
-        }
-      },
-      {
-        "kind": "note",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "I learned this from a friend when I was 15. He was 17. His father was a union organizer. We were working at a camp in Ste Margeite, Quebec. We sang together every morning, going through the People's Song Book from cover to cover. I developed the curious notion that the Nazis were overthrown by music."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "other",
   "annotations": [
     {
@@ -283,9 +175,10 @@
       "newAnchor": "11:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1974-12-31"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_bird_on_the_wire",

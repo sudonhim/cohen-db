@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-11-16 Sydney",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-11-16",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Australia",
       "venue": "Sydney Entertainment Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

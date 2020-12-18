@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-07-07 Rome",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-07-07",
     "event": "Il Centrale Live 2013",
@@ -8,9 +12,5 @@
       "country": "Italy",
       "venue": "Foro Italico"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

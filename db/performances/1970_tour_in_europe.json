@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1970 Tour In Europe",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1970-04-12"
   },
@@ -13,9 +17,5 @@
     "live.1970_05_10_london",
     "live.1970_05_12_paris",
     "live.1970_05_16_leeds"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

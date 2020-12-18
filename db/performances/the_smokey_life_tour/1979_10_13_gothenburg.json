@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-10-13 Gothenburg",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1979-10-13",
     "location": {
@@ -9,26 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            [
-              "verse variation",
-              " \"..told me once again you'd prefer younger men..\""
-            ]
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "variation_on_chelsea_hotel_2",

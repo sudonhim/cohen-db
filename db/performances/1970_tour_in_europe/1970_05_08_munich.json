@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1970-05-08 Munich",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1970-05-08",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Circus Krone"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

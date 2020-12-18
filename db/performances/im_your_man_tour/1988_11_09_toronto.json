@@ -1,51 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-11-09 Toronto",
-  "metadata": {
-    "date": "1988-11-09",
-    "location": {
-      "city": "Toronto",
-      "country": "Canada",
-      "venue": "Massey Hall"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.coming_back_to_you",
-        "content": {
-          "text": [
-            [
-              "Modified verse",
-              " Second stanza"
-            ],
-            [
-              " They're shutting down the factory now",
-              " just when  the babies bills are due..."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "album.im_your_man",
-        "content": {
-          "text": [
-            "The air is singing with the self-praises of candidates. I do not wish to be left out. I am a candidate. I don't want to find myself driving through the Eyrie-Lincoln tunnel with my manager, saying to him 'Marty, I could have been a candidate'. But I am a candidate for the very highest office in the land, a woman's caress."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.jazz_police",
-        "content": {
-          "text": [
-            "In the Soviet Union,there's the KGB; in our country there's the RCMP; in USA the FBI. But above all these agencies there's a superagency called the \"Jazz Police\". They govern everything,they rule everything, they are behind every plot and every resolution. This is my homage to them."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -65,9 +21,15 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1988-11-09",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada",
+      "venue": "Massey Hall"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "variation_on_coming_back_to_you",

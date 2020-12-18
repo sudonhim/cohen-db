@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-02-22 Paris",
-  "metadata": {
-    "date": "1985-02-22",
-    "location": {
-      "city": "Paris",
-      "country": "France",
-      "venue": "Salle Pleyel"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.sisters_of_mercy",
-        "content": {
-          "text": [
-            "It was very nice of the Russians to build this Hall for me. My mother came from Russia, she spoke very highly of those people. It is a beautiful Hall, and I thank the Authorities for allowing me to play here. I wish we had a Hall like this where I come from. I would throw a huge party here, I would invite everyone. Maybe I'd just live here alone by myself. I need a lot of space."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -40,9 +21,15 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1985-02-22",
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "venue": "Salle Pleyel"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_sisters_of_mercy",

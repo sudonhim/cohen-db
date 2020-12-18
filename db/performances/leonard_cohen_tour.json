@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Leonard Cohen Tour",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "2008-05-11"
   },
@@ -251,9 +255,5 @@
     "live.2010_12_08_portland",
     "live.2010_12_10_las_vegas",
     "live.2010_12_11_las_vegas"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

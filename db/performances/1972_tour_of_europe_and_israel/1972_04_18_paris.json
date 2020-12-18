@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-04-18 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1972-04-18",
     "location": {
@@ -9,27 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.bird_on_the_wire",
-        "content": {
-          "text": [
-            [
-              "Comme l'oiseau sur la branche",
-              " Comme l'ivrogne dans le choeur de la nuit",
-              " J'ai cherche ma liberte"
-            ]
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "prologue_to_bird_on_the_wire",

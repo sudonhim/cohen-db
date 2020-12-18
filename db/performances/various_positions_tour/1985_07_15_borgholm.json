@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-07-15 Borgholm",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-07-15",
     "event": "Borgholm Castle",
@@ -8,9 +12,5 @@
       "country": "Sweden",
       "venue": "Öland"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

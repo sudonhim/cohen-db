@@ -1,43 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Crazy To Love You",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "I had to go crazy to love you",
-          "Had to go down to the pit",
-          "Had to do time in the tower",
-          "Beggin' my crazy to quit",
-          "I had to go crazy to love you",
-          "You who were never the one",
-          "Whom I chased through the souvenir heartache",
-          "Her braids and her blouse all undone",
-          "Sometimes I'd head for the highway",
-          "I'm old and the mirrors don't lie",
-          "But crazy has places to hide in",
-          "That are deeper than any goodbye",
-          "Had to go crazy to love you",
-          "Had to let everything fall"
-        ],
-        [
-          "Had to be people I hated",
-          "Had to be no one at all",
-          "I'm tired of choosing desire",
-          "I've been saved by a blessed fatigue",
-          "The gates of commitment unwired",
-          "And nobody trying to leave",
-          "Sometimes I'd head for the highway",
-          "I'm old and the mirrors don't lie",
-          "But crazy has places to hide in",
-          "That are deeper than any goodbye",
-          "I had to go crazy to love you",
-          "You who were never the one",
-          "Whom I chased through the souvenir heartache",
-          "Her braids and her blouse all undone"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -57,9 +21,7 @@
       "newAnchor": "9"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

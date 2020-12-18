@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Ash",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.tree"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.wood"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.fire"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.smoke"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.ash"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Ash",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_tree",

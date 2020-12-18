@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-02-15 Bilbao",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-02-15",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Palacio Municipal de Deportes"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,30 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Cold",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.winter"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.snow"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.ice"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.cold"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Cold",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_winter",

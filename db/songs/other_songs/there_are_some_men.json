@@ -1,37 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "There Are Some Men",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "There are some men",
-          "who should have mountains",
-          "to bear their names to time."
-        ],
-        [
-          "Grave-markers are not high enough",
-          "or green,",
-          "and sons go far away",
-          "to lose the fist",
-          "their father's hand will always seem."
-        ],
-        [
-          "I had a friend:",
-          "he lived and died in mighty silence",
-          "and with dignity,",
-          "left no book, son, or lover to mourn."
-        ],
-        [
-          "Nor is this a mourning-song",
-          "but only a naming of this mountain",
-          "on which I walk,",
-          "fragrant, dark, and softly white",
-          "under the pale of mist.",
-          "I name this mountain after him."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -125,9 +95,7 @@
       "newAnchor": "16"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

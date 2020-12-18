@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-08-15 Calella de Palafrugell",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-08-15",
     "event": "Festival Cap Roig",
@@ -8,9 +12,5 @@
       "country": "Spain",
       "venue": "Jardí Botànic de Cap Roig"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

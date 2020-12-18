@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-12-04 - Interview with Kathleen Kendal",
-  "metadata": {
-    "date": "1974-12-04"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.joan_of_arc",
-        "content": {
-          "text": [
-            "I think it's just a song about total gift, of total giving and total consummation of a spirit in that kind of experience. It takes in the whole shot to me: man and woman."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -45,9 +31,10 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1974-12-04"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_joan_of_arc",

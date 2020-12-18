@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2012-09-19 Istanbul",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2012-09-19",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Turkey",
       "venue": "Ülker Sports Arena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-09-26 - Angst & Aquavit - LA Weekly",
-  "metadata": {
-    "date": "2001-09-26"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.the_future",
-        "content": {
-          "text": [
-            "I think I meant the end of privacy as it developed in the West, which was the real feature of our civilization. The notion that there was private space, which wasn't really terribly available in the world until we in the West started establishing private rooms and studies and walls. So I think I felt at a certain point that this was beginning to reverse itself with a very potent mass culture. This notion of a private space in which to develop certain ideas and cultivate certain aspects of the psyche. I felt that was disappearing, and that we were moving into a kind of mass mind."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -35,9 +21,10 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "2001-09-26"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_the_future",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-06-18 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-06-18",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Palais Omnisports de Paris-Bercy"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

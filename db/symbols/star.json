@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Star",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.moon"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sun"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.star"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sky"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.night"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Star",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_moon",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "You Want It Darker",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "2016-10-21"
   },
@@ -13,9 +17,5 @@
     "song.it_seemed_the_better_way",
     "song.steer_your_way",
     "song.string_reprise_treaty"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

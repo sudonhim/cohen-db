@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-09-24 Tel Aviv",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-09-24",
     "location": {
@@ -9,29 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.lover_lover_lover",
-        "content": {
-          "text": [
-            "Before the final verse",
-            [
-              "You may come to me in happiness",
-              "Or you may come to be in grief",
-              "You may come to me in your deepest faith",
-              "Or you may come in disbelief"
-            ]
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "variation_on_lover_lover_lover",

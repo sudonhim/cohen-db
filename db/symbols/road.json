@@ -1,26 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Road",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.train"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.station"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.road"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Road",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_train",

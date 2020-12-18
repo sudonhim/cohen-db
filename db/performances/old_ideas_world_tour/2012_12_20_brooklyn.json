@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2012-12-20 Brooklyn",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2012-12-20",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Barclays Center"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

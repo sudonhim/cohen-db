@@ -1,28 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Go No More A-Roving",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "[Dedicated to Irving Layton]"
-        ],
-        [
-          "So we'll go no more a-roving",
-          "So late into the night,",
-          "Though the heart be still as loving,",
-          "And the moon be still as bright.",
-          "For the sword outwears its sheath,",
-          "And the soul outwears the breast,",
-          "And the heart must pause to breathe,",
-          "And love itself have rest.",
-          "Though the night was made for loving,",
-          "And the day returns too soon,",
-          "Yet we'll go no more a-roving",
-          "By the light of the moon."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -106,9 +85,7 @@
       "newAnchor": "13"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

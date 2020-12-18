@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-05-09 Ottawa",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-05-09",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "National Arts Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

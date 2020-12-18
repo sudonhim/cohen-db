@@ -1,22 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1994-09-01 - Q Magazine",
-  "metadata": {
-    "date": "1994-09-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.if_it_be_your_will",
-        "content": {
-          "text": [
-            "Which song you wish you had written?   \"If it be Your Will\". And I wrote it.*",
-            "My favorite verse in it is \"All your children here in their rags of light\""
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -36,9 +21,10 @@
       "newAnchor": "1:2"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1994-09-01"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_if_it_be_your_will",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-06 Aarhus",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-06",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Denmark",
       "venue": "Rådhusparken"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

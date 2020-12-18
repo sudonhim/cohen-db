@@ -1,26 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Master",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.master"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.slave"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.lover"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Master",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_master",

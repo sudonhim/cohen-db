@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Other Songs",
+  "kind": "group",
+  "annotations": [],
   "children": [
     "song.a_kite_is_a_victim",
     "song.after_the_sabbath_prayers",
@@ -35,9 +39,5 @@
     "song.there_are_some_men",
     "song.whither_thou_goest",
     "song.you_all_in_white"
-  ],
-  "kind": "group",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

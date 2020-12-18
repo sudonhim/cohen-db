@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Lip",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.hair"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.heart"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.flesh"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.blood"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.lip"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Lip",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_hair",

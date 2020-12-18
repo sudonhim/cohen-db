@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-11-11 Ottawa",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-11-11",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Ottawa Convention Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

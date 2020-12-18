@@ -1,73 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-04-03 Stockholm",
-  "metadata": {
-    "date": "1972-04-03",
-    "location": {
-      "city": "Stockholm",
-      "country": "Sweden",
-      "venue": "Kungliga Tennishallen"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.famous_blue_raincoat",
-        "content": {
-          "text": [
-            "It's a common place to say it today but it's a song that was written for two people,for a woman and a man and especially for a woman whom i had to share with another man.But you know it's true when they say that there won't be free men until there are free women."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.seems_so_long_ago_nancy",
-        "content": {
-          "text": [
-            "(verse variations)",
-            " The morning had not come, Nancy was still alone, but with a forty-five beside her head, an open telephone We told her she was beautiful, we told her she was free, but none of us could meet her in the house of mystery, the house of mystery"
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.so_long_marianne",
-        "content": {
-          "text": [
-            "additional stanza",
-            [
-              " Oh Tonight,I know I'm gonna forget tonight",
-              "  alternate for this first verse (Frankfurt April 6th, 1972)",
-              " Ah your eyes, oh how could I forget your eyes"
-            ],
-            [
-              " But your body's at home in every sea",
-              " How come you give away your news to everyone",
-              " I thought you said it was a secret just for me."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.story_of_isaac",
-        "content": {
-          "text": [
-            "I sing this song for the butchers and the victims."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.joan_of_arc",
-        "content": {
-          "text": [
-            "A song that I wrote for a brave woman"
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -113,9 +47,15 @@
       "newAnchor": "3:5"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1972-04-03",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "venue": "Kungliga Tennishallen"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_famous_blue_raincoat",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-09-01 Brussels",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1974-09-01",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Belgium",
       "venue": "Ancienne Belgique"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

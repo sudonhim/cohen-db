@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1975-02-09 Boston",
-  "metadata": {
-    "date": "1975-02-09",
-    "location": {
-      "city": "Boston",
-      "country": "United States",
-      "venue": "Symphony Hall"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.is_this_what_you_wanted",
-        "content": {
-          "text": [
-            "This following song is a dialogue between you and your perfect lover.Unfortunately your perfect lover is not present for the conversation."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -40,9 +21,15 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1975-02-09",
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "venue": "Symphony Hall"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_is_this_what_you_wanted",

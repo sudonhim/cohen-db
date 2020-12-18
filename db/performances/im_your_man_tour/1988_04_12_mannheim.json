@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-12 Mannheim",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-04-12",
     "location": {
@@ -9,45 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "Verse Variation",
-            [
-              " Forgive me Lord if you're up there above",
-              " But all I ever learned from love...."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.i_cant_forget",
-        "content": {
-          "text": [
-            "This is a song about what I can't forget."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_law",
-        "content": {
-          "text": [
-            "This is a song about guilt. Yes guilt is a very under-estimated emotion. It has a lot of bad press today, guilt has. Actually, it is the only way we know when we're doing a wrong thing."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "variation_on_hallelujah",

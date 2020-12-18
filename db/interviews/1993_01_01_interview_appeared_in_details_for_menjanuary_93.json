@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-01-01 - Interview (appeared in Details for men,January 93)",
-  "metadata": {
-    "date": "1993-01-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "\"Suzanne\" is very hard to sing. I can't seem to find the place to sing it from, though the song does have the Montreal landscape in it: the church by the harbor, the place we used to live by the river, and my mother's house that I still go back to. The woman there and that experience were very much a part of the emotional landscape of Montreal."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -55,9 +41,10 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1993-01-01"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_suzanne",

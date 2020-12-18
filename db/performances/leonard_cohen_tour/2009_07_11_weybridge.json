@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-07-11 Weybridge",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-07-11",
     "location": {
@@ -7,9 +11,5 @@
       "country": "England",
       "venue": "Mercedes-Benz World"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

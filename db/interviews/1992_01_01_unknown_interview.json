@@ -1,26 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1992-01-01 - Unknown interview",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "1992-01-01"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.democracy",
-        "content": {
-          "text": [
-            "I have about 50 verses of Democracy that I discarded. It examined many many themes. It was occasioned by the collapse of the Berlin Wall. It is a song where there's no inside and no outside. This is just the life of the democracy."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_democracy",

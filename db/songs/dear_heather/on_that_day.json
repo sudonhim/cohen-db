@@ -1,34 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "On That Day",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Some people say",
-          "It's what we deserve",
-          "For sins against g-d",
-          "For crimes in the world",
-          "I wouldn't know",
-          "I'm just holding the fort",
-          "Since that day",
-          "They wounded New York",
-          "Some people say",
-          "They hate us of old",
-          "Our women unveiled",
-          "Our slaves and our gold",
-          "I wouldn't know",
-          "I'm just holding the fort",
-          "But answer me this",
-          "I won't take you to court",
-          "Did you go crazy",
-          "Or did you report",
-          "On that day",
-          "On that day",
-          "They wounded New York"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -74,9 +47,7 @@
       "newAnchor": "12"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

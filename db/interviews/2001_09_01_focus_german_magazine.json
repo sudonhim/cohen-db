@@ -1,26 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-09-01 - Focus - German magazine",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "2001-09-01"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.alexandra_leaving",
-        "content": {
-          "text": [
-            "I began (the song) on Hydra in 1985. The first drafts disappeared into a desk drawer until I discovered them and began working on them again in the late nineties. In the spring of this year the song was ready, from the innumerable original verses only nine remained."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_alexandra_leaving",

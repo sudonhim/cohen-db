@@ -1,22 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1994-01-01 - Rocksound magazine",
-  "metadata": {
-    "date": "1994-01-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "About the fact of including \"Suzanne\" in the new Live album of 1994.",
-            "For me \"Suzanne\" is the best song from this record. Precisely because you can compare yesterday with today, compare different versions. The voice has completely changed, the tempo changed a lot, the experience of the singer also, it's more evident today.. It seems to me that between the original version and this one, there is all the real-life of a man passing through. Of a man who's not the same anymore. And this is a thing I appreciate very much, to be able to measure these changes. The original version of \"Suzanne\" is full of hope, compassion and idealism. This last one offers a crack, a bruise. It's the end of the story somehow... My wanting to sing this song today is maybe reckless, but I intended to show this crack, this ending of the story."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -36,9 +21,10 @@
       "newAnchor": "1:2"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1994-01-01"
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "on_suzanne",

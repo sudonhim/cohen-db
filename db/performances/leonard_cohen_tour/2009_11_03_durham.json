@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-11-03 Durham",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-11-03",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Durham Performing Arts Center"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

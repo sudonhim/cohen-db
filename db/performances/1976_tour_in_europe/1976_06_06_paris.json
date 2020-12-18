@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1976-06-06 - Paris",
-  "metadata": {
-    "date": "1976-06-06",
-    "location": {
-      "city": "Paris",
-      "country": "France",
-      "venue": "L'Olympia Bruno Coquatrix"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "There was a Hotel in NYC where a lot of musicians used to stay.And among these musicians,a very great singer,a woman;i used to bump into her,in the elevator,about three in the morning.She wasn't looking for me.I  think she was looking for kris Kristofferson,somebody taller than me.I wasn't looking for her.I was looking for Brigitte Bardot.Anyway we fell into each other's arms,through some process of elimination.That's the process by which everything happens.I also used to see her across the street at the Bronco Burger.A hamburger joint.It's not there any more.So don't go looking for a hamburger.You'll just be disappointed.It's not there any more.But this shouldn't concern you,these ups and downs of capitalism.The hamburger joints rise and fall .Ou sont les neiges d'antan? (Where are the snows of bygone days?). Anyhow I used to watch her in there (..) she was watching to see if people would put her songs  on the juke-box.(..) and she was a truly great (..).There was something great about her attitude towards her public.(..) no ambiguity.You know if you look at the lyrics of today (..) how difficult it is to be a popstar (..) getting servants,shopping for jewels,(..) all this burden and ordeals (..) on the shoulders of the popstars (..).It's one of the great catastrophies of modern times.You never got any of that sound from her or in her work.(..).I was in 24th Street NYC she said \"Hey man,you're in town to read poetry to old ladies\".She had a very refreshing view of my career.After she died i wrote this song for her,Janis Joplin."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -50,9 +31,15 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1976-06-06",
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "venue": "L'Olympia Bruno Coquatrix"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_chelsea_hotel_2",

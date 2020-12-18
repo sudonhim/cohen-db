@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1976 Tour In Europe",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1976-04-25"
   },
@@ -17,9 +21,5 @@
     "live.1976_06_14_vienna",
     "live.1976_06_18_nuremberg",
     "live.1976_06_25_montreux"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

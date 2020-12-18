@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-06-27 Helsinki",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-06-27",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Finland",
       "venue": "Kulttuuritalo"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

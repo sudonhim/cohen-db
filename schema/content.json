@@ -4,36 +4,18 @@
   "title": "Content",
   "description": "The content of a document, which is either a single canonical text part, or a sequence of complex parts",
   "properties": {
-    "preamble": {
-      "type": "string",
-      "description": "Information about the document itself"
+    "sectionalContent": {
+      "type": "array",
+      "description": "The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.",
+      "items": {
+        "$ref": "sectionalcontent.json"
+      },
+      "minItems": 1
     },
     "content": {
-      "oneOf": [
-        {
-          "type": "array",
-          "description": "The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.",
-          "items": {
-            "oneOf": [
-              {
-                "$ref": "note.json"
-              },
-              {
-                "$ref": "prologue.json"
-              },
-              {
-                "$ref": "variation.json"
-              }
-            ]
-          },
-          "minItems": 1
-        },
-        {
-          "$ref": "text.json"
-        }
-      ]
+      "$ref": "maincontent.json"
     }
   },
-  "required": ["content"],
+  "required": [],
   "additionalProperties": false
 }

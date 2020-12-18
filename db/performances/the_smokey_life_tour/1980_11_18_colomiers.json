@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-11-18 Colomiers",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-11-18",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Hall Comminges"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

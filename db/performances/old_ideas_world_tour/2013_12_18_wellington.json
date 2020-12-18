@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-12-18 Wellington",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-12-18",
     "location": {
@@ -7,9 +11,5 @@
       "country": "New Zealand",
       "venue": "TSB Bank Arena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,18 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Beggar",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.beggar"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Beggar",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_beggar",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-05-22 Seville",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-05-22",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Auditorio Prado"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

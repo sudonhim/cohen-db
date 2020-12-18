@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-04-26 Calgary",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-04-26",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Jack Singer Concert Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

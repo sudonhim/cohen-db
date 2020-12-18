@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-12-13 Preston",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1979-12-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "England",
       "venue": "Preston Guild Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

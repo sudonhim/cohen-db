@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-11-07 Chicago",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-11-07",
     "location": {
@@ -9,23 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.jazz_police",
-        "content": {
-          "text": [
-            "There is the RCMP in Canada, and there's the KGB in the Soviet Union.....I love the KGB...something so galant about the KGB....and then we have our poor dismal FBI, haven't we ? Not a match for the other agencies, but we love it just the same....I love it, I don't know about you...? Perhaps you're commies. I don't hate the FBI. I do perceive a real threat out there. I'm sorry about that but maybe we're just reacting logically. I don't know. But above it all, above all these agencies, there is a super Agency called the Jazz Police. I am in very close connection with the Jazz Police. That is the story that I am about to tell you."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "prologue_to_jazz_police",

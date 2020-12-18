@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Son",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.man"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.father"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.son"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.mother"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.daughter"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Son",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_man",

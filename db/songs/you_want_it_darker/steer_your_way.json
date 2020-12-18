@@ -1,81 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Steer Your Way",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Steer your way through the ruins",
-          "Of the altar and the mall",
-          "Steer your way through the fables",
-          "Of creation and the fall",
-          "Steer your way past the palaces",
-          "That rise above the rot",
-          "Year by year",
-          "Month by month",
-          "Day by day",
-          "Thought by thought"
-        ],
-        [
-          "Steer your heart past the truth",
-          "You believed in yesterday",
-          "Such as fundamental goodness",
-          "And the wisdom of the way",
-          "Steer your heart, precious heart",
-          "Past the women whom you bought",
-          "Year by year",
-          "Month by month",
-          "Day by day",
-          "Thought by thought"
-        ],
-        [
-          "Steer your path through the pain",
-          "That is far more real than you",
-          "That smashed the cosmic model",
-          "That blinded every view",
-          "And please don’t make me go there",
-          "Tho’ there be a god or not",
-          "Year by year",
-          "Month by month",
-          "Day by day",
-          "Thought by thought"
-        ],
-        [
-          "They whisper still, the ancient stones",
-          "The blunted mountains weep",
-          "As he died to make men holy",
-          "Let us die to make things cheap",
-          "And say the Mea Culpa which you’ve probably forgot",
-          "Year by year",
-          "Month by month",
-          "Day by day",
-          "Thought by thought"
-        ],
-        [
-          "Steer your way, o my heart",
-          "Tho’ I have no right to ask",
-          "To the one who was never",
-          "Never equal to the task",
-          "Who knows he’s been convicted",
-          "Who knows he will be shot",
-          "Year by year",
-          "Month by month",
-          "Day by day",
-          "Thought by thought"
-        ],
-        [
-          "They whisper still, the ancient stones",
-          "The blunted mountains weep",
-          "As he died to make men holy",
-          "Let us die to make things cheap",
-          "And say the Mea Culpa which you gradually forgot",
-          "Year by year",
-          "Month by month",
-          "Day by day",
-          "Thought by thought"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -111,9 +37,7 @@
       "newAnchor": "11"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

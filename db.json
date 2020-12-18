@@ -1,14 +1,14 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "CohenDB Database Root",
+  "kind": "group",
+  "annotations": [],
   "children": [
     "group.songs",
     "group.performances",
     "group.interviews",
     "group.miscellaneous",
     "group.symbols"
-  ],
-  "kind": "group",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1976-05-16 Edinburgh",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1976-05-16",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United Kingdom",
       "venue": "Usher Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

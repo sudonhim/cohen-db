@@ -1,29 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Great Event",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "It`s going to happen very soon. ",
-          "The great event which will end the horror. ",
-          "Which will end the sorrow. ",
-          "Next Tuesday, when the sun goes down,",
-          "I will play the Moonlight Sonata backwards. "
-        ],
-        [
-          "This will reverse the effects of the world`s mad plunge into suffering, ",
-          "For the last 200 million years. ",
-          "What a lovely night that would be. ",
-          "What a sigh of relief, as the senile robins become bright red again, "
-        ],
-        [
-          "And the retired nightingales, ",
-          "Pick up their dusty tails, ",
-          "And assert the majesty of creation!"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -59,9 +37,7 @@
       "newAnchor": "8"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

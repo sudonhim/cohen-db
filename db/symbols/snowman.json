@@ -1,22 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Snowman",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.snowman"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.snow"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Snowman",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_snowman",

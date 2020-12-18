@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "I Wonder How Many People in This City",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "I wonder how many people in this city",
-          "live in furnished rooms.",
-          "Late at night when I look out at the buildings",
-          "I swear I see a face in every window",
-          "looking back at me,",
-          "and when I turn away",
-          "I wonder how many go back to their desks",
-          "and write this down."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -67,9 +53,7 @@
       "newAnchor": "4"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

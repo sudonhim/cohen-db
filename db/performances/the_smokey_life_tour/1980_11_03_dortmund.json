@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-11-03 Dortmund",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-11-03",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Westfalenhallen II"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

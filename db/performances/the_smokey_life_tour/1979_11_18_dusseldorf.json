@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-11-18 Düsseldorf",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1979-11-18",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Philips Halle"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

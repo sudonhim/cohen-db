@@ -1,26 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-03-01 - Les Inrockuptibles - French magazine",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "1988-03-01"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.tower_of_song",
-        "content": {
-          "text": [
-            "I like \"Tower Of Song\", it's my story. And the last line \"You'll be hearing from me Baby, long after I'm gone\" ..... (smiling) you believe this kind of things once in a while you know"
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_tower_of_song",

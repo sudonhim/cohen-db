@@ -1,44 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-11-29 New York",
-  "metadata": {
-    "date": "1974-11-29",
-    "location": {
-      "city": "New York",
-      "country": "United States",
-      "venue": "The Bottom Line"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.is_this_what_you_wanted",
-        "content": {
-          "text": [
-            "This is a song which represents a dialogue between you and your ideal lover. The ideal lover is not present for this particular dialogue, if indeed your ideal lover exists at all."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "This next song comes out of the second world war. It stands for Resistance"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.who_by_fire",
-        "content": {
-          "text": [
-            "A song taken from the liturgy of the Day of Atonement"
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -74,9 +37,15 @@
       "newAnchor": "3:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1974-11-29",
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "venue": "The Bottom Line"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_is_this_what_you_wanted",

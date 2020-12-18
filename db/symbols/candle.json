@@ -1,26 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Candle",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.light"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.fire"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.candle"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Candle",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_light",

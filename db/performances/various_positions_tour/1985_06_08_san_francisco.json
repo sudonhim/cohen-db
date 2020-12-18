@@ -1,76 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-06-08 San Francisco",
-  "metadata": {
-    "date": "1985-06-08",
-    "location": {
-      "city": "San Francisco",
-      "country": "United States",
-      "venue": "The Warfield"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.a_singer_must_die",
-        "content": {
-          "text": [
-            "I've always been attached to those songs that you sing when you don't feel like singing. I've read some reviews of my concerts, over the past several months, and I'm very happy that my suit is so well observed. Sometimes my suit whispers to me from the closet \"Do not forget me\" it whispers throughout the song and here, I crucify on this hanger (..) suit."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "It was a long time ago that in this very dismal brown elevator I bumped into a very beautiful young woman. Things happened like that in those days. I never bump into anybody in the elevator. That's because I live in the ground floor. She seemed to be looking for something. I said \"Are you looking for something ?\" She said : \"Yes\" And I knew she wasn't trying to realise some unfulfilled potential of her nature, that she was actually looking (for something). \"What or who are you looking for\", I said. \"Kris Kristofferson\". I said ,\" I am Kris Kristofferson\". I don't know what it was with that girl but she believed me. And I deceived her for many nights (..) \"I thought he was a lot taller\". I sat down a moment. I used to have a sun tan you see. and it was a couple of years later, I found myself at the Bar of a Polynesian restaurant in Miami Beach. (..) I was the very image of the man I wanted to be, feeling unhappy, thinking of all that I'd blown. It was a couple of years after she died, that I scribbled on a paper napkin. That is the privilege of self-indulgence. I wrote this song for her. It was Janis Joplin, at the Chelsea Hotel."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.memories",
-        "content": {
-          "text": [
-            "A song that I wrote with the great R'n'R master by the name of Phil Spector. A delightful chap. You really get to know him, you really did get to know him. And I had a Walther PPK. He had a just an ordinary 45. He flatted out on Sunset Boulevard. He got the tapes. He mixed them all alone. I think he was right. In this song we placed all our most irrelevant and banal adolescent recollections. It was everything that I learned in High School. One foot note : there is a singer mentioned in the first line of the first verse, the singer Frankie Laine. He's to be remembered for his stellar rendition of \"Jezebel\". Also for his sense of interpretation of \"Swamp Girl\". That song has the memorable refrain, \"That's where my swamp girl lies\". Many's the time these words come rushing to my mind. There's another song of his :\"Black Lace\" : \"Lady beware, every time that you wear lace, black lace\". Very good song. There is a better known : \"Mule Train\", with the authentic cracking of bull hide whips. Mule train. So the Frankie Laine referred to in the very first two words of this song is the very Frankie Laine, the very Frankie Laine whose liver I have to describe."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.story_of_isaac",
-        "content": {
-          "text": [
-            "verse variation",
-            [
-              " Shame upon this uniform",
-              " The man of peace the man of war",
-              " The peacock spreads his deadly fan."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.tennessee_waltz",
-        "content": {
-          "text": [
-            "There's an old song that I first learned when I was about 16, sitting at the Cadillac Restaurant on Peel Street in Montreal. And I always hoped that I'd be able to grow up one day and sing this song in front of people. And \"Lo and Behold\" I see there is a happy end. I forgot the second verse, so I constructed a new one with all the respect for the first."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_law",
-        "content": {
-          "text": [
-            "This is a new song, it's called \"There's a Law, There's an Arm, There's a Hand\". It's about our current dismal catastrophe. It's about the Age of post-guilt. Guilt has been given a very bad name. There are entire medical industries that are devoted to describing guilt as a disease. Actually it's the only way that we know that we've done something wrong. This is the song \"There is a Law, there is an arm, there is a hand\"."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -156,9 +87,15 @@
       "newAnchor": "3:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1985-06-08",
+    "location": {
+      "city": "San Francisco",
+      "country": "United States",
+      "venue": "The Warfield"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_a_singer_must_die",

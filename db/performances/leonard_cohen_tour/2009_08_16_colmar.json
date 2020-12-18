@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-08-16 Colmar",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-08-16",
     "event": "Foire aux Vins de Colmar Festival",
@@ -8,9 +12,5 @@
       "country": "France",
       "venue": "Colmar Parc des Expositions"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

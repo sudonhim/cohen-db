@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Mother",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.woman"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.mother"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.daughter"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.father"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.son"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Mother",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_woman",

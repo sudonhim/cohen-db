@@ -1,26 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Thigh",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.woman"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.holy_ghost"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.thigh"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Thigh",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_woman",

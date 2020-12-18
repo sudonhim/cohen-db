@@ -1,116 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-03-18 Dublin",
-  "metadata": {
-    "date": "1972-03-18",
-    "location": {
-      "city": "Dublin",
-      "country": "Ireland",
-      "venue": "National Stadium"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "<<early version sung during the 1972 tour,sometimes called \"Chelsea Hotel # 1\";tune is sometimes different than the studio original release.>> We can read on the backcover of \"Greatest Hits\" this \"song note\" from Leonard,about Chelsea Hotel:<<....Ron Cornelius helped me with a chord change in an earlier version>>",
-            [
-              "  I remember you well in the Chelsea Hotel",
-              " You were talking so brave and so sweet",
-              " Giving me head on the unmade bed",
-              " While the limousines wait in the street."
-            ],
-            [
-              " Those were the reasons and that was New York.",
-              " I was running for the money and the flesh",
-              " I was running for the money and the flesh",
-              " That was called love, for the workers in song",
-              " And it still is for those of us left."
-            ],
-            [
-              " Oh but you got away, didn't you baby",
-              " You just threw it all to the ground",
-              " You got away, they can't pay you now",
-              " For making your sweet little sound, come on make it, baby",
-              " Making your sweet little sound, let's all do it",
-              " Making your sweet little sound, I can hear it",
-              " Making your sweet little sound"
-            ],
-            [
-              " I remember you well in the Chelsea Hotel",
-              " Then I went to Tennessee",
-              " Sittin' by the creek with Willie Yore",
-              " And Kit Marley  (see above)  came to visit me"
-            ],
-            [
-              " For those were the reasons and that was New York.",
-              " I was running for the money and the flesh",
-              " That was called love for the workers in song",
-              " And it still is for the few of us left."
-            ],
-            [
-              " Oh but you got away, didn't you baby",
-              " You just threw it all to the ground",
-              " You got away on your deepest dream",
-              " Making your sweet little sound on the jukebox",
-              " Making your sweet little sound on transistor radio",
-              " Making your sweet little sound, for the royalties",
-              " Making your sweet little sound, let me follow you",
-              " Making your sweet little song, let me follow you",
-              " Making your sweet little song, don't leave me now",
-              " Making your sweet little song, all the way now",
-              " Giving me head on the unmade bed",
-              " A great surprise lying with you, baby",
-              " Making your sweet little sound."
-            ],
-            [
-              " I remember you well in the Chelsea Hotel",
-              " That was the winter of '67",
-              " My friends of that year, they were trying to go queer",
-              " And me, I was just getting even."
-            ],
-            [
-              " Those were the reasons and that was New York",
-              " I was running for the fucking money and the flesh",
-              " That was called love for the workers in song",
-              " And it still is for the few of us left."
-            ],
-            [
-              " Ah but you got away, didn't you baby",
-              " You just turn your back on the pain",
-              " You got away on your wildest dream",
-              " Racing the midnight train, I can see it",
-              " Racing the midnight train with no clothes on, baby",
-              " See all your (?) torn on the ground",
-              " All of your clothing, no piece to cover you",
-              " Shining your eyes in my deepest corner",
-              " Shining your eyes in my darkest corner",
-              " Racing the midnight train, I can't catch you baby",
-              " Racing the midnight train."
-            ],
-            "(*) Kit Marley was a Rodeo champion who sold Leonard a horse during the late 60's, round Nashville."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "Modified verses, in fact translation of the original verse of d'Astier de la Vigerie \"Effacez mon passage\"",
-            [
-              " I've changed my name so often",
-              " Lost my wife and my children",
-              " Comrades you who know",
-              " You erase all traces of my passage"
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -210,9 +101,15 @@
       "newAnchor": "1:50"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1972-03-18",
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland",
+      "venue": "National Stadium"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "variation_on_chelsea_hotel_2",

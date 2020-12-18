@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1975-01-26 Hamilton",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1975-01-26",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "McMaster University"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

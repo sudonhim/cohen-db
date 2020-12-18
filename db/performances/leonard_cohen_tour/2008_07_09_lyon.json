@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-09 Lyon",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-09",
     "event": "Les Nuits de Fourvière",
@@ -8,9 +12,5 @@
       "country": "France",
       "venue": "Ancient Theatre of Fourvière"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

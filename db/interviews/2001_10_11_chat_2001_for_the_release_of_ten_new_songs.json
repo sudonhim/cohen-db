@@ -1,28 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-10-11 - Chat 2001, for the release of \"Ten New Songs\"",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "2001-10-11"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.first_we_take_manhattan",
-        "content": {
-          "text": [
-            "Answering a fan about the meaning of the song",
-            "Ever succeeding moment changes what has happened the moment before. In the stream of writing, all that is written changes its meanings by what is written subsequently. \"First We Take Manhattan\" might be understood as an examination of the mind of the extremist. In a way it's a better song now (*) than it was before and I would probably sing it in concert if the circumstances were appropriate.",
-            " (*) The Chat took place one month after the terrorist attacks in NYC and Washington D.C."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_first_we_take_manhattan",

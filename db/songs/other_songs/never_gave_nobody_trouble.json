@@ -1,37 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Never Gave Nobody Trouble",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Couldn't pay the mortgage",
-          "And it broke my baby's heart",
-          "I couldn't pay the mortgage",
-          "It broke my baby's heart",
-          "I never gave nobody trouble",
-          "But it ain't too late to start!",
-          "Don't wanna break no window",
-          "Don't wanna burn no car",
-          "Don't wanna break no window",
-          "And I don't wanna burn your car",
-          "You've got a right to all your riches",
-          "But you let it go too far",
-          "You sail the mighty ocean",
-          "On a yacht designed for you",
-          "You sail the mighty ocean",
-          "On a yacht designed for you",
-          "Yeah, but the oceans fig with garbage",
-          "You ain't good on make it through",
-          "I never gave nobody trouble",
-          "I'm a (locked and border) man",
-          "I never gave nobody trouble",
-          "I'm a l)og and order) man",
-          "I said I never gave nobody trouble",
-          "But you know god damn well that I can!"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -115,9 +85,7 @@
       "newAnchor": "20"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

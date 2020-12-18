@@ -1,71 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Samson In New Orleans",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "You said that you were with me",
-          "You said you were my friend",
-          "Did you really love the city",
-          "Or did you just pretend"
-        ],
-        [
-          "You said you loved her secrets",
-          "And her freedoms hid away",
-          "She was better than America",
-          "That’s what I heard you say"
-        ],
-        [
-          "You said how could this happen",
-          "You said how can this be",
-          "The remnant all dishonored",
-          "On the bridge of misery"
-        ],
-        [
-          "And we who cried for mercy",
-          "From the bottom of the pit",
-          "Was our prayer so damn unworthy",
-          "The Son rejected it?"
-        ],
-        [
-          "So gather up the killers",
-          "Get everyone in town",
-          "Stand me by those pillars",
-          "Let me take this temple down"
-        ],
-        [
-          "The king so kind and solemn",
-          "He wears a bloody crown",
-          "So stand me by that column",
-          "Let me take this temple down"
-        ],
-        [
-          "You said how could this happen",
-          "You said how can this be",
-          "The chains are gone from heaven",
-          "The storms are wild and free"
-        ],
-        [
-          "There’s other ways to answer",
-          "That certainly is true",
-          "Me, I’m blind with death and anger",
-          "And that’s no place for you"
-        ],
-        [
-          "There’s a woman in the window",
-          "There's a bed in Tinsel Town",
-          "I’ll write you when it’s over",
-          "Let me take this temple down"
-        ],
-        [
-          "You said you loved her secrets",
-          "Her freedoms hid away",
-          "She was better than America",
-          "That’s what I heard you say"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -191,9 +127,7 @@
       "newAnchor": "34"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

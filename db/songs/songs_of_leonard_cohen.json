@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Songs of Leonard Cohen",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1967-12-27"
   },
@@ -16,9 +20,5 @@
     "song.one_of_us_cannot_be_wrong",
     "song.store_room",
     "song.blessed_is_the_memory"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

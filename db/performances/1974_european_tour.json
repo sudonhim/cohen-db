@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974 European Tour",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1974-09-01"
   },
@@ -19,9 +23,5 @@
     "live.1974_10_07_vienna",
     "live.1974_10_19_paris",
     "live.1974_10_20_paris"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

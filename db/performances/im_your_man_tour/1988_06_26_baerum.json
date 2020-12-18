@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-26 Bærum",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-06-26",
     "event": "Kalvøyafestivalen",
@@ -8,9 +12,5 @@
       "country": "Norway",
       "venue": "Kalvøya"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,30 +1,10 @@
 {
-  "title": "There's no reason why you should",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "No it wasn't any good",
-          "There's no reason that you should",
-          "Remember me",
-          "No it wasn't any good",
-          "There's no reason why you should",
-          "Remember me",
-          "There's no reason why you should",
-          "Remember me",
-          "There's no reason why you should",
-          "Remember me",
-          "There's no reason why you should",
-          "Remember me"
-        ]
-      ]
-    }
-  },
-  "kind": "song",
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "There's no reason why you should",
+  "kind": "song",
+  "annotations": [],
+  "content": {
     "content": {
       "fragments": [
         {

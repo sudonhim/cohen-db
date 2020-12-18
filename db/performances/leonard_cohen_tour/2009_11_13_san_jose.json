@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-11-13 San Jose",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-11-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "HP Pavilion at San Jose"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

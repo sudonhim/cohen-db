@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Old Ideas",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "2012-01-31"
   },
@@ -14,9 +18,5 @@
     "song.banjo",
     "song.lullaby",
     "song.different_sides"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

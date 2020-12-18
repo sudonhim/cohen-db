@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-02-10 New York",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-02-10",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Late Night With David Letterman"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,35 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-11-05 Eppelheim",
-  "metadata": {
-    "date": "1980-11-05",
-    "location": {
-      "city": "Eppelheim",
-      "country": "Germany",
-      "venue": "Rhein-Neckar-Halle"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "There was a street in NYC, called 23d street...(Rumblings from the crowd) I'm sorry, that's what it was called.... and on this street there was a Hotel. Feels quite glamorous when I look back on it......during the time I was ewtremely busy. You know I would go from the automat to the Bronco Burger, from the Bronco Burger to the automat, back to the Hotel, over to the Bronco Burger, over to the automat....it was not an exalted existence. A total dismal drag except for one evening which was illuminated by a particular moment. It was the elevator and riding the elevator through some divine, cosmic, benign mercy, there was a very beautiful young woman in the elevator, the same time as I was. It turned out she was a very great American singer, I didn't know at the time. She wasn't looking for me, and I wasn't looking for her. She was looking for Kris Kristofferson. And I was looking for....Oh I never knew whom I was looking for...Anyhow, through some divine........anyhow, it turned that this young woman was Janis Joplin. I wrote this song for her."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.diamonds_in_the_mine",
-        "content": {
-          "text": [
-            "I'd like to dedicate this next song to the new president of the United States. We wish him well. He's got a hard job. He's got to take care of all of us. (Singing) \"I think I told you all about it.\" (Talking again) Wait a second. That's the wrong song for him. Not so much the wrong song, it's the wrong key. I have to collect my thoughts, I have to aim my mind, what's left of it, toward that gleaming white dome in Washington . Here it goes."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -65,9 +37,15 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1980-11-05",
+    "location": {
+      "city": "Eppelheim",
+      "country": "Germany",
+      "venue": "Rhein-Neckar-Halle"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_chelsea_hotel_2",

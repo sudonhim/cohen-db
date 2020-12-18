@@ -1,36 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-04 - German tour rehearsal",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-04-04"
   },
   "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.aint_no_cure_for_love",
-        "content": {
-          "text": [
-            "sung as an additional verse",
-            [
-              " I have no place else to go",
-              " When the sweetest voice that I ever heard",
-              " Whisper to my soul",
-              " I don't need to be forgiven",
-              " For lovin' you so much",
-              " You see it's written in the Scriptures",
-              " It's written in the...",
-              " There ain't no cure, there ain't no cure, there ain't no cure for love."
-            ]
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "variation_on_aint_no_cure_for_love",

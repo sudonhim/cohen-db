@@ -1,63 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-12-06 London",
-  "metadata": {
-    "date": "1979-12-06",
-    "location": {
-      "city": "London",
-      "country": "England",
-      "venue": "Hammersmith Odeon"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "It was a long time ago (..) I met a young singer a long time ago at the \"Chelsea Hotel\" in NYC. I wrote this song for her after she died. It was Janis Joplin."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.memories",
-        "content": {
-          "text": [
-            "It brings me from the exulted and sublime considerations of these musicians and technicians to an extremely banal experience which I have put into a song frozen like a fly in amber and somewhat less important. But this is a song into which I've placed my most banal adolescent recollections and I think this song will probably live forever. It's called \"Memories.\""
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.passing_through",
-        "content": {
-          "text": [
-            "(sung as additional verse)",
-            [
-              " I had so very much to say to Billie Holiday",
-              " I said, \"Are these songs you sing,",
-              " Are they really true?\"",
-              " She said, \"They're neither false, they're neither true,",
-              " It's just something that I do",
-              " (alternative) I did not expect that question from someone like you",
-              " To show you that I'm only passin'thru.\"",
-              " (alternative) I'm doing my bit to show you that I too am passing through"
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.who_by_fire",
-        "content": {
-          "text": [
-            "There's an old tradition that insists that on a certain day of every year the Book of Life is opened and in it is inscribed those who will live and those who die, who by fire, who by fire, who by water..."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -129,9 +73,15 @@
       "newAnchor": "4:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1979-12-06",
+    "location": {
+      "city": "London",
+      "country": "England",
+      "venue": "Hammersmith Odeon"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "prologue_to_chelsea_hotel_2",

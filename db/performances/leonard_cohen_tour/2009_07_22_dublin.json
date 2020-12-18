@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-07-22 Dublin",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-07-22",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Ireland",
       "venue": "The O2"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

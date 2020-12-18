@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-09-01 Florence",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-09-01",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Italy",
       "venue": "Piazza Santa Croce"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

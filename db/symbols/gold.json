@@ -1,30 +1,10 @@
 {
-  "title": "Gold",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.green"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.gold"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.blue"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.white"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Gold",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_green",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-13 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-13",
     "location": {
@@ -9,40 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "verse variation",
-            [
-              "   ....Well I've seen your walls ( alternative * your fortress) , your towers on the marble arch.",
-              "       But Love is not a victory march...."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_future",
-        "content": {
-          "text": [
-            [
-              "Rendez-moi le mur de Berlin  (Give me back the Berlin Wall)",
-              " Rendez moi Jesus et St Paul  (Give me Jesus and St Paul)",
-              " J'ai vu l'avenir : c'est un massacre !  (It's a slaughter)....."
-            ]
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "variation_on_hallelujah",

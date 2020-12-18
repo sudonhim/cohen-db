@@ -1,33 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-22 Konstanz",
-  "metadata": {
-    "date": "1993-05-22",
-    "event": "Rock am See",
-    "location": {
-      "city": "Konstanz",
-      "country": "Germany",
-      "venue": "Bodenseestadion"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.so_long_marianne",
-        "content": {
-          "text": [
-            "(sung as additional verse by chorists Julie Christensen and Perla Batalla)",
-            [
-              " Here comes the morning boat",
-              " Here comes the evening train",
-              " Here comes Marianna,to wave goodbye again.",
-              " So long Marianne...."
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -47,9 +21,16 @@
       "newAnchor": "1:3"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "metadata": {
+    "date": "1993-05-22",
+    "event": "Rock am See",
+    "location": {
+      "city": "Konstanz",
+      "country": "Germany",
+      "venue": "Bodenseestadion"
+    }
+  },
+  "content": {
     "sectionalContent": [
       {
         "id": "variation_on_so_long_marianne",

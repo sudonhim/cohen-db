@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-03-08 Melbourne",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-03-08",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Australia",
       "venue": "Comedy Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

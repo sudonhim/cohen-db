@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-09-25 Vienna",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-09-25",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Austria",
       "venue": "Wierner Konzerthaus"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

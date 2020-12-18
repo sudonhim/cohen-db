@@ -1,22 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Dance",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.kiss"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dance"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Dance",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_kiss",

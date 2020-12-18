@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-08-24 Zürich",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-08-24",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Switzerland",
       "venue": "Hallenstadion"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

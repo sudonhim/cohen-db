@@ -1,30 +1,13 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-10-01 - Le Figaro - French magazine",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "2001-10-01"
   },
   "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.that_dont_make_it_junk",
-        "content": {
-          "text": [
-            [
-              "About the verse:",
-              "\"I don't trust my inner feelings - Inner feelings come and go.\""
-            ],
-            "I like this verse \"Inner fellings come and go\". Nowadays, the usual wisdom pretends you have to stay close with your inner feelings, as there was on one hand a minor or contingent \"self\" and on the other hand an authentic one. My experience tells that those deep feelings to which we figure we're faithful, are actually as flowing as our superficial feelings. In fact, all our ideas are superficial."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "on_that_dont_make_it_junk",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Symbols",
+  "kind": "group",
+  "annotations": [],
   "children": [
     "symbol.ash",
     "symbol.bed",
@@ -92,9 +96,5 @@
     "symbol.winter",
     "symbol.woman",
     "symbol.wood"
-  ],
-  "kind": "group",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

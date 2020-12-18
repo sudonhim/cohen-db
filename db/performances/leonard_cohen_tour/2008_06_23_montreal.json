@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-06-23 Montreal",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-06-23",
     "event": "Montreal Jazz Festival",
@@ -8,9 +12,5 @@
       "country": "Canada",
       "venue": "Place des Arts"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

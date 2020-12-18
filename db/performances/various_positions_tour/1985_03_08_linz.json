@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-03-08 Linz",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-03-08",
     "location": {
@@ -9,23 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.if_it_be_your_will",
-        "content": {
-          "text": [
-            "This is an old prayer it came to me to rewrite. It's about surrendering."
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "prologue_to_if_it_be_your_will",

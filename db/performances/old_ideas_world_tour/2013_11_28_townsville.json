@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-11-28 Townsville",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-11-28",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Australia",
       "venue": "Entertainment & Convention Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

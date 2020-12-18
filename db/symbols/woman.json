@@ -1,38 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Woman",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.man"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.woman"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.mother"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.daughter"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.holy_ghost"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.thigh"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Woman",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_man",

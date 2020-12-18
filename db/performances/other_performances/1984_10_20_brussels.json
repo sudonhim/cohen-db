@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1984-10-20 Brussels",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1984-10-20",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Belgium",
       "venue": "Paleis voor Schone Kunsten / Palais des Beaux-Arts"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

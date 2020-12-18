@@ -1,42 +1,10 @@
 {
-  "title": "Fire",
-  "kind": "symbol",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.light"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.fire"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.candle"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.tree"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.wood"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.smoke"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.ash"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Fire",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_light",

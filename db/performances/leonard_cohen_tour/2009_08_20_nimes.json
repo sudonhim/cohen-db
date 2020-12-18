@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-08-20 Nîmes",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-08-20",
     "event": "Festival de Nîmes",
@@ -8,9 +12,5 @@
       "country": "France",
       "venue": "Arena of Nîmes"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

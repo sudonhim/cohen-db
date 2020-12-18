@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-05-17 Milan",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-05-17",
     "location": {
@@ -9,32 +13,6 @@
     }
   },
   "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.aint_no_cure_for_love",
-        "content": {
-          "text": [
-            "It doesn't matter wether we found ourselves in the loneliness of separation or the vertigo of union, everyone finally learns there ain't no cure for love..."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.whither_thou_goest",
-        "content": {
-          "text": [
-            "I want to tell you how grateful we all are up here for this extremely warm reception that you've given us tonight. I want to thank you personally, not just for tonight but for all the years that you've shown attention to my songs. I want to thank you for that. There's a few lines that are in the Bible in the Book of Ruth, and it speaks of people parting and people who are always with each other, regardless of where they go. It is those lines: \"Whither thou goest, I will go.....\""
-          ]
-        }
-      }
-    ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
     "sectionalContent": [
       {
         "id": "prologue_to_aint_no_cure_for_love",

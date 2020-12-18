@@ -1,34 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Water",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.water"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.ice"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.snow"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.river"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sea"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Water",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_water",

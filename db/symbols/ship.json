@@ -1,26 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Ship",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.sea"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.seaweed"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.ship"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Ship",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_sea",

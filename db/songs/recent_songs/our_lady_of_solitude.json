@@ -1,44 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Our Lady of Solitude",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "All summer long she touched me",
-          "She gathered in my soul",
-          "From many a thorn, from many thickets",
-          "Her fingers, like a weaver's",
-          "Quick and cool"
-        ],
-        [
-          "And the light came from her body",
-          "And the night went through her grace",
-          "All summer long she touched me",
-          "And I knew her, I knew her",
-          "Face to face"
-        ],
-        [
-          "And her dress was blue and silver",
-          "And her words were few and small",
-          "She is the vessel of the whole wide world",
-          "Mistress, oh mistress, of us all"
-        ],
-        [
-          "Dearly dead; Queen of Solitude",
-          "I thank you with my heart",
-          "for keeping me so close to thee",
-          "while so many, oh so many, stood apart"
-        ],
-        [
-          "And the light came from her body",
-          "And the night went through her grace",
-          "All summer long she touched me",
-          "I knew her, I knew her",
-          "Face to face"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -122,9 +85,7 @@
       "newAnchor": "16"
     }
   ],
-  "user": "sudonhim",
-  "version": 0,
-  "newContent": {
+  "content": {
     "content": {
       "fragments": [
         {

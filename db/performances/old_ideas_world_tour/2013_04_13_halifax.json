@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-04-13 Halifax",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-04-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Halifax Metro Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-09-15 Zaragoza",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-09-15",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Príncipe Felipe Arena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

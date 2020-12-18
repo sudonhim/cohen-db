@@ -1,38 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Man",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.man"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.woman"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.father"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.son"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.prophet"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.stranger"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Man",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_man",

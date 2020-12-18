@@ -1,14 +1,14 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-07-17 Nice",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-07-17",
     "location": {
       "city": "Nice",
       "country": "France"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,26 +1,10 @@
 {
-  "kind": "symbol",
-  "title": "Sleep",
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "symbol.night"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.sleep"
-      },
-      {
-        "kind": "note",
-        "reference": "symbol.dream"
-      }
-    ]
-  },
-  "annotations": [],
   "user": "sudonhim",
   "version": 0,
-  "newContent": {
+  "title": "Sleep",
+  "kind": "symbol",
+  "annotations": [],
+  "content": {
     "sectionalContent": [
       {
         "id": "on_night",

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2012-12-13 Kingston",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2012-12-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "K-Rock Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }
