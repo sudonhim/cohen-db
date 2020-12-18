@@ -27,5 +27,59 @@
   "kind": "live",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "variation_on_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "verse variation"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " \"..told me once again you'd prefer younger men..\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

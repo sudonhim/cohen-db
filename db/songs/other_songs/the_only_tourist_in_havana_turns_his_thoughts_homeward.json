@@ -107,5 +107,602 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Come, my brothers,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us govern Canada,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us find our serious heads,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us dump asbestos on the White House,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us make the French talk English,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "not only here but everywhere,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us torture the Senate individually"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "until they confess,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us purge the New Party,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us encourage the dark races"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "so they'll be lenient"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "when they take over,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us make the CBC talk English,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us all lean in one direction"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "and float down"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "to the coast of Florida,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us have tourism,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us flirt with the enemy,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us smelt pig-iron in our back yards,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us sell snow"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "to under-developed nations,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(It is true one of our national leaders"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "was a Roman Catholic?)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us terrorize Alaska,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us unite"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Church and State,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us not take it lying down,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us have two Governor Generals"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "at the same time,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us have another official language,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us determine what it will be,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "32",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us give a Canada Council Fellowship"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "33",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "to the most original suggestion,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "34",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us teach sex in the home"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "35",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "to parents,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "36",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us threaten to join the U.S.A."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "37",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "and pull out at the last moment,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "38",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "my brothers, come,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "39",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "our serious heads are waiting for us somewhere"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "40",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "like Gladstone bags abandoned"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "41",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "after a coup d'état,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "42",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us put them on very quickly,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "43",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "let us maintain a stony silence"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "44",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "on the St. Lawrence Seaway."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "45",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "-Havana, April, 1961"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

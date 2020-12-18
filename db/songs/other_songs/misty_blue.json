@@ -90,5 +90,312 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh, but it's been such a long, long time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thought I'd got you off my mind"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Looks like I can't, just the thought of you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Turns my whole world a misty blue"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Just the mention of your name"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Fans the flicker to a flame"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I can't forget the things we used to do"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "My whole world turns misty blue"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know I should forget you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I really should"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And heaven knows that I tried"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But when I told you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When I said that we were through"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Deep in my heart I lied"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Baby, oh what a long, long time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thought I'd get you off my mind"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh but I can't, just the thought of you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Turns my world misty blue"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the very mention of your name"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Fans the flicker to a flame"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I think of things we used to do"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "My whole world turns misty blue"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

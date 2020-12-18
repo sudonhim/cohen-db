@@ -117,5 +117,464 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "They sentenced me to twenty years of boredom"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "For trying to change the system from within"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'm coming now, I'm coming to reward them"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "First we take Manhattan, then we take Berlin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'm guided by a signal in the heavens (guided, guided)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'm guided by this birthmark on my skin (guided, guided by)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'm guided by the beauty of our weapons (guided)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "First we take Manhattan, then we take Berlin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I'd really like to live beside you, baby)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I love your body and your spirit and your clothes)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(But you see that line there moving through the station?)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I told you, I told you, told you, I was one of those)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah, you loved me as a loser"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But now you're worried that I just might win"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know the way to stop me, but you don't have the discipline"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "How many nights I prayed for this, to let my work begin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "First we take Manhattan, then we take Berlin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't like your fashion business, mister"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I don't like these drugs that keep you thin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't like what happened to my sister"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "First we take Manhattan, then we take Berlin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I'd really like to live beside you, baby)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I love your body and your spirit and your clothes)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(But you see that line there moving through the station?)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I told you, I told you, told you, I was one of those)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I thank you for those items that you sent me, ha ha ha"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The monkey and the plywood violin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I practiced every night, now I'm ready"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "First we take Manhattan, then we take Berlin (I am guided)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah remember me, I used to live for music (baby)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Remember me, I brought your groceries in (ooh, baby, yeah)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "32",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, it's Father's Day and everybody's wounded (baby)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "33",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "First we take Manhattan, then we take Berlin"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

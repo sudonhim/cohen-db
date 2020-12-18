@@ -96,5 +96,690 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When it all went down"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the pain came through"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I get it now"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Don't ask me how"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I know it's true"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I get it now"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I make my plans"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Like I always do"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But when I look back"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I walk the streets"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Like I used to do"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I freeze with fear"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But I'm there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I see my life"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In full review"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was never me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was always you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You sent me here"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You sent me there"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Breaking things"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I can't repair"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Making objects"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Out of thoughts"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Making more"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "By thinking not"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Eating food"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And drinking wine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A body that"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "32",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I thought was mine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "33",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Dressed as Arab"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "34",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Dressed as Jew"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "35",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "O mask of iron"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "36",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "37",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Moods of glory"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "38",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Moods so foul"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "39",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The world comes through"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "40",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A bloody towel"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "41",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And death is old"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "42",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But it's always new"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "43",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I freeze with fear"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "44",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I'm there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "45",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I see it clear"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "46",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I always knew"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "47",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was never me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "48",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "49",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was there for you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "50",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "My darling one"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "51",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And by your law"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "52",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It all was done"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

@@ -24,5 +24,46 @@
   "kind": "live",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_if_it_be_your_will",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.if_it_be_your_will"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is an old prayer it came to me to rewrite. It's about surrendering."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

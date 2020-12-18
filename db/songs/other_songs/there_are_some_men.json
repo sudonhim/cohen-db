@@ -126,5 +126,257 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "There are some men"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "who should have mountains"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "to bear their names to time."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Grave-markers are not high enough"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "or green,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "and sons go far away"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "to lose the fist"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "their father's hand will always seem."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I had a friend:"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "he lived and died in mighty silence"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "and with dignity,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "left no book, son, or lover to mourn."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Nor is this a mourning-song"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "but only a naming of this mountain"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "on which I walk,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "fragrant, dark, and softly white"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "under the pale of mist."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I name this mountain after him."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

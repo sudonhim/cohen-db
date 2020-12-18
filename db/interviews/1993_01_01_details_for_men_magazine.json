@@ -57,5 +57,133 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "That was written with Janis Joplin in mind. A couple of years after she died I was in a Polynesian restaurant in Miami and the thought of her was very strong. I started writing that lyric and finished it in a town in the north of Ethiopia. I went there after the Yom Kippur War for some odd reason, and I ended up in the Imperial Hotel finishing that song, getting the last chorus: \"I need you, I don't need you, and all that jiving around.\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_famous_blue_raincoat",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.famous_blue_raincoat"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's one of the better tunes I've written"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " but lyrically it's too mysterious, too unclear."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_famous_blue_raincoat",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.famous_blue_raincoat"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "That was written on Clinton Street. I never felt I really sealed that song; I never felt the carpentry was finished. That song and \"Bird on the Wire\" were two songs I never successfully finished, but they were good enough to be used. Also, with the poverty of songs I have for each record, I can't afford to discard one as good as that. It's one of the better tunes I've written, but lyrically it's too mysterious, too unclear."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

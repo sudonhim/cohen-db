@@ -46,5 +46,46 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_suzanne",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.suzanne"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Suzanne was a composite of a number of women that I know but the actual Suzanne did take me down to her place near the river and did serve me a kind of tea called 'Constant Comment' that had oranges, a little piece of orange skin, in it. So a lot of it was reportage, and that young woman is still alive, yes of course. She has kind of pissed off at me because she felt I should have cut her in on the profits. Interviewer: Oh she wanted to share in your royalties? Yes, more or less, but the song was stolen from me anyway. I lost the rights of the song myself."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

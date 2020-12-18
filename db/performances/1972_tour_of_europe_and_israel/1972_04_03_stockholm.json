@@ -114,5 +114,294 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_famous_blue_raincoat",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.famous_blue_raincoat"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's a common place to say it today but it's a song that was written for two people,for a woman and a man and especially for a woman whom i had to share with another man.But you know it's true when they say that there won't be free men until there are free women."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_seems_so_long_ago_nancy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.seems_so_long_ago_nancy"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "(verse variations)"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The morning had not come, Nancy was still alone, but with a forty-five beside her head, an open telephone We told her she was beautiful, we told her she was free, but none of us could meet her in the house of mystery, the house of mystery"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_so_long_marianne",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.so_long_marianne"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "additional stanza"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Oh Tonight,I know I'm gonna forget tonight"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "  alternate for this first verse (Frankfurt April 6th, 1972)"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Ah your eyes, oh how could I forget your eyes"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But your body's at home in every sea"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " How come you give away your news to everyone"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I thought you said it was a secret just for me."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_story_of_isaac",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.story_of_isaac"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I sing this song for the butchers and the victims."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_joan_of_arc",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.joan_of_arc"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A song that I wrote for a brave woman"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

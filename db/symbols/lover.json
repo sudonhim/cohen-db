@@ -19,5 +19,69 @@
   },
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_master",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.master"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_slave",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.slave"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_lover",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.lover"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      }
+    ]
+  }
 }

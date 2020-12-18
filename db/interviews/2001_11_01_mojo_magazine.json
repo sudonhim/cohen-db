@@ -30,5 +30,115 @@
   "kind": "interview",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_boogie_street",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.boogie_street"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "About the verse \"It is in love that we are made, in love we disappear\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "That's just a journalistic reportage of the process. We are made in love and in love we disappear. But that love is not the romantic love, it's the impersonal, benign activity that governs creation and destruction."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_suzanne",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.suzanne"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "About the relation between John Simon (producer of the album \"Songs Of L. Cohen\") and Leonard"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "We did have a falling out over the song Suzanne. He wanted a heavy piano syncopated and maybe drums and I didn't want drums on any of my songs, so that was a bone of contention. Also, he was ready to substitute this heavy chordal structure under the song to give it forward movement and I didn't like that."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

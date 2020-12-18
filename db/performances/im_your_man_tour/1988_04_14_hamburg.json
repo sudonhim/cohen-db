@@ -95,5 +95,227 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "There was this Hotel in NYC, where I used to stay in my wild youth. Sometimes I stay there in my wild middleage. It was a wonderful place you know, you could come up to the reception desk there with three naked women a bear and a midget and they wouldn't even raise an eyebrow, just hand you your key and say, \"Good night Sir\". And in the elevator....the elevator was the source of my social life there. I used to meet people in the elevator there. I met a distinguished singer, a woman, in the elevator. I used to see her every night there, a very famous singer. I was a famous singer myself. But...I used to see her in that elevator, she was always alone, you know..I said \"Are you looking for someone?\". She said \"Yes\" - I said \"Who ?\" - She said \"Kris Kristofferson\" - I said \"I'm Kris Kristofferson !\" - She said \"No he's a lot taller than you,isn't he?\" - It's true. Anyway,the young woman was Janis Joplin and I wrote this song for her."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_everybody_knows",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.everybody_knows"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "sung verse variation"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Everybody knows that the Jews are clever"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Everybody knows that the Blacks are blue"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Everybody knows that you live forever"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When you've done a line or two"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Everybody knows the deal is rotten:"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Old Black Joe's still picking cotton"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " For your ribbons and bows."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Everybody knows."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_first_we_take_manhattan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.first_we_take_manhattan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Yeah, these are new songs, huh? Maybe lots of people think I didn't write anything after \"Suzanne.\" But I wrote one or two songs after \"Suzanne.\" Here's a song I wrote 20 years after \"Suzanne.\" I had been driven over   the edge and I had decided to take matters into my own hand. This is a geopolitical plan. People have asked me what it means. It means exactly what it says."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

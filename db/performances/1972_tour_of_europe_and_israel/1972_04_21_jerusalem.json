@@ -51,5 +51,46 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I wrote this song a long time ago, under the most prosaic circumstances.   I noticed outside of my window that there was a wire directed by the telephone company. On that wire, there was a bird... (singing).....Like a bird\"....... (applause) .... (stops playing). I really enjoy your recognizing  the song but I'm scared enough as it is up here. I think something's wrong every time you begin to applaude. So, if you do recognize the song, will you just wave your hand? I would really like to see you all wave your hands if you recognize the song. I hope you bear with me. These songs are kind of,  they become meditations for me and sometimes I just don't get high on it and I feel that I'm cheating you. So I'll try it again, okay? And if it doesn't work, I'll stop in the middle. There is no reason why we should mutilate a song just to save face. But here it goes..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

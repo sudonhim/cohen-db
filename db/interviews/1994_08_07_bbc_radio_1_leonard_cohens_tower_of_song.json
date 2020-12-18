@@ -116,5 +116,172 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I named Janis Joplin in that song. I don't know when it started, but "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I connected her name with the song, and I've been feeling very bad about "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " that ever since. It's an indiscretion for which I'm very sorry. And if "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " there is some way of apologizing to a ghost, I want to apologize now for "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " having committed that indiscretion."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_famous_blue_raincoat",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.famous_blue_raincoat"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "The trouble with that song is that I've forgotten the actual triangle. Whether it was my own...of course.I always felt that there was an invisible male seducing the woman I was with, now whether this one was incarnate or merely imaginary I don't remember, I've always had the sense that either I've been that figure in relation to another couple or there'd been a figure like that in relation to my marriage. I don't quite remember but I did have this feeling that there was always a third party, sometimes me, sometimes another man, sometimes another woman. It was a song I've never been satisfied with. It's not that I've resisted an impressionistic approach to songwriting, but I've never felt that this one, that I really nailed the lyric. I'm ready to concede something to the mystery, but secretly I've always felt that there was something about the song that was unclear. So I've been very happy with some of the imagery, but a lot of the imagery...   The tune I think is good, I remember my mother approving of it, I remember playing the tune for her, in her kitchen, and her perking up her ears while she was doing something else and saying \"that's a nice tune\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_suzanne",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.suzanne"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "The song was begun, and the chord pattern was developed, before a woman's name entered the song. And I knew it was a song about Montreal, it seemed to come out of that landscape that I loved very much in Montreal, which was the harbour, and the waterfront, and the sailors' church there, called Notre-Dame-de-Bon-Secours ,which stood out over the river, and I knew that there were ships going by, I knew that there was a harbour, I knew that there was Our Lady of the Harbour, which was the Virgin on the church which stretched out her arms towards the seamen, and you can climb up to the tower and look out over the river, so the song came from that vision, from that view of the river. At a certain point, I bumped into Suzanne Vaillancourt, who was the wife of a friend of mine; they were a stunning couple around Montreal at the time, physically stunning, both of them; a handsome man and woman; everyone was in love with Suzanne Vaillancourt, and every woman was in love with Armand Vaillancourt. But there was no... well, there was thought, but there was no possibility, one would not allow oneself to think of toiling at the seduction of Armand Vaillancourt's wife. First of all he was a friend, and second of all as a couple they were inviolate, you just didn't intrude into that kind of shared glory that they manifested. I bumped into her one evening, and she invited me down to her place near the river. She had a loft, at a time when lofts were... the word wasn't used. She had a space in a warehouse down there, and she invited me down, and I went with her, and she served me Constant Comment tea, which has little bits of oranges in it. And the boats were going by, and I touched her perfect body with my mind, because there was no other opportunity. There was no other way that you could touch her perfect body under those circumstances. So she provided the name in the song."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

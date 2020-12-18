@@ -15,5 +15,49 @@
   },
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_kiss",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.kiss"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_dance",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dance"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      }
+    ]
+  }
 }

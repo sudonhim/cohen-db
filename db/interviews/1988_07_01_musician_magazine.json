@@ -36,5 +36,46 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "There's a lot of songs that lose their meaning, you forget. I'm finding that out now, rehearsing the band. There are some songs I just can't get behind. Some are surprising me, songs I really thought I could sing, like \"Bird On a Wire.\" I'm not sure it's necessary to say, \"I swear by this song and by all I've done wrong that I will make it all up to thee.\" Either I've done that, or there's no point in making that promise again if I haven't. It's very hard to get behind certain lines"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

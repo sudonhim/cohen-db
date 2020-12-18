@@ -6,8 +6,12 @@ import slugify from "slugify";
 
 const schemas = fs
   .readdirSync("./schema")
+  .filter(name => name !== 'new')
   .map(name => require(`../schema/${name}`));
-const ajv = new Ajv({ schemas });
+const newSchemas = fs
+  .readdirSync("./schema/new")
+  .map(name => require(`../schema/new/${name}`));
+const ajv = new Ajv({ schemas: [...schemas, ...newSchemas] });
 const validator = ajv.getSchema("canon-file.json");
 
 export function EnsureValid(doc: CanonFile) {

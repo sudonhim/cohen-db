@@ -28,5 +28,83 @@
   "kind": "interview",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_always",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.always"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "The song by Irving Berlin was originally in 3/4 time, and I turned it into a 4/4 song, and I always loved it. It's very beautifully constructed as a song, and I think the lyric is very touching. So, I went in there with Steve Lindsey, a producer, and some really excellent musicians, and we prepared a drink that I had invented called the \"Red Needle\". It's basically, Tequila, Cranberry juice, and lime, and some other elements. And after I had distributed this drink, and people had sampled it, we produced this track."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_dance_me_to_the_end_of_love",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.dance_me_to_the_end_of_love"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "That's a song I worked on for a while. And I thought I'd really nailed it when I finally recorded it. But well that was part of an album called \"Various Positions\" which wasn't even issued in this country. Columbia at the time neglected to inform me that they weren't going to put the record out. And it was put out on a tiny label. But I like the song very much and nobody ever mentioned it for about ten or fifteen years. And then recently a book has been put out accompanied by Matisse's drawings, and it's been in the soundtrack of several movies and people seem to have discovered it. That's always agreeable when that happens."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

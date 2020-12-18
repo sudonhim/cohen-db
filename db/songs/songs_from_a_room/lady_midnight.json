@@ -4,122 +4,344 @@
     "content": {
       "text": [
         [
-          "I came by myself to a very crowded place;\r",
-          "I was looking for someone who had lines in her face.\r",
-          "I found her there but she was past all concern;\r",
-          "I asked her to hold me, I said, \"Lady, unfold me,\"\r",
-          "But she scorned me and she told me\r",
-          "I was dead and I could never return.",
-          "\r",
-          "Well, I argued all night like so many have before,\r",
-          "Saying, \"Whatever you give me, I seem to need so much more.\"\r",
-          "Then she pointed at me where I kneeled on her floor,\r",
-          "She said, \"Don't try to use me or slyly refuse me,\r",
-          "Just win me or lose me,\r",
-          "It is this that the darkness is for.\"",
-          "\r",
-          "I cried, \"Oh, Lady Midnight, I fear that you grow old,\r",
-          "The stars eat your body and the wind makes you cold.\"\r",
-          "\"If we cry now,\" she said, \"it will just be ignored.\"\r",
-          "So I walked through the morning, sweet early morning,\r",
-          "I could hear my lady calling,\r",
-          "\"You've won me, you've won me, my lord,\r",
-          "You've won me, you've won me, my lord,\r",
-          "Yes, you've won me, you've won me, my lord,",
-          "\r",
-          "Ah, you've won me, you've won me, my lord,\r",
+          "I came by myself to a very crowded place;",
+          "I was looking for someone who had lines in her face.",
+          "I found her there but she was past all concern;",
+          "I asked her to hold me, I said, \"Lady, unfold me,\"",
+          "But she scorned me and she told me",
+          "I was dead and I could never return."
+        ],
+        [
+          "Well, I argued all night like so many have before,",
+          "Saying, \"Whatever you give me, I seem to need so much more.\"",
+          "Then she pointed at me where I kneeled on her floor,",
+          "She said, \"Don't try to use me or slyly refuse me,",
+          "Just win me or lose me,",
+          "It is this that the darkness is for.\""
+        ],
+        [
+          "I cried, \"Oh, Lady Midnight, I fear that you grow old,",
+          "The stars eat your body and the wind makes you cold.\"",
+          "\"If we cry now,\" she said, \"it will just be ignored.\"",
+          "So I walked through the morning, sweet early morning,",
+          "I could hear my lady calling,",
+          "\"You've won me, you've won me, my lord,",
+          "You've won me, you've won me, my lord,",
+          "Yes, you've won me, you've won me, my lord,"
+        ],
+        [
+          "Ah, you've won me, you've won me, my lord,",
           "Ah, you've won me, you've won me, my lord.\""
         ]
       ]
     }
   },
   "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p1.l8",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "8"
-    },
-    {
-      "anchor": "p1.l13",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "13"
-    },
-    {
-      "anchor": "p1.l16",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.cold"
-            }
-          ],
-          "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.wind"
-            }
-          ],
-          "id": "2"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.star"
-            }
-          ],
-          "id": "3"
-        }
-      ],
-      "newAnchor": "16"
-    },
-    {
-      "anchor": "p1.l18",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sweetness"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "18"
-    }
-  ],
+  "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I came by myself to a very crowded place;"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was looking for someone who had lines in her face."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I found her there but she was past all concern;"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I asked her to hold me, I said, \"Lady, unfold me,\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But she scorned me and she told me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was dead and I could never return."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, I argued all night like so many have before,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Saying, \"Whatever you give me, I seem to need so much more.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Then she pointed at me where I kneeled on her floor,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She said, \"Don't try to use me or slyly refuse me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Just win me or lose me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It is this that the darkness is for.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I cried, \"Oh, Lady Midnight, I fear that you grow old,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The stars eat your body and the wind makes you cold.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"If we cry now,\" she said, \"it will just be ignored.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So I walked through the morning, sweet early morning,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I could hear my lady calling,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"You've won me, you've won me, my lord,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You've won me, you've won me, my lord,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes, you've won me, you've won me, my lord,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah, you've won me, you've won me, my lord,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah, you've won me, you've won me, my lord.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

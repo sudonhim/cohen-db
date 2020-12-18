@@ -28,7 +28,7 @@
             "$ref": "content.json"
         },
         "newContent": {
-            "$ref": "new/contentNew.json"
+            "$ref": "contentNew.json"
         },
         "annotations": {
             "$ref": "annotations.json"

@@ -138,7 +138,11 @@ export interface Variation {
  * The content of a document, which is either a single canonical text part, or a sequence of complex parts
  */
 export interface ContentNew {
-  content: SectionalContent[] | MainContent;
+  /**
+   * The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.
+   */
+  sectionalContent?: SectionalContent[];
+  content?: MainContent;
 }
 /**
  * A piece of content in a multipart document

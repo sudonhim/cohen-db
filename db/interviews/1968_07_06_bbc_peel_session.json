@@ -20,5 +20,62 @@
   "kind": "interview",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_one_of_us_cannot_be_wrong",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.one_of_us_cannot_be_wrong"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I'd like to close with a song called \"One Of Us Cannot Be Wrong\" in which I feature the playing of my hands. I play hands at a crucial point in the song. When I leave, when my hands leave the guitar, don't become alarmed, they just about to journey to my mouth where I will begin to play hands. Just 'cause you see my hands leave the guitar there's no reason to become alarmed, throw yourself into a despair or anything ... It will happen at a certain point and I'm just trying to warn you because I know I didn't warned up, I was just playing for a friend once and my hands left the guitar and he's in a catatonic state, he has not been able to move since... It ruined his life. You know, if all of you would sit here until the place is taken over by the technicians or students or something, it would just be terrible."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Note that Leonard mean by \"playing hands\" the moment when he whistle with his two hands close to his mouth after the last verse of \"One Of Us Cannot Be Wrong\" sung live (he madly shouted on the Studio version)."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

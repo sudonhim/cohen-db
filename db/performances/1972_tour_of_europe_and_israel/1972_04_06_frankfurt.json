@@ -236,5 +236,677 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "variation_on_avalanche",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.avalanche"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Modified verses"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "First Stanza"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You who wish to conquer pain"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You must learn what makes me well"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "last stanza"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is your turn beloved"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is your flesh that I wear"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is your world beloved"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is your flesh that I wear"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "10",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is your song beloved"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "11",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is your flesh that I wear"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_seems_so_long_ago_nancy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.seems_so_long_ago_nancy"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song for a girl named Nancy who was a real girl, who went into the bathroom of her father's house, took her brother's shotgun and blew her head off. Age of 21. Maybe this is an arrogant thing to say, but maybe she did it because there weren't enough people saying what I've been saying."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_sisters_of_mercy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.sisters_of_mercy"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I'd like you to come back tomorrow when you've sobered up, you know. Apparently, you believe that it is a mark of intoxication to want to make love to people you find attractive."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Murmurs in the audience"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Pardon ?"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Audience member, \"We came here to see you sing, not to watch you make love.\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I came here to make love. No really I want to ask you seriously. Would you rather hear me sing, or make love ?Audience, \"Make love !\"Okay, make love then. I'm not the mad one you know. And I've taken nothing, you know. Just a little Mandrax and a little wine. And a little acid. I mean I know where I am. I know that when I come into a place like this, I come here to make love, I come here to feel other people; the possibility of them making love. I'm sorry, that's the way it is with me. I started to sing with an idea that my songs could bring people into that. We live in cities, we pass thousands of strangers every day. The only way that cities will ever be redeemed, is if people can approach each other on the street with the sole and singular purpose of making love. I would say another thing : all the programs of ecology, all the programs of slum clearance, all the programs of aid to the poor and the correction of poverty will not take place, will fail, until we understand the purpose why we have gathered in these vast numbers, in places on this planet. The reason we have gathered together in these dense masse and city after city in sort that we can explode all notion of what love is, and forget the singing! Forget the concert! Forget the structure! Forget the whole thing ! (interrupted by the audience) If you listen to me sing and you can't listen to me talk, what you are hearing is a lie."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_story_of_isaac",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.story_of_isaac"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song I wrote to the people who feel it is within their right to sacrifice the young for some purpose which they conceive to be holy or just. It's a song for them, and it's also a song for those who would enlist my aid in defeating those men. Because I don't want to join any program. I don't want to write my name at the end of any manifestion..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I don't expect the system to dissolve under the assault of this song.."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Just after the last stanza, the following improvisation is spoken…:"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I don't know ... I think the shadows have a long life. I think you may marry and beget children and die in these same shadows. They're tearing down the most beautiful parts of Frankfurt even today and building buildings -- shadow buildings. You will live in them. They tell me that you were heavily into drugs last year but that now you're kind of quietened down, buying farms in the country. Well I hope you like it there with the animals…"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Singing again…"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Ah the wind the wind is blowing"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Through these graves the wind is blowing"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Freedom soon will come"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Then we'll come from the shadows."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " How sad it is to sing a song of resistance - a revolutionary song - people have paid for tickets - for a singer who is paid to sing the songs - for musicians who are paid to play with me. But I wanna tell you something about us, I mean the players, I mean the musicians on the stage. It's gone a long way beyond that. Gone a long way beyond the wage. Gone a long way beyond the people with salaries. OK so we're spies in the board room -- we're traitors in the cupboard. Whatever goes down with money between us is a very tiny part of what is happening with people I play with on the stage. I don't expect the system to dissolve under the assault of this song. This song means nothing now. I can only tell you between us - the players on the stage - all that has already been sorted out. And that's the only strength that I have and that's the only way I can sing this song and not feel totally disgraced. I don't know how you're going to work it out among yourselves."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Singing again…"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "10",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Ah the wind the wind is blowing"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "11",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Through these graves the wind is blowing"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "12",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Freedom soon will come"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "13",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Then we'll come from the shadows."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "14",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "We sleep with each other and we play music with each other. We haven't tried to establish the theory. We have no dogmatic program. We just sleep with each other and we just play music with each other and that seems to put it in the right place. I don't know how you're gonna work it out."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "15",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "  Ah the wind the wind is blowing"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "16",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Through these graves the wind is blowing"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "17",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Freedom soon will come"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "18",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Then we'll come from the shadows"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "19",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I mean the shadows"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -4,102 +4,353 @@
     "content": {
       "text": [
         [
-          "I left a woman waiting\r",
-          "I met her sometime later\r",
-          "She said, I see your eyes are dead\r",
-          "What happened to you, lover?\r",
-          "What happened to you, my lover?\r",
-          "What happened to you, lover?\r",
-          "What happened to you?",
-          "\r",
-          "And since she spoke the truth to me\r",
-          "I tried to answer truthfully\r",
-          "Whatever happened to my eyes\r",
-          "Happened to your beauty\r",
-          "Happened to your beauty\r",
-          "What happened to your beauty\r",
-          "Happened to me",
-          "\r",
-          "We took ourselves to someone's bed\r",
-          "And there we fell together\r",
-          "Quick as dogs and truly dead were we\r",
-          "And free as running water\r",
-          "Free as running water\r",
-          "Free as running water\r",
-          "Free as you and me\r",
-          "The way it's got to be\r",
+          "I left a woman waiting",
+          "I met her sometime later",
+          "She said, I see your eyes are dead",
+          "What happened to you, lover?",
+          "What happened to you, my lover?",
+          "What happened to you, lover?",
+          "What happened to you?"
+        ],
+        [
+          "And since she spoke the truth to me",
+          "I tried to answer truthfully",
+          "Whatever happened to my eyes",
+          "Happened to your beauty",
+          "Happened to your beauty",
+          "What happened to your beauty",
+          "Happened to me"
+        ],
+        [
+          "We took ourselves to someone's bed",
+          "And there we fell together",
+          "Quick as dogs and truly dead were we",
+          "And free as running water",
+          "Free as running water",
+          "Free as running water",
+          "Free as you and me",
+          "The way it's got to be",
           "The way it's got to be, lover"
         ]
       ]
     }
   },
   "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p1.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "1"
-    },
-    {
-      "anchor": "p1.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "4"
-    },
-    {
-      "anchor": "p1.l17",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.bed"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "17"
-    },
-    {
-      "anchor": "p1.l20",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.water"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "20"
-    }
-  ],
+  "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I left a woman waiting"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I met her sometime later"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She said, I see your eyes are dead"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What happened to you, lover?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What happened to you, my lover?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What happened to you, lover?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What happened to you?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And since she spoke the truth to me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I tried to answer truthfully"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Whatever happened to my eyes"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Happened to your beauty"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Happened to your beauty"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What happened to your beauty"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Happened to me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We took ourselves to someone's bed"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there we fell together"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Quick as dogs and truly dead were we"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And free as running water"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Free as running water"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Free as running water"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Free as you and me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The way it's got to be"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The way it's got to be, lover"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

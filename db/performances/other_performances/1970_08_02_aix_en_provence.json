@@ -42,5 +42,62 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Je voudrais dire une chose sur les rapports entre les Festivals et l'Argent. Quand les Festivals seront vous ils ne seront pas a d'autres.Si vous m'appelez,je serai la deja. Mais une chose...il n'y a pas Une revolution. Quand quelqu'un parle d'une revolution,c'est leur revolution.Laissez la revolution aux proprietaires de la revolution.Ils sont comme tous les autres proprietaires:ils recherchent un profit.Dans le Choeur de la nuit,j'ai cherche ma liberte....like a bird on the wire...."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "  I'd like to say something about the link between money and the festivals. When the Festivals will be yours they will not belong to others.If you call me, I will already be there.But the thing is,there is not a revolution. When others talk about the revolution,it is their revolution.Leave the revolution to the owners of the revolution.They are like any other owners: they're seeking profit.In the Choir of the night,i tried to be free..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

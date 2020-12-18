@@ -23,5 +23,75 @@
   "kind": "interview",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_alexandra_leaving",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.alexandra_leaving"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Answering to a fan, reader of the Cavafy's work : "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I am very sorry that I neglected to cite Constantine P. Cavafy, and his great poem, \"The God Forsakes Anthony\", as the inspiration for my song \"Alexandra Leaving\". Somehow the credit got left out of my liner notes, although I did make the connection clear in many interviews and on Jarkko's site, The Leonard Cohen Files. The work of Cavafy has touched and influenced me for many years. Even as I write this, there is a picture of him above my desk. Please accept my apologies."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Sincerely, L. Cohen."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

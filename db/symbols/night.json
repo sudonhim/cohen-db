@@ -51,5 +51,229 @@
   },
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_day",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.day"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_night",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_light",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.light"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_dark",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dark"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_dusk",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dusk"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_dawn",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dawn"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_sleep",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sleep"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_dream",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dream"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_moon",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.moon"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_star",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.star"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_sky",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sky"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      }
+    ]
+  }
 }

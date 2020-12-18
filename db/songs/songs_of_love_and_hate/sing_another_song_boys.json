@@ -4,37 +4,38 @@
     "content": {
       "text": [
         [
-          "Ah his fingernails, I see they're broken,\r",
-          "his ships they're all on fire.\r",
-          "The moneylender's lovely little daughter\r",
-          "ah, she's eaten, she's eaten with desire.\r",
-          "She spies him through the glasses\r",
-          "from the pawnshops of her wicked father.\r",
-          "She hails him with a microphone\r",
-          "that some poor singer, just like me, had to leave her.\r",
-          "She tempts him with a clarinet,\r",
-          "she waves a Nazi dagger.\r",
-          "She finds him lying in a heap;\r",
-          "she wants to be his woman.\r",
-          "He says, \"Yes, I might go to sleep\r",
-          "but kindly leave, leave the future,\r",
-          "leave it open.\"",
-          "\r",
-          "He stands where it is steep,\r",
-          "oh I guess he thinks that he's the very first one,\r",
-          "his hand upon his leather belt now\r",
-          "like it was the wheel of some big ocean liner.\r",
-          "And she will learn to touch herself so well\r",
-          "as all the sails burn down like paper.\r",
-          "And he has lit the chain\r",
-          "of his famous cigarillo.\r",
-          "Ah, they'll never, they'll never ever reach the moon,\r",
-          "at least not the one that we're after;\r",
-          "it's floating broken on the open sea, look out there, my friends,\r",
-          "and it carries no survivors.\r",
-          "But lets leave these lovers wondering\r",
-          "why they cannot have each other,\r",
-          "and let's sing another song, boys,\r",
+          "Ah his fingernails, I see they're broken,",
+          "his ships they're all on fire.",
+          "The moneylender's lovely little daughter",
+          "ah, she's eaten, she's eaten with desire.",
+          "She spies him through the glasses",
+          "from the pawnshops of her wicked father.",
+          "She hails him with a microphone",
+          "that some poor singer, just like me, had to leave her.",
+          "She tempts him with a clarinet,",
+          "she waves a Nazi dagger.",
+          "She finds him lying in a heap;",
+          "she wants to be his woman.",
+          "He says, \"Yes, I might go to sleep",
+          "but kindly leave, leave the future,",
+          "leave it open.\""
+        ],
+        [
+          "He stands where it is steep,",
+          "oh I guess he thinks that he's the very first one,",
+          "his hand upon his leather belt now",
+          "like it was the wheel of some big ocean liner.",
+          "And she will learn to touch herself so well",
+          "as all the sails burn down like paper.",
+          "And he has lit the chain",
+          "of his famous cigarillo.",
+          "Ah, they'll never, they'll never ever reach the moon,",
+          "at least not the one that we're after;",
+          "it's floating broken on the open sea, look out there, my friends,",
+          "and it carries no survivors.",
+          "But lets leave these lovers wondering",
+          "why they cannot have each other,",
+          "and let's sing another song, boys,",
           "this one has grown old and bitter."
         ]
       ]
@@ -43,113 +44,7 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.ship"
-            }
-          ],
-          "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.fire"
-            }
-          ],
-          "id": "2"
-        }
-      ],
-      "newAnchor": "2"
-    },
-    {
-      "anchor": "p1.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.daughter"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "3"
-    },
-    {
-      "anchor": "p1.l6",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.father"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "6"
-    },
-    {
-      "anchor": "p1.l12",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "12"
-    },
-    {
-      "anchor": "p1.l13",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sleep"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "13"
-    },
-    {
-      "anchor": "p1.l20",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.sea"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "20"
-    },
-    {
-      "anchor": "p1.l25",
+      "anchor": "p2.l9",
       "annotations": [
         {
           "user": "sudonhim",
@@ -160,22 +55,12 @@
             }
           ],
           "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.moon"
-            }
-          ],
-          "id": "2"
         }
       ],
-      "newAnchor": "25"
+      "newAnchor": "24"
     },
     {
-      "anchor": "p1.l26",
+      "anchor": "p2.l10",
       "annotations": [
         {
           "user": "sudonhim",
@@ -188,25 +73,424 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
-    },
-    {
-      "anchor": "p1.l29",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "29"
+      "newAnchor": "25"
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah his fingernails, I see they're broken,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "his ships they're all on fire."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The moneylender's lovely little daughter"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "ah, she's eaten, she's eaten with desire."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She spies him through the glasses"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "from the pawnshops of her wicked father."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She hails him with a microphone"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "that some poor singer, just like me, had to leave her."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She tempts him with a clarinet,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "she waves a Nazi dagger."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She finds him lying in a heap;"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "she wants to be his woman."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He says, \"Yes, I might go to sleep"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "but kindly leave, leave the future,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "leave it open.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He stands where it is steep,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "oh I guess he thinks that he's the very first one,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "his hand upon his leather belt now"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "like it was the wheel of some big ocean liner."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And she will learn to touch herself so well"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "as all the sails burn down like paper."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And he has lit the chain"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "of his famous cigarillo."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah, they'll never, they'll never ever reach the moon,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "at least not the one that we're after;"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "it's floating broken on the open sea, look out there, my friends,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "and it carries no survivors."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But lets leave these lovers wondering"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "why they cannot have each other,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "and let's sing another song, boys,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "this one has grown old and bitter."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

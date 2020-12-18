@@ -115,5 +115,120 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I wrote this next song a while ago, to a very great American singer, who died several years ago. I used to bump into her from time to time, at a Hotel in NY where a lot of musicians used to come. Lot of those musicians are now gone. They say the era is over. They say these are now the times of the conservative, the stable, the order. Well, perhaps that's true. She certainly stood for something that was beyond order and beyond chaos, beyond the radical and beyond the conservative. Which is what every (you know) great singer embodies, something that is not an argument and not a philosophy. Anyhow I wrote this song for her, long time ago. It's dedicated to Janis Joplin. It's called \"Chelsea Hotel\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_memories",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.memories"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "The next song is one of my least significant songs. In it I have placed as though it were data in a tiny time capsule which is fired at a distant star and actually dissolves in the colder reaches of Space, far before its ultimate destination......In this tiny song I have placed all the irrelevant material concerning my extremely dismal adolescence. It is a song called \"Memories\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_stranger_song",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_stranger_song"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a very curious and important moment for the Band and myself. It's our last night in Germany and we are here in some kind of a very center of a series of Chinese boxes, in Germany, the strongest nation in the West, in Bonn, the capital of this gigantic nation. In a room named for your most forceful composer, Beethoven, it seems difficult for this stranger to be at the very center of all this power,and I want to thank you for welcoming me in this mystical center of fire and ice."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

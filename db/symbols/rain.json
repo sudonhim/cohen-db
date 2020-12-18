@@ -23,5 +23,89 @@
   },
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_wind",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.wind"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_rain",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.rain"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_flood",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.flood"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_sky",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sky"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      }
+    ]
+  }
 }

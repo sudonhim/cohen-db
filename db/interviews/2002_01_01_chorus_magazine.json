@@ -63,5 +63,115 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_a_thousand_kisses_deep",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.a_thousand_kisses_deep"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "What is that \"Boogie Street\" evocated in both \"A 1000 kisses deep\" and \"Boogie Street\"?"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's an image to evoke the deception, the \"lost illusions boulevard\", an image of the everyday life, with its tentations, its disillusions. In fact there is actually a \"Boogie Street\" in Singapore. A very attractive street, where you can find illegal records. I remember having been there after a Tour in Australia. I was almost offended not to find my records. I asked the seller and he went back with a box containing the entire collection of my records - what you could never find anywhere else, furthermore at one dollar each record. By night, this same street becomes the hottest one of the area. It's a street of working and sex, and of all the deceptions these activities can bring, deceptions more cruel as you get older, like I do."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "on_boogie_street",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.boogie_street"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "What is that \"Boogie Street\" evocated in both \"A 1000 kisses deep\" and \"Boogie Street\"?"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's an image to evoke the deception, the \"lost illusions boulevard\", an image of the everyday life, with its tentations, its disillusions. In fact there is actually a \"Boogie Street\" in Singapore. A very attractive street, where you can find illegal records. I remember having been there after a Tour in Australia. I was almost offended not to find my records. I asked the seller and he went back with a box containing the entire collection of my records - what you could never find anywhere else, furthermore at one dollar each record. By night, this same street becomes the hottest one of the area. It's a street of working ans sex, and of all the deceptions these activities can bring, deceptions more cruel as you get older, like I do."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

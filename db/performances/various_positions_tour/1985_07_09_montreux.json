@@ -60,5 +60,83 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A long time ago I met a beautiful young woman in an elevator in New York City. I used to bump into her at about three in the morning every night. After a while I gathered my courage and I said to her, \"Are you looking for something?\" And she said, \"Yes, I'm looking for something.\" I knew by the tone of her voice that she wasn't trying to realize some unfulfilled potential of her inner nature, that she was actually looking for something. I said, \"Who or what are you looking for?\" She said, \"Kris Kristofferson.\" I said,     \"I am Kris Kristofferson.\" And I deceived her for many nights. A long time after that, I found myself at a bar in a Polynesian restaurant in Miami Beach, leaning over a napkin and one of those drinks that they serve in a porcelain coconut shell. I was writing a song to this very lady. I was the very image of myself, 40 years old, thin, neglected with a great song on my mind. It took me a while to finish it. It's for Janis Joplin at the Chelsea Hotel."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_hallelujah",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.hallelujah"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song about the broken"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

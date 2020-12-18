@@ -197,5 +197,304 @@
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "prologue_to_aint_no_cure_for_love",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.aint_no_cure_for_love"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "When Jesus was this deity which many of you do not believe in,when He was hangin from a tree,He looked up at the Heavens,and He said \"My Lord My Lord Why Hast Thou Forsaken Me ?\" And then He looked around Him and He understood that a lever had been thrown in the universe and He said \"It is finished\" and then He looked at His feet and He saw the faces of men and women,faces of indifference, resentment,love ecstasy, indifference.... And looking at these human faces, He knew for sure there ain't no cure for Love..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Modified verses (some words are inspired by the cover version of the \"Neville Brothers\")"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Ah Don't cry, don't cry no more"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's over now, it's over Baby"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You see there's nothing left to pray for"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Ah It's over now, don't cry, don't cry no more"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's over, completed, it's finished"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's been paid for, it's been paid for..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Like a bird on the wire, like a drunk in an old midnight choir"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I have tried in my way to be free"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "About a 1,000 years ago I was staying  in this Hotel in NYC. It wasn't a bad Hotel, it wasn't a good Hotel but in the elevator there I begin to bump into  a young woman late at night. After a couple of weeks i gathered my courage and I said to her \"Are you looking for someone?\" She said \"Yes, I'm looking for Kris Kristofferson\" I said \"Lucky Lady, You're in luck, I am Kris Kristofferson\". Such was the generosity of those times. A couple of years later, after this young woman had passed from this vale of tears, I found myself sitting at a Bar in a Polynesian restaurant in Miami Beach. It was a Bar where they served cocktails in ceramic coconut shells.This was a mystery I could not penetrate, because the very trees in Boulevards were lined with coconut trees, bearing true and authentic coconut shells. Why they would choose to serve their drinks in ceramic coconut shells escapes me until this very day.As I say I was sitting at the Bar of this Polynesian restaurant when the presence of this young woman came upon me very strongly. And upon a napkin I began that song, for Janis Joplin at the Chelsea Hotel."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_im_your_man",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "album.im_your_man"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Oh thank you sons and daughters of Iceland. It is a great honour for us to play before you this evening. Even at the begining of your country men were asking the question:\"What does a woman want?\". The only change through millenium has been that now women are asking \"What does a woman want?\" And now even men are asking \"What does a man want?\" Nobody knows what they want. If these thoughts interest you, even for a moment, You are lost. I myself am ready to surrender to the obvious.....I'm ready to do anything to deserve a woman's caress. All I want to say to the one I love is \"I'm your man\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_take_this_waltz",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.take_this_waltz"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Here of all places I don't have to explain how I fell in love with the poet Federico Garcia Lorca. I was 15 years old and I was wandering through the bookstores of Montreal and I fell upon one of his books,and I opened it,and my eyes saw those lines \"I want to pass through the Arches of Elvira,to see her thighs and begin weeping\". I thought \"This is where I want to be\"... I read alone \"Green I want you green \"I turned another page \"The morning through fistfulls of ants in your face\" I turned another page \"Her thighs slipped away like school of silver minnows\". I knew that I have had come home. So it is with a great sense of gratitude that I am able to repay my debt to Federico Garcia, at least a corner, a fragment, a crumb, a hair, an electron of my debt by dedicating this song, this translation of his great poem \"Little Viennese Waltz\", \"Take This Waltz\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

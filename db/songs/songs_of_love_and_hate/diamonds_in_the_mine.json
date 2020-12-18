@@ -4,41 +4,45 @@
     "content": {
       "text": [
         [
-          "The woman in blue, she's asking for revenge\r",
-          "The man in white -- that's you -- says he has no friends\r",
+          "The woman in blue, she's asking for revenge",
+          "The man in white -- that's you -- says he has no friends",
           "The river is swollen up with rusty cans ",
-          "\r",
-          "And the trees are burning in your promised land\r",
-          "And there are no letters in the mailbox\r",
-          "And there are no grapes upon the vine\r",
-          "And there are no chocolates in the boxes anymore\r",
-          "And there are no diamonds in the mine",
-          "\r",
-          "Well, you tell me that your lover has a broken limb\r",
-          "You say you're kind of restless now and it's on account of him\r",
-          "Well, I saw the man in question, it was just the other night\r",
-          "He was eating up a lady where the lions and Christians fight",
-          "\r",
-          "And there are no letters in the mailbox \r",
-          "And there are no grapes upon the vine\r",
-          "And there are no chocolates in the boxes anymore\r",
-          "And there are no diamonds in the mine ",
-          "\r",
-          "(You tell them now) ",
-          "\r",
-          "Ah, there is no comfort in the covens of the witch\r",
-          "Some very clever doctor went and sterilized the bitch\r",
-          "And the only man of energy, yes the revolution's pride\r",
-          "He trained a hundred women just to kill an unborn child",
-          "\r",
-          "And there are no letters in the mailbox\r",
+          "And the trees are burning in your promised land"
+        ],
+        [
+          "And there are no letters in the mailbox",
+          "And there are no grapes upon the vine",
+          "And there are no chocolates in the boxes anymore",
+          "And there are no diamonds in the mine"
+        ],
+        [
+          "Well, you tell me that your lover has a broken limb",
+          "You say you're kind of restless now and it's on account of him",
+          "Well, I saw the man in question, it was just the other night",
+          "He was eating up a lady where the lions and Christians fight"
+        ],
+        [
+          "And there are no letters in the mailbox ",
+          "And there are no grapes upon the vine",
+          "And there are no chocolates in the boxes anymore",
+          "And there are no diamonds in the mine "
+        ],
+        [
+          "Ah, there is no comfort in the covens of the witch",
+          "Some very clever doctor went and sterilized the bitch",
+          "And the only man of energy, yes the revolution's pride",
+          "He trained a hundred women just to kill an unborn child"
+        ],
+        [
+          "And there are no letters in the mailbox",
           "Oh no, there are no, no grapes upon your vine ",
-          "\r",
-          "And there are, there are no chocolates in your boxes anymore\r",
-          "And there are no diamonds in your mine\r",
-          "And there are no letters in the mailbox \r",
-          "And there are no grapes upon the vine \r",
-          "And there are no chocolates in your boxes anymore \r",
+          "And there are, there are no chocolates in your boxes anymore",
+          "And there are no diamonds in your mine"
+        ],
+        [
+          "And there are no letters in the mailbox ",
+          "And there are no grapes upon the vine ",
+          "And there are no chocolates in your boxes anymore ",
           "And there are no diamonds in your mine"
         ]
       ]
@@ -47,123 +51,7 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.blue"
-            }
-          ],
-          "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ],
-          "id": "2"
-        }
-      ],
-      "newAnchor": "1"
-    },
-    {
-      "anchor": "p1.l2",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.white"
-            }
-          ],
-          "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ],
-          "id": "2"
-        }
-      ],
-      "newAnchor": "2"
-    },
-    {
-      "anchor": "p1.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.river"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "3"
-    },
-    {
-      "anchor": "p1.l5",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.tree"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "5"
-    },
-    {
-      "anchor": "p1.l11",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.lover"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "11"
-    },
-    {
-      "anchor": "p1.l13",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "13"
-    },
-    {
-      "anchor": "p1.l17",
+      "anchor": "p2.l2",
       "annotations": [
         {
           "user": "sudonhim",
@@ -176,21 +64,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "newAnchor": "6"
     },
     {
-      "anchor": "p1.l24",
+      "anchor": "p5.l2",
       "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.doctor"
-            }
-          ],
-          "id": "1"
-        },
         {
           "user": "sudonhim",
           "content": [
@@ -202,10 +80,10 @@
           "id": "2"
         }
       ],
-      "newAnchor": "24"
+      "newAnchor": "18"
     },
     {
-      "anchor": "p1.l25",
+      "anchor": "p2.l3",
       "annotations": [
         {
           "user": "sudonhim",
@@ -218,25 +96,400 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
-    },
-    {
-      "anchor": "p1.l26",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.train"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "26"
+      "newAnchor": "19"
     }
   ],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The woman in blue, she's asking for revenge"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The man in white -- that's you -- says he has no friends"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The river is swollen up with rusty cans "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the trees are burning in your promised land"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no letters in the mailbox"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no grapes upon the vine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no chocolates in the boxes anymore"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no diamonds in the mine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, you tell me that your lover has a broken limb"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You say you're kind of restless now and it's on account of him"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, I saw the man in question, it was just the other night"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He was eating up a lady where the lions and Christians fight"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no letters in the mailbox "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no grapes upon the vine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no chocolates in the boxes anymore"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no diamonds in the mine "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah, there is no comfort in the covens of the witch"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Some very clever doctor went and sterilized the bitch"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the only man of energy, yes the revolution's pride"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He trained a hundred women just to kill an unborn child"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no letters in the mailbox"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh no, there are no, no grapes upon your vine "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are, there are no chocolates in your boxes anymore"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no diamonds in your mine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no letters in the mailbox "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no grapes upon the vine "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no chocolates in your boxes anymore "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there are no diamonds in your mine"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

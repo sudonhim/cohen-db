@@ -20,5 +20,62 @@
   "kind": "interview",
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_suzanne",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.suzanne"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Joan Baez, I've heard her sing Suzanne and she completely changes the song. She doesn't like the metaphysical possible ways of somebody having their bodies touched with somebody else's minds. So that offends her anticlerical position. It sounds religious to her. It smacks of something that she doen't embrace. So she changes it around to like \"touched her perfect body with her thumb\" I don't know exactly what it is, but she moves it around that way, but that's okay. It's okay because a song enters the world and it gets changed like everything else. That's okay as long as there are more authentic versions. A good song I think will get changed."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "*  Indeed, on her earlier recordings of Suzanne (live 1971 \"Carry it on\", \"Live In Italy\" 1967, Live \"From Every Stage\" 1975) Joan Baez gave her own version of that verse. It goes like ..\"And he's (she's) touched you, and he's (she's) moved you and he's (she's) kind...\". It was only on her last version (Live \"Ring Them Bells\" 1995) that she sang the original Leonard's verse"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

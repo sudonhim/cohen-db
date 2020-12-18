@@ -35,5 +35,149 @@
   },
   "annotations": [],
   "user": "sudonhim",
-  "version": 0
+  "version": 0,
+  "newContent": {
+    "sectionalContent": [
+      {
+        "id": "on_light",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.light"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_fire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.fire"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_candle",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.candle"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_tree",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.tree"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_wood",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.wood"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_smoke",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.smoke"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      },
+      {
+        "id": "on_ash",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.ash"
+              }
+            }
+          ]
+        },
+        "fragments": []
+      }
+    ]
+  }
 }
