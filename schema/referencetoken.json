@@ -1,0 +1,17 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "referencetoken.json",
+    "title": "ReferenceToken",
+    "description": "A reference to a document, section, or fragment elsewhere in the database",
+    "properties": {
+      "kind": {
+          "enum": ["reference"]
+      },
+      "reference": {
+          "$ref": "reference.json"
+      }
+    },
+    "required": ["kind", "reference"],
+    "additionalProperties": false
+  }
+  

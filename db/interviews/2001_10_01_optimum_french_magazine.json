@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-10-01 - Optimum - French magazine",
-  "metadata": {
-    "date": "2001-10-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.by_the_rivers_dark",
-        "content": {
-          "text": [
-            "This song reports the peregrinations of a character in Babylon. He's part of it, then flees it, comes back to it. He belongs to the City of depravities while he knows there's a Jerusalem somewhere, even if he doesn't figure what's going on there. It's like our thoughts. Our brain is a receptacle for thoughts just as we are for Love. One doesn't really know what's arising in us the next moment. But our nature drives us to think we master these streams, while we master them no more than the location we're born in. We spend too much time thinking we're able to deny, disown our roots and our condition. This story is reflected in the character, except the fact he finally really understood where he comes from.. Even if an Eden exist, he does come from Babylon and has to face this, what will surely enable him to enjoy more the idea of a distant place, necessarily better."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -35,6 +21,49 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "2001-10-01"
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "on_by_the_rivers_dark",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.by_the_rivers_dark"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This song reports the peregrinations of a character in Babylon. He's part of it, then flees it, comes back to it. He belongs to the City of depravities while he knows there's a Jerusalem somewhere, even if he doesn't figure what's going on there. It's like our thoughts. Our brain is a receptacle for thoughts just as we are for Love. One doesn't really know what's arising in us the next moment. But our nature drives us to think we master these streams, while we master them no more than the location we're born in. We spend too much time thinking we're able to deny, disown our roots and our condition. This story is reflected in the character, except the fact he finally really understood where he comes from.. Even if an Eden exist, he does come from Babylon and has to face this, what will surely enable him to enjoy more the idea of a distant place, necessarily better."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

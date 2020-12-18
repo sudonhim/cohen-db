@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1967-05-22 Toronto",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1967-05-22",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Yorkville Village"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

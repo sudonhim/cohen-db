@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Popular Problems",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "2014-09-19"
   },
@@ -13,9 +17,5 @@
     "song.nevermind",
     "song.born_in_chains",
     "song.you_got_me_singing"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

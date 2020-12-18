@@ -1,22 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1994-09-01 - Q Magazine",
-  "metadata": {
-    "date": "1994-09-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.if_it_be_your_will",
-        "content": {
-          "text": [
-            "Which song you wish you had written?   \"If it be Your Will\". And I wrote it.*",
-            "My favorite verse in it is \"All your children here in their rags of light\""
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -36,6 +21,65 @@
       "newAnchor": "1:2"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1994-09-01"
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "on_if_it_be_your_will",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.if_it_be_your_will"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Which song you wish you had written?   \"If it be Your Will\". And I wrote it.*"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "My favorite verse in it is \"All your children here in their rags of light\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

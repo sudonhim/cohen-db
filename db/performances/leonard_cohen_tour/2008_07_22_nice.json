@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-22 Nice",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-22",
     "event": "Nice Jazz",
@@ -8,9 +12,5 @@
       "country": "France",
       "venue": "Place Massena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

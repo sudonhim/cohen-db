@@ -1,27 +1,92 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Room",
   "kind": "symbol",
+  "annotations": [],
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "symbol.room"
+        "id": "on_room",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.room"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.door"
+        "id": "on_door",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.door"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.window"
+        "id": "on_window",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.window"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.bed"
+        "id": "on_bed",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.bed"
+              }
+            }
+          ]
+        },
+        "fragments": []
       }
     ]
-  },
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

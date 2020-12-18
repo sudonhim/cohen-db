@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-04-17 Indio",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-04-17",
     "event": "Coachella Valley Music and Arts Festival",
@@ -8,9 +12,5 @@
       "country": "United States",
       "venue": "Empire Polo Club"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

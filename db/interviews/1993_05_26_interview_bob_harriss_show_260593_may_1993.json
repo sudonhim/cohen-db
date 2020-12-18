@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-26 - Interview \"Bob harriss Show\"   26/05/93 May 1993",
-  "metadata": {
-    "date": "1993-05-26"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.closing_time",
-        "content": {
-          "text": [
-            "Yeah I've been in a lot of places like that; it's a kind of composite of a whole lot of places, and a whole lot of moments just before the lights come on - everybody's busted in the blinding lights of Closing time - just before you return to your civilian life, just before the Tour is over, just before the night's over, just before the girl says \"Well, thanks a lot for the drink. Are we going home now ? \" Well just that moment when you are propelled, catapulted and kind of disintegrated into the whole beautiful dismal experience of not having what you want and having it and (..) begin again and hoping you'll never have to start over."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -45,6 +31,49 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1993-05-26"
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "on_closing_time",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.closing_time"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Yeah I've been in a lot of places like that; it's a kind of composite of a whole lot of places, and a whole lot of moments just before the lights come on - everybody's busted in the blinding lights of Closing time - just before you return to your civilian life, just before the Tour is over, just before the night's over, just before the girl says \"Well, thanks a lot for the drink. Are we going home now ? \" Well just that moment when you are propelled, catapulted and kind of disintegrated into the whole beautiful dismal experience of not having what you want and having it and (..) begin again and hoping you'll never have to start over."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

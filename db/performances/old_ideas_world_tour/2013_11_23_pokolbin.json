@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-11-23 Pokolbin",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-11-23",
     "event": "A Day On The Green",
@@ -8,9 +12,5 @@
       "country": "Australia",
       "venue": "Bimbadgen Estate Winery"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

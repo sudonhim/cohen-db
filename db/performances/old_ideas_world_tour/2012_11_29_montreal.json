@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2012-11-29 Montreal",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2012-11-29",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Bell Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

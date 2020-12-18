@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Dear Heather",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "2004-10-26"
   },
@@ -17,9 +21,5 @@
     "song.to_a_teacher",
     "song.the_faith",
     "song.tennessee_waltz"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

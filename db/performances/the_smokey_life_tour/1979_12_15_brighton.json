@@ -1,49 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-12-15 Brighton",
-  "metadata": {
-    "date": "1979-12-15",
-    "location": {
-      "city": "Brighton",
-      "country": "England",
-      "venue": "Brighton Dome"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.blues_by_the_jews",
-        "content": {
-          "text": [
-            "This is a curious song that I wrote three or four years...no it must be about a thousand years ago, but I haven't learned the words yet. I wrote it on the road, it's kind of irreverent, but you're not very religious in this part of the country anyway, so I doubt if it would offend anybody. Anyway, this is the \"Blues by the Jews\", here it is..."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.leaving_green_sleeves",
-        "content": {
-          "text": [
-            "Someone in the audience asks him to sing \"Leaving Green Sleeves\"",
-            "\"Greensleeves\" ? Oh I haven't sung that for about 300 years. I used to sing that when I was a troubadour in the south of France. My name was Artaud. I used to walk on those dusty roads singing Greensleeves. I haven't sung that for a long time. Please also don't ask me for \"Don't pass me by\" because I only ever did that once."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.suzanne",
-        "content": {
-          "text": [
-            "verse variation",
-            [
-              "You can hear the boats go by",
-              "You can hear the night beside her."
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -105,6 +63,173 @@
       "newAnchor": "3:3"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1979-12-15",
+    "location": {
+      "city": "Brighton",
+      "country": "England",
+      "venue": "Brighton Dome"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_blues_by_the_jews",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.blues_by_the_jews"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a curious song that I wrote three or four years...no it must be about a thousand years ago, but I haven't learned the words yet. I wrote it on the road, it's kind of irreverent, but you're not very religious in this part of the country anyway, so I doubt if it would offend anybody. Anyway, this is the \"Blues by the Jews\", here it is..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_leaving_green_sleeves",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.leaving_green_sleeves"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Someone in the audience asks him to sing \"Leaving Green Sleeves\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "\"Greensleeves\" ? Oh I haven't sung that for about 300 years. I used to sing that when I was a troubadour in the south of France. My name was Artaud. I used to walk on those dusty roads singing Greensleeves. I haven't sung that for a long time. Please also don't ask me for \"Don't pass me by\" because I only ever did that once."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_suzanne",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.suzanne"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "verse variation"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You can hear the boats go by"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You can hear the night beside her."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

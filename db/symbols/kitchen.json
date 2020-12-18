@@ -1,15 +1,32 @@
 {
-  "kind": "symbol",
+  "user": "sudonhim",
+  "version": 0,
   "title": "Kitchen",
+  "kind": "symbol",
+  "annotations": [],
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "symbol.kitchen"
+        "id": "on_kitchen",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.kitchen"
+              }
+            }
+          ]
+        },
+        "fragments": []
       }
     ]
-  },
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,33 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-04-16 Brussels",
-  "metadata": {
-    "date": "1972-04-16",
-    "location": {
-      "city": "Brussels",
-      "country": "Belgium",
-      "venue": "Ancienne Belgique"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.you_know_who_i_am",
-        "content": {
-          "text": [
-            "First stanza repeated and modified",
-            [
-              "I cannot follow you my love",
-              "You cannot follow me",
-              "I am not life, I am not death",
-              " I am not a slave or free.",
-              "Oh you know who I am...."
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -63,6 +37,122 @@
       "newAnchor": "1:5"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1972-04-16",
+    "location": {
+      "city": "Brussels",
+      "country": "Belgium",
+      "venue": "Ancienne Belgique"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "variation_on_you_know_who_i_am",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.you_know_who_i_am"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "First stanza repeated and modified"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I cannot follow you my love"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You cannot follow me"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I am not life, I am not death"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I am not a slave or free."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Oh you know who I am...."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

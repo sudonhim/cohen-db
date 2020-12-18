@@ -1,31 +1,112 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Moon",
   "kind": "symbol",
+  "annotations": [],
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "symbol.moon"
+        "id": "on_moon",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.moon"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.sun"
+        "id": "on_sun",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sun"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.star"
+        "id": "on_star",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.star"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.sky"
+        "id": "on_sky",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sky"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.night"
+        "id": "on_night",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
+            }
+          ]
+        },
+        "fragments": []
       }
     ]
-  },
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

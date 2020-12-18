@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-07-15 Glenside",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-07-15",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Keswick Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

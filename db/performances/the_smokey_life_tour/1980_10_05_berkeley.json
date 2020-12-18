@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-10-05 Berkeley",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-10-05",
     "event": "Bread & Roses",
@@ -8,9 +12,5 @@
       "country": "United States",
       "venue": "Greek Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

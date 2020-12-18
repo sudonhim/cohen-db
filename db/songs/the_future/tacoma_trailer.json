@@ -1,16 +1,30 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Tacoma Trailer",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "[Instrumental]"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

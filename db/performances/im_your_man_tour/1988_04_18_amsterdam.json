@@ -1,35 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-18 Amsterdam",
-  "metadata": {
-    "date": "1988-04-18",
-    "location": {
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "venue": "Muziektheater"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "A long time ago, before there were tulips in Holland, before there were silver beads in Santa Fe, I lived in a filthy dirty Hotel in NYC. Remind me never to go there again.You couldn't eat a potato chip there. It was salted with acid. Oh the suffering we underwent there. It was in the elevator there that I bumped into a young woman. I didn't speak the first few nights, but night after night yes she was there in that same elevator. The spirit of the elevator. Hail to thee blithe spirit of the elevator.! Finally I broke the ice. I said \"What floor are you going to ?\" She said \"I'm not looking for you, I'm looking for Kris Kristofferson !\" I said \"I am Kris Kristofferson\". For several nights she believed I was Kris Kristofferson. It was only when I stood up that she found that I was Leonard Cohen. Anyway... where was I? Yeah, I wrote this song for Janis Joplin, \"Chelsea Hotel\"."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.everybody_knows",
-        "content": {
-          "text": [
-            "Here's a terrible new song. Yes, it embodies all my darkest thoughts. Here it comes."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -69,6 +41,91 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1988-04-18",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "venue": "Muziektheater"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A long time ago, before there were tulips in Holland, before there were silver beads in Santa Fe, I lived in a filthy dirty Hotel in NYC. Remind me never to go there again.You couldn't eat a potato chip there. It was salted with acid. Oh the suffering we underwent there. It was in the elevator there that I bumped into a young woman. I didn't speak the first few nights, but night after night yes she was there in that same elevator. The spirit of the elevator. Hail to thee blithe spirit of the elevator.! Finally I broke the ice. I said \"What floor are you going to ?\" She said \"I'm not looking for you, I'm looking for Kris Kristofferson !\" I said \"I am Kris Kristofferson\". For several nights she believed I was Kris Kristofferson. It was only when I stood up that she found that I was Leonard Cohen. Anyway... where was I? Yeah, I wrote this song for Janis Joplin, \"Chelsea Hotel\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_everybody_knows",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.everybody_knows"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Here's a terrible new song. Yes, it embodies all my darkest thoughts. Here it comes."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

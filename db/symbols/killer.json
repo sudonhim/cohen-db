@@ -1,39 +1,152 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Killer",
   "kind": "symbol",
+  "annotations": [],
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "symbol.killer"
+        "id": "on_killer",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.killer"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.heart"
+        "id": "on_heart",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.heart"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.death"
+        "id": "on_death",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.death"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.hunter"
+        "id": "on_hunter",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.hunter"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.soldier"
+        "id": "on_soldier",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.soldier"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.doctor"
+        "id": "on_doctor",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.doctor"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.gypsy"
+        "id": "on_gypsy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.gypsy"
+              }
+            }
+          ]
+        },
+        "fragments": []
       }
     ]
-  },
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

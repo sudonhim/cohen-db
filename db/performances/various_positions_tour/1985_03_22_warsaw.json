@@ -1,103 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-03-22 Warsaw",
-  "metadata": {
-    "date": "1985-03-22",
-    "location": {
-      "city": "Warsaw",
-      "country": "Poland",
-      "venue": "Congress Hall"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "Every concert that I give, I dedicate a song to a great American singer that I met one night in an elevator in a shabby hotel in New York City. It was a fine elevator. We found ourselves there often. I don't know what she was doing there. I think she was looking for Kris Kristofferson. I told her that I was Kris Kristofferson. But she said, \"I thought he was bigger.\" I said, \"I used to be bigger but I've been sick.\" And we spent a little time together, and I loved the way that she sang, and she died, some odd reason, and some time later, I think I was sitting at a bar in a Polynesian restaurant in Miami Beach I don't know what I was doing there either. I have no program. I have no five-year plan. I just... (laughs). It doesn't mean you shouldn't have one... I just move from hotel to hotel and from bar to bar, and by the grace of the One above occasionally a song comes. And I remember sitting at this particularly obnoxious Polynesian Restaurant, where they served a kind of coconut drink that was particularly lethal and sinister which contained no alcohol but a certain chemical that demoralized you entirely. And I remember writing on one of their very badly designed napkins 'I remember you well at the Chelsea Hotel'. So I dedicate this song to one of the great singers, Janis Joplin."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "Thank you very much friends. You know, since I've been here, many people have asked me what I have thought just about everything there is in this veil of tears. I don't know the answers to anything. I just come here to sing you these songs that have been inspired by something that I hope is deeper and bigger than myself. I have nothing to say about the way that Poland is governed. I have nothing to say about the resistance to the government. The relationship between a people and its government is an intimate thing. It is not for a stranger to comment. I know that there is an eye that watches all of us. There is a judgment that weighs everything we do. And before this great force which is greater than any government, I stand in awe and I kneel in respect. And it is to this great judgment, that I dedicate this next song: \"Hallelujah\"."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.hey_thats_no_way_to_say_goodbye",
-        "content": {
-          "text": [
-            "Please note that this intro is here related to \"Hey that's no way to say Goodbye\".We've been truthfull  to the songlist of \"Cohen in Warsaw\" release.But it seems more that it's the intro of Memories,regarding to the last prologue's sentence.",
-            "  I grew up in Montreal,in Canada.It is a very wide and beautiful country.     I come from a very curious city where there are many influences operating:European,French,English,Jewish,Ukranian,German,Polish,Hungarian.I can't begin to name all of the influences that i grew up around.And always there was the symbol of the church.We were Jews.We had a very ambiguous feeling about the Church because we knew the History of the church and we knew the History of the Jews.It is a curious thing friends that i found myself at this moment in the country where the greatest destruction of the Jewry occured.I have no thoughts about it.I have feelings that cannot be spoken.It has nothing to do with you.It has nothing to do with me.It is some matter between our great grand-parents,your great grand-parents and my great grand-parents.I have no judgment.My song has no flag,my song has no party,my song has no border.It is for men of good will, everywhere.But let us forget these heavy matters for a moment and return to my dismal adolescence in Montreal."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.if_it_be_your_will",
-        "content": {
-          "text": [
-            "I don't know which side everybody's on any more, and ...I don't really care. There is a moment when we have to transcend the side we're on and understand that we are creatures of a higher order. It doesn't mean that I don't wish you courage in your struggle. There is on both sides of this struggle men of good will. That is important to remember... on both sides of this struggle. Some struggling for freedom, some struggling for safety. In solemn testimony of that unbroken faith which binds a generation one to another, I sing this song: 'If it be your will'."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.tennessee_waltz",
-        "content": {
-          "text": [
-            "I want to say a little tiny thing. When I was in the distinguished Hotel Victoria in which.. Is that the name of it? Yeah that's the name of it! You know you get to see a lot of hotels when you're on the road, sometimes you forget the names. Of course we've been very hospitably treated at the Hotel Victoria and a young man came up to me this evening and he shook my hand and he was the president of the \"Country Western Music Association\" of Poland. That's a kind of music that is very dear to my heart. I don't know if you met here at the concert tonight, but he gave a very beautiful pin, give us a few pins and I really appreciate that and I dunno,  somehow that dissolves all the other concerns that we approached this evening and for this man. I know he was a man that worked hard because his hands were calloused...he'd done some hard work in his life.... and ... I want to dedicate this song to him and to all of us. It's a song I didn't write but it's a country western song that I've loved for a long time. I wrote a few extra-words to it but it doesn't change that much. Here it is:"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_law",
-        "content": {
-          "text": [
-            "Beyond the sovereignty of any nation, there is a judgment, there is a reward, there is a punishment, there is a Law, there is an arm, there is a hand...."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            [
-              "This is a holy land that has been sanctified by the blood of martyrs.",
-              " There are still ashes in the air, there is still dampness in the ground.",
-              " I feel the presence of so much undone. I feel the aspirations of so much unarticulated. It is to these ghosts, to these unquiet souls, to these brave memories that I dedicate this next song."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.there_is_a_war",
-        "content": {
-          "text": [
-            "It was amusing to me that in an interview that I did in Poznan, that the commentator after hearing a version of this song in Polish, described it as \"decadent\". My mother would have been very angry with him. She sang songs like that around the house all the time. Was he saying that my mother was decadent? There is a war between the rich and poor. There is a war......"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.who_by_fire",
-        "content": {
-          "text": [
-            "You know, I come from a country where we do not have the same struggles as you have. I respect your struggles. And it may surprise you but I respect both sides of this struggle. It seems to be that in Europe, there needs to be a left foot and a right foot to move forward. I wish that both feet move forward and that the Body move towards its proper destiny. This is an intense country. The people are heroic. The spirit is independent. It is a difficult country to govern. It needs a strong government and a strong Union. When I was a child and I went to the synagogue every Saturday morning - and once in this country there were thousands of synagogues and thousands of Jewish communities which were wiped out in a few months- In the synagogue at which I attended, there was a prayer for the government. We were happy and we are happy to pray for the welfare of the government. And I would like to say to you, to the leaders of the Left, and the leaders of the Right: I sing for everyone; my song has no flag, my song has no party. And I say the prayer that we said in our synagogue, I say it for the leader of your Union and the leader of your Party. May the Lord put a spirit of wisdom and understanding into the hearts of your leaders and into the heart of all their counsellors."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -217,6 +121,392 @@
       "newAnchor": "8:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1985-03-22",
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland",
+      "venue": "Congress Hall"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Every concert that I give, I dedicate a song to a great American singer that I met one night in an elevator in a shabby hotel in New York City. It was a fine elevator. We found ourselves there often. I don't know what she was doing there. I think she was looking for Kris Kristofferson. I told her that I was Kris Kristofferson. But she said, \"I thought he was bigger.\" I said, \"I used to be bigger but I've been sick.\" And we spent a little time together, and I loved the way that she sang, and she died, some odd reason, and some time later, I think I was sitting at a bar in a Polynesian restaurant in Miami Beach I don't know what I was doing there either. I have no program. I have no five-year plan. I just... (laughs). It doesn't mean you shouldn't have one... I just move from hotel to hotel and from bar to bar, and by the grace of the One above occasionally a song comes. And I remember sitting at this particularly obnoxious Polynesian Restaurant, where they served a kind of coconut drink that was particularly lethal and sinister which contained no alcohol but a certain chemical that demoralized you entirely. And I remember writing on one of their very badly designed napkins 'I remember you well at the Chelsea Hotel'. So I dedicate this song to one of the great singers, Janis Joplin."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_hallelujah",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.hallelujah"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Thank you very much friends. You know, since I've been here, many people have asked me what I have thought just about everything there is in this veil of tears. I don't know the answers to anything. I just come here to sing you these songs that have been inspired by something that I hope is deeper and bigger than myself. I have nothing to say about the way that Poland is governed. I have nothing to say about the resistance to the government. The relationship between a people and its government is an intimate thing. It is not for a stranger to comment. I know that there is an eye that watches all of us. There is a judgment that weighs everything we do. And before this great force which is greater than any government, I stand in awe and I kneel in respect. And it is to this great judgment, that I dedicate this next song: \"Hallelujah\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_hey_thats_no_way_to_say_goodbye",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.hey_thats_no_way_to_say_goodbye"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Please note that this intro is here related to \"Hey that's no way to say Goodbye\".We've been truthfull  to the songlist of \"Cohen in Warsaw\" release.But it seems more that it's the intro of Memories,regarding to the last prologue's sentence."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "  I grew up in Montreal,in Canada.It is a very wide and beautiful country.     I come from a very curious city where there are many influences operating:European,French,English,Jewish,Ukranian,German,Polish,Hungarian.I can't begin to name all of the influences that i grew up around.And always there was the symbol of the church.We were Jews.We had a very ambiguous feeling about the Church because we knew the History of the church and we knew the History of the Jews.It is a curious thing friends that i found myself at this moment in the country where the greatest destruction of the Jewry occured.I have no thoughts about it.I have feelings that cannot be spoken.It has nothing to do with you.It has nothing to do with me.It is some matter between our great grand-parents,your great grand-parents and my great grand-parents.I have no judgment.My song has no flag,my song has no party,my song has no border.It is for men of good will, everywhere.But let us forget these heavy matters for a moment and return to my dismal adolescence in Montreal."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_if_it_be_your_will",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.if_it_be_your_will"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I don't know which side everybody's on any more, and ...I don't really care. There is a moment when we have to transcend the side we're on and understand that we are creatures of a higher order. It doesn't mean that I don't wish you courage in your struggle. There is on both sides of this struggle men of good will. That is important to remember... on both sides of this struggle. Some struggling for freedom, some struggling for safety. In solemn testimony of that unbroken faith which binds a generation one to another, I sing this song: 'If it be your will'."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_tennessee_waltz",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.tennessee_waltz"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I want to say a little tiny thing. When I was in the distinguished Hotel Victoria in which.. Is that the name of it? Yeah that's the name of it! You know you get to see a lot of hotels when you're on the road, sometimes you forget the names. Of course we've been very hospitably treated at the Hotel Victoria and a young man came up to me this evening and he shook my hand and he was the president of the \"Country Western Music Association\" of Poland. That's a kind of music that is very dear to my heart. I don't know if you met here at the concert tonight, but he gave a very beautiful pin, give us a few pins and I really appreciate that and I dunno,  somehow that dissolves all the other concerns that we approached this evening and for this man. I know he was a man that worked hard because his hands were calloused...he'd done some hard work in his life.... and ... I want to dedicate this song to him and to all of us. It's a song I didn't write but it's a country western song that I've loved for a long time. I wrote a few extra-words to it but it doesn't change that much. Here it is:"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_law",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_law"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Beyond the sovereignty of any nation, there is a judgment, there is a reward, there is a punishment, there is a Law, there is an arm, there is a hand...."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a holy land that has been sanctified by the blood of martyrs."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There are still ashes in the air, there is still dampness in the ground."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I feel the presence of so much undone. I feel the aspirations of so much unarticulated. It is to these ghosts, to these unquiet souls, to these brave memories that I dedicate this next song."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_there_is_a_war",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.there_is_a_war"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It was amusing to me that in an interview that I did in Poznan, that the commentator after hearing a version of this song in Polish, described it as \"decadent\". My mother would have been very angry with him. She sang songs like that around the house all the time. Was he saying that my mother was decadent? There is a war between the rich and poor. There is a war......"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_who_by_fire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.who_by_fire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You know, I come from a country where we do not have the same struggles as you have. I respect your struggles. And it may surprise you but I respect both sides of this struggle. It seems to be that in Europe, there needs to be a left foot and a right foot to move forward. I wish that both feet move forward and that the Body move towards its proper destiny. This is an intense country. The people are heroic. The spirit is independent. It is a difficult country to govern. It needs a strong government and a strong Union. When I was a child and I went to the synagogue every Saturday morning - and once in this country there were thousands of synagogues and thousands of Jewish communities which were wiped out in a few months- In the synagogue at which I attended, there was a prayer for the government. We were happy and we are happy to pray for the welfare of the government. And I would like to say to you, to the leaders of the Left, and the leaders of the Right: I sing for everyone; my song has no flag, my song has no party. And I say the prayer that we said in our synagogue, I say it for the leader of your Union and the leader of your Party. May the Lord put a spirit of wisdom and understanding into the hearts of your leaders and into the heart of all their counsellors."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

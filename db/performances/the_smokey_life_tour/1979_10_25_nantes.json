@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-10-25 Nantes",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1979-10-25",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Parc des Expositions de la Beaujoire"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

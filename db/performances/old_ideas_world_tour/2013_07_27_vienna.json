@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-07-27 Vienna",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-07-27",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Austria",
       "venue": "Wiener Stadthalle"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

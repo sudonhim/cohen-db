@@ -1,33 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-07-07 Graz",
-  "metadata": {
-    "date": "1985-07-07",
-    "location": {
-      "city": "Graz",
-      "country": "Austria",
-      "venue": "Grazer Schloßberg"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.bird_on_the_wire",
-        "content": {
-          "text": [
-            "Modified verses",
-            [
-              "I saw this beggar standing on his wooden crutch",
-              "He says \"How Dare You, how dare you,",
-              "how dare you ask for so God damn much ?\"",
-              " There was a woman leaning in her darkened door",
-              "She says \"come on, you can ask for just a little bit more\"…"
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -73,6 +47,122 @@
       "newAnchor": "1:5"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1985-07-07",
+    "location": {
+      "city": "Graz",
+      "country": "Austria",
+      "venue": "Grazer Schloßberg"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "variation_on_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Modified verses"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I saw this beggar standing on his wooden crutch"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "He says \"How Dare You, how dare you,"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "how dare you ask for so God damn much ?\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There was a woman leaning in her darkened door"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "She says \"come on, you can ask for just a little bit more\"…"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

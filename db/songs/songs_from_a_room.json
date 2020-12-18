@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Songs from a Room",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1969-04-07"
   },
@@ -14,9 +18,5 @@
     "song.you_know_who_i_am",
     "song.lady_midnight",
     "song.tonight_will_be_fine"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

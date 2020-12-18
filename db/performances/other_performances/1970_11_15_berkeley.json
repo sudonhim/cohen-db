@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1970-11-15 Berkeley",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1970-11-15",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Berkeley Community Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

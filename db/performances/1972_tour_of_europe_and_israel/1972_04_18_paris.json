@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-04-18 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1972-04-18",
     "location": {
@@ -9,24 +13,71 @@
     }
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "prologue",
-        "reference": "song.bird_on_the_wire",
-        "content": {
-          "text": [
-            [
-              "Comme l'oiseau sur la branche",
-              " Comme l'ivrogne dans le choeur de la nuit",
-              " J'ai cherche ma liberte"
-            ]
+        "id": "prologue_to_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Comme l'oiseau sur la branche"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Comme l'ivrogne dans le choeur de la nuit"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " J'ai cherche ma liberte"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

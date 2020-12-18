@@ -1,23 +1,72 @@
 {
-  "kind": "symbol",
+  "user": "sudonhim",
+  "version": 0,
   "title": "Prophet",
+  "kind": "symbol",
+  "annotations": [],
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "symbol.man"
+        "id": "on_man",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.man"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.prophet"
+        "id": "on_prophet",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.prophet"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.stranger"
+        "id": "on_stranger",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.stranger"
+              }
+            }
+          ]
+        },
+        "fragments": []
       }
     ]
-  },
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Performances",
+  "kind": "group",
+  "annotations": [],
   "children": [
     "tour.1970_tour_in_europe",
     "tour.1972_tour_of_europe_and_israel",
@@ -13,9 +17,5 @@
     "tour.leonard_cohen_tour",
     "tour.old_ideas_world_tour",
     "group.other_performances"
-  ],
-  "kind": "group",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

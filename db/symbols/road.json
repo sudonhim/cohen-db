@@ -1,23 +1,72 @@
 {
-  "kind": "symbol",
+  "user": "sudonhim",
+  "version": 0,
   "title": "Road",
+  "kind": "symbol",
+  "annotations": [],
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "symbol.train"
+        "id": "on_train",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.train"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.station"
+        "id": "on_station",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.station"
+              }
+            }
+          ]
+        },
+        "fragments": []
       },
       {
-        "kind": "note",
-        "reference": "symbol.road"
+        "id": "on_road",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.road"
+              }
+            }
+          ]
+        },
+        "fragments": []
       }
     ]
-  },
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

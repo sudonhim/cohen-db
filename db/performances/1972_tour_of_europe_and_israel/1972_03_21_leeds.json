@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-03-21 Leeds",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1972-03-21",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United Kingdom",
       "venue": "The Refectory, University of Leeds"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

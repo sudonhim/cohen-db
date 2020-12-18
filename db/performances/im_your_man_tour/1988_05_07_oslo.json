@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-05-07 Oslo",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-05-07",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Norway",
       "venue": "Oslo Concert Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

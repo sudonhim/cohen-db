@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-14 Marseille",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-06-14",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Le Dôme de Marseille"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

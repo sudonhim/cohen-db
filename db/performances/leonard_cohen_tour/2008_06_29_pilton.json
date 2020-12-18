@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-06-29 Pilton",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-06-29",
     "event": "Glastonbury Festival",
@@ -8,9 +12,5 @@
       "country": "England",
       "venue": "Worthy Farm"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

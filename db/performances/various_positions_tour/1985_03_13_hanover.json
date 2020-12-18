@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-03-13 Hanover",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-03-13",
     "location": {
@@ -9,40 +13,259 @@
     }
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "variation",
-        "reference": "song.the_law",
-        "content": {
-          "text": [
-            "additional verses",
-            [
-              " You can blame it on nature",
-              " Or you can blame it on God",
-              " You can say it's a creature",
-              " Just stepping out of the mud",
-              " But I ain't here cause a fossil",
-              " Has been found in the sand",
-              " There's a Law, there's an Arm, there's a Hand",
-              " There's a Law, there's an Arm, there's a Hand"
-            ],
-            [
-              " Well I've done lots of time boys",
-              " Now I know why",
-              " You can turn on a dime",
-              " But on a dollar you die",
-              " This will never make sense",
-              " To the fat of the land",
-              " Ah but, there's a Law, there's an Arm, there's a Hand",
-              " There's a Law, there's an Arm, there's a Hand"
-            ]
+        "id": "variation_on_the_law",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_law"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "additional verses"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You can blame it on nature"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Or you can blame it on God"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You can say it's a creature"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Just stepping out of the mud"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But I ain't here cause a fossil"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Has been found in the sand"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There's a Law, there's an Arm, there's a Hand"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There's a Law, there's an Arm, there's a Hand"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "10",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Well I've done lots of time boys"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "11",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Now I know why"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "12",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You can turn on a dime"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "13",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But on a dollar you die"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "14",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " This will never make sense"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "15",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " To the fat of the land"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "16",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Ah but, there's a Law, there's an Arm, there's a Hand"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "17",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There's a Law, there's an Arm, there's a Hand"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

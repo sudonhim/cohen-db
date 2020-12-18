@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-07-30 Victoria",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-07-30",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Victoria Royal Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-10-01 Stuttgart",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-10-01",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Hanns-Martin-Schleyer-Halle"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

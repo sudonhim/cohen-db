@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1975-01-31 Toronto",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1975-01-31",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Massey Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

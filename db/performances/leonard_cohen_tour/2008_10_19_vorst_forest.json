@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-10-19 Vorst / Forest",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-10-19",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Belgium",
       "venue": "Vorst Nationaal / Forest National"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

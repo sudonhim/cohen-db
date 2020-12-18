@@ -1,45 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Stories of the Street",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "The stories of the street are mine, the Spanish voices laugh.",
-          "The Cadillacs go creeping now through the night and the poison gas,",
-          "And I lean from my window sill in this old hotel I chose,",
-          "Yes one hand on my suicide, one hand on the rose."
-        ],
-        [
-          "I know you've heard it's over now and war must surely come,",
-          "The cities they are broke in half and the middle men are gone.",
-          "But let me ask you one more time, O children of the dusk,",
-          "All these hunters who are shrieking now oh do they speak for us?",
-          "And where do all these highways go, now that we are free?",
-          "Why are the armies marching still that were coming home to me?"
-        ],
-        [
-          "O lady with your legs so fine O stranger at your wheel,",
-          "You are locked into your suffering and your pleasures are the seal.",
-          "The age of lust is giving birth, and both the parents ask",
-          "The nurse to tell them fairy tales on both sides of the glass.",
-          "And now the infant with his cord is hauled in like a kite,",
-          "And one eye filled with blueprints, one eye filled with night."
-        ],
-        [
-          "O come with me my little one, we will find that farm",
-          "And grow us grass and apples there and keep all the animals warm.",
-          "And if by chance I wake at night and I ask you who I am,",
-          "O take me to the slaughterhouse, I will wait there with the lamb.",
-          "With one hand on the hexagram and one hand on the girl",
-          "I balance on a wishing well that all men call the world."
-        ],
-        [
-          "We are so small between the stars, so large against the sky,",
-          "And lost among the subway crowds I try to catch your eye."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -285,6 +247,338 @@
       "newAnchor": "23"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The stories of the street are mine, the Spanish voices laugh."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The Cadillacs go creeping now through the night and the poison gas,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I lean from my window sill in this old hotel I chose,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes one hand on my suicide, one hand on the rose."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I know you've heard it's over now and war must surely come,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The cities they are broke in half and the middle men are gone."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But let me ask you one more time, O children of the dusk,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "All these hunters who are shrieking now oh do they speak for us?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And where do all these highways go, now that we are free?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Why are the armies marching still that were coming home to me?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "O lady with your legs so fine O stranger at your wheel,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You are locked into your suffering and your pleasures are the seal."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The age of lust is giving birth, and both the parents ask"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The nurse to tell them fairy tales on both sides of the glass."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And now the infant with his cord is hauled in like a kite,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And one eye filled with blueprints, one eye filled with night."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "O come with me my little one, we will find that farm"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And grow us grass and apples there and keep all the animals warm."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And if by chance I wake at night and I ask you who I am,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "O take me to the slaughterhouse, I will wait there with the lamb."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "With one hand on the hexagram and one hand on the girl"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I balance on a wishing well that all men call the world."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We are so small between the stars, so large against the sky,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And lost among the subway crowds I try to catch your eye."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

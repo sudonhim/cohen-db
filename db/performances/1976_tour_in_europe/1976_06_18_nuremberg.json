@@ -1,52 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1976-06-18 - Nuremberg",
-  "metadata": {
-    "date": "1976-06-18",
-    "location": {
-      "city": "Nuremburg",
-      "country": "Germany"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.famous_blue_raincoat",
-        "content": {
-          "text": [
-            "This is a song of another struggle. I mean the great struggles passes away like smoke and then we are left with the real struggle that takes place in the living-room and in the bed-room."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.seems_so_long_ago_nancy",
-        "content": {
-          "text": [
-            "This is a song that I wrote a real long time ago for a girl, you know, who seemed to be a bit ahead of her time. Her name was Nancy.....(?)"
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.sisters_of_mercy",
-        "content": {
-          "text": [
-            "Long time ago, two girls named Barbara and lorraine took me out of a snowstorm in Edmonton, Alberta. Anyhow, it doesn't matter but if I don't mention their names, they visit me with humiliation every time I sing this song for them."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "A long time ago, your grandfathers and mine were engaged in some serious struggle which they have then forgotten. Out of that struggle came a song that stands as an allegory for resistance, everywhere."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -66,6 +21,164 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1976-06-18",
+    "location": {
+      "city": "Nuremburg",
+      "country": "Germany"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_famous_blue_raincoat",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.famous_blue_raincoat"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song of another struggle. I mean the great struggles passes away like smoke and then we are left with the real struggle that takes place in the living-room and in the bed-room."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_seems_so_long_ago_nancy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.seems_so_long_ago_nancy"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song that I wrote a real long time ago for a girl, you know, who seemed to be a bit ahead of her time. Her name was Nancy.....(?)"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_sisters_of_mercy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.sisters_of_mercy"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Long time ago, two girls named Barbara and lorraine took me out of a snowstorm in Edmonton, Alberta. Anyhow, it doesn't matter but if I don't mention their names, they visit me with humiliation every time I sing this song for them."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A long time ago, your grandfathers and mine were engaged in some serious struggle which they have then forgotten. Out of that struggle came a song that stands as an allegory for resistance, everywhere."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

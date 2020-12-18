@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-01-31 Pokolbin",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-01-31",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Australia",
       "venue": "Bimbadgen Estate Winery"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

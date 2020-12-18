@@ -1,147 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Closing Time",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Ah we're drinking and we're dancing",
-          "And the band is really happening",
-          "And the Johnny Walker wisdom running high",
-          "And my very sweet companion",
-          "She's the angel of compassion",
-          "She's rubbing half the world against her thigh",
-          "And every drinker every dancer",
-          "Lifts a happy face to thank her",
-          "The fiddler fiddles something so sublime",
-          "All the women tear their blouses off",
-          "And the men they dance on the polka-dots",
-          "And it's partner found, it's partner lost",
-          "And it's hell to pay when the fiddler stops",
-          "It's closing time",
-          "(Closing time)",
-          "(Closing time)",
-          "(Closing time)"
-        ],
-        [
-          "Yeah the women tear their blouses off",
-          "And the men they dance on the polka-dots",
-          "And it's partner found, it's partner lost",
-          "And it's hell to pay when the fiddler stops",
-          "It's closing time"
-        ],
-        [
-          "Ah we're lonely, we're romantic",
-          "And the cider's laced with acid",
-          "And the holy spirit's crying, where's the beef?",
-          "And the moon is swimming naked",
-          "And the summer night is fragrant",
-          "With a mighty expectation of relief",
-          "So we struggle and we stagger",
-          "Down the snakes and up the ladder",
-          "To the tower where the blessed hours chime",
-          "And I swear it happened just like this",
-          "A sigh, a cry, a hungry kiss",
-          "The gates of love they budged an inch",
-          "I can't say much has happened since",
-          "But closing time",
-          "(Closing time)",
-          "(Closing time)",
-          "(Closing time)"
-        ],
-        [
-          "I swear it happened just like this",
-          "A sigh, a cry, a hungry kiss",
-          "The gates of love they budged an inch",
-          "I can't say much has happened since",
-          "(I can't say much has happened since)",
-          "We're closing time",
-          "Closing time"
-        ],
-        [
-          "I loved you for your beauty",
-          "But that doesn't make a fool of me",
-          "You were in it for your beauty too",
-          "And I loved you for your body",
-          "There's a voice that sounds like god to me",
-          "Declaring, (declaring) declaring,declaring that your body's really you",
-          "And I loved you when our love was blessed",
-          "And I love you now there's nothing left",
-          "But sorrow and a sense of overtime",
-          "And I missed you since the place got wrecked",
-          "And I just don't care what happens next",
-          "Looks like freedom but it feels like death",
-          "It's something in between, I guess",
-          "It's closing time",
-          "(Closing time)",
-          "(Closing time)",
-          "(Closing time)"
-        ],
-        [
-          "Yeah I missed you since the place got wrecked",
-          "By the winds of change and the weeds of sex",
-          "Looks like freedom but it feels like death",
-          "It's something in between, I guess",
-          "It's closing time"
-        ],
-        [
-          "Yeah we're drinking and we're dancing",
-          "But there's nothing really happening",
-          "And the place is dead as heaven on a Saturday night",
-          "And my very close companion",
-          "Gets me fumbling gets me laughing",
-          "She's a hundred but she's wearing",
-          "Something tight",
-          "And I lift my glass to the awful truth",
-          "Which you can't reveal to the ears of youth",
-          "Except to say it isn't worth a dime",
-          "And the whole damn place goes crazy twice",
-          "And it's once for the devil and once for Christ",
-          "But the boss don't like these dizzy heights",
-          "We're busted in the blinding lights",
-          "Of closing time",
-          "(Closing time)",
-          "(Closing time)",
-          "(Closing time)"
-        ],
-        [
-          "The whole damn place goes crazy twice",
-          "And it's once for the devil and once for Christ",
-          "But the boss don't like these dizzy heights",
-          "We're busted in the blinding lights",
-          "(Busted in the blinding lights)",
-          "Busted in the blinding lights",
-          "Of closing time",
-          "Closing time"
-        ],
-        [
-          "Oh the women tear their blouses off",
-          "And the men they dance on the polka-dots",
-          "It's closing time",
-          "And it's partner found, it's partner lost",
-          "And it's hell to pay when the fiddler stops",
-          "It's closing time",
-          "I swear it happened just like this",
-          "A sigh, a cry, a hungry kiss",
-          "It's closing time (closing time)",
-          "(Closing time)",
-          "(Closing time)",
-          "(Closing time)"
-        ],
-        [
-          "The gates of love they budged an inch",
-          "I can't say much has happened since",
-          "But closing time (closing time, closing time, closing time)"
-        ],
-        [
-          "I loved you when our love was blessed",
-          "I love you now there's nothing left",
-          "But closing time",
-          "I miss you since the place got wrecked",
-          "By the winds of change and the weeds of sex"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -299,6 +159,1526 @@
       "newAnchor": "82"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah we're drinking and we're dancing"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the band is really happening"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the Johnny Walker wisdom running high"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And my very sweet companion"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She's the angel of compassion"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She's rubbing half the world against her thigh"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And every drinker every dancer"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Lifts a happy face to thank her"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The fiddler fiddles something so sublime"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "All the women tear their blouses off"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the men they dance on the polka-dots"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's partner found, it's partner lost"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's hell to pay when the fiddler stops"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah the women tear their blouses off"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the men they dance on the polka-dots"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's partner found, it's partner lost"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's hell to pay when the fiddler stops"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah we're lonely, we're romantic"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the cider's laced with acid"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the holy spirit's crying, where's the beef?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the moon is swimming naked"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the summer night is fragrant"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "With a mighty expectation of relief"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So we struggle and we stagger"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Down the snakes and up the ladder"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "To the tower where the blessed hours chime"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "32",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I swear it happened just like this"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "33",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A sigh, a cry, a hungry kiss"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "34",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The gates of love they budged an inch"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "35",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I can't say much has happened since"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "36",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "37",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "38",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "39",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "40",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I swear it happened just like this"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "41",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A sigh, a cry, a hungry kiss"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "42",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The gates of love they budged an inch"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "43",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I can't say much has happened since"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "44",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(I can't say much has happened since)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "45",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We're closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "46",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "47",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I loved you for your beauty"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "48",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But that doesn't make a fool of me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "49",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You were in it for your beauty too"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "50",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I loved you for your body"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "51",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "There's a voice that sounds like god to me"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "52",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Declaring, (declaring) declaring,declaring that your body's really you"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "53",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I loved you when our love was blessed"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "54",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I love you now there's nothing left"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "55",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But sorrow and a sense of overtime"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "56",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I missed you since the place got wrecked"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "57",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I just don't care what happens next"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "58",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Looks like freedom but it feels like death"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "59",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's something in between, I guess"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "60",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "61",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "62",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "63",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "64",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah I missed you since the place got wrecked"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "65",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "By the winds of change and the weeds of sex"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "66",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Looks like freedom but it feels like death"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "67",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's something in between, I guess"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "68",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "69",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah we're drinking and we're dancing"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "70",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But there's nothing really happening"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "71",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the place is dead as heaven on a Saturday night"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "72",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And my very close companion"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "73",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Gets me fumbling gets me laughing"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "74",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She's a hundred but she's wearing"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "75",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Something tight"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "76",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I lift my glass to the awful truth"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "77",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Which you can't reveal to the ears of youth"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "78",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Except to say it isn't worth a dime"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "79",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the whole damn place goes crazy twice"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "80",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's once for the devil and once for Christ"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "81",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But the boss don't like these dizzy heights"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "82",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We're busted in the blinding lights"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "83",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Of closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "84",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "85",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "86",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "87",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The whole damn place goes crazy twice"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "88",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's once for the devil and once for Christ"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "89",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But the boss don't like these dizzy heights"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "90",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We're busted in the blinding lights"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "91",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Busted in the blinding lights)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "92",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Busted in the blinding lights"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "93",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Of closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "94",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "95",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh the women tear their blouses off"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "96",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the men they dance on the polka-dots"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "97",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "98",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's partner found, it's partner lost"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "99",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's hell to pay when the fiddler stops"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "100",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "101",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I swear it happened just like this"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "102",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A sigh, a cry, a hungry kiss"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "103",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's closing time (closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "104",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "105",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "106",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "(Closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "107",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The gates of love they budged an inch"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "108",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I can't say much has happened since"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "109",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But closing time (closing time, closing time, closing time)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "110",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I loved you when our love was blessed"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "111",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I love you now there's nothing left"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "112",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But closing time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "113",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I miss you since the place got wrecked"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "114",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "By the winds of change and the weeds of sex"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

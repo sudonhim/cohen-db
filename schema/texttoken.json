@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "texttoken.json",
+    "title": "TextTokenNEW",
+    "description": "A string of pure text",
+    "properties": {
+      "kind": {
+          "enum": ["text"]
+      },
+      "text": {
+          "description": "Only valid if it contains non-whitespace characters.",
+          "type": "string",
+          "pattern": "[^\\s]"
+      }
+    },
+    "required": ["kind", "text"],
+    "additionalProperties": false
+  }
+  

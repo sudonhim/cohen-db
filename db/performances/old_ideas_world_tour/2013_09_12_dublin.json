@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-09-12 Dublin",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-09-12",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Ireland",
       "venue": "The O2"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-27 Lucca",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-27",
     "event": "Lucca Summer Festival",
@@ -8,9 +12,5 @@
       "country": "Italy",
       "venue": "Piazza Napoleone"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

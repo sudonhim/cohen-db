@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2013-09-20 Amsterdam",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2013-09-20",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Netherlands",
       "venue": "Ziggo Dome"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

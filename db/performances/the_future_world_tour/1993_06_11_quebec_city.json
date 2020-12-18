@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-06-11 Quebec City",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-06-11",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Capitole de Québec"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

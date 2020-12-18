@@ -1,65 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Lover, Lover, Lover",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "I asked my father,",
-          "I said, \"father change my name.\"",
-          "The one I'm using now it's covered up",
-          "With fear and filth and cowardice and shame."
-        ],
-        [
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,",
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
-        ],
-        [
-          "He said, \"i locked you in this body,",
-          "I meant it as a kind of trial.",
-          "You can use it for a weapon,",
-          "Or to make some woman smile.\""
-        ],
-        [
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,",
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
-        ],
-        [
-          "\"then let me start again,\" i cried,",
-          "\"please let me start again,",
-          "I want a face that's fair this time,",
-          "I want a spirit that is calm.\""
-        ],
-        [
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,",
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
-        ],
-        [
-          "\"i never never turned aside,\" he said,",
-          "\"i never walked away.",
-          "It was you who built the temple,",
-          "It was you who covered up my face.\""
-        ],
-        [
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,",
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
-        ],
-        [
-          "And may the spirit of this song,",
-          "May it rise up pure and free.",
-          "May it be a shield for you,",
-          "A shield against the enemy."
-        ],
-        [
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,",
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
-        ],
-        [
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,",
-          "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -201,6 +143,460 @@
       "newAnchor": "32"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I asked my father,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I said, \"father change my name.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The one I'm using now it's covered up"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "With fear and filth and cowardice and shame."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He said, \"i locked you in this body,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I meant it as a kind of trial."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You can use it for a weapon,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Or to make some woman smile.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"then let me start again,\" i cried,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"please let me start again,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I want a face that's fair this time,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I want a spirit that is calm.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"i never never turned aside,\" he said,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"i never walked away."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was you who built the temple,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was you who covered up my face.\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And may the spirit of this song,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "May it rise up pure and free."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "May it be a shield for you,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A shield against the enemy."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "32",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes and lover, lover, lover, lover, lover, lover, lover come back to me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

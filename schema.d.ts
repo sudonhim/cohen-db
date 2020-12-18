@@ -6,6 +6,48 @@
  */
 
 /**
+ * The content of a document, which is either a single canonical text part, or a sequence of complex parts
+ */
+export type Content =
+  | {
+      kind?: "simple";
+      content?: MainContent;
+    }
+  | {
+      kind?: "multipart";
+      content?: SectionalContent;
+    };
+/**
+ * A fragment of content, the smallest addressable unit of a document
+ */
+export type Fragment = LineBreakFragment | TextFragment;
+/**
+ * A piece of contiguous inline content
+ */
+export type Token = TextTokenNEW | ReferenceToken | LinkToken;
+/**
+ * A reference to a document, section, or fragment in the database
+ */
+export type Reference =
+  | {
+      kind: "document";
+      documentId: string;
+    }
+  | {
+      kind: "section";
+      documentId: string;
+      sectionId: string;
+    }
+  | {
+      kind: "fragment";
+      documentId: string;
+      /**
+       * Present only in references to multipart documents
+       */
+      sectionId?: string;
+      fragmentId: string;
+    };
+/**
  * Annotations attached to a file
  */
 export type Annotations = AnnotationsGroup[];
@@ -52,56 +94,63 @@ export interface Metadata {
   };
 }
 /**
- * The content of a document, which is either a single canonical text part, or a sequence of complex parts
+ * Content of a single part document
  */
-export interface Content {
-  /**
-   * Information about the document itself
-   */
-  preamble?: string;
-  content: (Note | Prologue | Variation)[] | Text;
+export interface MainContent {
+  fragments: Fragment[];
 }
 /**
- * A text segment, which may optionally refer to another document
+ * Fragment for a line break
  */
-export interface Note {
-  kind: "note";
-  /**
-   * ID of the document that this note is about, if any
-   */
-  reference?: string;
-  content?: Text;
+export interface LineBreakFragment {
+  kind: "lineBreak";
 }
 /**
- * Canonical text content, immutable and eternal
+ * A fragment of text
  */
-export interface Text {
+export interface TextFragment {
+  kind: "text";
   /**
-   * An array of paragraphs or stanzas, to be referenced by index
+   * Used to refer to this fragment within the document. If not present, this fragment cannot be referred to.
    */
-  text: (string | string[])[];
+  id?: string;
+  tokens: Token[];
 }
 /**
- * Words spoken about another work, before performing it
+ * A string of pure text
  */
-export interface Prologue {
-  kind: "prologue";
+export interface TextTokenNEW {
+  kind: "text";
   /**
-   * ID of the document that this prologue is about
+   * Only valid if it contains non-whitespace characters.
    */
-  reference: string;
-  content: Text;
+  text: string;
 }
 /**
- * A variation on another work, while performing it
+ * A reference to a document, section, or fragment elsewhere in the database
  */
-export interface Variation {
-  kind: "variation";
+export interface ReferenceToken {
+  kind: "reference";
+  reference: Reference;
+}
+/**
+ * A hyperlink, optionally with alternate display text
+ */
+export interface LinkToken {
+  kind: "link";
   /**
-   * ID of the document that this variation is of
+   * Text to display for the link, if any
    */
-  reference: string;
-  content: Text;
+  text?: string;
+  link: string;
+}
+/**
+ * A piece of content in a multipart document
+ */
+export interface SectionalContent {
+  id: string;
+  title: TextFragment;
+  fragments: Fragment[];
 }
 /**
  * The list of annotations attached to a single location in the parent document

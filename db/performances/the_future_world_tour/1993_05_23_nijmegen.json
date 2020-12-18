@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-23 Nijmegen",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-23",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Netherlands",
       "venue": "Concertgebouw de Vereeniging"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

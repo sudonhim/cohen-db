@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-06-10 Montreal",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-06-10",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Theatre du Forum"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

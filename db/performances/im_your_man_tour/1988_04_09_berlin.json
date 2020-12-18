@@ -1,35 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-09 Berlin",
-  "metadata": {
-    "date": "1988-04-09",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany",
-      "venue": "Internationales Congress Centrum Berlin"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.first_we_take_manhattan",
-        "content": {
-          "text": [
-            "Berlin, at last, yes the final peace in my vast geopolitical jigsaw, Berlin at last, the worshippers of the bear, how happy I am to be among you."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.take_this_waltz",
-        "content": {
-          "text": [
-            "I must be very careful about the time, because if I play one minute past a certain time, we are penalised many 1000 DM. And if I'm penalised many 1000 DM, I do not make a profit on this concert. And if I do not make a profit on this concert, then the entire theory of West Berlin is put into question. So forgive me if I consult my watch from time to time now - Man in audience \"Buy a new watch\" -  It's becoming critical, it's a very serious situation, it can only be remedied by a song. Here we go...."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -49,6 +21,91 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1988-04-09",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany",
+      "venue": "Internationales Congress Centrum Berlin"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_first_we_take_manhattan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.first_we_take_manhattan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Berlin, at last, yes the final peace in my vast geopolitical jigsaw, Berlin at last, the worshippers of the bear, how happy I am to be among you."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_take_this_waltz",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.take_this_waltz"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I must be very careful about the time, because if I play one minute past a certain time, we are penalised many 1000 DM. And if I'm penalised many 1000 DM, I do not make a profit on this concert. And if I do not make a profit on this concert, then the entire theory of West Berlin is put into question. So forgive me if I consult my watch from time to time now - Man in audience \"Buy a new watch\" -  It's becoming critical, it's a very serious situation, it can only be remedied by a song. Here we go...."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,59 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-03-09 Munich",
-  "metadata": {
-    "date": "1985-03-09",
-    "location": {
-      "city": "Munich",
-      "country": "Germany",
-      "venue": "Rudi-Sedlmayer-Halle"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.bird_on_the_wire",
-        "content": {
-          "text": [
-            [
-              "I saw a beggar who was standing there on his wooden crutch",
-              " Oh he says to me \"Leonard you can't ask for that much\"",
-              " A pretty woman leaning in her darkened door",
-              " Oh she cries out to me \"hey why not ask for just a little bit more\""
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "It was a long time ago in New York City. There was a very great singer who stayed at the same hotel that I stayed at. And I used to meet her in the elevator late at night. She wasn't looking for me. She was looking for Kris Kristofferson. And to be indiscreet, I wasn't looking for her, I was looking for Brigitte Bardot. But through a curious twist of fate, we found ourselves on the same elevator. A particularly dismal, brown elevator, full of aimless ups and downs, and reeking with despair. This elevator never took anyone where they wanted to go. They only took us back to our rooms. Anyhow the hotel was the Chelsea Hotel and the singer was Janis Joplin, whose voice will never die."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.diamonds_in_the_mine",
-        "content": {
-          "text": [
-            [
-              "This is an old song about the little there is. Even where there was a",
-              " lot, there was a little. But now that there is a little, there's even less."
-            ],
-            "   Verse variation",
-            [
-              " There is no comfort in the covens of the witch",
-              " Some clever Jewish doctor went and sterilized the bitch",
-              " And here she comes, Miss Liberty, the liberation's pride",
-              " She showed a million women how to kill an unborn child"
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -141,6 +89,251 @@
       "newAnchor": "3:5"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1985-03-09",
+    "location": {
+      "city": "Munich",
+      "country": "Germany",
+      "venue": "Rudi-Sedlmayer-Halle"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_bird_on_the_wire",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.bird_on_the_wire"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I saw a beggar who was standing there on his wooden crutch"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Oh he says to me \"Leonard you can't ask for that much\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " A pretty woman leaning in her darkened door"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Oh she cries out to me \"hey why not ask for just a little bit more\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It was a long time ago in New York City. There was a very great singer who stayed at the same hotel that I stayed at. And I used to meet her in the elevator late at night. She wasn't looking for me. She was looking for Kris Kristofferson. And to be indiscreet, I wasn't looking for her, I was looking for Brigitte Bardot. But through a curious twist of fate, we found ourselves on the same elevator. A particularly dismal, brown elevator, full of aimless ups and downs, and reeking with despair. This elevator never took anyone where they wanted to go. They only took us back to our rooms. Anyhow the hotel was the Chelsea Hotel and the singer was Janis Joplin, whose voice will never die."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_diamonds_in_the_mine",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.diamonds_in_the_mine"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is an old song about the little there is. Even where there was a"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " lot, there was a little. But now that there is a little, there's even less."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "   Verse variation"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There is no comfort in the covens of the witch"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Some clever Jewish doctor went and sterilized the bitch"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And here she comes, Miss Liberty, the liberation's pride"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She showed a million women how to kill an unborn child"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

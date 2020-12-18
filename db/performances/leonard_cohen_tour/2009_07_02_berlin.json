@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-07-02 Berlin",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-07-02",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "O2 World Berlin"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

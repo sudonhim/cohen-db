@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-12 Bilbao",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-06-12",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Palacio Municipal de Deportes"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

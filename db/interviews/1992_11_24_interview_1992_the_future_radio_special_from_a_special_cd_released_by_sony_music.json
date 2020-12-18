@@ -1,23 +1,52 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1992-11-24 - Interview 1992  \"The Future Radio Special\" \n     from a special CD released by Sony music",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "1992-11-24"
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "song.tacoma_trailer",
-        "content": {
-          "text": [
-            "This was designed for a theatre piece by Ted Allen. It was part of long suite and I kept playing the music when I was in this trailer in Tacoma. That part of the suite attached itself and started to sound better and better. Then, I thought it would just be a nice moment to unwind from a very dense and literate album. I think you can unwind before you put the record on again."
+        "id": "on_tacoma_trailer",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.tacoma_trailer"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This was designed for a theatre piece by Ted Allen. It was part of long suite and I kept playing the music when I was in this trailer in Tacoma. That part of the suite attached itself and started to sound better and better. Then, I thought it would just be a nice moment to unwind from a very dense and literate album. I think you can unwind before you put the record on again."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

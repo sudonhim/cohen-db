@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "New Skin for the Old Ceremony",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1974-08-11"
   },
@@ -15,9 +19,5 @@
     "song.who_by_fire",
     "song.take_this_longing",
     "song.leaving_green_sleeves"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

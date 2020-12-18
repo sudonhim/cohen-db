@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-04 Dublin",
-  "metadata": {
-    "date": "1988-06-04",
-    "location": {
-      "city": "Dublin",
-      "country": "Ireland",
-      "venue": "An Staidiam Náisiúnta"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "A thousand years ago I used to live at this Hotel...( Applause )... I thought I saw you there. Every evening about three in the morning I'd bump into this young woman in the elevator, and after a couple of weeks I gathered up my courage and I asked her, \"Are you looking for someone?\" And she said, \"Yes I'm looking for Kris Kristofferson\". I said, \"Lucky Lady, you're in luck, I am Kris Kristofferson.\" Such was the generosity of the age that she never let on. Anyhow it was a couple of years later, after she passed away, that I was sitting at this bar in Miami Beach and drinking poisonous cocktails out of these ceramic coconut shells. I don't know why they use ceramic coconut shells because the whole place was infested with real coconut trees. These are arcane mysteries I will never penetrate. Anyhow her presence came on very strong and I wrote this song for Janis Joplin at the Chelsea Hotel."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -50,6 +31,54 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1988-06-04",
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland",
+      "venue": "An Staidiam Náisiúnta"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A thousand years ago I used to live at this Hotel...( Applause )... I thought I saw you there. Every evening about three in the morning I'd bump into this young woman in the elevator, and after a couple of weeks I gathered up my courage and I asked her, \"Are you looking for someone?\" And she said, \"Yes I'm looking for Kris Kristofferson\". I said, \"Lucky Lady, you're in luck, I am Kris Kristofferson.\" Such was the generosity of the age that she never let on. Anyhow it was a couple of years later, after she passed away, that I was sitting at this bar in Miami Beach and drinking poisonous cocktails out of these ceramic coconut shells. I don't know why they use ceramic coconut shells because the whole place was infested with real coconut trees. These are arcane mysteries I will never penetrate. Anyhow her presence came on very strong and I wrote this song for Janis Joplin at the Chelsea Hotel."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

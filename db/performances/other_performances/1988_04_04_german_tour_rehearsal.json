@@ -1,33 +1,159 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-04 - German tour rehearsal",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-04-04"
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "variation",
-        "reference": "song.aint_no_cure_for_love",
-        "content": {
-          "text": [
-            "sung as an additional verse",
-            [
-              " I have no place else to go",
-              " When the sweetest voice that I ever heard",
-              " Whisper to my soul",
-              " I don't need to be forgiven",
-              " For lovin' you so much",
-              " You see it's written in the Scriptures",
-              " It's written in the...",
-              " There ain't no cure, there ain't no cure, there ain't no cure for love."
-            ]
+        "id": "variation_on_aint_no_cure_for_love",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.aint_no_cure_for_love"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "sung as an additional verse"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I have no place else to go"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When the sweetest voice that I ever heard"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Whisper to my soul"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I don't need to be forgiven"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " For lovin' you so much"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You see it's written in the Scriptures"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " It's written in the..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There ain't no cure, there ain't no cure, there ain't no cure for love."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

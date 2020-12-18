@@ -1,21 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1974-10-01 - Zig-zag magazine",
-  "metadata": {
-    "date": "1974-10-01"
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "note",
-        "reference": "song.story_of_isaac",
-        "content": {
-          "text": [
-            "The song doesn't end with a plea for peace. It doesn't end with a plea for sanity between the generations. It ends saying, \"I'll kill you if I can, I will help you if I must, I will kill you if I must, I will help you if I can.\" That's all I can say about it. My father died when I was nine, that's the reason I put that one of us had to go."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "interview",
   "annotations": [
     {
@@ -35,6 +21,49 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1974-10-01"
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "on_story_of_isaac",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.story_of_isaac"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "The song doesn't end with a plea for peace. It doesn't end with a plea for sanity between the generations. It ends saying, \"I'll kill you if I can, I will help you if I must, I will kill you if I must, I will help you if I can.\" That's all I can say about it. My father died when I was nine, that's the reason I put that one of us had to go."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

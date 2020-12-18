@@ -1,25 +1,84 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-18 - Poetry Commotion magazine",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "1988-06-18"
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "song.everybody_knows",
-        "content": {
-          "text": [
-            "About the verse \"Everybody knows the plague is coming\"",
-            " The plague in the most physical sense is AIDS. But there's another kind of plague going on too, of which AIDS is one of the symptoms. If indeed disease does have ultimately a psychic origin, then there's a plague of alienation and separation and lassitude and panic; a sense of not being in control.",
-            " *Read the complete interview"
+        "id": "on_everybody_knows",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.everybody_knows"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "About the verse \"Everybody knows the plague is coming\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The plague in the most physical sense is AIDS. But there's another kind of plague going on too, of which AIDS is one of the symptoms. If indeed disease does have ultimately a psychic origin, then there's a plague of alienation and separation and lassitude and panic; a sense of not being in control."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " *Read the complete interview"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

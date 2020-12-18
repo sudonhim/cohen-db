@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-04-10 Los Angeles",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-04-10",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Nokia Theatre L.A. Live"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

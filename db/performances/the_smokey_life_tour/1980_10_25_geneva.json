@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-10-25 Geneva",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-10-25",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Switzerland",
       "venue": "Victoria Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

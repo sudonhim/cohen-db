@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1975 Early Tour In North America",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1975-01-26"
   },
@@ -8,9 +12,5 @@
     "live.1975_01_31_toronto",
     "live.1975_02_09_boston",
     "live.1975_02_10_montreal"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

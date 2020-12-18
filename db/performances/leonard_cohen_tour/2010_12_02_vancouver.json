@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-12-02 Vancouver",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-12-02",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Rogers Arena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

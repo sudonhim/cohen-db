@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-04-05 Phoenix",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-04-05",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Dodge Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

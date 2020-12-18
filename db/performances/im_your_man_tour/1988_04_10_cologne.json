@@ -1,35 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-04-10 Cologne",
-  "metadata": {
-    "date": "1988-04-10",
-    "location": {
-      "city": "Cologne",
-      "country": "Germany",
-      "venue": "Kölner Philharmonie"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "Many years ago, I lived in a Hotel in NYC. And late at night, sometimes in the elevator, I used to bump into a famous singer there, a young woman, who entertained thousands so gracefully and so gloriously. And I would look at her in the elevator, and she would look at me. I knew that she was actually looking for Kris Kristofferson but she would, well maybe she'd settle for me..."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_law",
-        "content": {
-          "text": [
-            "This is a song called \"The Law\". There is no escaping from the Law. There is a Law, there is an extension of the Law, and there is the actuality of the Law. There is a Law, there is an arm, there is a hand."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -59,6 +31,91 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1988-04-10",
+    "location": {
+      "city": "Cologne",
+      "country": "Germany",
+      "venue": "Kölner Philharmonie"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Many years ago, I lived in a Hotel in NYC. And late at night, sometimes in the elevator, I used to bump into a famous singer there, a young woman, who entertained thousands so gracefully and so gloriously. And I would look at her in the elevator, and she would look at me. I knew that she was actually looking for Kris Kristofferson but she would, well maybe she'd settle for me..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_law",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_law"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song called \"The Law\". There is no escaping from the Law. There is a Law, there is an extension of the Law, and there is the actuality of the Law. There is a Law, there is an arm, there is a hand."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

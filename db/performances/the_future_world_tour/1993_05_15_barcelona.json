@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-15 Barcelona",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-15",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Palau Municipal d'Esports"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

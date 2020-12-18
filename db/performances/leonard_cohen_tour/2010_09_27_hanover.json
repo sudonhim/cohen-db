@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-09-27 Hanover",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-09-27",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "TUI Arena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,171 +1,266 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Gypsy's Wife",
+  "kind": "song",
+  "annotations": [],
   "content": {
+    "kind": "simple",
     "content": {
-      "text": [
-        [
-          "And where, where, where is my Gypsy wife tonight?\r",
-          "I've heard all the wild reports, they can't be right\r",
-          "But whose head is this she's dancing with on the threshing floor?\r",
-          "Whose darkness deepens in her arms just a little more",
-          "\r",
-          "And where, where is my Gypsy wife tonight?\r",
-          "Where, where is my Gypsy wife tonight?",
-          "\r",
-          "Ahh, the silver knives are flashing in that tired old cafe\r",
-          "A ghost climbs on the table in bridal negligee\r",
-          "She says, \"My body is the light?, she says, ?My body is the way\"\r",
-          "I raise my arm against it all and I catch the bride's bouquet",
-          "\r",
-          "So where, where is my Gypsy wife tonight?\r",
-          "Where, where is my Gypsy wife tonight?",
-          "\r",
-          "It's too early for the rainbow, too early for the dove\r",
-          "These are your final days, this is the darkness, this is the flood\r",
-          "And there is no man, there is no woman, can't be touched\r",
-          "But you who come between them, you will surely be judged",
-          "\r",
-          "So where, where is my Gypsy wife tonight?\r",
-          "Where, where is my Gypsy wife tonight?"
-        ]
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And where, where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've heard all the wild reports, they can't be right"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But whose head is this she's dancing with on the threshing floor?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Whose darkness deepens in her arms just a little more"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ahh, the silver knives are flashing in that tired old cafe"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A ghost climbs on the table in bridal negligee"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She says, \"My body is the light?, she says, ?My body is the way\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I raise my arm against it all and I catch the bride's bouquet"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's too early for the rainbow, too early for the dove"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "These are your final days, this is the darkness, this is the flood"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there is no man, there is no woman, can't be touched"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But you who come between them, you will surely be judged"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Where, where is my Gypsy wife tonight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
       ]
     }
-  },
-  "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p1.l1",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.gypsy"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "1"
-    },
-    {
-      "anchor": "p1.l3",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dance"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "3"
-    },
-    {
-      "anchor": "p1.l4",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dark"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "4"
-    },
-    {
-      "anchor": "p1.l11",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.light"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "11"
-    },
-    {
-      "anchor": "p1.l17",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.dove"
-            }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "17"
-    },
-    {
-      "anchor": "p1.l18",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.flood"
-            }
-          ],
-          "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.day"
-            }
-          ],
-          "id": "2"
-        }
-      ],
-      "newAnchor": "18"
-    },
-    {
-      "anchor": "p1.l19",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.man"
-            }
-          ],
-          "id": "1"
-        },
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.woman"
-            }
-          ],
-          "id": "2"
-        }
-      ],
-      "newAnchor": "19"
-    }
-  ],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

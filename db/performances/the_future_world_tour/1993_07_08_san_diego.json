@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-07-08 San Diego",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-07-08",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Humphries By The Bay"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

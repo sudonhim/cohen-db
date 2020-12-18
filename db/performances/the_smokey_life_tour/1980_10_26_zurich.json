@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-10-26 Zurich",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-10-26",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Switzerland",
       "venue": "Kongresshaus"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

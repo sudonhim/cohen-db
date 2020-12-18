@@ -1,122 +1,377 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Butcher",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "I came upon a butcher,\r",
-          "He was slaughtering a lamb,\r",
-          "I accused him there\r",
-          "With his tortured lamb.",
-          "\r",
-          "He said, Listen to me, child,\r",
-          "I am what I am and you, you are my only son.\r",
-          "Well, I found a silver needle,\r",
-          "I put it into my arm.",
-          "\r",
-          "It did some good,\r",
-          "Did some harm.\r",
-          "But the nights were cold\r",
-          "And it almost kept me warm,\r",
-          "How come the night is long?\r",
-          "I saw some flowers growing up\r",
-          "Where that lamb fell down",
-          "\r",
-          "Was I supposed to praise my Lord,\r",
-          "Make some kind of joyful sound?\r",
-          "He said, Listen, listen to me now,\r",
-          "I go round and round\r",
-          "And you, you are my only child.",
-          "\r",
-          "Do not leave me now,\r",
-          "Do not leave me now,\r",
-          "I'm broken down\r",
-          "From a recent fall.",
-          "\r",
-          "Blood upon my body\r",
-          "And ice upon my soul,\r",
-          "Lead on, my son, it is your world."
-        ]
-      ]
-    }
-  },
   "kind": "song",
-  "annotations": [
-    {
-      "anchor": "p1.l7",
-      "annotations": [
+  "annotations": [],
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
         {
-          "user": "symbols bot",
-          "content": [
+          "kind": "text",
+          "id": "1",
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.son"
+              "kind": "text",
+              "text": "I came upon a butcher,"
             }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "7"
-    },
-    {
-      "anchor": "p1.l13",
-      "annotations": [
-        {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.cold"
-            }
-          ],
-          "id": "1"
+          ]
         },
         {
-          "user": "symbols bot",
-          "content": [
-            {
-              "kind": "docref",
-              "docRef": "symbol.night"
-            }
-          ],
-          "id": "2"
-        }
-      ],
-      "newAnchor": "13"
-    },
-    {
-      "anchor": "p1.l30",
-      "annotations": [
+          "kind": "lineBreak"
+        },
         {
-          "user": "symbols bot",
-          "content": [
+          "kind": "text",
+          "id": "2",
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.blood"
+              "kind": "text",
+              "text": "He was slaughtering a lamb,"
             }
-          ],
-          "id": "1"
-        }
-      ],
-      "newAnchor": "30"
-    },
-    {
-      "anchor": "p1.l31",
-      "annotations": [
+          ]
+        },
         {
-          "user": "symbols bot",
-          "content": [
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.ice"
+              "kind": "text",
+              "text": "I accused him there"
             }
-          ],
-          "id": "1"
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "With his tortured lamb."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He said, Listen to me, child,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I am what I am and you, you are my only son."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, I found a silver needle,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I put it into my arm."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It did some good,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Did some harm."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But the nights were cold"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it almost kept me warm,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "How come the night is long?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I saw some flowers growing up"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Where that lamb fell down"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Was I supposed to praise my Lord,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Make some kind of joyful sound?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He said, Listen, listen to me now,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I go round and round"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And you, you are my only child."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Do not leave me now,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Do not leave me now,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'm broken down"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "From a recent fall."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Blood upon my body"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And ice upon my soul,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Lead on, my son, it is your world."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
         }
-      ],
-      "newAnchor": "31"
+      ]
     }
-  ],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

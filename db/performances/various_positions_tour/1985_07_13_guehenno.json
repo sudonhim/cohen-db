@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1985-07-13 Guéhenno",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1985-07-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Festival Élixir"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

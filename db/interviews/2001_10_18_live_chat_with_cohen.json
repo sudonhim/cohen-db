@@ -1,24 +1,68 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2001-10-18 - Live Chat With Cohen",
+  "kind": "interview",
+  "annotations": [],
   "metadata": {
     "date": "2001-10-18"
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "note",
-        "reference": "song.closing_time",
-        "content": {
-          "text": [
-            "Answering a fan who asked \"When exactly is \"Closing Time\" ?",
-            "It's that wild, or beautiful, or terrible time when things reach their maximum point of expansion, and then begin to contract. It's the time we're in."
+        "id": "on_closing_time",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.closing_time"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Answering a fan who asked \"When exactly is \"Closing Time\" ?"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It's that wild, or beautiful, or terrible time when things reach their maximum point of expansion, and then begin to contract. It's the time we're in."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "interview",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

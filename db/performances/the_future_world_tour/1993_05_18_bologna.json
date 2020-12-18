@@ -1,26 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-18 Bologna",
-  "metadata": {
-    "date": "1993-05-18",
-    "location": {
-      "city": "Bologna",
-      "country": "Italy",
-      "venue": "Teatro Medico"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.take_this_waltz",
-        "content": {
-          "text": [
-            "My daughter dyed her hair blue and I didn't mind,and she put this ring in her nose : I didn't mind that either.And she put this stud through her tongue.That was a little hard for a father to take but I didn't really feel like doing violence to her relationship just because you put a nail through a tongue. There are things you have to accept.Then she said she want to move to  Amsterdam. That's when I put my foot down.( all this is my way of introducing a song ).My daughter was named after a great poet that touched me very much when I was her age.His name is Federico Garcia Lorca.My daughter's name is Lorca.And this is the song for him."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -70,6 +51,54 @@
       "newAnchor": "1:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1993-05-18",
+    "location": {
+      "city": "Bologna",
+      "country": "Italy",
+      "venue": "Teatro Medico"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_take_this_waltz",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.take_this_waltz"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "My daughter dyed her hair blue and I didn't mind,and she put this ring in her nose : I didn't mind that either.And she put this stud through her tongue.That was a little hard for a father to take but I didn't really feel like doing violence to her relationship just because you put a nail through a tongue. There are things you have to accept.Then she said she want to move to  Amsterdam. That's when I put my foot down.( all this is my way of introducing a song ).My daughter was named after a great poet that touched me very much when I was her age.His name is Federico Garcia Lorca.My daughter's name is Lorca.And this is the song for him."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

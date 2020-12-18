@@ -1,46 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-10-31 Austin",
-  "metadata": {
-    "date": "1988-10-31",
-    "event": "Austin City Limits Music Festival",
-    "location": {
-      "city": "Austin",
-      "country": "United States",
-      "venue": "Zilker Park"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.aint_no_cure_for_love",
-        "content": {
-          "text": [
-            "Oh thank you very much friends for this very gracious welcome. It's a great honor to play here this evening. I wanted to come and play this show for many years and we are very fortunate to be able to do so. I appreciate it very much. I only had one tricky moment in this City. It was when we were passing a Shoe Hospital. One of my boots which has a long history of hypochondria cried out pitifully. My whole Cadillac flash before my eyes..... When the Prince of Peace was hanging from that wooden beam, He cast His eyes skyward and realizing for the first time his full human predicament, He cried out \"Why hast hou forsaken me ?\" Imediately He felt the relief of a brusque embracing of shaving lotion* and He understood that a lever had been thrown in the Cosmos, and nothing would ever be the same again. And He said \"Consummatus mas! It is finished\". And then He looked beneath Him, looked at the human faces, the faces of indifference, greed, ecstasy, innocence, despair. He looked at the human faces and then He understood thoroughly there ain't no cure for love.",
-            "  *In Portland(28/10/88) the prologue said \"...and then with a sense of relief, with a relief a man feels when he puts on shaving lotion after difficult shave...\""
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.take_this_waltz",
-        "content": {
-          "text": [
-            "Long time ago I was about 15 in my hometown of Montreal, I was rumbling through....or rambling as you say down here. We say \"rumbling\" .Actually we don't say that at all. I was rumbling through this bookstore in Montreal. And I came upon this old book, a second-hand book of poems by a Spanish poet. I opened it up and I read these lines : \"I want to pass through the arches of Elvira, to see your thighs and begin weeping\". Well that certainly was a refreshing sentiment. I began my own search for those arches those thighs and those tears....Another line \"The morning through fistfuls of ants at my face\" It's a terrible idea. But this was a universe I understood thoroughly and I began to pursue it, I began to follow it and I began to live in it. And now these many years later, it is my great privilege to be able to offer my tiny homage to this great Spanish poet, the aniversary of whose assassination was celebrated two years ago. He was killed by the Civil Guards in Spain in 1936. But my real homage to this poet was naming my own daughter Lorca. It was Federico Garcia Lorca. I set one of his poems to music and translated it. He called it \"Little Vienese Waltz\". My song is called \"Take this Waltz\"."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "Austin has always been known as a kind of seed of resistance. It's a subtle situation. No flags are burned, no offensive rethoric. But everyone knows that somehow the spirit reigns free here. This is a song of another Resistance a long time ago. It's called \"The Partisan\"."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -86,6 +47,145 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1988-10-31",
+    "event": "Austin City Limits Music Festival",
+    "location": {
+      "city": "Austin",
+      "country": "United States",
+      "venue": "Zilker Park"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_aint_no_cure_for_love",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.aint_no_cure_for_love"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Oh thank you very much friends for this very gracious welcome. It's a great honor to play here this evening. I wanted to come and play this show for many years and we are very fortunate to be able to do so. I appreciate it very much. I only had one tricky moment in this City. It was when we were passing a Shoe Hospital. One of my boots which has a long history of hypochondria cried out pitifully. My whole Cadillac flash before my eyes..... When the Prince of Peace was hanging from that wooden beam, He cast His eyes skyward and realizing for the first time his full human predicament, He cried out \"Why hast hou forsaken me ?\" Imediately He felt the relief of a brusque embracing of shaving lotion* and He understood that a lever had been thrown in the Cosmos, and nothing would ever be the same again. And He said \"Consummatus mas! It is finished\". And then He looked beneath Him, looked at the human faces, the faces of indifference, greed, ecstasy, innocence, despair. He looked at the human faces and then He understood thoroughly there ain't no cure for love."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "  *In Portland(28/10/88) the prologue said \"...and then with a sense of relief, with a relief a man feels when he puts on shaving lotion after difficult shave...\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_take_this_waltz",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.take_this_waltz"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Long time ago I was about 15 in my hometown of Montreal, I was rumbling through....or rambling as you say down here. We say \"rumbling\" .Actually we don't say that at all. I was rumbling through this bookstore in Montreal. And I came upon this old book, a second-hand book of poems by a Spanish poet. I opened it up and I read these lines : \"I want to pass through the arches of Elvira, to see your thighs and begin weeping\". Well that certainly was a refreshing sentiment. I began my own search for those arches those thighs and those tears....Another line \"The morning through fistfuls of ants at my face\" It's a terrible idea. But this was a universe I understood thoroughly and I began to pursue it, I began to follow it and I began to live in it. And now these many years later, it is my great privilege to be able to offer my tiny homage to this great Spanish poet, the aniversary of whose assassination was celebrated two years ago. He was killed by the Civil Guards in Spain in 1936. But my real homage to this poet was naming my own daughter Lorca. It was Federico Garcia Lorca. I set one of his poems to music and translated it. He called it \"Little Vienese Waltz\". My song is called \"Take this Waltz\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Austin has always been known as a kind of seed of resistance. It's a subtle situation. No flags are burned, no offensive rethoric. But everyone knows that somehow the spirit reigns free here. This is a song of another Resistance a long time ago. It's called \"The Partisan\"."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

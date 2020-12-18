@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-20 Valencia",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-20",
     "event": "Festival Internacional de Benicàssim",
@@ -8,9 +12,5 @@
       "country": "Spain",
       "venue": "Benicàssim Castellón"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

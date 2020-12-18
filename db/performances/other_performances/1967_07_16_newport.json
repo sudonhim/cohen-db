@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1967-07-16 Newport",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1967-07-16",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Festival Field"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

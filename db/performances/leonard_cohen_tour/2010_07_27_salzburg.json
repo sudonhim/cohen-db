@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-07-27 Salzburg",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-07-27",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Austria",
       "venue": "Salzburgarena"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

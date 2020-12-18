@@ -1,41 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Lost Canadian",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Un Canadien Errant (A wandering Canadian,)",
-          "Banni de ses foyers, (banned from his hearths,)",
-          "Parcourait en pleurant (travelled while crying)",
-          "Des pays etrangers. (in foreign lands.)",
-          "Parcourait en pleurant (travelled while crying)",
-          "Des pays etrangers. (in foreign lands.)",
-          "Un jour, triste et pensif, (One day, sad and pensive,)",
-          "Assis au bord des flots, (sitting by the flowing waters,)",
-          "Au courant fugitif (to the fleeing current)",
-          "Il adressa ces mots: (he addressed these words:)",
-          "Au courant fugitif (to the fleeing current)",
-          "Il adressa ces mots: (he addressed these words:)"
-        ],
-        [
-          "\"Si tu vois mon pays, (If you see my country,)",
-          "Mon pays malheureux, (my unhappy country,)",
-          "Va dire a mes amis (go tell my friends)",
-          "Que je me souviens d'eux. (that I remember them.)",
-          "Va dire a mes amis (go tell my friends)",
-          "Que je me souviens d'eux. (that I remember them.)"
-        ],
-        [
-          "O jours si pleins d'appas, (O days so full of charms,)",
-          "Vous etes disparus... (you have vanished...)",
-          "Et ma patrie, helas! (And my native land, alas!)",
-          "Je ne la verrai plus. (I will see it no more.)",
-          "Et ma patrie, helas! (And my native land, alas!)",
-          "Je ne la verrai plus. (I will see it no more.)"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -71,6 +37,332 @@
       "newAnchor": "8"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Un Canadien Errant (A wandering Canadian,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Banni de ses foyers, (banned from his hearths,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Parcourait en pleurant (travelled while crying)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Des pays etrangers. (in foreign lands.)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Parcourait en pleurant (travelled while crying)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Des pays etrangers. (in foreign lands.)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Un jour, triste et pensif, (One day, sad and pensive,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Assis au bord des flots, (sitting by the flowing waters,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Au courant fugitif (to the fleeing current)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Il adressa ces mots: (he addressed these words:)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Au courant fugitif (to the fleeing current)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Il adressa ces mots: (he addressed these words:)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"Si tu vois mon pays, (If you see my country,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Mon pays malheureux, (my unhappy country,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Va dire a mes amis (go tell my friends)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Que je me souviens d'eux. (that I remember them.)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Va dire a mes amis (go tell my friends)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Que je me souviens d'eux. (that I remember them.)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "O jours si pleins d'appas, (O days so full of charms,)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Vous etes disparus... (you have vanished...)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Et ma patrie, helas! (And my native land, alas!)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Je ne la verrai plus. (I will see it no more.)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Et ma patrie, helas! (And my native land, alas!)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Je ne la verrai plus. (I will see it no more.)"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

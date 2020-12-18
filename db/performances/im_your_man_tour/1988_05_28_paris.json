@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-05-28 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-05-28",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Le Grand Rex"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

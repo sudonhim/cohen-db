@@ -1,180 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1975-11-23 Bryn Mawr",
-  "metadata": {
-    "date": "1975-11-23",
-    "location": {
-      "city": "Bryn Mawr",
-      "country": "United States",
-      "venue": "The Main Point"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "variation",
-        "reference": "song.iodine",
-        "content": {
-          "text": [
-            "An early version of \"Iodine\" was sung in Bryn Mawr, during the 1975 tour",
-            [
-              "A lady saw me boasting in Guerrero",
-              " When I was running smoke across the knife",
-              " She let me love her till I was a failure",
-              " Her beauty on my bruise like Iodine"
-            ],
-            [
-              " When I was weak enough to learn her method",
-              " I said \"Will I be punished for my crime?\"",
-              " She said \"There is a table set in heaven\"",
-              " But I don't like to meet there all the time."
-            ],
-            [
-              " She pulled away the mask",
-              " Of the Madonna",
-              " She pulled away the valleys",
-              " Of her thighs",
-              " She bid me find herself",
-              " In other women",
-              " Until I should destroy her last disguise"
-            ],
-            [
-              " Then I was with her when there was no ocean",
-              " When there was no moon to spill the tide",
-              " Yeah long before the wild imagination",
-              " Her layers in Guerrero side by side"
-            ],
-            [
-              " She pulled away the mask",
-              " Of the Madonna",
-              " She pulled away the valleys",
-              " Of her thighs",
-              " She bid me find herself",
-              " In other women",
-              " Until I should exhaust her last disguise"
-            ],
-            [
-              " Then I was with her when there was no ocean",
-              " When there was no moon to spill the tide",
-              " Well long before the wild imagination",
-              " Her layers in Guerrero side by side",
-              " Her layers in Guerrero side by side"
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "This song comes from a happier time when we knew who the enemy was."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.the_smokey_life",
-        "content": {
-          "text": [
-            "Early version sung four years before its official release in 1979",
-            [
-              "You know I've never seen your eyes so wide",
-              " Your appetite this occupied",
-              " With someone else",
-              " As if we'd been alone "
-            ],
-            [
-              "Now it ain't my style to hold on that tight",
-              " Let's be married one more night",
-              " I guess it's time, I finally let you go "
-            ],
-            [
-              "Oh I recall the scenery started fading",
-              " I held you til you learned to walk on air",
-              " Don't look down, it's gone, it's faded baby",
-              " The Smokey Life is practiced everywhere"
-            ],
-            [
-              "Set your little restless heart at ease",
-              " The lessons in all of these autumn leaves",
-              " Ain't no sense in waiting for the snow",
-              " Hurry, hurry, hurry now or you'll be late",
-              " There's nothing to investigate"
-            ],
-            [
-              "I guess it's time, I finally let you go Oh I recall the scenery started fading",
-              " I held you til you learned to walk on air",
-              " Don't look down, it's gone, it's faded baby",
-              " The Smokey Life is practiced everywhere"
-            ],
-            [
-              " Come back when the moment lends",
-              " You can look up all my very closest friends"
-            ],
-            " I guess it's time, I finally let you go"
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.the_traitor",
-        "content": {
-          "text": [
-            "Early version sung 4 years before its official release",
-            [
-              " The Swan it floated on the English river",
-              " The Rose of Sharon opened like a mess",
-              " A suntanned woman yawned through the summer",
-              " Unfolding like a fan to my request"
-            ],
-            [
-              " I told my mother, Mother I must leave you",
-              " Preserve my room but do not shed a tear",
-              " Should rumors of a shabby ending reach you",
-              " It was half my fault and half the atmosphere"
-            ],
-            [
-              " Well I broke the glass an arm above that hammer",
-              " And the fire touched me with a magnet flame",
-              " At last she said I was her finest lover",
-              " And if she withered, I would be to blame"
-            ],
-            [
-              " She held me tight just like a soldier's widow",
-              " But soon I heard reports of the attack",
-              " Yes and past her hair and through the steamy window",
-              " I saw the men of action falling back."
-            ],
-            [
-              " But I lingered on her thighs a fatal moment",
-              " I kissed her lips as though I thirsted still",
-              " My falsity it stung me like a hornet",
-              " The poison sank and it paralized my will"
-            ],
-            [
-              " I could not move to warn the younger soldiers",
-              " That they had been deserted from above",
-              " So on battlefields from here to Barcelona",
-              " I'm listed with the enemies of love"
-            ],
-            [
-              " And long ago she said, I must be leaving",
-              " But keep my body here to lie upon",
-              " Yes and move it up and down and",
-              " When It's sleeping",
-              " You can wire up the rose and wind the Swan"
-            ],
-            [
-              " So daily I renew my idle duty",
-              " I touch her here and there, I know my place",
-              " I kiss her open mouth and I praise her beauty",
-              " And people call me Traitor to my face."
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -522,6 +349,1359 @@
       "newAnchor": "4:30"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1975-11-23",
+    "location": {
+      "city": "Bryn Mawr",
+      "country": "United States",
+      "venue": "The Main Point"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "variation_on_iodine",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.iodine"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "An early version of \"Iodine\" was sung in Bryn Mawr, during the 1975 tour"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A lady saw me boasting in Guerrero"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When I was running smoke across the knife"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She let me love her till I was a failure"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Her beauty on my bruise like Iodine"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When I was weak enough to learn her method"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I said \"Will I be punished for my crime?\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She said \"There is a table set in heaven\""
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But I don't like to meet there all the time."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "10",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She pulled away the mask"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "11",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Of the Madonna"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "12",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She pulled away the valleys"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "13",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Of her thighs"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "14",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She bid me find herself"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "15",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " In other women"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "16",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Until I should destroy her last disguise"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "17",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Then I was with her when there was no ocean"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "18",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When there was no moon to spill the tide"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "19",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Yeah long before the wild imagination"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "20",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Her layers in Guerrero side by side"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "21",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She pulled away the mask"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "22",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Of the Madonna"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "23",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She pulled away the valleys"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "24",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Of her thighs"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "25",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She bid me find herself"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "26",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " In other women"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "27",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Until I should exhaust her last disguise"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "28",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Then I was with her when there was no ocean"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "29",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When there was no moon to spill the tide"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "30",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Well long before the wild imagination"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "31",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Her layers in Guerrero side by side"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "32",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Her layers in Guerrero side by side"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This song comes from a happier time when we knew who the enemy was."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_the_smokey_life",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_smokey_life"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Early version sung four years before its official release in 1979"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You know I've never seen your eyes so wide"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Your appetite this occupied"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " With someone else"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " As if we'd been alone "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Now it ain't my style to hold on that tight"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Let's be married one more night"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I guess it's time, I finally let you go "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Oh I recall the scenery started fading"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "10",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I held you til you learned to walk on air"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "11",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Don't look down, it's gone, it's faded baby"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "12",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The Smokey Life is practiced everywhere"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "13",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Set your little restless heart at ease"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "14",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The lessons in all of these autumn leaves"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "15",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Ain't no sense in waiting for the snow"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "16",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Hurry, hurry, hurry now or you'll be late"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "17",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " There's nothing to investigate"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "18",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "I guess it's time, I finally let you go Oh I recall the scenery started fading"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "19",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I held you til you learned to walk on air"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "20",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Don't look down, it's gone, it's faded baby"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "21",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The Smokey Life is practiced everywhere"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "22",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Come back when the moment lends"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "23",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You can look up all my very closest friends"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "24",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I guess it's time, I finally let you go"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_the_traitor",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_traitor"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Early version sung 4 years before its official release"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The Swan it floated on the English river"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The Rose of Sharon opened like a mess"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " A suntanned woman yawned through the summer"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Unfolding like a fan to my request"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I told my mother, Mother I must leave you"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Preserve my room but do not shed a tear"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Should rumors of a shabby ending reach you"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "9",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " It was half my fault and half the atmosphere"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "10",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Well I broke the glass an arm above that hammer"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "11",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And the fire touched me with a magnet flame"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "12",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " At last she said I was her finest lover"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "13",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And if she withered, I would be to blame"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "14",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She held me tight just like a soldier's widow"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "15",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But soon I heard reports of the attack"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "16",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Yes and past her hair and through the steamy window"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "17",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I saw the men of action falling back."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "18",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But I lingered on her thighs a fatal moment"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "19",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I kissed her lips as though I thirsted still"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "20",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " My falsity it stung me like a hornet"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "21",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " The poison sank and it paralized my will"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "22",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I could not move to warn the younger soldiers"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "23",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " That they had been deserted from above"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "24",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " So on battlefields from here to Barcelona"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "25",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I'm listed with the enemies of love"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "26",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And long ago she said, I must be leaving"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "27",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But keep my body here to lie upon"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "28",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Yes and move it up and down and"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "29",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " When It's sleeping"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "30",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You can wire up the rose and wind the Swan"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "31",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " So daily I renew my idle duty"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "32",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I touch her here and there, I know my place"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "33",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " I kiss her open mouth and I praise her beauty"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "34",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And people call me Traitor to my face."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

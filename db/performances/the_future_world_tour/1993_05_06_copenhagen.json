@@ -1,44 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-06 Copenhagen",
-  "metadata": {
-    "date": "1993-05-06",
-    "location": {
-      "city": "Copenhagen",
-      "country": "Denmark",
-      "venue": "Falkoner Teatret"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.aint_no_cure_for_love",
-        "content": {
-          "text": [
-            "When the Prince of Peace was hanging from his final tree and he looked down at the people beneath him, the Roman soldiers, the Pharisees, the Sadducees , the Hellenist, the Jews. And he saw their up-turned faces. The faces of anger, envy, bewilderment, greed, despair. He looked into those faces and he felt that a lever had been thrown in the cosmos and nothing ever would be the same again. And He looked down at them and He knew for certain, He knew for sure, He knew for all time, there ain't no cure for love."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.democracy",
-        "content": {
-          "text": [
-            "spoken additional verse",
-            [
-              " From the church where the outcasts can hide from the Masque",
-              " Where the blood is dignified",
-              " Like the fingers on your hand, like an hourglass of sand",
-              " We can separate but not divide",
-              " And I know your baby's missing, but we sited her today",
-              " She was cleaning her machine-gun, she was waving her beret"
-            ],
-            " Democracy is coming to the USA"
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -84,6 +47,188 @@
       "newAnchor": "2:3"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1993-05-06",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "venue": "Falkoner Teatret"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_aint_no_cure_for_love",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.aint_no_cure_for_love"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "When the Prince of Peace was hanging from his final tree and he looked down at the people beneath him, the Roman soldiers, the Pharisees, the Sadducees , the Hellenist, the Jews. And he saw their up-turned faces. The faces of anger, envy, bewilderment, greed, despair. He looked into those faces and he felt that a lever had been thrown in the cosmos and nothing ever would be the same again. And He looked down at them and He knew for certain, He knew for sure, He knew for all time, there ain't no cure for love."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_democracy",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.democracy"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "spoken additional verse"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " From the church where the outcasts can hide from the Masque"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Where the blood is dignified"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Like the fingers on your hand, like an hourglass of sand"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "5",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " We can separate but not divide"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "6",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And I know your baby's missing, but we sited her today"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "7",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " She was cleaning her machine-gun, she was waving her beret"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "8",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Democracy is coming to the USA"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

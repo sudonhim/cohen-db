@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-02-03 Brisbane",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-02-03",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Australia",
       "venue": "Brisbane Entertainment Centre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

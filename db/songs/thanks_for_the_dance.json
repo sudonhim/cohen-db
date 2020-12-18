@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Thanks for the Dance",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "2019-11-22"
   },
@@ -13,9 +17,5 @@
     "song.puppets",
     "song.the_hills",
     "song.listen_to_the_hummingbird"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

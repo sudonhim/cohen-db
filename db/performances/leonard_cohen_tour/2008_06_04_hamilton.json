@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-06-04 Hamilton",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-06-04",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Hamilton Place Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

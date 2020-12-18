@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-28 Bergen",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-06-28",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Norway",
       "venue": "Nygårdsparken"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

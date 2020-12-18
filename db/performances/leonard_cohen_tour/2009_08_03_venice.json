@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-08-03 Venice",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-08-03",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Italy",
       "venue": "San Marco"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-13 Paris",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-13",
     "location": {
@@ -9,37 +13,137 @@
     }
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "variation",
-        "reference": "song.hallelujah",
-        "content": {
-          "text": [
-            "verse variation",
-            [
-              "   ....Well I've seen your walls ( alternative * your fortress) , your towers on the marble arch.",
-              "       But Love is not a victory march...."
-            ]
+        "id": "variation_on_hallelujah",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.hallelujah"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "verse variation"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "   ....Well I've seen your walls ( alternative * your fortress) , your towers on the marble arch."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "       But Love is not a victory march...."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       },
       {
-        "kind": "prologue",
-        "reference": "song.the_future",
-        "content": {
-          "text": [
-            [
-              "Rendez-moi le mur de Berlin  (Give me back the Berlin Wall)",
-              " Rendez moi Jesus et St Paul  (Give me Jesus and St Paul)",
-              " J'ai vu l'avenir : c'est un massacre !  (It's a slaughter)....."
-            ]
+        "id": "prologue_to_the_future",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_future"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Rendez-moi le mur de Berlin  (Give me back the Berlin Wall)"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Rendez moi Jesus et St Paul  (Give me Jesus and St Paul)"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " J'ai vu l'avenir : c'est un massacre !  (It's a slaughter)....."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

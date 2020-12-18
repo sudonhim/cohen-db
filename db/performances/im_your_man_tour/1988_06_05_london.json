@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-06-05 London",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1988-06-05",
     "location": {
@@ -7,9 +11,5 @@
       "country": "England",
       "venue": "Royal Albert Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

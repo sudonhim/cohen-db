@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-09 Ghent",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-09",
     "event": "Hand in Hand Anti-Racism Festival",
@@ -10,38 +14,119 @@
     }
   },
   "content": {
+    "kind": "multipart",
     "content": [
       {
-        "kind": "prologue",
-        "reference": "song.aint_no_cure_for_love",
-        "content": {
-          "text": [
-            "When the Prince of Peace gazed down at the faces looking up at Him,the faces of envy,anger,envy,despair,He didn't know why,He just happened to like them all.He knew,He knew for certain there was no getting away from this dismal reality:There ain't no cure for love."
+        "id": "prologue_to_aint_no_cure_for_love",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.aint_no_cure_for_love"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "When the Prince of Peace gazed down at the faces looking up at Him,the faces of envy,anger,envy,despair,He didn't know why,He just happened to like them all.He knew,He knew for certain there was no getting away from this dismal reality:There ain't no cure for love."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       },
       {
-        "kind": "prologue",
-        "reference": "song.first_we_take_manhattan",
-        "content": {
-          "text": [
-            "You know,they expected 10,000 people to come tonight.But only 5,000 came tonight,but it doesn't matter,it doesn't matter at all.This is a good number to begin with.This is a good number to begin,to make yourself strong and to make yourself cheerful and to enable yourself to take Manhattan,and then Berlin (..)..."
+        "id": "prologue_to_first_we_take_manhattan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.first_we_take_manhattan"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "You know,they expected 10,000 people to come tonight.But only 5,000 came tonight,but it doesn't matter,it doesn't matter at all.This is a good number to begin with.This is a good number to begin,to make yourself strong and to make yourself cheerful and to enable yourself to take Manhattan,and then Berlin (..)..."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       },
       {
-        "kind": "prologue",
-        "reference": "song.take_this_waltz",
-        "content": {
-          "text": [
-            "A long time ago i came upon the poems of a great Spanish poet and tonight once again I offer my tiny homage to Federico Garcia Lorca."
+        "id": "prologue_to_take_this_waltz",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.take_this_waltz"
+              }
+            }
           ]
-        }
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A long time ago i came upon the poems of a great Spanish poet and tonight once again I offer my tiny homage to Federico Garcia Lorca."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
       }
     ]
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "The Future World Tour",
+  "kind": "tour",
+  "annotations": [],
   "metadata": {
     "date": "1993-04-25"
   },
@@ -70,9 +74,5 @@
     "live.1993_07_27_calgary",
     "live.1993_07_29_vancouver",
     "live.1993_07_30_victoria"
-  ],
-  "kind": "tour",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

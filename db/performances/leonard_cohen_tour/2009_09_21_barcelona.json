@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-09-21 Barcelona",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-09-21",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Spain",
       "venue": "Palau Sant Jordi"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

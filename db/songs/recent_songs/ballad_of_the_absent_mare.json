@@ -1,131 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 3,
   "title": "Ballad of the Absent Mare",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Say a prayer for the cowboy",
-          "His mare's run away",
-          "And he'll walk til he finds her",
-          "His darling, his stray",
-          "But the river's in flood",
-          "And the roads are awash",
-          "And the bridges break up",
-          "In the panic of loss."
-        ],
-        [
-          "And there's nothing to follow",
-          "There's nowhere to go",
-          "She's gone like the summer",
-          "Gone like the snow",
-          "And the crickets are breaking",
-          "His heart with their song",
-          "As the day caves in",
-          "And the night is all wrong"
-        ],
-        [
-          "Did he dream, was it she",
-          "Who went galloping past",
-          "And bent down the fern",
-          "Broke open the grass",
-          "And printed the mud with",
-          "The iron and the gold",
-          "That he nailed to her feet",
-          "When he was the lord"
-        ],
-        [
-          "And although she goes grazing",
-          "A minute away",
-          "He tracks her all night",
-          "He tracks her all day",
-          "Oh blind to her presence",
-          "Except to compare",
-          "His injury here",
-          "With her punishment there"
-        ],
-        [
-          "Then at home on a branch",
-          "In the highest tree",
-          "A songbird sings out",
-          "So suddenly",
-          "Ah the sun is warm",
-          "And the soft winds ride",
-          "On the willow trees",
-          "By the river side"
-        ],
-        [
-          "Oh the world is sweet",
-          "The world is wide",
-          "And she's there where",
-          "The light and the darkness divide",
-          "And the steam's coming off her",
-          "She's huge and she's shy",
-          "And she steps on the moon",
-          "When she paws at the sky"
-        ],
-        [
-          "And she comes to his hand",
-          "But she's not really tame",
-          "She longs to be lost",
-          "He longs for the same",
-          "And she'll bolt and she'll plunge",
-          "Through the first open pass",
-          "To roll and to feed",
-          "In the sweet mountain grass"
-        ],
-        [
-          "Or she'll make a break",
-          "For the high plateau",
-          "Where there's nothing above",
-          "And there's nothing below",
-          "And it's time for the burden",
-          "It's time for the whip",
-          "Will she walk through the flame",
-          "Can he shoot from the hip"
-        ],
-        [
-          "So he binds himself",
-          "To the galloping mare",
-          "And she binds herself",
-          "To the rider there",
-          "And there is no space",
-          "But there's left and right",
-          "And there is no time",
-          "But there's day and night"
-        ],
-        [
-          "And he leans on her neck",
-          "And he whispers low",
-          "\"Whither thou goest",
-          "I will go\"",
-          "And they turn as one",
-          "And they head for the plain",
-          "No need for the whip",
-          "Ah, no need for the rein"
-        ],
-        [
-          "Now the clasp of this union",
-          "Who fastens it tight?",
-          "Who snaps it asunder",
-          "The very next night",
-          "Some say the rider",
-          "Some say the mare",
-          "Or that love's like the smoke",
-          "Beyond all repair"
-        ],
-        [
-          "But my darling says",
-          "\"Leonard, just let it go by",
-          "That old silhouette",
-          "On the great western sky\"",
-          "So I pick out a tune",
-          "And they move right along",
-          "And they're gone like the smoke",
-          "And they're gone like this song"
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -594,6 +470,1295 @@
       "newAnchor": "87"
     }
   ],
-  "user": "sudonhim",
-  "version": 3
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Say a prayer for the cowboy"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His mare's run away"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And he'll walk til he finds her"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His darling, his stray"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But the river's in flood"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the roads are awash"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the bridges break up"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In the panic of loss."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there's nothing to follow"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "There's nowhere to go"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She's gone like the summer"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Gone like the snow"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "13",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the crickets are breaking"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "14",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His heart with their song"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "15",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "As the day caves in"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "16",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the night is all wrong"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "17",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Did he dream, was it she"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "18",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Who went galloping past"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "19",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And bent down the fern"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "20",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Broke open the grass"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "21",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And printed the mud with"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "22",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The iron and the gold"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "23",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "That he nailed to her feet"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "24",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When he was the lord"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "25",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And although she goes grazing"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "26",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A minute away"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "27",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He tracks her all night"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "28",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He tracks her all day"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "29",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh blind to her presence"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "30",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Except to compare"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "31",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His injury here"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "32",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "With her punishment there"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "33",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Then at home on a branch"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "34",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In the highest tree"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "35",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "A songbird sings out"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "36",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So suddenly"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "37",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah the sun is warm"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "38",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the soft winds ride"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "39",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On the willow trees"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "40",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "By the river side"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "41",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh the world is sweet"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "42",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The world is wide"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "43",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And she's there where"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "44",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The light and the darkness divide"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "45",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And the steam's coming off her"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "46",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She's huge and she's shy"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "47",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And she steps on the moon"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "48",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When she paws at the sky"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "49",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And she comes to his hand"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "50",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But she's not really tame"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "51",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "She longs to be lost"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "52",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He longs for the same"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "53",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And she'll bolt and she'll plunge"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "54",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Through the first open pass"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "55",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "To roll and to feed"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "56",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In the sweet mountain grass"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "57",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Or she'll make a break"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "58",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "For the high plateau"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "59",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Where there's nothing above"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "60",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there's nothing below"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "61",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And it's time for the burden"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "62",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's time for the whip"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "63",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Will she walk through the flame"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "64",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Can he shoot from the hip"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "65",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So he binds himself"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "66",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "To the galloping mare"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "67",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And she binds herself"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "68",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "To the rider there"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "69",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there is no space"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "70",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But there's left and right"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "71",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there is no time"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "72",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But there's day and night"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "73",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And he leans on her neck"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "74",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And he whispers low"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "75",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"Whither thou goest"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "76",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I will go\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "77",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And they turn as one"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "78",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And they head for the plain"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "79",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "No need for the whip"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "80",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ah, no need for the rein"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "81",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Now the clasp of this union"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "82",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Who fastens it tight?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "83",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Who snaps it asunder"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "84",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The very next night"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "85",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Some say the rider"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "86",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Some say the mare"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "87",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Or that love's like the smoke"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "88",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Beyond all repair"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "89",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But my darling says"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "90",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "\"Leonard, just let it go by"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "91",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "That old silhouette"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "92",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On the great western sky\""
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "93",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So I pick out a tune"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "94",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And they move right along"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "95",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And they're gone like the smoke"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "96",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And they're gone like this song"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

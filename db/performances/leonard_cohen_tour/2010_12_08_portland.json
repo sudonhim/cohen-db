@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-12-08 Portland",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-12-08",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United States",
       "venue": "Theater of Clouds"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

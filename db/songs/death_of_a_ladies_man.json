@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Death of a Ladies' Man",
+  "kind": "album",
+  "annotations": [],
   "metadata": {
     "date": "1977-11-13"
   },
@@ -12,9 +16,5 @@
     "song.dont_go_home_with_your_hard_on",
     "song.fingerprints",
     "song.death_of_a_ladies_man"
-  ],
-  "kind": "album",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  ]
 }

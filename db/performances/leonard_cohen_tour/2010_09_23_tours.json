@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2010-09-23 Tours",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2010-09-23",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Tours Grand Hall"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

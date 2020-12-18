@@ -1,71 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-12-01 Munich",
-  "metadata": {
-    "date": "1979-12-01",
-    "location": {
-      "city": "Munich",
-      "country": "Germany",
-      "venue": "Circus Krone"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "Here's a song written by the ghosts of our grandfathers."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "It is a song I wrote a long time ago, for a very great american singer. Forgotten by some, remembered by some like the rest of us singers,all destined to be remembered or forgotten. It doesn't really matters which name is remembered and which name is forgotten. There will always be singers.This one was a great one. Her name was Janis Joplin."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.iodine",
-        "content": {
-          "text": [
-            [
-              "This is a song that I wrote with that great genius who lives in a cold",
-              " mansion, in the darkest of Hollywood hills,Phil Spector. This is a song",
-              " called IODINE."
-            ]
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_guests",
-        "content": {
-          "text": [
-            "This song is called \"The Guests\", and it's from my new album. I have been rather surprised, i've been rather surprised with everything actually, but I've been rather surprised by the reception this song has had in this country."
-          ]
-        }
-      },
-      {
-        "kind": "variation",
-        "reference": "song.the_stranger_song",
-        "content": {
-          "text": [
-            "4Th verse variation",
-            [
-              " But now another stranger seems to want you to ignore his dreams, as though they were the burden of some other.",
-              " You've seen that man before,his golden arm dispatching cards, but now it's rusted from the elbow to the finger.",
-              " And he wants to trade  the song he sings for shelter. Yeah he wants to trade  the song he knows for shelter."
-            ]
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -127,6 +63,270 @@
       "newAnchor": "5:3"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1979-12-01",
+    "location": {
+      "city": "Munich",
+      "country": "Germany",
+      "venue": "Circus Krone"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Here's a song written by the ghosts of our grandfathers."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "It is a song I wrote a long time ago, for a very great american singer. Forgotten by some, remembered by some like the rest of us singers,all destined to be remembered or forgotten. It doesn't really matters which name is remembered and which name is forgotten. There will always be singers.This one was a great one. Her name was Janis Joplin."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_iodine",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.iodine"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This is a song that I wrote with that great genius who lives in a cold"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " mansion, in the darkest of Hollywood hills,Phil Spector. This is a song"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " called IODINE."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_guests",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_guests"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This song is called \"The Guests\", and it's from my new album. I have been rather surprised, i've been rather surprised with everything actually, but I've been rather surprised by the reception this song has had in this country."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "variation_on_the_stranger_song",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Variation on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_stranger_song"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "4Th verse variation"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " But now another stranger seems to want you to ignore his dreams, as though they were the burden of some other."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "3",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " You've seen that man before,his golden arm dispatching cards, but now it's rusted from the elbow to the finger."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "4",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " And he wants to trade  the song he sings for shelter. Yeah he wants to trade  the song he knows for shelter."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

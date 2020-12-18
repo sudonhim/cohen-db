@@ -3,37 +3,28 @@
   "$id": "content.json",
   "title": "Content",
   "description": "The content of a document, which is either a single canonical text part, or a sequence of complex parts",
-  "properties": {
-    "preamble": {
-      "type": "string",
-      "description": "Information about the document itself"
-    },
-    "content": {
-      "oneOf": [
-        {
-          "type": "array",
-          "description": "The parts of the multipart document. New items may be appended, but existing ones should not be moved, so as to preserve paths.",
-          "items": {
-            "oneOf": [
-              {
-                "$ref": "note.json"
-              },
-              {
-                "$ref": "prologue.json"
-              },
-              {
-                "$ref": "variation.json"
-              }
-            ]
-          },
-          "minItems": 1
+  "oneOf": [
+    {
+      "properties": {
+        "kind": {
+          "enum": ["simple"]
         },
-        {
-          "$ref": "text.json"
+        "content": {
+          "$ref": "maincontent.json"
         }
-      ]
+      },
+      "additionalProperties": false
+    },
+    {
+      "properties": {
+        "kind": {
+          "enum": ["multipart"]
+        },
+        "content": {
+          "$ref": "sectionalcontent.json"
+        }
+      },
+      "additionalProperties": false
     }
-  },
-  "required": ["content"],
-  "additionalProperties": false
+  ]
 }

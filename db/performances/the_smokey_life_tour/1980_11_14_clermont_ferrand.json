@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-11-14 Clermont-Ferrand",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-11-14",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Palais des Sports de Clermont-Ferrand"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-07-08 Montreux",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-07-08",
     "event": "Montreux Jazz Festival",
@@ -8,9 +12,5 @@
       "country": "Switzerland",
       "venue": "Auditorium Stravinski"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

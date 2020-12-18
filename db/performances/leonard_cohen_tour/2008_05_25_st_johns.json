@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2008-05-25 St. John's",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2008-05-25",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Canada",
       "venue": "Holy Heart Theatre"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

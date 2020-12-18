@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-25 Berlin",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-25",
     "location": {
@@ -7,9 +11,5 @@
       "country": "Germany",
       "venue": "Tempodrom"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

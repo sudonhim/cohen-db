@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1993-05-29 Nürburg",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1993-05-29",
     "event": "Rock am Ring",
@@ -8,9 +12,5 @@
       "country": "Germany",
       "venue": "Nürburgring"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

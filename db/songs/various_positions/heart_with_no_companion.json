@@ -1,35 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "Heart with No Companion",
-  "content": {
-    "content": {
-      "text": [
-        [
-          "Now I greet you from the other side of sorrow and despair, with a love so vast",
-          "And so shattered, it will reach you everywhere."
-        ],
-        [
-          "And I sing this for the captain whose ship has not been built, for the mother in",
-          "Confusion, her cradle still unfilled."
-        ],
-        [
-          "For the heart with no companion, for the soul without a king. for the prima",
-          "Ballerina who cannot dance to anything."
-        ],
-        [
-          "Through the days of shame that are coming, through the nights of wild distress,",
-          "Though your promise count for nothing, you must keep it nonetheless."
-        ],
-        [
-          "You must keep it for the captain whose ship has not been built. for the mother in",
-          "Confusion her cradle still unfilled."
-        ],
-        [
-          "For the heart with no companion, for the soul without a king, for the prima",
-          "Ballerina who cannot dance to anything."
-        ]
-      ]
-    }
-  },
   "kind": "song",
   "annotations": [
     {
@@ -117,6 +89,185 @@
       "newAnchor": "7"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "kind": "text",
+          "id": "1",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Now I greet you from the other side of sorrow and despair, with a love so vast"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "2",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And so shattered, it will reach you everywhere."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "3",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I sing this for the captain whose ship has not been built, for the mother in"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "4",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Confusion, her cradle still unfilled."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "5",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "For the heart with no companion, for the soul without a king. for the prima"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "6",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ballerina who cannot dance to anything."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "7",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Through the days of shame that are coming, through the nights of wild distress,"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "8",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Though your promise count for nothing, you must keep it nonetheless."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "9",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You must keep it for the captain whose ship has not been built. for the mother in"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "10",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Confusion her cradle still unfilled."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "11",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "For the heart with no companion, for the soul without a king, for the prima"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "text",
+          "id": "12",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ballerina who cannot dance to anything."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        }
+      ]
+    }
+  }
 }

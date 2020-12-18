@@ -1,27 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1979-10-22 Paris",
-  "metadata": {
-    "date": "1979-10-22",
-    "location": {
-      "city": "Paris",
-      "country": "France",
-      "venue": "Pavillon de Paris"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "This prologue contains an old french ballad, that begins the same way as the usual one Leonard uses to introduce \"Chelsea Hotel # 2\" : \"Il ya longtemps\" (There's a long time ago\") ",
-            " Il y a longtemps...(singing) \"Il y a longtemps que je t'aime,jamais je ne t'oublierai.Sur la plus haute branche,un pauvre rossignol chantait, Chante Rossignol Chante toi qui as le coeur gai, gai, gai, gai....Il y a longtemps que je t'aime, jamais je ne t'oublierai\". Il ya....Oh peut-etre 15 ans,j'ai rencontre dans un ascenseur...toute ma vie sociale appartient des ascenseurs...j'ai rencontre une tres grande chanteuse,peut-etre elle n'est pas encore oubliee, et j'ai ecrit cette chanson pour elle, c'etait Janis Joplin.       A long time ago.....(singing) \"It's been a long time since I loved you, and never will I forget you. From the highest branch, a poor nightingale was singing, Sing nightingale! Sing! , whose heart is gay, gay, gay..... It's been a long time since I loved you, never will I forget you\". It was... oh maybe 15 years ago, I met in an elevator..... all my social life belongs to elevators. I met a very great singer, maybe she's not forgotten yet, and I wrote this song for her, it was Janis Joplin."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -41,6 +21,70 @@
       "newAnchor": "1:2"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1979-10-22",
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "venue": "Pavillon de Paris"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This prologue contains an old french ballad, that begins the same way as the usual one Leonard uses to introduce \"Chelsea Hotel # 2\" : \"Il ya longtemps\" (There's a long time ago\") "
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Il y a longtemps...(singing) \"Il y a longtemps que je t'aime,jamais je ne t'oublierai.Sur la plus haute branche,un pauvre rossignol chantait, Chante Rossignol Chante toi qui as le coeur gai, gai, gai, gai....Il y a longtemps que je t'aime, jamais je ne t'oublierai\". Il ya....Oh peut-etre 15 ans,j'ai rencontre dans un ascenseur...toute ma vie sociale appartient des ascenseurs...j'ai rencontre une tres grande chanteuse,peut-etre elle n'est pas encore oubliee, et j'ai ecrit cette chanson pour elle, c'etait Janis Joplin.       A long time ago.....(singing) \"It's been a long time since I loved you, and never will I forget you. From the highest branch, a poor nightingale was singing, Sing nightingale! Sing! , whose heart is gay, gay, gay..... It's been a long time since I loved you, never will I forget you\". It was... oh maybe 15 years ago, I met in an elevator..... all my social life belongs to elevators. I met a very great singer, maybe she's not forgotten yet, and I wrote this song for her, it was Janis Joplin."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

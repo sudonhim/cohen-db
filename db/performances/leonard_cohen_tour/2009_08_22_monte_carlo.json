@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-08-22 Monte Carlo",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-08-22",
     "event": "Monte-Carlo Sporting Summer Festival",
@@ -8,9 +12,5 @@
       "country": "Monaco",
       "venue": "Monaco Sporting Club"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1972-03-20 Manchester",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1972-03-20",
     "location": {
@@ -7,9 +11,5 @@
       "country": "United Kingdom",
       "venue": "New Elizabethan Ballroom"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

@@ -1,54 +1,7 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1988-10-28 Portland",
-  "metadata": {
-    "date": "1988-10-28",
-    "location": {
-      "city": "Portland",
-      "country": "United States",
-      "venue": "Arlene Schnitzer Concert Hall"
-    }
-  },
-  "content": {
-    "content": [
-      {
-        "kind": "prologue",
-        "reference": "song.chelsea_hotel_2",
-        "content": {
-          "text": [
-            "A long time ago, I left my hometown of Montreal and I went down to NY to try to break into that infernal enterprise called show-business. I stayed in a very agreeable Hotel there, a very sophisticated place. You could go up at two in the morning to the frontdesk accompanied by a pygmy and a polar bear, ask for your key and without a raised eyebrow, they just hand it to you and say \"Have a nice night Mr Cohen\". It was in the elevator of this Hotel that I began to notice night after night a young woman who happened to be riding that diabolical vehicle just the same time as I. Afterwhile I gathered my courage and I said to her : \"Are you looking for someone ?\" She said \"Yes, I'm looking for Kris Kristofferson\". I said \"Little Lady, you're in luck, I am kris Kristofferson\". Such was the generosity of those times that she didn't lead on, not even once. It was some time after she passed from this vale of tears that I found myself at a bar, in a Polynesian restaurant, in Miami beach, drinking an alcoholic beverage from a ceramic coconut shell. This was a mystery I could not penetrate. Because there was real coconut shells on every tree on the boulevard. The song came. It's for Janis Joplin at the Chelsea Hotel."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "album.im_your_man",
-        "content": {
-          "text": [
-            "There are many candidates promoting themselves today. I would like to get in mind to promote myself for something rather, I don't know what it is. I think there's some office out there, challenging me, challenging my best efforts. I think I can do something for somebody, I can't quite figure out what it is but I want you all to know that I do my best I don't know exactly what exactly that entails and exactly how far to go with it. I don't want anybody to kill anybody when I've got my back turned. I think what I'm really trying to get is a woman's caress and I don't want anybody else to feel that I'm trying to eat them out of this high office, and there's plenty to go round but I want to state unconditionally right now that I'm your man."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.jazz_police",
-        "content": {
-          "text": [
-            "This next song is a very curious song. I hope you will forgive me for indulging in some augmented fifths, and diminished ninths, I know that I am only supposed to use three chords, but sometimes the devil just gets a hold of me."
-          ]
-        }
-      },
-      {
-        "kind": "prologue",
-        "reference": "song.the_partisan",
-        "content": {
-          "text": [
-            "After singing \"Everybody Knows\", \"The Partisan\" was introduced that way:",
-            " Here's the same song, forty years earlier...."
-          ]
-        }
-      }
-    ]
-  },
   "kind": "live",
   "annotations": [
     {
@@ -104,6 +57,181 @@
       "newAnchor": "2:1"
     }
   ],
-  "user": "sudonhim",
-  "version": 0
+  "metadata": {
+    "date": "1988-10-28",
+    "location": {
+      "city": "Portland",
+      "country": "United States",
+      "venue": "Arlene Schnitzer Concert Hall"
+    }
+  },
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "prologue_to_chelsea_hotel_2",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.chelsea_hotel_2"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "A long time ago, I left my hometown of Montreal and I went down to NY to try to break into that infernal enterprise called show-business. I stayed in a very agreeable Hotel there, a very sophisticated place. You could go up at two in the morning to the frontdesk accompanied by a pygmy and a polar bear, ask for your key and without a raised eyebrow, they just hand it to you and say \"Have a nice night Mr Cohen\". It was in the elevator of this Hotel that I began to notice night after night a young woman who happened to be riding that diabolical vehicle just the same time as I. Afterwhile I gathered my courage and I said to her : \"Are you looking for someone ?\" She said \"Yes, I'm looking for Kris Kristofferson\". I said \"Little Lady, you're in luck, I am kris Kristofferson\". Such was the generosity of those times that she didn't lead on, not even once. It was some time after she passed from this vale of tears that I found myself at a bar, in a Polynesian restaurant, in Miami beach, drinking an alcoholic beverage from a ceramic coconut shell. This was a mystery I could not penetrate. Because there was real coconut shells on every tree on the boulevard. The song came. It's for Janis Joplin at the Chelsea Hotel."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_im_your_man",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "album.im_your_man"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "There are many candidates promoting themselves today. I would like to get in mind to promote myself for something rather, I don't know what it is. I think there's some office out there, challenging me, challenging my best efforts. I think I can do something for somebody, I can't quite figure out what it is but I want you all to know that I do my best I don't know exactly what exactly that entails and exactly how far to go with it. I don't want anybody to kill anybody when I've got my back turned. I think what I'm really trying to get is a woman's caress and I don't want anybody else to feel that I'm trying to eat them out of this high office, and there's plenty to go round but I want to state unconditionally right now that I'm your man."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_jazz_police",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.jazz_police"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "This next song is a very curious song. I hope you will forgive me for indulging in some augmented fifths, and diminished ninths, I know that I am only supposed to use three chords, but sometimes the devil just gets a hold of me."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      },
+      {
+        "id": "prologue_to_the_partisan",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Prologue to "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_partisan"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "After singing \"Everybody Knows\", \"The Partisan\" was introduced that way:"
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": " Here's the same song, forty years earlier...."
+              }
+            ]
+          },
+          {
+            "kind": "lineBreak"
+          },
+          {
+            "kind": "lineBreak"
+          }
+        ]
+      }
+    ]
+  }
 }

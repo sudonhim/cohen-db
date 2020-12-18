@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "1980-11-13 Lyon",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "1980-11-13",
     "location": {
@@ -7,9 +11,5 @@
       "country": "France",
       "venue": "Bourse du Travail de Lyon"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }

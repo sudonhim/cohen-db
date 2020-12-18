@@ -1,5 +1,9 @@
 {
+  "user": "sudonhim",
+  "version": 0,
   "title": "2009-08-13 Vigo",
+  "kind": "live",
+  "annotations": [],
   "metadata": {
     "date": "2009-08-13",
     "event": "Festival Castrelos",
@@ -8,9 +12,5 @@
       "country": "Spain",
       "venue": "Vigo Festival Grounds"
     }
-  },
-  "kind": "live",
-  "annotations": [],
-  "user": "sudonhim",
-  "version": 0
+  }
 }
