@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "maincontent.json",
+    "title": "MainContent",
+    "description": "Content of a single part document",
+    "properties": {
+      "fragments": {
+        "type": "array",
+        "items": {
+          "$ref": "fragment.json"
+        },
+        "minItems": 1
+      }
+    },
+    "required": ["fragments"],
+    "additionalProperties": false
+  }
+  

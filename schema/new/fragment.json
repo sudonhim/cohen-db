@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "fragment.json",
+  "title": "Fragment",
+  "description": "A fragment of content, the smallest addressable unit of a document",
+  "oneOf": [
+    {
+      "$ref": "linebreakfragment.json"
+    },
+    {
+      "$ref": "textfragment.json"
+    }
+  ]
+}

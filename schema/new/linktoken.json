@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "linktoken.json",
+    "title": "LinkToken",
+    "description": "A hyperlink, optionally with alternate display text",
+    "properties": {
+      "kind": {
+          "enum": ["link"]
+      },
+      "text": {
+          "description": "Text to display for the link, if any",
+          "type": "string",
+          "pattern": "[^\\s]"
+      },
+      "link": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "required": ["kind", "link"],
+    "additionalProperties": false
+  }
+  

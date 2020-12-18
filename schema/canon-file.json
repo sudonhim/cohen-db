@@ -27,6 +27,9 @@
         "content": {
             "$ref": "content.json"
         },
+        "newContent": {
+            "$ref": "new/contentNew.json"
+        },
         "annotations": {
             "$ref": "annotations.json"
         },

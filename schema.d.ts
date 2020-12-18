@@ -6,6 +6,36 @@
  */
 
 /**
+ * A piece of contiguous inline content
+ */
+export type Token = TextTokenNEW | ReferenceToken | LinkToken;
+/**
+ * A reference to a document, section, or fragment in the database
+ */
+export type Reference =
+  | {
+      kind: "document";
+      documentId: string;
+    }
+  | {
+      kind: "section";
+      documentId: string;
+      sectionId: string;
+    }
+  | {
+      kind: "fragment";
+      documentId: string;
+      /**
+       * Present only in references to multipart documents
+       */
+      sectionId?: string;
+      fragmentId: string;
+    };
+/**
+ * A fragment of content, the smallest addressable unit of a document
+ */
+export type Fragment = LineBreakFragment | TextFragment;
+/**
  * Annotations attached to a file
  */
 export type Annotations = AnnotationsGroup[];
@@ -32,6 +62,7 @@ export interface CanonFile {
   kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
   metadata?: Metadata;
   content?: Content;
+  newContent?: ContentNew;
   annotations: Annotations;
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
@@ -102,6 +133,71 @@ export interface Variation {
    */
   reference: string;
   content: Text;
+}
+/**
+ * The content of a document, which is either a single canonical text part, or a sequence of complex parts
+ */
+export interface ContentNew {
+  content: SectionalContent[] | MainContent;
+}
+/**
+ * A piece of content in a multipart document
+ */
+export interface SectionalContent {
+  id: string;
+  title: TextFragment;
+  fragments: Fragment[];
+}
+/**
+ * A fragment of text
+ */
+export interface TextFragment {
+  kind: "text";
+  /**
+   * Used to refer to this fragment within the document. If not present, this fragment cannot be referred to.
+   */
+  id?: string;
+  tokens: Token[];
+}
+/**
+ * A string of pure text
+ */
+export interface TextTokenNEW {
+  kind: "text";
+  /**
+   * Only valid if it contains non-whitespace characters.
+   */
+  text: string;
+}
+/**
+ * A reference to a document, section, or fragment elsewhere in the database
+ */
+export interface ReferenceToken {
+  kind: "reference";
+  reference: Reference;
+}
+/**
+ * A hyperlink, optionally with alternate display text
+ */
+export interface LinkToken {
+  kind: "link";
+  /**
+   * Text to display for the link, if any
+   */
+  text?: string;
+  link: string;
+}
+/**
+ * Fragment for a line break
+ */
+export interface LineBreakFragment {
+  kind: "lineBreak";
+}
+/**
+ * Content of a single part document
+ */
+export interface MainContent {
+  fragments: Fragment[];
 }
 /**
  * The list of annotations attached to a single location in the parent document
