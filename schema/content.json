@@ -11,9 +11,9 @@
         },
         "content": {
           "$ref": "maincontent.json"
-        },
-        "additionalProperties": false
-      }
+        }
+      },
+      "additionalProperties": false
     },
     {
       "properties": {
@@ -22,9 +22,9 @@
         },
         "content": {
           "$ref": "sectionalcontent.json"
-        },
-        "additionalProperties": false
-      }
+        }
+      },
+      "additionalProperties": false
     }
   ]
 }

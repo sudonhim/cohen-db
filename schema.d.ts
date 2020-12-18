@@ -12,14 +12,10 @@ export type Content =
   | {
       kind?: "simple";
       content?: MainContent;
-      additionalProperties?: any;
-      [k: string]: any;
     }
   | {
       kind?: "multipart";
       content?: SectionalContent;
-      additionalProperties?: any;
-      [k: string]: any;
     };
 /**
  * A fragment of content, the smallest addressable unit of a document
