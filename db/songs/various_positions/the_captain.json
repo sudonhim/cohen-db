@@ -5,7 +5,6 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -21,7 +20,6 @@
       "newAnchor": "1"
     },
     {
-      "anchor": "p1.l11",
       "annotations": [
         {
           "user": "symbols bot",
@@ -37,7 +35,6 @@
       "newAnchor": "11"
     },
     {
-      "anchor": "p1.l12",
       "annotations": [
         {
           "user": "sudonhim",
@@ -53,7 +50,6 @@
       "newAnchor": "12"
     },
     {
-      "anchor": "p1.l15",
       "annotations": [
         {
           "user": "sudonhim",
@@ -79,7 +75,6 @@
       "newAnchor": "15"
     },
     {
-      "anchor": "p1.l16",
       "annotations": [
         {
           "user": "symbols bot",
@@ -115,7 +110,6 @@
       "newAnchor": "16"
     },
     {
-      "anchor": "p2.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -131,7 +125,6 @@
       "newAnchor": "19"
     },
     {
-      "anchor": "p2.l4",
       "annotations": [
         {
           "user": "sudonhim",
@@ -157,7 +150,6 @@
       "newAnchor": "20"
     },
     {
-      "anchor": "p2.l6",
       "annotations": [
         {
           "user": "symbols bot",
@@ -173,7 +165,6 @@
       "newAnchor": "22"
     },
     {
-      "anchor": "p3.l1",
       "annotations": [
         {
           "user": "sudonhim",
@@ -189,7 +180,6 @@
       "newAnchor": "25"
     },
     {
-      "anchor": "p3.l2",
       "annotations": [
         {
           "user": "sudonhim",
@@ -205,7 +195,6 @@
       "newAnchor": "26"
     },
     {
-      "anchor": "p3.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -231,7 +220,6 @@
       "newAnchor": "27"
     },
     {
-      "anchor": "p3.l6",
       "annotations": [
         {
           "user": "sudonhim",
@@ -247,7 +235,6 @@
       "newAnchor": "30"
     },
     {
-      "anchor": "p4.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -263,7 +250,6 @@
       "newAnchor": "35"
     },
     {
-      "anchor": "p4.l5",
       "annotations": [
         {
           "user": "symbols bot",

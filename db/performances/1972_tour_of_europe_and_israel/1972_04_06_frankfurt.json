@@ -5,7 +5,6 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s1.p5.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -21,7 +20,6 @@
       "newAnchor": "1:7"
     },
     {
-      "anchor": "s2.p1.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -37,7 +35,6 @@
       "newAnchor": "2:1"
     },
     {
-      "anchor": "s3.p1.l5",
       "annotations": [
         {
           "user": "symbols bot",
@@ -63,7 +60,6 @@
       "newAnchor": "3:5"
     },
     {
-      "anchor": "s6.p2.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -79,7 +75,6 @@
       "newAnchor": "6:2"
     },
     {
-      "anchor": "s6.p3.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -95,7 +90,6 @@
       "newAnchor": "6:4"
     },
     {
-      "anchor": "s6.p4.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -111,7 +105,6 @@
       "newAnchor": "6:8"
     },
     {
-      "anchor": "s6.p6.l1",
       "annotations": [
         {
           "user": "symbols bot",

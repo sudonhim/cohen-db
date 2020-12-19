@@ -94,7 +94,7 @@
         }
       }
     },
-    "required": ["anchor", "annotations"],
+    "required": ["newAnchor", "annotations"],
     "additionalProperties": false
   },
   "additionalProperties": false

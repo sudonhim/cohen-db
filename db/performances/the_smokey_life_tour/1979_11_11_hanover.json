@@ -5,7 +5,6 @@
   "kind": "live",
   "annotations": [
     {
-      "anchor": "s3.p3.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -21,7 +20,6 @@
       "newAnchor": "3:3"
     },
     {
-      "anchor": "s3.p3.l6",
       "annotations": [
         {
           "user": "symbols bot",
@@ -37,7 +35,6 @@
       "newAnchor": "3:8"
     },
     {
-      "anchor": "s5.p1.l1",
       "annotations": [
         {
           "user": "symbols bot",

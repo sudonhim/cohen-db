@@ -5,7 +5,6 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -21,7 +20,6 @@
       "newAnchor": "1"
     },
     {
-      "anchor": "p1.l8",
       "annotations": [
         {
           "user": "symbols bot",
@@ -37,7 +35,6 @@
       "newAnchor": "8"
     },
     {
-      "anchor": "p1.l9",
       "annotations": [
         {
           "user": "symbols bot",
@@ -53,7 +50,6 @@
       "newAnchor": "9"
     },
     {
-      "anchor": "p2.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -69,7 +65,6 @@
       "newAnchor": "14"
     },
     {
-      "anchor": "p2.l4",
       "annotations": [
         {
           "user": "symbols bot",
@@ -85,7 +80,6 @@
       "newAnchor": "17"
     },
     {
-      "anchor": "p3.l2",
       "annotations": [
         {
           "user": "sudonhim",
@@ -101,7 +95,6 @@
       "newAnchor": "19"
     },
     {
-      "anchor": "p4.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -117,7 +110,6 @@
       "newAnchor": "24"
     },
     {
-      "anchor": "p5.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -133,7 +125,6 @@
       "newAnchor": "27"
     },
     {
-      "anchor": "p6.l3",
       "annotations": [
         {
           "user": "symbols bot",

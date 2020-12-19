@@ -5,7 +5,6 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p1.l1",
       "annotations": [
         {
           "user": "sudonhim",
@@ -21,7 +20,6 @@
       "newAnchor": "1"
     },
     {
-      "anchor": "p1.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -37,7 +35,6 @@
       "newAnchor": "3"
     },
     {
-      "anchor": "p3.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -53,7 +50,6 @@
       "newAnchor": "7"
     },
     {
-      "anchor": "p3.l3",
       "annotations": [
         {
           "user": "sudonhim",
@@ -79,7 +75,6 @@
       "newAnchor": "9"
     },
     {
-      "anchor": "p4.l2",
       "annotations": [
         {
           "user": "sudonhim",
@@ -105,7 +100,6 @@
       "newAnchor": "12"
     },
     {
-      "anchor": "p4.l3",
       "annotations": [
         {
           "user": "sudonhim",
@@ -141,7 +135,6 @@
       "newAnchor": "13"
     },
     {
-      "anchor": "p5.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -157,7 +150,6 @@
       "newAnchor": "15"
     },
     {
-      "anchor": "p5.l2",
       "annotations": [
         {
           "user": "sudonhim",
@@ -173,7 +165,6 @@
       "newAnchor": "16"
     },
     {
-      "anchor": "p6.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -189,7 +180,6 @@
       "newAnchor": "17"
     },
     {
-      "anchor": "p6.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -205,7 +195,6 @@
       "newAnchor": "18"
     },
     {
-      "anchor": "p7.l1",
       "annotations": [
         {
           "user": "sudonhim",
@@ -231,7 +220,6 @@
       "newAnchor": "21"
     },
     {
-      "anchor": "p8.l2",
       "annotations": [
         {
           "user": "symbols bot",

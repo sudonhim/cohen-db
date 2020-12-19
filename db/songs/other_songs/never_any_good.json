@@ -5,7 +5,6 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p3.l4",
       "annotations": [
         {
           "user": "symbols bot",
@@ -21,7 +20,6 @@
       "newAnchor": "21"
     },
     {
-      "anchor": "p4.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -37,7 +35,6 @@
       "newAnchor": "26"
     },
     {
-      "anchor": "p4.l4",
       "annotations": [
         {
           "user": "symbols bot",
@@ -53,7 +50,6 @@
       "newAnchor": "28"
     },
     {
-      "anchor": "p5.l7",
       "annotations": [
         {
           "user": "symbols bot",
@@ -69,7 +65,6 @@
       "newAnchor": "40"
     },
     {
-      "anchor": "p6.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -85,7 +80,6 @@
       "newAnchor": "42"
     },
     {
-      "anchor": "p6.l3",
       "annotations": [
         {
           "user": "symbols bot",

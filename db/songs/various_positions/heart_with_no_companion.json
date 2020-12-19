@@ -5,7 +5,6 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p2.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -31,7 +30,6 @@
       "newAnchor": "3"
     },
     {
-      "anchor": "p3.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -47,7 +45,6 @@
       "newAnchor": "5"
     },
     {
-      "anchor": "p3.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -63,7 +60,6 @@
       "newAnchor": "6"
     },
     {
-      "anchor": "p4.l1",
       "annotations": [
         {
           "user": "symbols bot",

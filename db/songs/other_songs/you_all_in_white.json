@@ -5,7 +5,6 @@
   "kind": "song",
   "annotations": [
     {
-      "anchor": "p2.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -31,7 +30,6 @@
       "newAnchor": "5"
     },
     {
-      "anchor": "p2.l5",
       "annotations": [
         {
           "user": "symbols bot",
@@ -47,7 +45,6 @@
       "newAnchor": "9"
     },
     {
-      "anchor": "p3.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -63,7 +60,6 @@
       "newAnchor": "11"
     },
     {
-      "anchor": "p3.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -79,7 +75,6 @@
       "newAnchor": "12"
     },
     {
-      "anchor": "p4.l1",
       "annotations": [
         {
           "user": "symbols bot",
@@ -95,7 +90,6 @@
       "newAnchor": "16"
     },
     {
-      "anchor": "p4.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -111,7 +105,6 @@
       "newAnchor": "17"
     },
     {
-      "anchor": "p4.l3",
       "annotations": [
         {
           "user": "symbols bot",
@@ -127,7 +120,6 @@
       "newAnchor": "18"
     },
     {
-      "anchor": "p4.l7",
       "annotations": [
         {
           "user": "symbols bot",
@@ -143,7 +135,6 @@
       "newAnchor": "22"
     },
     {
-      "anchor": "p6.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -159,7 +150,6 @@
       "newAnchor": "32"
     },
     {
-      "anchor": "p7.l2",
       "annotations": [
         {
           "user": "symbols bot",
@@ -175,7 +165,6 @@
       "newAnchor": "36"
     },
     {
-      "anchor": "p7.l4",
       "annotations": [
         {
           "user": "symbols bot",
