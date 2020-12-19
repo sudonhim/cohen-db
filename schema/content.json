@@ -13,6 +13,7 @@
           "$ref": "maincontent.json"
         }
       },
+      "required": ["kind", "content"],
       "additionalProperties": false
     },
     {
@@ -21,9 +22,13 @@
           "enum": ["multipart"]
         },
         "content": {
-          "$ref": "sectionalcontent.json"
+          "type": "array",
+          "items": {
+            "$ref": "sectionalcontent.json"
+          }
         }
       },
+      "required": ["kind", "content"],
       "additionalProperties": false
     }
   ]
