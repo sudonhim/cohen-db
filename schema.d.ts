@@ -48,28 +48,6 @@ export type Reference =
       fragmentId: string;
     };
 /**
- * A reference to a location in the parent document
- */
-export type Reference1 =
-  | {
-      kind: "document";
-      documentId: string;
-    }
-  | {
-      kind: "section";
-      documentId: string;
-      sectionId: string;
-    }
-  | {
-      kind: "fragment";
-      documentId: string;
-      /**
-       * Present only in references to multipart documents
-       */
-      sectionId?: string;
-      fragmentId: string;
-    };
-/**
  * Annotations attached to a file
  */
 export type Annotations = AnnotationsGroup[];
@@ -178,11 +156,7 @@ export interface SectionalContent {
  * The list of annotations attached to a single location in the parent document
  */
 export interface AnnotationsGroup {
-  anchor?: Reference1;
-  /**
-   * Reference following the new schema
-   */
-  newAnchor?: string;
+  anchor: Reference;
   annotations: Annotation[];
 }
 /**

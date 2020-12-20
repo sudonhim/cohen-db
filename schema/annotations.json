@@ -10,12 +10,7 @@
     "description": "The list of annotations attached to a single location in the parent document",
     "properties": {
       "anchor": {
-        "description": "A reference to a location in the parent document",
         "$ref": "reference.json"
-      },
-      "newAnchor": {
-        "type": "string",
-        "description": "Reference following the new schema"
       },
       "annotations": {
         "type": "array",
@@ -94,7 +89,7 @@
         }
       }
     },
-    "required": ["annotations"],
+    "required": ["anchor", "annotations"],
     "additionalProperties": false
   },
   "additionalProperties": false
