@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.2002_01_01_chorus_magazine",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.2002_01_01_chorus_magazine",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     }
   ],
   "metadata": {

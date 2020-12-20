@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -132,7 +160,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "32"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.lover_lover_lover",
+        "fragmentId": "32"
+      }
     }
   ],
   "content": {

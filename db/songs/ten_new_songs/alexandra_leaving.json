@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -107,7 +131,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.alexandra_leaving",
+        "fragmentId": "18"
+      }
     }
   ],
   "content": {

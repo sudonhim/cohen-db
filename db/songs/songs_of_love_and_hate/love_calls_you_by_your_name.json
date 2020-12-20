@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.love_calls_you_by_your_name",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -52,7 +56,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.love_calls_you_by_your_name",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.love_calls_you_by_your_name",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.love_calls_you_by_your_name",
+        "fragmentId": "26"
+      }
     }
   ],
   "content": {

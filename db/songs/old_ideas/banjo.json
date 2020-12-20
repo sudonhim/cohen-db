@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.banjo",
+        "fragmentId": "6"
+      }
     }
   ],
   "content": {

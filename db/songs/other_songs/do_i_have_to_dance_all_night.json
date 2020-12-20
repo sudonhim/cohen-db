@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.do_i_have_to_dance_all_night",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.do_i_have_to_dance_all_night",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.do_i_have_to_dance_all_night",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.do_i_have_to_dance_all_night",
+        "fragmentId": "22"
+      }
     }
   ],
   "content": {

@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -77,7 +85,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -92,7 +104,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -107,7 +123,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -122,7 +142,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -137,7 +161,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -162,7 +190,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -177,7 +209,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -192,7 +228,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -207,7 +247,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_traitor",
+        "fragmentId": "28"
+      }
     }
   ],
   "content": {

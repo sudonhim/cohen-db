@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_04_14_hamburg",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_04_14_hamburg",
+        "sectionId": "2",
+        "fragmentId": "3"
+      }
     }
   ],
   "metadata": {

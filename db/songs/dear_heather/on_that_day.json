@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.on_that_day",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.on_that_day",
+        "fragmentId": "12"
+      }
     }
   ],
   "content": {

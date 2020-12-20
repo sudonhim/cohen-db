@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -51,7 +59,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -66,7 +78,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -81,7 +97,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -96,7 +116,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -111,7 +135,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -126,7 +154,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -141,7 +173,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -166,7 +202,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -195,7 +235,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -215,7 +259,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -230,7 +278,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -257,7 +309,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -272,7 +328,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -287,7 +347,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "29"
+      }
     },
     {
       "annotations": [
@@ -302,7 +366,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "30"
+      }
     },
     {
       "annotations": [
@@ -317,7 +385,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "32"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "32"
+      }
     },
     {
       "annotations": [
@@ -347,7 +419,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "35"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "35"
+      }
     },
     {
       "annotations": [
@@ -370,7 +446,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "44"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "44"
+      }
     },
     {
       "annotations": [
@@ -393,7 +473,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "50"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "50"
+      }
     },
     {
       "annotations": [
@@ -408,7 +492,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "51"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "51"
+      }
     },
     {
       "annotations": [
@@ -423,7 +511,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "52"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "52"
+      }
     },
     {
       "annotations": [
@@ -438,7 +530,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "55"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.master_song",
+        "fragmentId": "55"
+      }
     }
   ],
   "content": {

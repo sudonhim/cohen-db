@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.slow",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.slow",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "31"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.slow",
+        "fragmentId": "31"
+      }
     }
   ],
   "content": {

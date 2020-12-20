@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1993_05_26_bob_harriss_show",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1993_05_26_bob_harriss_show",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

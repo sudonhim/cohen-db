@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -132,7 +152,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -147,7 +171,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -162,7 +190,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -177,7 +209,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -192,7 +228,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -217,7 +257,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -232,7 +276,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.famous_blue_raincoat",
+        "fragmentId": "26"
+      }
     }
   ],
   "content": {

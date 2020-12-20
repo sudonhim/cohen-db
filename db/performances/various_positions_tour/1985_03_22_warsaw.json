@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_03_22_warsaw",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_03_22_warsaw",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -67,7 +77,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "5:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_03_22_warsaw",
+        "sectionId": "5",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -82,7 +97,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_03_22_warsaw",
+        "sectionId": "7",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -97,7 +117,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_03_22_warsaw",
+        "sectionId": "7",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -112,7 +137,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_03_22_warsaw",
+        "sectionId": "8",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

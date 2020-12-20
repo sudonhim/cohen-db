@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -92,7 +104,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -117,7 +133,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -132,7 +152,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "33"
+      }
     },
     {
       "annotations": [
@@ -147,7 +171,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "37"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "37"
+      }
     },
     {
       "annotations": [
@@ -162,7 +190,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "38"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "38"
+      }
     },
     {
       "annotations": [
@@ -177,7 +209,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "41"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "41"
+      }
     },
     {
       "annotations": [
@@ -192,7 +228,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "54"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "54"
+      }
     },
     {
       "annotations": [
@@ -217,7 +257,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "58"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.happens_to_the_heart",
+        "fragmentId": "58"
+      }
     }
   ],
   "content": {

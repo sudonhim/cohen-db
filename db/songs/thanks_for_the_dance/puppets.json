@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.puppets",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.puppets",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.puppets",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.puppets",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.puppets",
+        "fragmentId": "26"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.puppets",
+        "fragmentId": "27"
+      }
     }
   ],
   "content": {

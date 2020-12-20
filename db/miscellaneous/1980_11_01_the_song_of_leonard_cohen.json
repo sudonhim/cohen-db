@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -52,7 +57,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
+        "sectionId": "2",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -87,7 +97,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -112,7 +127,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -147,7 +167,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "5:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
+        "sectionId": "5",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

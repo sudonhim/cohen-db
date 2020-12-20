@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.almost_like_the_blues",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.almost_like_the_blues",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.almost_like_the_blues",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.almost_like_the_blues",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.almost_like_the_blues",
+        "fragmentId": "24"
+      }
     }
   ],
   "content": {

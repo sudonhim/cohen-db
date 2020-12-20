@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1991_11_01_interview_your_flesh_magazine_1992",
+        "sectionId": "1",
+        "fragmentId": "5"
+      }
     }
   ],
   "metadata": {

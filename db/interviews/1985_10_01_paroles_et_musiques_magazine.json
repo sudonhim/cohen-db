@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1985_10_01_paroles_et_musiques_magazine",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -52,7 +57,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1985_10_01_paroles_et_musiques_magazine",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -87,7 +97,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1985_10_01_paroles_et_musiques_magazine",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tower_of_song",
+        "fragmentId": "24"
+      }
     }
   ],
   "content": {

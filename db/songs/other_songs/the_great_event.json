@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_great_event",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_great_event",
+        "fragmentId": "8"
+      }
     }
   ],
   "content": {

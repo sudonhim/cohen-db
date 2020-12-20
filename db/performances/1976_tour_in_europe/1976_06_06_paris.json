@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_06_06_paris",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

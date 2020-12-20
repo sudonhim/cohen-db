@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nevermind",
+        "fragmentId": "34"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nevermind",
+        "fragmentId": "43"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "51"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nevermind",
+        "fragmentId": "51"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "73"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nevermind",
+        "fragmentId": "73"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "96"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nevermind",
+        "fragmentId": "96"
+      }
     }
   ],
   "content": {

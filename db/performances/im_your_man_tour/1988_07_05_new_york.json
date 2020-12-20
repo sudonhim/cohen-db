@@ -57,7 +57,12 @@
           "id": "5"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_07_05_new_york",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

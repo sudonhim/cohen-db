@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.string_reprise_treaty",
+        "fragmentId": "2"
+      }
     }
   ],
   "content": {

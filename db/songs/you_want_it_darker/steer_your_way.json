@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.steer_your_way",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.steer_your_way",
+        "fragmentId": "11"
+      }
     }
   ],
   "content": {

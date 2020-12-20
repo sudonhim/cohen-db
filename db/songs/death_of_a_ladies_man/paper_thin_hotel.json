@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.paper_thin_hotel",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.paper_thin_hotel",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.paper_thin_hotel",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.paper_thin_hotel",
+        "fragmentId": "19"
+      }
     }
   ],
   "content": {

@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -112,7 +132,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -127,7 +151,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.true_love_leaves_no_traces",
+        "fragmentId": "18"
+      }
     }
   ],
   "content": {

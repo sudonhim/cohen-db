@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nightingale",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nightingale",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nightingale",
+        "fragmentId": "9"
+      }
     }
   ],
   "content": {

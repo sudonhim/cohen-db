@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_16_boston",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_16_boston",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -67,7 +77,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_16_boston",
+        "sectionId": "5",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

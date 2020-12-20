@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nancy",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nancy",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "31"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nancy",
+        "fragmentId": "31"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "32"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nancy",
+        "fragmentId": "32"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.nancy",
+        "fragmentId": "33"
+      }
     }
   ],
   "content": {

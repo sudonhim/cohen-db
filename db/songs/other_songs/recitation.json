@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.recitation",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.recitation",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.recitation",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "42"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.recitation",
+        "fragmentId": "42"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.recitation",
+        "fragmentId": "43"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "2",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -57,7 +67,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "4",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -72,7 +87,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "4",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -87,7 +107,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "5",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -102,7 +127,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "6",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -137,7 +167,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "9:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_10_nuremberg",
+        "sectionId": "9",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

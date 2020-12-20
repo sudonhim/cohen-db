@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.coming_back_to_you",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.coming_back_to_you",
+        "fragmentId": "23"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.coming_back_to_you",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "32"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.coming_back_to_you",
+        "fragmentId": "32"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.coming_back_to_you",
+        "fragmentId": "34"
+      }
     }
   ],
   "content": {

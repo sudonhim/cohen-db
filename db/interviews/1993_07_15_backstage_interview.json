@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1993_07_15_backstage_interview",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

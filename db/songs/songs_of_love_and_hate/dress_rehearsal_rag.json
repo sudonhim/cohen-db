@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -112,7 +132,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -127,7 +151,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "29"
+      }
     },
     {
       "annotations": [
@@ -142,7 +170,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "33"
+      }
     },
     {
       "annotations": [
@@ -157,7 +189,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "42"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "42"
+      }
     },
     {
       "annotations": [
@@ -172,7 +208,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "43"
+      }
     },
     {
       "annotations": [
@@ -187,7 +227,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "45"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "45"
+      }
     },
     {
       "annotations": [
@@ -212,7 +256,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "55"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "55"
+      }
     },
     {
       "annotations": [
@@ -227,7 +275,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "72"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "72"
+      }
     },
     {
       "annotations": [
@@ -242,7 +294,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "75"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dress_rehearsal_rag",
+        "fragmentId": "75"
+      }
     }
   ],
   "content": {

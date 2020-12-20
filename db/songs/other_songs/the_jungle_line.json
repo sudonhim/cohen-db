@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -107,7 +131,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "23"
+      }
     },
     {
       "annotations": [
@@ -122,7 +150,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -137,7 +169,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "26"
+      }
     },
     {
       "annotations": [
@@ -152,7 +188,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "29"
+      }
     },
     {
       "annotations": [
@@ -167,7 +207,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "31"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_jungle_line",
+        "fragmentId": "31"
+      }
     }
   ],
   "content": {

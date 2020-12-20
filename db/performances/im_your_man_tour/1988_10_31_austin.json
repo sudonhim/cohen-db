@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_10_31_austin",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_10_31_austin",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

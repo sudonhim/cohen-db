@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.misty_blue",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.misty_blue",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.misty_blue",
+        "fragmentId": "14"
+      }
     }
   ],
   "content": {

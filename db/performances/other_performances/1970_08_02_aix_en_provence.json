@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1970_08_02_aix_en_provence",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

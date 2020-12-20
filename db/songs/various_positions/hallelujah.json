@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.hallelujah",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -52,7 +56,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.hallelujah",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.hallelujah",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.hallelujah",
+        "fragmentId": "24"
+      }
     }
   ],
   "content": {

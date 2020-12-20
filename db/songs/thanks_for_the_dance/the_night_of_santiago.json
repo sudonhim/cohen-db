@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -107,7 +131,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -122,7 +150,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -137,7 +169,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "29"
+      }
     },
     {
       "annotations": [
@@ -152,7 +188,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "30"
+      }
     },
     {
       "annotations": [
@@ -167,7 +207,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "35"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_night_of_santiago",
+        "fragmentId": "35"
+      }
     }
   ],
   "content": {

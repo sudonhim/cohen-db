@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_11_24_the_future_press_kit",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_11_24_the_future_press_kit",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -77,7 +87,12 @@
           "id": "4"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_11_24_the_future_press_kit",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -92,7 +107,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_11_24_the_future_press_kit",
+        "sectionId": "3",
+        "fragmentId": "2"
+      }
     }
   ],
   "metadata": {

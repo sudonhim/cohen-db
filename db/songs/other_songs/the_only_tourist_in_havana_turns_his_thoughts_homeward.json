@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_only_tourist_in_havana_turns_his_thoughts_homeward",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_only_tourist_in_havana_turns_his_thoughts_homeward",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_only_tourist_in_havana_turns_his_thoughts_homeward",
+        "fragmentId": "20"
+      }
     }
   ],
   "content": {

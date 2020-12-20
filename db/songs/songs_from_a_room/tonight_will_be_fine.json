@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tonight_will_be_fine",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tonight_will_be_fine",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tonight_will_be_fine",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.tonight_will_be_fine",
+        "fragmentId": "17"
+      }
     }
   ],
   "content": {

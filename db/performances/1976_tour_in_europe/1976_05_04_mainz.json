@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_05_04_mainz",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_05_04_mainz",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

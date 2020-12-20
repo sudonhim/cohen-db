@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.chelsea_hotel",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.chelsea_hotel",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.chelsea_hotel",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.chelsea_hotel",
+        "fragmentId": "14"
+      }
     }
   ],
   "content": {

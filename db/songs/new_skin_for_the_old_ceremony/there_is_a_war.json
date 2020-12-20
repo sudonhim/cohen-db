@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_is_a_war",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_is_a_war",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_is_a_war",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_is_a_war",
+        "fragmentId": "23"
+      }
     }
   ],
   "content": {

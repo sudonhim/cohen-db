@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_have_loved_enough",
+        "fragmentId": "1"
+      }
     }
   ],
   "content": {

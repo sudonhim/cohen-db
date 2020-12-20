@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "26"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "33"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "58"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "58"
+      }
     },
     {
       "annotations": [
@@ -132,7 +160,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "65"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "65"
+      }
     },
     {
       "annotations": [
@@ -147,7 +179,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "82"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.closing_time",
+        "fragmentId": "82"
+      }
     }
   ],
   "content": {

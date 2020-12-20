@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_are_some_men",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_are_some_men",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_are_some_men",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_are_some_men",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_are_some_men",
+        "fragmentId": "16"
+      }
     }
   ],
   "content": {

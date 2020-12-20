@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -107,7 +131,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -150,7 +178,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -165,7 +197,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -180,7 +216,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "27"
+      }
     },
     {
       "annotations": [
@@ -195,7 +235,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.teachers",
+        "fragmentId": "28"
+      }
     }
   ],
   "content": {

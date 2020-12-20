@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.it_seemed_the_better_way",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.it_seemed_the_better_way",
+        "fragmentId": "19"
+      }
     }
   ],
   "content": {

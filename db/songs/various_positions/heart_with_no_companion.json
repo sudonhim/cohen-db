@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.heart_with_no_companion",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.heart_with_no_companion",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.heart_with_no_companion",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.heart_with_no_companion",
+        "fragmentId": "7"
+      }
     }
   ],
   "content": {

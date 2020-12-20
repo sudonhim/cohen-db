@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.came_so_far_for_beauty",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "27"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.came_so_far_for_beauty",
+        "fragmentId": "27"
+      }
     }
   ],
   "content": {

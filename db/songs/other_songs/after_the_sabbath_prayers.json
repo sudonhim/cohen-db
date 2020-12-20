@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "23"
+      }
     },
     {
       "annotations": [
@@ -132,7 +160,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.after_the_sabbath_prayers",
+        "fragmentId": "24"
+      }
     }
   ],
   "content": {

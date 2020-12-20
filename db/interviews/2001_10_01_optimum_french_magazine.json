@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.2001_10_01_optimum_french_magazine",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

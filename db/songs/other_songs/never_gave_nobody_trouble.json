@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_gave_nobody_trouble",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_gave_nobody_trouble",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_gave_nobody_trouble",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_gave_nobody_trouble",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_gave_nobody_trouble",
+        "fragmentId": "20"
+      }
     }
   ],
   "content": {

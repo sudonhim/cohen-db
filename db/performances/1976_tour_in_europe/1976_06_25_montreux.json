@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_06_25_montreux",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -52,7 +57,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_06_25_montreux",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

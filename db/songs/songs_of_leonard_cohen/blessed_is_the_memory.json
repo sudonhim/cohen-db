@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -112,7 +132,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -127,7 +151,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -142,7 +170,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -157,7 +189,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -172,7 +208,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "31"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "31"
+      }
     },
     {
       "annotations": [
@@ -187,7 +227,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "38"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "38"
+      }
     },
     {
       "annotations": [
@@ -202,7 +246,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "39"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "39"
+      }
     },
     {
       "annotations": [
@@ -227,7 +275,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "41"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "41"
+      }
     },
     {
       "annotations": [
@@ -242,7 +294,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "42"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "42"
+      }
     },
     {
       "annotations": [
@@ -257,7 +313,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blessed_is_the_memory",
+        "fragmentId": "43"
+      }
     }
   ],
   "content": {

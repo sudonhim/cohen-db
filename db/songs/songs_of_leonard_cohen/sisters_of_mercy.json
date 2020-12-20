@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sisters_of_mercy",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sisters_of_mercy",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sisters_of_mercy",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sisters_of_mercy",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sisters_of_mercy",
+        "fragmentId": "16"
+      }
     }
   ],
   "content": {

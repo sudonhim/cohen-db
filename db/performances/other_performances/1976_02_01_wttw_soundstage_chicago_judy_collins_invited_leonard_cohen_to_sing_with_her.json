@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_02_01_wttw_soundstage_chicago_judy_collins_invited_leonard_cohen_to_sing_with_her",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1976_02_01_wttw_soundstage_chicago_judy_collins_invited_leonard_cohen_to_sing_with_her",
+        "sectionId": "1",
+        "fragmentId": "4"
+      }
     }
   ],
   "metadata": {

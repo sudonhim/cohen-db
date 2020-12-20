@@ -37,7 +37,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1993_01_01_interview_appeared_in_details_for_menjanuary_93",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

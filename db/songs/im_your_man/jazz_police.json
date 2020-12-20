@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "24"
+      }
     },
     {
       "annotations": [
@@ -107,7 +131,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -122,7 +150,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -137,7 +169,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.jazz_police",
+        "fragmentId": "29"
+      }
     }
   ],
   "content": {

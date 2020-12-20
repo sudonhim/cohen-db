@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1966_01_01_from_the_original_selected_poems_19561968",
+        "sectionId": "1",
+        "fragmentId": "4"
+      }
     }
   ],
   "metadata": {

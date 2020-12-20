@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.a_bunch_of_lonesome_heroes",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -52,7 +56,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.a_bunch_of_lonesome_heroes",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.a_bunch_of_lonesome_heroes",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.a_bunch_of_lonesome_heroes",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.a_bunch_of_lonesome_heroes",
+        "fragmentId": "10"
+      }
     }
   ],
   "content": {

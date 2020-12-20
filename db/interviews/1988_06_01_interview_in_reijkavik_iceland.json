@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1988_06_01_interview_in_reijkavik_iceland",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

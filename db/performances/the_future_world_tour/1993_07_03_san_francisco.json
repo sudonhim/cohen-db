@@ -67,7 +67,12 @@
           "id": "6"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_03_san_francisco",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -82,7 +87,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_03_san_francisco",
+        "sectionId": "2",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -97,7 +107,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_03_san_francisco",
+        "sectionId": "2",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -112,7 +127,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_03_san_francisco",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -167,7 +187,12 @@
           "id": "5"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1993_07_03_san_francisco",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

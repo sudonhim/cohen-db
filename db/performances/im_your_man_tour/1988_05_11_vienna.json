@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_11_vienna",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_11_vienna",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -57,7 +67,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1988_05_11_vienna",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

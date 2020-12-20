@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dont_go_home_with_your_hard_on",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dont_go_home_with_your_hard_on",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dont_go_home_with_your_hard_on",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.dont_go_home_with_your_hard_on",
+        "fragmentId": "14"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.amen",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "36"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.amen",
+        "fragmentId": "36"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "37"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.amen",
+        "fragmentId": "37"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "40"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.amen",
+        "fragmentId": "40"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "54"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.amen",
+        "fragmentId": "54"
+      }
     }
   ],
   "content": {

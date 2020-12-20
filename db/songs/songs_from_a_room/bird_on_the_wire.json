@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.bird_on_the_wire",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.bird_on_the_wire",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.bird_on_the_wire",
+        "fragmentId": "19"
+      }
     }
   ],
   "content": {

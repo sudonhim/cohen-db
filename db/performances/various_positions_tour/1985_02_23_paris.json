@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_02_23_paris",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_02_23_paris",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -132,7 +160,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -147,7 +179,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "32"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "32"
+      }
     },
     {
       "annotations": [
@@ -162,7 +198,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "36"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "36"
+      }
     },
     {
       "annotations": [
@@ -177,7 +217,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "38"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_all_in_white",
+        "fragmentId": "38"
+      }
     }
   ],
   "content": {

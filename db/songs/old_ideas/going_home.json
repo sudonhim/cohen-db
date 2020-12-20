@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.going_home",
+        "fragmentId": "10"
+      }
     }
   ],
   "content": {

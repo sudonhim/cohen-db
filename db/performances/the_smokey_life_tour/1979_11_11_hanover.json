@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_11_11_hanover",
+        "sectionId": "3",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_11_11_hanover",
+        "sectionId": "3",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -57,7 +67,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_11_11_hanover",
+        "sectionId": "5",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

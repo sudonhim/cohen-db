@@ -57,7 +57,12 @@
           "id": "5"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_06_08_san_francisco",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -82,7 +87,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1985_06_08_san_francisco",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

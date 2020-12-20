@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_old_revolution",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -52,7 +56,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_old_revolution",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_old_revolution",
+        "fragmentId": "23"
+      }
     },
     {
       "annotations": [
@@ -92,7 +104,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_old_revolution",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -107,7 +123,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_old_revolution",
+        "fragmentId": "26"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_for_you",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "41"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.there_for_you",
+        "fragmentId": "41"
+      }
     }
   ],
   "content": {

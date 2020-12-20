@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "26"
+      }
     },
     {
       "annotations": [
@@ -132,7 +160,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -147,7 +179,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_it_were_spring",
+        "fragmentId": "30"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_12_06_london",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_12_06_london",
+        "sectionId": "3",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -67,7 +77,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_12_06_london",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

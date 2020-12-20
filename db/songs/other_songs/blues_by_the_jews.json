@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "38"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blues_by_the_jews",
+        "fragmentId": "38"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "39"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blues_by_the_jews",
+        "fragmentId": "39"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "52"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blues_by_the_jews",
+        "fragmentId": "52"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "54"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blues_by_the_jews",
+        "fragmentId": "54"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "63"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.blues_by_the_jews",
+        "fragmentId": "63"
+      }
     }
   ],
   "content": {

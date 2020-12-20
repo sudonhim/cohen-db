@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1974_12_31_the_best_of_leonard_cohen_some_notes_on_the_songs",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -62,7 +67,12 @@
           "id": "4"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1974_12_31_the_best_of_leonard_cohen_some_notes_on_the_songs",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -117,7 +127,12 @@
           "id": "5"
         }
       ],
-      "newAnchor": "7:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1974_12_31_the_best_of_leonard_cohen_some_notes_on_the_songs",
+        "sectionId": "7",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -152,7 +167,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "9:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1974_12_31_the_best_of_leonard_cohen_some_notes_on_the_songs",
+        "sectionId": "9",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -167,7 +187,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.1974_12_31_the_best_of_leonard_cohen_some_notes_on_the_songs",
+        "sectionId": "11",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

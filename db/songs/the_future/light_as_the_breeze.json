@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -142,7 +170,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -157,7 +189,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "30"
+      }
     },
     {
       "annotations": [
@@ -172,7 +208,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "34"
+      }
     },
     {
       "annotations": [
@@ -187,7 +227,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "43"
+      }
     },
     {
       "annotations": [
@@ -202,7 +246,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "48"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.light_as_the_breeze",
+        "fragmentId": "48"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.did_i_ever_love_you",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.did_i_ever_love_you",
+        "fragmentId": "13"
+      }
     }
   ],
   "content": {

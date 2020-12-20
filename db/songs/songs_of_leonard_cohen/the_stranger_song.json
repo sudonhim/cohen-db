@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -107,7 +131,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -122,7 +150,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -147,7 +179,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -162,7 +198,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "23"
+      }
     },
     {
       "annotations": [
@@ -177,7 +217,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "24"
+      }
     },
     {
       "annotations": [
@@ -192,7 +236,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "26"
+      }
     },
     {
       "annotations": [
@@ -227,7 +275,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "29"
+      }
     },
     {
       "annotations": [
@@ -242,7 +294,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "30"
+      }
     },
     {
       "annotations": [
@@ -267,7 +323,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "34"
+      }
     },
     {
       "annotations": [
@@ -282,7 +342,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "36"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "36"
+      }
     },
     {
       "annotations": [
@@ -297,7 +361,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "39"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "39"
+      }
     },
     {
       "annotations": [
@@ -312,7 +380,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "42"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "42"
+      }
     },
     {
       "annotations": [
@@ -337,7 +409,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "46"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "46"
+      }
     },
     {
       "annotations": [
@@ -352,7 +428,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "47"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_stranger_song",
+        "fragmentId": "47"
+      }
     }
   ],
   "content": {

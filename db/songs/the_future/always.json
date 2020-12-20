@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.always",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.always",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.always",
+        "fragmentId": "26"
+      }
     }
   ],
   "content": {

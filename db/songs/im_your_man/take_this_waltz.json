@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -112,7 +132,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -127,7 +151,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "33"
+      }
     },
     {
       "annotations": [
@@ -142,7 +170,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "34"
+      }
     },
     {
       "annotations": [
@@ -157,7 +189,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "36"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "36"
+      }
     },
     {
       "annotations": [
@@ -172,7 +208,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "43"
+      }
     },
     {
       "annotations": [
@@ -187,7 +227,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "44"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "44"
+      }
     },
     {
       "annotations": [
@@ -202,7 +246,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "46"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "46"
+      }
     },
     {
       "annotations": [
@@ -217,7 +265,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "49"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.take_this_waltz",
+        "fragmentId": "49"
+      }
     }
   ],
   "content": {

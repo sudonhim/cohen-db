@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "1",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -32,7 +37,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "1",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -47,7 +57,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "1",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -62,7 +77,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "1",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -77,7 +97,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "3",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -92,7 +117,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "3",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -107,7 +137,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "3",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -132,7 +167,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -147,7 +187,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -172,7 +217,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -187,7 +237,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -202,7 +257,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -217,7 +277,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -232,7 +297,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -247,7 +317,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -272,7 +347,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -297,7 +377,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -312,7 +397,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:29"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "29"
+      }
     },
     {
       "annotations": [
@@ -327,7 +417,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1975_11_23_bryn_mawr",
+        "sectionId": "4",
+        "fragmentId": "30"
+      }
     }
   ],
   "metadata": {

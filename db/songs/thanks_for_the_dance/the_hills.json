@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_hills",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_hills",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_hills",
+        "fragmentId": "33"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "35"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_hills",
+        "fragmentId": "35"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "36"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_hills",
+        "fragmentId": "36"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "49"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_hills",
+        "fragmentId": "49"
+      }
     }
   ],
   "content": {

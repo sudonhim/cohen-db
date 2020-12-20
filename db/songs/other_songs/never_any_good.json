@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "21"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_any_good",
+        "fragmentId": "21"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "26"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_any_good",
+        "fragmentId": "26"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_any_good",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "40"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_any_good",
+        "fragmentId": "40"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "42"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_any_good",
+        "fragmentId": "42"
+      }
     },
     {
       "annotations": [
@@ -92,7 +112,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "43"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.never_any_good",
+        "fragmentId": "43"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.morning_glory",
+        "fragmentId": "16"
+      }
     }
   ],
   "content": {

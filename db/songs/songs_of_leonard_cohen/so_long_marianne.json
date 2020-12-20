@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "30"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "30"
+      }
     },
     {
       "annotations": [
@@ -112,7 +132,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "38"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "38"
+      }
     },
     {
       "annotations": [
@@ -127,7 +151,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "39"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.so_long_marianne",
+        "fragmentId": "39"
+      }
     }
   ],
   "content": {

@@ -37,7 +37,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -52,7 +57,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "2",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -67,7 +77,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "2",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -82,7 +97,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "2",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -97,7 +117,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "2",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -112,7 +137,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "2",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -137,7 +167,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "6:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_02_01_interview_with_paul_zollo_printed_1993_in_songtalk_magazine",
+        "sectionId": "6",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

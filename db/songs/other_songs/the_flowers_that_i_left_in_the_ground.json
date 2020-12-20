@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_flowers_that_i_left_in_the_ground",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -62,7 +66,11 @@
           "id": "4"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.the_flowers_that_i_left_in_the_ground",
+        "fragmentId": "25"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -62,7 +74,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -77,7 +93,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "31"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "31"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "33"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "33"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.samson_in_new_orleans",
+        "fragmentId": "34"
+      }
     }
   ],
   "content": {

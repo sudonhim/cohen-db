@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "1",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -52,7 +57,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "2:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "2",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -67,7 +77,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "2",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -102,7 +117,12 @@
           "id": "3"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -117,7 +137,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -162,7 +187,12 @@
           "id": "4"
         }
       ],
-      "newAnchor": "6:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "6",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -187,7 +217,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "9:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "other.2001_02_27_the_song_of_leonard_cohen_portrait_of_a_poet_a_friendship_and_a_film",
+        "sectionId": "9",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

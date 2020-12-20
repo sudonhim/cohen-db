@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1970_05_06_frankfurt",
+        "sectionId": "1",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1970_05_06_frankfurt",
+        "sectionId": "5",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -87,7 +97,12 @@
           "id": "4"
         }
       ],
-      "newAnchor": "6:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1970_05_06_frankfurt",
+        "sectionId": "6",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -102,7 +117,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1970_05_06_frankfurt",
+        "sectionId": "7",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

@@ -37,7 +37,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -52,7 +56,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -117,7 +133,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -132,7 +152,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -147,7 +171,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -162,7 +190,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "19"
+      }
     },
     {
       "annotations": [
@@ -177,7 +209,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "25"
+      }
     },
     {
       "annotations": [
@@ -202,7 +238,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "34"
+      }
     },
     {
       "annotations": [
@@ -217,7 +257,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "41"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.last_years_man",
+        "fragmentId": "41"
+      }
     }
   ],
   "content": {

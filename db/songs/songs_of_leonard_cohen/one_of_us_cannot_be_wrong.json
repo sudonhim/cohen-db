@@ -37,7 +37,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -52,7 +56,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -67,7 +75,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -107,7 +123,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -122,7 +142,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -137,7 +161,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "13"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "13"
+      }
     },
     {
       "annotations": [
@@ -172,7 +200,11 @@
           "id": "3"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -197,7 +229,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.one_of_us_cannot_be_wrong",
+        "fragmentId": "15"
+      }
     }
   ],
   "content": {

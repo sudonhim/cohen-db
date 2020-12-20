@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1992_11_24_interview_1992_from_the_future_radio_special_a_special_cd_released_by_sony",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     }
   ],
   "metadata": {

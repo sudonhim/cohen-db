@@ -27,7 +27,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +46,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -82,7 +94,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "10"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "10"
+      }
     },
     {
       "annotations": [
@@ -97,7 +113,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -122,7 +142,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -137,7 +161,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.if_i_didnt_have_your_love",
+        "fragmentId": "19"
+      }
     }
   ],
   "content": {

@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.you_got_me_singing",
+        "fragmentId": "6"
+      }
     }
   ],
   "content": {

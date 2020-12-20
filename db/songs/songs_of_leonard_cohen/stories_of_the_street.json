@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "3"
+      }
     },
     {
       "annotations": [
@@ -57,7 +65,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -112,7 +132,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "8"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "8"
+      }
     },
     {
       "annotations": [
@@ -137,7 +161,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "9"
+      }
     },
     {
       "annotations": [
@@ -152,7 +180,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -167,7 +199,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -192,7 +228,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -207,7 +247,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -232,7 +276,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "23"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.stories_of_the_street",
+        "fragmentId": "23"
+      }
     }
   ],
   "content": {

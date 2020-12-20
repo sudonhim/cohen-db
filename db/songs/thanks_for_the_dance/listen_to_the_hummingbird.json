@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.listen_to_the_hummingbird",
+        "fragmentId": "6"
+      }
     }
   ],
   "content": {

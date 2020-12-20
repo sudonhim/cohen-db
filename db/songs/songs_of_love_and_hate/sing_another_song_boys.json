@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "24"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sing_another_song_boys",
+        "fragmentId": "24"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "25"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.sing_another_song_boys",
+        "fragmentId": "25"
+      }
     }
   ],
   "content": {

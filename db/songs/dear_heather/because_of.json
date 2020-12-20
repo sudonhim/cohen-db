@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.because_of",
+        "fragmentId": "14"
+      }
     }
   ],
   "content": {

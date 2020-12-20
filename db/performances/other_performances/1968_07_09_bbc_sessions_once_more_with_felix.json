@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "2",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "2",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -57,7 +67,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -72,7 +87,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -87,7 +107,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6:4"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "6",
+        "fragmentId": "4"
+      }
     },
     {
       "annotations": [
@@ -112,7 +137,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "7:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "7",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -137,7 +167,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "7:15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
+        "sectionId": "7",
+        "fragmentId": "15"
+      }
     }
   ],
   "metadata": {

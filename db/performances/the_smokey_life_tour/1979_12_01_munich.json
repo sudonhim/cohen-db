@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_12_01_munich",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -42,7 +47,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "5:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_12_01_munich",
+        "sectionId": "5",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -57,7 +67,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "5:3"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_12_01_munich",
+        "sectionId": "5",
+        "fragmentId": "3"
+      }
     }
   ],
   "metadata": {

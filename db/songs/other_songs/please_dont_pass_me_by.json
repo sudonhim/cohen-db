@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "28"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "28"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "37"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "37"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "46"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "46"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "47"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "47"
+      }
     },
     {
       "annotations": [
@@ -117,7 +141,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "55"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "55"
+      }
     },
     {
       "annotations": [
@@ -132,7 +160,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "103"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.please_dont_pass_me_by",
+        "fragmentId": "103"
+      }
     }
   ],
   "content": {

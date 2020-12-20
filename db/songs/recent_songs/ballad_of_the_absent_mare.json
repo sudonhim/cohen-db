@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "1"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -140,7 +148,11 @@
           ]
         }
       ],
-      "newAnchor": "5"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "5"
+      }
     },
     {
       "annotations": [
@@ -155,7 +167,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -170,7 +186,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "7"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "7"
+      }
     },
     {
       "annotations": [
@@ -185,7 +205,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "11"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "11"
+      }
     },
     {
       "annotations": [
@@ -200,7 +224,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -215,7 +243,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "14"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "14"
+      }
     },
     {
       "annotations": [
@@ -230,7 +262,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -245,7 +281,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "16"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "16"
+      }
     },
     {
       "annotations": [
@@ -260,7 +300,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "17"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "17"
+      }
     },
     {
       "annotations": [
@@ -275,7 +319,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "22"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "22"
+      }
     },
     {
       "annotations": [
@@ -290,7 +338,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "34"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "34"
+      }
     },
     {
       "annotations": [
@@ -305,7 +357,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "37"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "37"
+      }
     },
     {
       "annotations": [
@@ -320,7 +376,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "38"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "38"
+      }
     },
     {
       "annotations": [
@@ -335,7 +395,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "41"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "41"
+      }
     },
     {
       "annotations": [
@@ -360,7 +424,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "44"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "44"
+      }
     },
     {
       "annotations": [
@@ -385,7 +453,11 @@
           ]
         }
       ],
-      "newAnchor": "47"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "47"
+      }
     },
     {
       "annotations": [
@@ -400,7 +472,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "48"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "48"
+      }
     },
     {
       "annotations": [
@@ -415,7 +491,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "63"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "63"
+      }
     },
     {
       "annotations": [
@@ -430,7 +510,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "80"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "80"
+      }
     },
     {
       "annotations": [
@@ -445,7 +529,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "87"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.ballad_of_the_absent_mare",
+        "fragmentId": "87"
+      }
     }
   ],
   "content": {

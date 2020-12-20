@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "12"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "12"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "15"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "15"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "20"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "20"
+      }
     },
     {
       "annotations": [
@@ -72,7 +84,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "41"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "41"
+      }
     },
     {
       "annotations": [
@@ -87,7 +103,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "44"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "44"
+      }
     },
     {
       "annotations": [
@@ -102,7 +122,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "49"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "49"
+      }
     },
     {
       "annotations": [
@@ -127,7 +151,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "52"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.everybody_knows",
+        "fragmentId": "52"
+      }
     }
   ],
   "content": {

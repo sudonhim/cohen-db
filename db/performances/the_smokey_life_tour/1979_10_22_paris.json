@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "1:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1979_10_22_paris",
+        "sectionId": "1",
+        "fragmentId": "2"
+      }
     }
   ],
   "metadata": {

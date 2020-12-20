@@ -17,7 +17,12 @@
           "id": "1"
         }
       ],
-      "newAnchor": "3:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "interview.1993_01_01_details_for_men_magazine",
+        "sectionId": "3",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {

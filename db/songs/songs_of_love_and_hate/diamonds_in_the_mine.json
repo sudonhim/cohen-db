@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "6"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.diamonds_in_the_mine",
+        "fragmentId": "6"
+      }
     },
     {
       "annotations": [
@@ -32,7 +36,11 @@
           "id": "2"
         }
       ],
-      "newAnchor": "18"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.diamonds_in_the_mine",
+        "fragmentId": "18"
+      }
     },
     {
       "annotations": [
@@ -47,7 +55,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "19"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.diamonds_in_the_mine",
+        "fragmentId": "19"
+      }
     }
   ],
   "content": {

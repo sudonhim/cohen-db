@@ -17,7 +17,11 @@
           "id": "1"
         }
       ],
-      "newAnchor": "9"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.anyhow",
+        "fragmentId": "9"
+      }
     }
   ],
   "content": {

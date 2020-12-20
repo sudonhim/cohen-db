@@ -27,7 +27,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "2:2"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1980_11_24_tel_aviv",
+        "sectionId": "2",
+        "fragmentId": "2"
+      }
     },
     {
       "annotations": [
@@ -52,7 +57,12 @@
           "id": "2"
         }
       ],
-      "newAnchor": "4:1"
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "live.1980_11_24_tel_aviv",
+        "sectionId": "4",
+        "fragmentId": "1"
+      }
     }
   ],
   "metadata": {
