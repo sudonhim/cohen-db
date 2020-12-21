@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1970_05_06_frankfurt",
-        "sectionId": "1",
+        "sectionId": "prologue_to_bird_on_the_wire",
         "fragmentId": "1"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1970_05_06_frankfurt",
-        "sectionId": "5",
+        "sectionId": "prologue_to_sing_another_song_boys",
         "fragmentId": "1"
       }
     },
@@ -100,7 +100,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1970_05_06_frankfurt",
-        "sectionId": "6",
+        "sectionId": "prologue_to_sisters_of_mercy",
         "fragmentId": "1"
       }
     },
@@ -120,7 +120,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1970_05_06_frankfurt",
-        "sectionId": "7",
+        "sectionId": "prologue_to_so_long_marianne",
         "fragmentId": "1"
       }
     }

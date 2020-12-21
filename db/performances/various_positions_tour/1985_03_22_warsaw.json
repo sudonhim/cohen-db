@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1985_03_22_warsaw",
-        "sectionId": "1",
+        "sectionId": "prologue_to_chelsea_hotel_2",
         "fragmentId": "1"
       }
     },
@@ -40,7 +40,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1985_03_22_warsaw",
-        "sectionId": "2",
+        "sectionId": "prologue_to_hallelujah",
         "fragmentId": "1"
       }
     },
@@ -80,7 +80,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1985_03_22_warsaw",
-        "sectionId": "5",
+        "sectionId": "prologue_to_tennessee_waltz",
         "fragmentId": "1"
       }
     },
@@ -100,7 +100,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1985_03_22_warsaw",
-        "sectionId": "7",
+        "sectionId": "prologue_to_the_partisan",
         "fragmentId": "1"
       }
     },
@@ -120,7 +120,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1985_03_22_warsaw",
-        "sectionId": "7",
+        "sectionId": "prologue_to_the_partisan",
         "fragmentId": "2"
       }
     },
@@ -140,7 +140,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1985_03_22_warsaw",
-        "sectionId": "8",
+        "sectionId": "prologue_to_there_is_a_war",
         "fragmentId": "1"
       }
     }

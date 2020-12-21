@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1979_12_01_munich",
-        "sectionId": "3",
+        "sectionId": "prologue_to_iodine",
         "fragmentId": "1"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1979_12_01_munich",
-        "sectionId": "5",
+        "sectionId": "variation_on_the_stranger_song",
         "fragmentId": "2"
       }
     },
@@ -70,7 +70,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1979_12_01_munich",
-        "sectionId": "5",
+        "sectionId": "variation_on_the_stranger_song",
         "fragmentId": "3"
       }
     }

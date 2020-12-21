@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_05_10_london",
-        "sectionId": "1",
+        "sectionId": "prologue_to_anthem",
         "fragmentId": "1"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_05_10_london",
-        "sectionId": "2",
+        "sectionId": "prologue_to_closing_time",
         "fragmentId": "1"
       }
     },
@@ -100,7 +100,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_05_10_london",
-        "sectionId": "4",
+        "sectionId": "prologue_to_take_this_waltz",
         "fragmentId": "1"
       }
     }

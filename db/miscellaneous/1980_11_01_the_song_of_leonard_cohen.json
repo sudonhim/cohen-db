@@ -30,7 +30,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
-        "sectionId": "1",
+        "sectionId": "on_suzanne",
         "fragmentId": "1"
       }
     },
@@ -60,7 +60,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
-        "sectionId": "2",
+        "sectionId": "on_the_guests",
         "fragmentId": "2"
       }
     },
@@ -100,7 +100,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
-        "sectionId": "3",
+        "sectionId": "on_the_gypsys_wife",
         "fragmentId": "1"
       }
     },
@@ -130,7 +130,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
-        "sectionId": "4",
+        "sectionId": "on_there_is_a_war",
         "fragmentId": "1"
       }
     },
@@ -170,7 +170,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "other.1980_11_01_the_song_of_leonard_cohen",
-        "sectionId": "5",
+        "sectionId": "on_who_by_fire",
         "fragmentId": "1"
       }
     }

@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_16_boston",
-        "sectionId": "1",
+        "sectionId": "prologue_to_a_singer_must_die",
         "fragmentId": "1"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_16_boston",
-        "sectionId": "4",
+        "sectionId": "prologue_to_first_we_take_manhattan",
         "fragmentId": "1"
       }
     },
@@ -80,7 +80,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_16_boston",
-        "sectionId": "5",
+        "sectionId": "prologue_to_take_this_waltz",
         "fragmentId": "1"
       }
     }

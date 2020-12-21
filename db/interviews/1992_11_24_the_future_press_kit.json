@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1992_11_24_the_future_press_kit",
-        "sectionId": "1",
+        "sectionId": "on_anthem",
         "fragmentId": "1"
       }
     },
@@ -40,7 +40,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1992_11_24_the_future_press_kit",
-        "sectionId": "1",
+        "sectionId": "on_anthem",
         "fragmentId": "2"
       }
     },
@@ -90,7 +90,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1992_11_24_the_future_press_kit",
-        "sectionId": "2",
+        "sectionId": "on_democracy",
         "fragmentId": "1"
       }
     },
@@ -110,7 +110,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1992_11_24_the_future_press_kit",
-        "sectionId": "3",
+        "sectionId": "on_the_future",
         "fragmentId": "2"
       }
     }

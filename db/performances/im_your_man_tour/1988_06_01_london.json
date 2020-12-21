@@ -30,7 +30,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_06_01_london",
-        "sectionId": "2",
+        "sectionId": "prologue_to_chelsea_hotel_2",
         "fragmentId": "1"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_06_01_london",
-        "sectionId": "3",
+        "sectionId": "prologue_to_first_we_take_manhattan",
         "fragmentId": "1"
       }
     },
@@ -70,7 +70,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_06_01_london",
-        "sectionId": "4",
+        "sectionId": "prologue_to_im_your_man",
         "fragmentId": "1"
       }
     }

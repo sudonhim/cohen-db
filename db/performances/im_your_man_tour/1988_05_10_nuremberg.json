@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "2",
+        "sectionId": "variation_on_avalanche",
         "fragmentId": "5"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "3",
+        "sectionId": "prologue_to_chelsea_hotel_2",
         "fragmentId": "1"
       }
     },
@@ -70,7 +70,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "4",
+        "sectionId": "variation_on_hallelujah",
         "fragmentId": "4"
       }
     },
@@ -90,7 +90,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "4",
+        "sectionId": "variation_on_hallelujah",
         "fragmentId": "7"
       }
     },
@@ -110,7 +110,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "5",
+        "sectionId": "prologue_to_im_your_man",
         "fragmentId": "1"
       }
     },
@@ -130,7 +130,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "6",
+        "sectionId": "prologue_to_take_this_waltz",
         "fragmentId": "1"
       }
     },
@@ -170,7 +170,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_05_10_nuremberg",
-        "sectionId": "9",
+        "sectionId": "prologue_to_who_by_fire",
         "fragmentId": "1"
       }
     }

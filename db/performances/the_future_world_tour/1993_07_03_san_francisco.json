@@ -70,7 +70,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_03_san_francisco",
-        "sectionId": "1",
+        "sectionId": "prologue_to_chelsea_hotel_2",
         "fragmentId": "1"
       }
     },
@@ -90,7 +90,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_03_san_francisco",
-        "sectionId": "2",
+        "sectionId": "variation_on_democracy",
         "fragmentId": "2"
       }
     },
@@ -110,7 +110,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_03_san_francisco",
-        "sectionId": "2",
+        "sectionId": "variation_on_democracy",
         "fragmentId": "7"
       }
     },
@@ -130,7 +130,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_03_san_francisco",
-        "sectionId": "3",
+        "sectionId": "prologue_to_first_we_take_manhattan",
         "fragmentId": "1"
       }
     },
@@ -190,7 +190,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1993_07_03_san_francisco",
-        "sectionId": "4",
+        "sectionId": "prologue_to_take_this_waltz",
         "fragmentId": "1"
       }
     }

@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1979_12_06_london",
-        "sectionId": "2",
+        "sectionId": "prologue_to_memories",
         "fragmentId": "1"
       }
     },
@@ -40,7 +40,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1979_12_06_london",
-        "sectionId": "3",
+        "sectionId": "variation_on_passing_through",
         "fragmentId": "5"
       }
     },
@@ -80,7 +80,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1979_12_06_london",
-        "sectionId": "4",
+        "sectionId": "prologue_to_who_by_fire",
         "fragmentId": "1"
       }
     }

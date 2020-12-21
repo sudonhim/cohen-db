@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_04_17_antwerp",
-        "sectionId": "4",
+        "sectionId": "prologue_to_passing_through",
         "fragmentId": "1"
       }
     },
@@ -60,7 +60,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_04_17_antwerp",
-        "sectionId": "5",
+        "sectionId": "prologue_to_take_this_waltz",
         "fragmentId": "1"
       }
     },
@@ -80,7 +80,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_04_17_antwerp",
-        "sectionId": "7",
+        "sectionId": "prologue_to_the_stranger_song",
         "fragmentId": "1"
       }
     },
@@ -110,7 +110,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1988_04_17_antwerp",
-        "sectionId": "8",
+        "sectionId": "prologue_to_who_by_fire",
         "fragmentId": "1"
       }
     }

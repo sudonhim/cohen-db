@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1985_10_01_paroles_et_musiques_magazine",
-        "sectionId": "1",
+        "sectionId": "on_hallelujah",
         "fragmentId": "1"
       }
     },
@@ -60,7 +60,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1985_10_01_paroles_et_musiques_magazine",
-        "sectionId": "3",
+        "sectionId": "on_night_comes_on",
         "fragmentId": "1"
       }
     },
@@ -100,7 +100,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "interview.1985_10_01_paroles_et_musiques_magazine",
-        "sectionId": "4",
+        "sectionId": "on_the_captain",
         "fragmentId": "1"
       }
     }

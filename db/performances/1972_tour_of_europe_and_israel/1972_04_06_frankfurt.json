@@ -20,7 +20,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "1",
+        "sectionId": "variation_on_avalanche",
         "fragmentId": "7"
       }
     },
@@ -40,7 +40,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "2",
+        "sectionId": "prologue_to_seems_so_long_ago_nancy",
         "fragmentId": "1"
       }
     },
@@ -70,7 +70,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "3",
+        "sectionId": "prologue_to_sisters_of_mercy",
         "fragmentId": "5"
       }
     },
@@ -90,7 +90,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "6",
+        "sectionId": "variation_on_the_partisan",
         "fragmentId": "2"
       }
     },
@@ -110,7 +110,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "6",
+        "sectionId": "variation_on_the_partisan",
         "fragmentId": "4"
       }
     },
@@ -130,7 +130,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "6",
+        "sectionId": "variation_on_the_partisan",
         "fragmentId": "8"
       }
     },
@@ -150,7 +150,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1972_04_06_frankfurt",
-        "sectionId": "6",
+        "sectionId": "variation_on_the_partisan",
         "fragmentId": "14"
       }
     }

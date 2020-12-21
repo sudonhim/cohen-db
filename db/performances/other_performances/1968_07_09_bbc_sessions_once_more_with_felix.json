@@ -30,7 +30,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "2",
+        "sectionId": "prologue_to_dress_rehearsal_rag",
         "fragmentId": "1"
       }
     },
@@ -50,7 +50,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "2",
+        "sectionId": "prologue_to_dress_rehearsal_rag",
         "fragmentId": "2"
       }
     },
@@ -70,7 +70,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "3",
+        "sectionId": "prologue_to_hey_thats_no_way_to_say_goodbye",
         "fragmentId": "1"
       }
     },
@@ -90,7 +90,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "4",
+        "sectionId": "prologue_to_master_song",
         "fragmentId": "1"
       }
     },
@@ -110,7 +110,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "6",
+        "sectionId": "prologue_to_so_long_marianne",
         "fragmentId": "4"
       }
     },
@@ -140,7 +140,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "7",
+        "sectionId": "prologue_to_story_of_isaac",
         "fragmentId": "1"
       }
     },
@@ -170,7 +170,7 @@
       "anchor": {
         "kind": "fragment",
         "documentId": "live.1968_07_09_bbc_sessions_once_more_with_felix",
-        "sectionId": "7",
+        "sectionId": "prologue_to_story_of_isaac",
         "fragmentId": "15"
       }
     }
