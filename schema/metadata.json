@@ -5,12 +5,13 @@
     "description": "The metadata of a document, which is a set of fully optional standardized properties",
     "type": "object",
     "properties": {
-      "title": {
-        "type": "string"
-      },
       "date": {
         "type": "string",
         "format": "date"
+      },
+      "source": {
+        "type": "string",
+        "format": "uri"
       },
       "event": {
         "type": "string"

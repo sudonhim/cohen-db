@@ -84,8 +84,8 @@ export interface CanonFile {
  * The metadata of a document, which is a set of fully optional standardized properties
  */
 export interface Metadata {
-  title?: string;
   date?: string;
+  source?: string;
   event?: string;
   location?: {
     country?: string;

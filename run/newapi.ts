@@ -1,112 +1,88 @@
-import { LoadAndValidate, ValidateAndSave } from "../lib/utils";
+import { LoadAndValidate, TitleToId, ValidateAndSave } from "../lib/utils";
 import { CanonDb } from "../index";
-import { Fragment, SectionalContent, Text, TextFragment } from "../schema";
+import { readFileSync } from "fs";
+import { CanonFile, Content, Fragment, Metadata } from "../schema";
 
 const docDb: CanonDb = LoadAndValidate();
 
 console.log(`Loaded and validated ${Object.keys(docDb).length} documents`);
 
-for (const documentId in docDb) {
-  const doc = docDb[documentId];
-  if (!doc.content) continue;
+const newContent = [
+  './data/1984ckuainterview.txt',
+  //'./data/2016youwantitdarker.txt',
+  //'./data/2017lastinterview.txt'
+].map(fname => readFileSync(fname).toString());
 
-  const textToFrags = (t: Text): Fragment[] => {
-    if (!t) return [];
-    let i = 1;
-    const out: Fragment[] = [];
-    for (const p of t.text) {
-      if (Array.isArray(p)) {
-        for (const l of p) {
-          const frag: Fragment = {
-            kind: "text",
-            id: `${i++}`,
-            tokens: [{ kind: "text", text: l }],
-          };
-          out.push(frag);
-          out.push({ kind: "lineBreak" });
-        }
-        out.push({ kind: "lineBreak" });
-      } else {
-        const frag: Fragment = {
-          kind: "text",
-          id: `${i++}`,
-          tokens: [{ kind: "text", text: p }],
-        };
-        out.push(frag);
-        out.push({ kind: "lineBreak" });
-        out.push({ kind: "lineBreak" });
-      }
+for (const data of newContent) {
+  const [
+    titleLine,
+    dateLine,
+    sourceLine,
+    kindLine,
+    _,
+    ...contentLines
+  ] = data.split('\n').map(line => line.trim());
+  const title = titleLine.split(': <')[1].split('>')[0];
+  const date = dateLine.split(': <')[1].split('>')[0];
+  const source = sourceLine.split(': <')[1].split('>')[0];
+  console.log(`Processing '${title}'`);
+  console.log(`Date: ${date}`);
+  console.log(`Source: ${source}`);
+  console.log(`Kind: ${kindLine.split(': <')[1].split('>')[0]}`);
+  console.log(`+ ${contentLines.length} lines of content`);
+  const lines = contentLines.map(line => {
+    let [speaker, text] = line.split('>: <');
+    speaker = speaker.substr(1);
+    text = text.substr(0, text.length - 1);
+    return {
+      speaker,
+      text
+    };
+  });
+  let prevSpeaker = '';
+  let id = 1;
+  let frags: Fragment[] = [];
+  for (var line of lines) {
+    frags.push({
+      id: `${id++}`,
+      kind: 'text',
+      speaker: line.speaker,
+      tokens: [
+        { kind: 'text', text: line.text }
+      ]
+    });
+    if (line.speaker !== prevSpeaker) {
+      frags.push({ kind: 'lineBreak' });
+      frags.push({ kind: 'lineBreak' });
     }
-    return out;
+    prevSpeaker = line.speaker;
+  }
+
+  const newContent: Content = {
+    kind: 'simple',
+    content: {
+      fragments: frags
+    }
   };
 
-  if (Array.isArray(doc.content.content)) {
-    const sections: SectionalContent[] = [];
-    for (const section of doc.content.content) {
-      if (!section.reference)
-        throw new Error("Expected every section to have a reference");
-      let title: TextFragment;
-      let id: string;
-      const refstr = section.reference.split('.')[1]
-      switch (section.kind) {
-        case "note":
-          id = `on_${refstr}`;
-          title = {
-            kind: "text",
-            tokens: [
-              { kind: "text", text: "On " },
-              {
-                kind: "reference",
-                reference: { kind: "document", documentId: section.reference },
-              },
-            ],
-          };
-          break;
-        case "prologue":
-          id = `prologue_to_${refstr}`;
-          title = {
-            kind: "text",
-            tokens: [
-              { kind: "text", text: "Prologue to " },
-              {
-                kind: "reference",
-                reference: { kind: "document", documentId: section.reference },
-              },
-            ],
-          };
-          break;
-        case "variation":
-          id = `variation_on_${refstr}`;
-          title = {
-            kind: "text",
-            tokens: [
-              { kind: "text", text: "Variation on " },
-              {
-                kind: "reference",
-                reference: { kind: "document", documentId: section.reference },
-              },
-            ],
-          };
-          break;
-      }
-      const fragments = textToFrags(section.content);
-      sections.push({
-        id,
-        title,
-        fragments,
-      });
-    }
-    if (sections.length > 0) {
-      doc.newContent = { sectionalContent: sections };
-    }
-  } else {
-    const fragments = textToFrags(doc.content.content);
-    doc.newContent = {
-      content: {
-        fragments,
-      },
-    };
+  const newMetadata: Metadata = {
+    date: date,
+    source: source
   }
+
+  const newDoc: CanonFile = {
+    title: title,
+    kind: 'interview',
+    version: 0,
+    user: 'sudonhim',
+    metadata: newMetadata,
+    content: newContent,
+    annotations: []
+  };
+
+  const documentId = TitleToId(newDoc.title);
+  docDb[documentId] = newDoc;
+  docDb['group.interviews'].children.push(documentId);
 }
 
 ValidateAndSave(docDb);
