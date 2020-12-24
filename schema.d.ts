@@ -114,6 +114,10 @@ export interface TextFragment {
    * Used to refer to this fragment within the document. If not present, this fragment cannot be referred to.
    */
   id?: string;
+  /**
+   * If present, who is talking.
+   */
+  speaker?: string;
   tokens: Token[];
 }
 /**
@@ -125,6 +129,10 @@ export interface TextTokenNEW {
    * Only valid if it contains non-whitespace characters.
    */
   text: string;
+  /**
+   * Default false. Text that should be excluded from search and rendered de-emphasized.
+   */
+  secondary?: boolean;
 }
 /**
  * A reference to a document, section, or fragment elsewhere in the database

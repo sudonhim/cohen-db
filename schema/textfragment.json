@@ -1,25 +1,28 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "textfragment.json",
-    "title": "TextFragment",
-    "description": "A fragment of text",
-    "properties": {
-      "kind": {
-          "enum": ["text"]
-      },
-      "id": {
-          "type": "string",
-          "description": "Used to refer to this fragment within the document. If not present, this fragment cannot be referred to."
-      },
-      "tokens": {
-          "type": "array",
-          "items": {
-              "$ref": "token.json"
-          },
-          "minItems": 1
-      }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "textfragment.json",
+  "title": "TextFragment",
+  "description": "A fragment of text",
+  "properties": {
+    "kind": {
+      "enum": ["text"]
     },
-    "required": ["kind", "tokens"],
-    "additionalProperties": false
-  }
-  
+    "id": {
+      "type": "string",
+      "description": "Used to refer to this fragment within the document. If not present, this fragment cannot be referred to."
+    },
+    "speaker": {
+      "description": "If present, who is talking.",
+      "type": "string"
+    },
+    "tokens": {
+      "type": "array",
+      "items": {
+        "$ref": "token.json"
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["kind", "tokens"],
+  "additionalProperties": false
+}

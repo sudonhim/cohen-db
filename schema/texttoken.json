@@ -11,6 +11,10 @@
           "description": "Only valid if it contains non-whitespace characters.",
           "type": "string",
           "pattern": "[^\\s]"
+      },
+      "secondary": {
+        "description": "Default false. Text that should be excluded from search and rendered de-emphasized.",
+        "type": "boolean"
       }
     },
     "required": ["kind", "text"],
