@@ -43,6 +43,10 @@ for (const data of newContent) {
   let id = 1;
   let frags: Fragment[] = [];
   for (var line of lines) {
+    if (line.speaker !== prevSpeaker && prevSpeaker) {
+      frags.push({ kind: 'lineBreak' });
+      frags.push({ kind: 'lineBreak' });
+    }
     frags.push({
       id: `${id++}`,
       kind: 'text',
@@ -51,10 +55,6 @@ for (const data of newContent) {
         { kind: 'text', text: line.text }
       ]
     });
-    if (line.speaker !== prevSpeaker) {
-      frags.push({ kind: 'lineBreak' });
-      frags.push({ kind: 'lineBreak' });
-    }
     prevSpeaker = line.speaker;
   }
 
@@ -81,8 +81,9 @@ for (const data of newContent) {
   };
 
   const documentId = TitleToId(newDoc.title);
-  docDb[documentId] = newDoc;
-  docDb['group.interviews'].children.push(documentId);
+  const fullId = 'interview.' + documentId;
+  docDb[fullId] = newDoc;
+  // docDb['group.interviews'].children.push('interview.' + documentId);
 }
 
 ValidateAndSave(docDb);
