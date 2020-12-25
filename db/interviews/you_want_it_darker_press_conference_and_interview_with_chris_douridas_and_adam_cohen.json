@@ -1,0 +1,2339 @@
+{
+  "title": "You Want It Darker Press Conference and Interview with Chris Douridas and Adam Cohen",
+  "kind": "interview",
+  "version": 0,
+  "user": "sudonhim",
+  "metadata": {
+    "date": "2016-10-13",
+    "source": "https://www.youtube.com/watch?v=BVpG3tO0nOQ"
+  },
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "id": "1",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well friends, thanks so much. Some of you have come a long long way and I appreciate it; some of you have driven across Los Angeles, takes about the same time [*laughter*]. Thank you for that too."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "2",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hello."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "3",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Chris, thanks for doing this, appreciate it."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "4",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh, it's my honor to be here, Leonard."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "5",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You've been so kind to me and so many artists over the years and on behalf of myself and all those people you've put into the spotlight I really appreciate [INAUDIBLE, COUGHING] my gratitude"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "6",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thank you, Leonard, thank you. Thank you for a beautiful album, it's a stunning work, don't you think? [*applause*]"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I think the first thing, um… how are you feeling?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "8",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Uh, I said I was ready to die recently, you know, I think I was exaggerating. [*laughter*]"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "One is given to self-dramatization from time to time [*laughter*], I intend to live forever. [*laughter and applause*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "10",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was so moved when I first heard the album."
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It astonishes me that — I mean, most songwriters can't carry their powers past their 20s and here you are on your 82nd birthday dropping a single and then an album thereafter that is as good or better than anything you've ever done and I wonder how have you been able to retain consistency of quality all these year?."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "12",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't know. I think that — I think that any songwriter — I think that Bob Dylan knows this more than all of us: you don't write the songs anyhow."
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "If you're lucky, you can keep the vehicle healthy and responsive over the years."
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "If you're lucky — your own intentions have very little to do with this — you can keep the body as well-oiled and receptive as possible but whether you're actually going to be able to go for the long-haul is really not your own choice."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "15",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "One of the other things that I thought was really cool about this project is that you were able to work with your son."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "16",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "My son and my daughter have both been an incredibly sustaining force, especially through this recent bad patch, so I've been blessed and grateful for their company and for their assistance."
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Adam is a great singer-songwriter in his own right; to have his microscopic attention to my work is [*laughter*] is a great really a great privilege."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "18",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Adam, I wonder if you could speak to the importance of this project as it relates to your relationship with your father."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "19",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I won't punish you. [*laughter*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "20",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was speaking with my wife earlier this afternoon and she said, ‘You know, in a way it seems as though your whole life was leading up to a certain preparedness to work on this record.’"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I knew that what she meant was not my so-called career but, you know, dinners standing by the side of the stage watching my father work at five, six, seven years old."
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But I think more than anything, it's having the privileged vantage point that we all have in this audience of having listened to his work throughout the years and the tireless success with which he injects transcendent value into his work and how those of us on the sidelines are who pretend to do the same thing, it's the same line of work — marvel."
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And so for me to have had the privilege and finally the little capacity to be able to help not only an artist of this magnitude but who happens to be my father was one of the more outstanding things that's ever happened to my little life."
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Of course, as my father says, also just being in my father's company was one of the things I also cherished the most."
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Moving, moving, powerful stuff for me."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "26",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We’re actually not that tight a family but [*laughter*] yeah, I've expressed my gratitude to my son many times and his career is far from undistinguished and it was a great privilege to have someone of this skill bringing this album to conclusion."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "27",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "One of the things that, you know, Adam, you and I talked to earlier today — and one of the most instrumental parts of being a producer on this album — was knowing what Leonard didn't want and kind of having a fast track to the things that you know that he cares for and I wonder if you could speak to those things the things that, you, know he's gonna like."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "28",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I think that was my chief advantage — maybe my only advantage other than the patience my father showed me on many occasions when I was being microscopic, which is one of my trademarks [*laughter*] — the character "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "29",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— thank you so much —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "30",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— of the record was very much established by the great Pat Leonard's work —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "31",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— and the record didn't start with you as producer —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "32",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— No, the record didn't start with me at all."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "33",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "34",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The record started long before me and the great advantage that I had over everybody else toiling with these great great pieces of — of melody, of lyric, of song, were that they didn't have to tr—they had to traverse an unknown, whereas I really had a sense of familiarity with what my father hates [*laughter*], you know, years and years of hearing what he hates in music [*laughter*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "35",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's a long list."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "36",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And to be able to, to be able to circumnavigate those things, bypass them and to be able to propose directions and shapes and sounds that I, by osmosis and by proxy and by listening, I knew would be more … potentially acceptable [*laughter*]."
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "kind": "text",
+          "speaker": "A. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Where, uh… that was the advantage."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "38",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Uh you already mentioned Bob Dylan."
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "There’s a wonderful New Yorker article that just came out this week, by the way, that you should definitely read, by David Remnick."
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And in the article, David spoke to Dylan who had some really wonderful things to say about you and he actually spoke about something that most people don't really talk about when they talk about your work and that was the music itself."
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Did you see what he had to say with [INAUDIBLE]—"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "42",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— yeah —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "43",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— yeah —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "44",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Very generous, very kind."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "45",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah, I wonder if you would want to comment on what he said there."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "46",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh, well, I won't comment on what he said but I will comment on his receiving the Nobel Prize which to me is like pinning a medal on Mount Everest for being the highest mountain. [*laughter*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "47",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What — what happened, Leonard? I mean, did you not get the forums filled out in time? [*stammering*]"
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "How come — You know, the thing that you hear first when you hear this album — the very first thing that you hear are these incredibly rich and moving vocals."
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "This was a really inspired choice and I want to ask you about the choir that is featured on the album."
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "From my understanding they come from a synagogue that is in Montreal."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "51",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes, oh well perhaps Gideon [Zelermyer] could speak to that."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "52",
+          "kind": "text",
+          "speaker": "Zelermyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "If you want me to."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "53",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Oh."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "54",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He’s right over here."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "55",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I, I didn't — I'm sorry, I'd never met you before—"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "56",
+          "kind": "text",
+          "speaker": "Zelermyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It’s a pleasure."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "57",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So Gideon and —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "58",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Wait a minute — you guys haven't met yet?!"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "59",
+          "kind": "text",
+          "speaker": "Zelermyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "No."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "60",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "No."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "61",
+          "kind": "text",
+          "speaker": "Zelermyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Nice to meet you."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "62",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Okay. Gideon was the the soloist that you hear on the first song You Want It Darker and the choir appears on the first song and on seems"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "63",
+          "kind": "text",
+          "speaker": "Zelermyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It Seemed A Better Way."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "64",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thank you, yeah. How did you get the call"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "65",
+          "kind": "text",
+          "speaker": "Zelermyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "How did I get the call? Leonard and I have corresponded for the last number of years and I have been the Cantor of Shaar Hashomayim in Montreal for, this is my 13th High Holidays that I survived, passing Yom Kippur yesterday."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "66",
+          "kind": "text",
+          "speaker": "Zelemyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And Leonard is a household source of intense pride for our community his great grandfather after whom he's named and who he signs off his emails to me, Eliezer, was a past president of our community as was his grandfather and I've met many of his members of his family over the years and they thought that I might want to be in touch and I didn't quite know how to make that happen spontaneously other than to wish him a happy new year a few years back and we've gone on from there."
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "kind": "text",
+          "speaker": "Zelemyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And sometime in November Leonard sent me an email and said ‘wonder how you'd feel about corresponding and collaborating on my new album.’"
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "kind": "text",
+          "speaker": "Zelemyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And I shouted all sorts of things that no member of the cloth should ever shout and then I said I wrote back and said ‘hallelujah I'm your man!’ and from there Adam and I took it and ran and together with Howard Billerman who's here from Montreal who is the proprietor of Hotel to Tango one of the finest Studios in our town."
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "kind": "text",
+          "speaker": "Zelemyer",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We brought the choir in and made it happen and one of the most wonderful exchanges that we've had over the last number of months was when we were recording samples for the first song on the pulpit in the sanctuary of Shaar Hashomayim and I snapped a picture and sent it to Adam and to Leonard and they wrote back — and Leonard in particular wrote back and said how many fond memories you have of that room, how many meaningful occasions in your life and in the lives of your family have happened there so for us to take part in this, a small part in this, is really an honor and a privilege and I thank you for reaching out."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "70",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thanks so much, Gideon."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "71",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We have we have questions from journalists from around the world and we're going to start with Dan Cairns from the UK with the Sunday Times culture."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "72",
+          "kind": "text",
+          "speaker": "Cairns",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Good evening, Mr. Cohen."
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "kind": "text",
+          "speaker": "Cairns",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was already painfully aware of the fact that I've let this side down sartorially this evening and then I caught sight of Cantor Gideon's incredibly snazzy corresponding shoes I'm feeling even worse than I was already, um, but on a more serious note…"
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "kind": "text",
+          "speaker": "Cairns",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Which came first, do you think — your, your regimen of kind of ascetic purity and clearing away the extraneous — do you think that was an unconscious clearing the path to be a writer or was that a response to being a writer?"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "kind": "text",
+          "speaker": "Cairns",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've always wond— I'm curious, have always been curious with you, whether the stripping away of kind of material things and having to fuss over a wardrobe, you know, you're sticking with something in order to write, whether that came first or whether it was a response to decluttering so you could write. Does that make any sense?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "76",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I mean, nothing in this record makes any sense to me, to tell you the truth."
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've often said if I knew where the good songs came from I’d go there more often. [*laughter*]"
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know, everybody has a kind of magical system that they employ in the hopes that this will open up the channels."
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "My mind was always very cluttered so I took great pains to simplify my environment because if my environment were half as cluttered as my mind I wouldn't be able to make it from room to room so I can't really give you a coherent answer because the system has worked for me even though I've had to sweat over every word."
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's just my style; some people it comes faster, some people come slower."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "81",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Suzanne Boyd, from Zoomer magazine in Canada."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "82",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hi."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "83",
+          "kind": "text",
+          "speaker": "Boyd",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hi, I am a little tongue-tied to be here, so moved by, um, what we just heard"
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "kind": "text",
+          "speaker": "Boyd",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've listened it back many times and with you two sitting together I just wondered how did these profound themes that are so well distilled in this album amplify your relationship as father and son because they talk about a legacy and things that are the past and things that are to come."
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "kind": "text",
+          "speaker": "Boyd",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So how did that change the dynamic between you, if in fact it did?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "86",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know things — if you're lucky, things deepen between members in a family; if you're not lucky, they don't; if you're unlucky, they deteriorate."
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've been lucky. I have close relationships with my few friends and my family members and grandkids."
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So, so far so good. I hope it continues to deepen. I have every faith that it will."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "89",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Stein Tormunds from Belgium."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "90",
+          "kind": "text",
+          "speaker": "Tormunds",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The cover, it's very special of the album, has its deeper meaning, the cover because I see the cigarettes and so "
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "91",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah, I thought you quit smoking."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "92",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So—Some guys ya just can’t trust [*laughter*]."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "93",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I got it, I got a question also about the cover. The — the hummingbird came back. The hummingbird was on Recent Songs and it's on The Future and the hummingbird’s on the back of this on"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "94",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I always love those little creatures. I always feel blessed when they appear nearby. There's a magical quality to them."
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I finally put one in a song — I'd written a lot of songs with hummingbirds in them."
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hey Sharon do you remember one called ‘Hummingbird Hill’? None of them ever came to anything but I did write a few."
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Last month's, it went like this: So ‘Listen to the hummingbird, whose wings you cannot see / Listen to the hummingbird, don't listen to me / Listen to the butterfly, whose days but number three / Listen to the butterfly, don't listen to me / Listen to the mind of God which doesn't need to be / Listen to the mind of God, don't listen to me’ [*applause*]"
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So I would say the hummingbird deserves the royalties on that one."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "99",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Is that gonna turn up on the next album"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "100",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "God willing."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "101",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Vanessa Gimeaux from Quebec."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "102",
+          "kind": "text",
+          "speaker": "Gimeaux",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I spoke with uh, Patrick a little bit earlier and he told me that the last song on the record might be like a preview or, of what could be next because when you released your last record you, you said that you already had some songs for the next ones and I was wondering, is that the case?"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "kind": "text",
+          "speaker": "Gimeaux",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Can we expect a another, more orchestral album from you?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "104",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well I, I would like to work with Pat in any capacity."
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I would love to hear his versions, he is such a magnificent composer, I don't think there is anybody working today with those kind of skills."
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I could translate one of my tunes into that really beautiful chamber music."
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So yes I hope we can come up with something orchestral with some spoken material and I also, God willing, hope the perhaps on another record of songs also might emerge but one never knows."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "108",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Paul Zollo, American songwriter."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "109",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Paul did —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "110",
+          "kind": "text",
+          "speaker": "Zollo",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hi, Chris."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "111",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— one of the best interviews I've ever done —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "112",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "113",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— years ago. I really appreciate that, Paul. I don't know if I've let you know that."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "114",
+          "kind": "text",
+          "speaker": "Zollo",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thank you, you just did, and that’s a great honor."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "115",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It’s true — and it turns up in a book, ‘Cohen On Cohen, ’which are at least part of it does, right?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "116",
+          "kind": "text",
+          "speaker": "Zollo",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "That's right."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "117",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah it's, it's a wonderful interview."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "118",
+          "kind": "text",
+          "speaker": "Zollo",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, Leonard you you made your famous joke ‘If I knew where the great songs came from I go there more often.’"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "kind": "text",
+          "speaker": "Zollo",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You've been doing this for a long time now, writing songs, you probably have more wisdom than a lot of us."
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "kind": "text",
+          "speaker": "Zollo",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Any more idea where those good songs came from? And do you have to spend a lot — like many of your songs took years, as we famously know, did that happen on this album as well?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "121",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yeah the fact that my songs take a long time to write is no guarantee of their excellence."
+            }
+          ]
+        },
+        {
+          "id": "122",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's just it's just the way, it just takes a long time for me um I'm very slow."
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've had, you know, comes kind of by all the dribbles and drops some people are graced with flow, some people are graced with something less than a flow, I'm one of those."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "124",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ayalah Orel from Israel."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "125",
+          "kind": "text",
+          "speaker": "Orel",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I have so many questions to ask you but because I have only one question I'm gonna ask you about your performance in Israel."
+            }
+          ]
+        },
+        {
+          "id": "126",
+          "kind": "text",
+          "speaker": "Orel",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You performed several times in Israel — how was it especially moving for you as a Jewish man to perform in Israel?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "127",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Well, there's a deep tribal aspect to my own nature so when I'm in contact with those deep resources of course I feel a very special kind of nourishment."
+            }
+          ]
+        },
+        {
+          "id": "128",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It is different because it arises from very deep wells of affiliation."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "129",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Pablo Jiménez de Sandoval from Spain, from El Paiz."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "130",
+          "kind": "text",
+          "speaker": "Sandoval",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Good evening."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "131",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Good evening."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "132",
+          "kind": "text",
+          "speaker": "Sandoval",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Um, there are several religious references in the in the record, which is not uncommon."
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "kind": "text",
+          "speaker": "Sandoval",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I wanted to ask you what's the important of religion in your life at this stage of your life — has it increased, decreased, is it different?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "134",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've never thought of myself as a, a religious person."
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't have any spiritual strategy, I kind of … limp along like so many of us do in these realms."
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Occasionally, I've felt the grace of another presence in my life but I can't build a… any kind of spiritual structure on that so, I, I feel that this is a vocabulary that I grew up with, this biblical landscape is a very familiar to me and it's natural that I use those landmarks as references."
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Once they were universal references and everybody understood and knew them and locate them."
+            }
+          ]
+        },
+        {
+          "id": "138",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "That's no longer the case today, but it is still my landscape."
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I try to make those references, I try to make sure that they're not too obscure but outside of that I can't — I dare not claim anything in the spiritual realm for my own."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "140",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Ms. Hakimi Nakamura from Japan."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "141",
+          "kind": "text",
+          "speaker": "Nakamura",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hi."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "142",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Hello."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "143",
+          "kind": "text",
+          "speaker": "Nakamura",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thank you very much for such a powerful moving album."
+            }
+          ]
+        },
+        {
+          "id": "144",
+          "kind": "text",
+          "speaker": "Nakamura",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "One of the most moving lyrics is when you say ‘Think I'm ready my lord.’ Can you describe the moment where you came up with the lyrics and maybe your inspiration?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "145",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't really know the genesis, the origin that um, Hineni, that declaration of readiness no matter what the outcome. That's a part of everyone's soul."
+            }
+          ]
+        },
+        {
+          "id": "146",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "We all are motivated by deep impulses and deep appetites to serve even though we may not be able to locate that which we are willing to serve."
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So this is just a part of my nature and I think everybody else's nature to offer oneself at the critical moment when the emergency becomes articulate."
+            }
+          ]
+        },
+        {
+          "id": "148",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's only when the emergency becomes articulate that we can locate that willingness to serve."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "149",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Um, um, I’m being—"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "150",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "That’s getting too heavy, I'm sorry. [*laughter*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "151",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "How do I follow that up?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "152",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "out though strike that, or… [*laughter*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "153",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Leonard, we want to thank you for being here and we love you —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "154",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Thank you so much, Chris."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "155",
+          "kind": "text",
+          "speaker": "Douridas",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— uh, we have to we have to wrap it up. Is there anything you want to say in closing?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "156",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Just, thanks for coming, friends and I really appreciate it and I — I really appreciate it you're standing up when I came into the room."
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "kind": "text",
+          "speaker": "L. Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I hope we can do this again. I intend to stick around ‘til 120."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "annotations": []
+}

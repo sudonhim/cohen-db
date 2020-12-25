@@ -1,0 +1,1510 @@
+{
+  "title": "Leonard Cohen’s Last Interview by David Remnick",
+  "kind": "interview",
+  "version": 0,
+  "user": "sudonhim",
+  "metadata": {
+    "date": "2017-11-06",
+    "source": "https://www.youtube.com/watch?v=BVpG3tO0nOQ"
+  },
+  "content": {
+    "kind": "simple",
+    "content": {
+      "fragments": [
+        {
+          "id": "1",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "…the new 80-hour I'm David Remnick at the end of the… [missing audio] American song and songwriters."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When I visited him in Los Angeles, he was Content: suffering from cancer, although he was keeping that very private."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He was in deep pain from compression fractures in his spine and he had to sit in a big blue medical chair to ease that pain."
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He was very thin already — maybe 105, 110 pounds — but I've got to say that he was in an ebullient mood for a man who knew where life was taking him, he knew exactly where he was going and he was headed there in a hurry."
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And at the same time he was incredibly gracious, the most gracious host this side of my mother."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "6",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Would you like a few slices of cheese and olives"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "7",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "No, I’m good, thank you."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "8",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You’re cool?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "9",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Cohen had just finished up a new album, and it's out now, called ‘You Want it Darker.’"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He'd recorded almost all of it sitting in that medical chair right there in the living room — a really modest space with just a couple of guitars, some recording equipment, a keyboard — and even as our talk, like the album itself, never really strayed far from the end of things he knew where he was headed."
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His sense of humor and his vicious self-mockery was always present:"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "12",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Sorry, darling"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "13",
+          "kind": "text",
+          "speaker": "Nurse",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "No worries!"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "14",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— Could you bring my hearing aid?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "15",
+          "kind": "text",
+          "speaker": "Nurse",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Yes, of course."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "16",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I can’t hear fuck all [*laughter*]"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "17",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Cohen grew up in Montreal in a prominent Jewish family — a well-to-do established family there."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "18",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His family ran a clothing concern, and it was almost as an homage to his family business that Cohen, even in the 60s, always were beautiful well-cut suits including a tailored, dark blue number that he had on when I saw him."
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When Leonard was 9 years old his father died and that, that event became a kind of origin story for his career as a writer and as someone who believed in writing as an almost sacramental act."
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "My father's funeral was held in our house: we came down the stairs, the coffin was in the living room, and it was open."
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was winter, you know — I was thinking like, must be hard to dig."
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I went to the plot, I saw my father buried, and then then I came back to the house and I went to his closet and I found a bow tie."
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I cut one of the wings of the bow tie off and, and I wrote something on it — I think it was some kind of… farewell to my father, religious, I don't remember what I wrote — and I buried it in the backyard."
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It was just some attraction to a ritual response to an impossible event."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "25",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "’You Want It Darker,” the last album, is saturated with thoughts of the end, of death, but Cohen’s subjects were always there from the first — the big things: death love sex God and always undercut by that razory wit."
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And as a young man Cohen wanted to be a writer above all a poet and he was following less on the path of Hank Williams or Bob Dylan in those days than he was in the path of Allen Ginsberg or Frank O'Hara."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "27",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "[reciting poetry at the 92nd St. Y] This blood on my arm / as warm as a bird / his heart in my hand as heavy as lead / his eyes through my eyes / shine brighter than love / oh send out the Raven / ahead of the dove / his life…"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "28",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— That's Cohen reading at the 92nd Street Y in New York 50 years ago."
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But around that time, it came clear that he'd never make a real living as a writer, and surrounded in New York by talents and early friends like Lou Reed and Judy Collins and Patti Smith he wrote the songs for his first record which came out in 1967."
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Like the best poets he was writing directly from his inner life and from the life all around him."
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "If you grew up with him in Montreal, you also knew the places and the people in songs like ‘Suzanne’ and no one else seemed to have quite the same precision, the same irony."
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "What Leonard Cohen found really difficult was performance, the stage. There was something about getting up on stage that he found almost false."
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He said that he felt like a chained parrot up there sometimes, and the stage fright could be paralyzing:"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "34",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "[cut to old recording] I’m scared enough as it is out here, and I think something's wrong every time you begin to applaud."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "35",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On one tour he says he went through three bottles of wine a night before going on stage — Chateau Latour, in fact — it went so well with the music, he said. Still, the booze and the drugs didn't always really help with the anxiety."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "36",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "[cut to old recording] I hope that you bear with me.  These songs, uh, they become meditations for me and sometimes just don't get high on it and I feel that I am cheating you so, I'll try it again okay and if it doesn't work I'll stop in the middle..."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "37",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In Israel, in 1972, he left the stage when he felt like the show just wasn't going well."
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He went back to the dressing room and he dropped some acid… and then he heard the audience singing to him. It was really singing to him."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "39",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The audience had sensed that I was disappointed. I mean, how sweet, how sweet can an audience possibly be?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "40",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Singing back to you?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "41",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "They started singing ‘Hevenu Shalom Aleichem’ you know what I'm hearing this in the dressing room."
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "They're singing it to me and they mean to be singing it to me. So I go out and I start singing ‘So Long Marianne’"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "43",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "That's one of his most famous songs about an ex-girlfriend. Meanwhile, the acid starts to kick in, he's hallucinating:"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "44",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "[*Song Playing*] I see Marianne… spread in front of me… and I start crying, you know I turn around it and Andrew's crying too and then it turned into something quite comic, the entire audience turned into one Jew…"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "45",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "[*laughter*] Which is enough for anyone!"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "46",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— and this Jew was saying, ‘What else can you show me kid? I've seen a lot of things and this don't move the dial!’ [*laughter*]"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The entire, you know, skeptical side of our tradition, manifested as an actual gigantic being judging me, you know, hardly begins to describe the operation."
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I mean the sense of invalidation and irrelevance that I felt was authentic because … of those feelings … I don't, I'm not unique in this respect, with those feelings have always circulated around my psyche, you know, which is … ‘Where do you get to stand up and, and speak for what and who?’ and ‘You know, how deep is your experience?’ ‘How significant is anything you have to say to anybody?’"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I think it really really invited me to deepen my practice, like digging deeper whatever it was."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "50",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Mmmhmmm"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "51",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know, like ‘take this thing a little bit more seriously,’ you know."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "52",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Bob Dylan once told Cohen that his songs were like prayers, and in fact many of Cohen’s songs and poems lean heavily on scripture on the Psalms in particular as much as they do on the American Songbook or on his heroes in country and folk music."
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Cohen was very reluctant, though, with me to analyze the religious aspect of his work or performance."
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He didn't like the suggestion that he might try to give his work a spiritual purpose or heft even if plenty of his fans had seen him almost as a religious figure."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "55",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Because I don't like to be identified with Jewish thought."
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In my own mind, you know, I know that I'm deeply conditioned by this."
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "One of the great themes of Kabbalistic thought is the, the idea that the thrust of Jewish activity is the repair of God…"
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "God, in creating the world, dispersed itself, that creation is a catastrophe: there are pieces of Him or Her or It that are everywhere, in fact, and that the specific task of the Jew is to repair the face of God."
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The prayers are to remind God that it was once a harmonious unity."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "60",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Is, is your view of performance especially these last X years it's been a religious dimension that—"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "61",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It’s, it’s not self-conscious, you know."
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I only know that if I write enough verses and keep discarding the slogans… even the hip ones, even the subtle ones… that something will emerge that represents — I've often said that the reason my writing is so slow is that I have to finish the verse before I discard it."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "63",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But as I understand also for a lot of songs that have, say, three or four verses that are on the recording or published on a page there are 60 or 70 or 80 verses —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "64",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Some, some, as many as that. But all with at least 10 or 20."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "65",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Like a lot of artists of his time, Cohen was a seeker: he dabbled in everything from Scientology to dancing with the Hari Krishnas."
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "But he stuck with spiritual life in a way that few of his peers ever did; he was serious it was never a hobby in fact he spent long stretches at a Zen Buddhist monastery in the mountains outside of Los Angeles with a teacher named Joshu Sasaki Roshi whose students lived in the most ascetic way possible."
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When I brought up Cohen's reputation as a ladies man he laughed and he talked instead about the thousands of nights and days he spent on a mountain just shoveling snow, cleaning, cooking, and meditating."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "68",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I was deeply associated with Roshi for over 40 years."
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't really know too much about Buddhism or or… what formal Buddhist training is, I only know Roshi’s system, which I understand is eccentric."
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "On a superficial level, it accomplishes what a bootcamp accomplishes, which is basically to get you to stop whining. [*laughter*]"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It makes whining the least appropriate response to suffering."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "72",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Some years ago, Cohen came back from the Zen monastery only to discover that his accounts had been absolutely wiped out by his manager."
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He sued but there was no getting around that the money was gone and there he was, well into his 60s with nothing for his kids or for his retirement."
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So Cohen had no choice: he had to go back to work."
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "He published a book of new poems for the first time in 20 years and he went out on a tour that lasted more or less for four years."
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "And there was a different feel to Cohen's work on stage after this monastic period — he was funnier he was more animated more lighthearted and maybe for the first time seemed really happy to be on stage."
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I caught one of those concerts at Radio City Music Hall and, I've got to say, it was one of the best things I have ever seen in my entire life."
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Here was this guy dressed in a suit and a fedora over and over again he'd sink to his knees almost in devotion to the audience and to the songs themselves."
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'd always admired Cohen’s songs but I'd never been quite swept away; the studio recordings especially sometimes seemed a little, I don’t know, ‘rinky-dink’ in their rendition — too much synthesizer, not quite worthy of the songs, but that tour was a triumph."
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Leonard Cohen had an astonishing band now and his voice was as deep as the ocean."
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When we finally met, Cohen was suffering from these terrible health problems — cancer and excruciating back pain — and he was even allergic to most of the medicine that would alleviate the pain."
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "All of those years spent meditating were coming in handy in an entirely new way."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "83",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I've had to white-knuckle this thing."
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know, fortunately, I have some training in … we could call it mind control."
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "As a blessing the, the mental activity is working just fine. I got most of my marbles, maybe more than I've had in other periods."
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In a certain sense, this particular predicament is filled with many less distractions than in other periods of my life and actually enables me to work with a little more concentration and continuity."
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The only thing that mitigates against full production is just the condition of my body, because there are times I just have to lie down."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "88",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Leonard, you have to say when you need a rest or —"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "89",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "— No, I'm fine, as, it’s — it's you guys. Would you like something to eat?"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "90",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "No, we’re fine."
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "he was incredibly solicitous instead of taking a break or asking us to come back another time Leonard sent his assistant out to pick us all up some food at Fatburger down the street"
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "92",
+          "kind": "text",
+          "speaker": "Assistant",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I think I got your onion.  Did I get your onion?  That’s you."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "93",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I think we all have onion."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "94",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Cohen told me he was still hearing the voice of God — and it was at that moment that somebody started up a leaf blower or some damn thing next door but Cohen was saying that God sounded different now not that awful incessant voice of judgment that he heard when he was younger."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "95",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Sometimes it's just like ‘you're losing too much weight now’ and … ‘you're dying but you don't have to cooperate so enthusiastically with the process,’ you know, like ‘force yourself to have the sandwich or something’ you know what I mean."
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "You know, sometimes I hear it say ‘ignore me, just get on with the things you have to do,’ you know."
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's very it's very compassionate at this stage, you know, I mean more than any time in my life."
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I don't have that voice that says ‘you’re fucking up.’  That's a tremendous blessing, tremendous blessing.  You know, really you know."
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I'm ready to die I hope it isn't uncomfortable."
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Spiritual things, Baruch Hashem, spiritual things have fallen into place for which I am deeply grateful."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "101",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "To the very last, Leonard Cohen was working all the time, compulsively focusing on what he could get done at home: writing, recording, collecting, finishing old poems, and to me it seemed like almost a model of how to live your last days, if you can."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "102",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "I like to tie up the strings."
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "It's a cliche but it's underestimated as a, uh, as an analgesic on all levels."
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Putting your house in order is one of the most, if you can do it, one of the most comforting activities and the benefits of it are incalculable."
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "There's a great deal of new material that I haven't sorted out: 50 or 60 unpublished poems, there are songs halfway through, that are not bad:"
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "‘listen to the hummingbird, whose wings you cannot see / listen to the hummingbird, don't listen to me / listen to the butterfly, whose days but number three / listen to the butterfly, don't listen to me / listen to the mind of God, which doesn't need to be / listen to the mind of God, don't listen to me …’"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "kind": "text",
+          "speaker": "Cohen",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "So I was halfway, I don't think I'll be able to finish those songs."
+            }
+          ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "id": "108",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The great Leonard Cohen, I talked with him late this summer. Leonard Cohen died this past Tuesday."
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "His latest album, and the last of his lifetime, is ‘You Want It Darker.’"
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "kind": "text",
+          "speaker": "Remnick",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "If you want to read the profile of Leonard Cohen that was published in the magazine, I'd be pretty pleased about that.  You can find the piece at NewYorkerRadio.org"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "annotations": []
+}
