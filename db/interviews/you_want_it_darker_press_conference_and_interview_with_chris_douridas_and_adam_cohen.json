@@ -18,7 +18,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Well friends, thanks so much. Some of you have come a long long way and I appreciate it; some of you have driven across Los Angeles, takes about the same time [*laughter*]. Thank you for that too."
+              "text": "Well friends, thanks so much. Some of you have come a long long way and I appreciate it; some of you have driven across Los Angeles, takes about the same time "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": ". Thank you for that too."
             }
           ]
         },
@@ -86,7 +95,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "You've been so kind to me and so many artists over the years and on behalf of myself and all those people you've put into the spotlight I really appreciate [INAUDIBLE, COUGHING] my gratitude"
+              "text": "You've been so kind to me and so many artists over the years and on behalf of myself and all those people you've put into the spotlight I really appreciate "
+            },
+            {
+              "kind": "text",
+              "text": "INAUDIBLE, COUGHING",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " my gratitude"
             }
           ]
         },
@@ -103,7 +121,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Thank you, Leonard, thank you. Thank you for a beautiful album, it's a stunning work, don't you think? [*applause*]"
+              "text": "Thank you, Leonard, thank you. Thank you for a beautiful album, it's a stunning work, don't you think? "
+            },
+            {
+              "kind": "text",
+              "text": "*applause*",
+              "secondary": true
             }
           ]
         },
@@ -131,7 +154,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Uh, I said I was ready to die recently, you know, I think I was exaggerating. [*laughter*]"
+              "text": "Uh, I said I was ready to die recently, you know, I think I was exaggerating. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -142,7 +170,21 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "One is given to self-dramatization from time to time [*laughter*], I intend to live forever. [*laughter and applause*]"
+              "text": "One is given to self-dramatization from time to time "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": ", I intend to live forever. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter and applause*",
+              "secondary": true
             }
           ]
         },
@@ -254,7 +296,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Adam is a great singer-songwriter in his own right; to have his microscopic attention to my work is [*laughter*] is a great really a great privilege."
+              "text": "Adam is a great singer-songwriter in his own right; to have his microscopic attention to my work is "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " is a great really a great privilege."
             }
           ]
         },
@@ -288,7 +339,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "I won't punish you. [*laughter*]"
+              "text": "I won't punish you. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -377,7 +433,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "We’re actually not that tight a family but [*laughter*] yeah, I've expressed my gratitude to my son many times and his career is far from undistinguished and it was a great privilege to have someone of this skill bringing this album to conclusion."
+              "text": "We’re actually not that tight a family but "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " yeah, I've expressed my gratitude to my son many times and his career is far from undistinguished and it was a great privilege to have someone of this skill bringing this album to conclusion."
             }
           ]
         },
@@ -411,7 +476,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "I think that was my chief advantage — maybe my only advantage other than the patience my father showed me on many occasions when I was being microscopic, which is one of my trademarks [*laughter*] — the character "
+              "text": "I think that was my chief advantage — maybe my only advantage other than the patience my father showed me on many occasions when I was being microscopic, which is one of my trademarks "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " — the character "
             }
           ]
         },
@@ -513,7 +587,21 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "The record started long before me and the great advantage that I had over everybody else toiling with these great great pieces of — of melody, of lyric, of song, were that they didn't have to tr—they had to traverse an unknown, whereas I really had a sense of familiarity with what my father hates [*laughter*], you know, years and years of hearing what he hates in music [*laughter*]"
+              "text": "The record started long before me and the great advantage that I had over everybody else toiling with these great great pieces of — of melody, of lyric, of song, were that they didn't have to tr—they had to traverse an unknown, whereas I really had a sense of familiarity with what my father hates "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": ", you know, years and years of hearing what he hates in music "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -547,7 +635,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "And to be able to, to be able to circumnavigate those things, bypass them and to be able to propose directions and shapes and sounds that I, by osmosis and by proxy and by listening, I knew would be more … potentially acceptable [*laughter*]."
+              "text": "And to be able to, to be able to circumnavigate those things, bypass them and to be able to propose directions and shapes and sounds that I, by osmosis and by proxy and by listening, I knew would be more … potentially acceptable "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": "."
             }
           ]
         },
@@ -608,7 +705,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Did you see what he had to say with [INAUDIBLE]—"
+              "text": "Did you see what he had to say with "
+            },
+            {
+              "kind": "text",
+              "text": "INAUDIBLE",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": "—"
             }
           ]
         },
@@ -693,7 +799,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Oh, well, I won't comment on what he said but I will comment on his receiving the Nobel Prize which to me is like pinning a medal on Mount Everest for being the highest mountain. [*laughter*]"
+              "text": "Oh, well, I won't comment on what he said but I will comment on his receiving the Nobel Prize which to me is like pinning a medal on Mount Everest for being the highest mountain. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -710,7 +821,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "What — what happened, Leonard? I mean, did you not get the forums filled out in time? [*stammering*]"
+              "text": "What — what happened, Leonard? I mean, did you not get the forums filled out in time? "
+            },
+            {
+              "kind": "text",
+              "text": "*stammering*",
+              "secondary": true
             }
           ]
         },
@@ -760,7 +876,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Yes, oh well perhaps Gideon [Zelermyer] could speak to that."
+              "text": "Yes, oh well perhaps Gideon "
+            },
+            {
+              "kind": "text",
+              "text": "Zelermyer",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " could speak to that."
             }
           ]
         },
@@ -1160,7 +1285,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "I've often said if I knew where the good songs came from I’d go there more often. [*laughter*]"
+              "text": "I've often said if I knew where the good songs came from I’d go there more often. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -1373,7 +1503,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "So—Some guys ya just can’t trust [*laughter*]."
+              "text": "So—Some guys ya just can’t trust "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": "."
             }
           ]
         },
@@ -1440,7 +1579,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Last month's, it went like this: So ‘Listen to the hummingbird, whose wings you cannot see / Listen to the hummingbird, don't listen to me / Listen to the butterfly, whose days but number three / Listen to the butterfly, don't listen to me / Listen to the mind of God which doesn't need to be / Listen to the mind of God, don't listen to me’ [*applause*]"
+              "text": "Last month's, it went like this: So ‘Listen to the hummingbird, whose wings you cannot see / Listen to the hummingbird, don't listen to me / Listen to the butterfly, whose days but number three / Listen to the butterfly, don't listen to me / Listen to the mind of God which doesn't need to be / Listen to the mind of God, don't listen to me’ "
+            },
+            {
+              "kind": "text",
+              "text": "*applause*",
+              "secondary": true
             }
           ]
         },
@@ -2215,7 +2359,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "That’s getting too heavy, I'm sorry. [*laughter*]"
+              "text": "That’s getting too heavy, I'm sorry. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -2249,7 +2398,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "out though strike that, or… [*laughter*]"
+              "text": "out though strike that, or… "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },

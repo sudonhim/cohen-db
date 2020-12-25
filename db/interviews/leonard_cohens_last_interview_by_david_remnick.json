@@ -18,7 +18,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "…the new 80-hour I'm David Remnick at the end of the… [missing audio] American song and songwriters."
+              "text": "…the new 80-hour I'm David Remnick at the end of the… "
+            },
+            {
+              "kind": "text",
+              "text": "missing audio",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " American song and songwriters."
             }
           ]
         },
@@ -237,7 +246,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "I can’t hear fuck all [*laughter*]"
+              "text": "I can’t hear fuck all "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -382,7 +396,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[reciting poetry at the 92nd St. Y] This blood on my arm / as warm as a bird / his heart in my hand as heavy as lead / his eyes through my eyes / shine brighter than love / oh send out the Raven / ahead of the dove / his life…"
+              "text": "reciting poetry at the 92nd St. Y",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " This blood on my arm / as warm as a bird / his heart in my hand as heavy as lead / his eyes through my eyes / shine brighter than love / oh send out the Raven / ahead of the dove / his life…"
             }
           ]
         },
@@ -471,7 +490,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[cut to old recording] I’m scared enough as it is out here, and I think something's wrong every time you begin to applaud."
+              "text": "cut to old recording",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " I’m scared enough as it is out here, and I think something's wrong every time you begin to applaud."
             }
           ]
         },
@@ -505,7 +529,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[cut to old recording] I hope that you bear with me.  These songs, uh, they become meditations for me and sometimes just don't get high on it and I feel that I am cheating you so, I'll try it again okay and if it doesn't work I'll stop in the middle..."
+              "text": "cut to old recording",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " I hope that you bear with me.  These songs, uh, they become meditations for me and sometimes just don't get high on it and I feel that I am cheating you so, I'll try it again okay and if it doesn't work I'll stop in the middle..."
             }
           ]
         },
@@ -629,7 +658,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[*Song Playing*] I see Marianne… spread in front of me… and I start crying, you know I turn around it and Andrew's crying too and then it turned into something quite comic, the entire audience turned into one Jew…"
+              "text": "*Song Playing*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " I see Marianne… spread in front of me… and I start crying, you know I turn around it and Andrew's crying too and then it turned into something quite comic, the entire audience turned into one Jew…"
             }
           ]
         },
@@ -646,7 +680,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[*laughter*] Which is enough for anyone!"
+              "text": "*laughter*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " Which is enough for anyone!"
             }
           ]
         },
@@ -663,7 +702,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "— and this Jew was saying, ‘What else can you show me kid? I've seen a lot of things and this don't move the dial!’ [*laughter*]"
+              "text": "— and this Jew was saying, ‘What else can you show me kid? I've seen a lot of things and this don't move the dial!’ "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },
@@ -987,7 +1031,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "On a superficial level, it accomplishes what a bootcamp accomplishes, which is basically to get you to stop whining. [*laughter*]"
+              "text": "On a superficial level, it accomplishes what a bootcamp accomplishes, which is basically to get you to stop whining. "
+            },
+            {
+              "kind": "text",
+              "text": "*laughter*",
+              "secondary": true
             }
           ]
         },

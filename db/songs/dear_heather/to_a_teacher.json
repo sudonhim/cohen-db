@@ -101,7 +101,8 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[Dedicated to A. M. Klein (1909-1972)]"
+              "text": "Dedicated to A. M. Klein (1909-1972)",
+              "secondary": true
             }
           ]
         },

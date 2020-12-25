@@ -110,7 +110,8 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[Dedicated to Irving Layton]"
+              "text": "Dedicated to Irving Layton",
+              "secondary": true
             }
           ]
         },

@@ -415,7 +415,16 @@
             "tokens": [
               {
                 "kind": "text",
-                "text": "I want to thank you for the items that you sent me. Very useful.I've been studying them very carefully, abstractionist as is the style of the city, refracted through certain obscure and subtle lens of a position that is not easily discerned. Nevertheless [not] without a certain compelling charm, especially when viewed through several glasses of an excellent Bordeaux.   I am sincerely grateful for the notes; for the missives; for the few broken tiles, no doubt from some street battle long past and lost to the memory of mankind, nevertheless a certain historic significance; slivers of cobblestone from unknown conflicts. I really don't know what they stand for at all but I'm deeply grateful that my dressing room is heaped with this kind of debris from many other positions of course, but my own. I love every precious shard. I thank you for the monkey and the plywood violin and I've practiced every night and now I am ready...."
+                "text": "I want to thank you for the items that you sent me. Very useful.I've been studying them very carefully, abstractionist as is the style of the city, refracted through certain obscure and subtle lens of a position that is not easily discerned. Nevertheless "
+              },
+              {
+                "kind": "text",
+                "text": "not",
+                "secondary": true
+              },
+              {
+                "kind": "text",
+                "text": " without a certain compelling charm, especially when viewed through several glasses of an excellent Bordeaux.   I am sincerely grateful for the notes; for the missives; for the few broken tiles, no doubt from some street battle long past and lost to the memory of mankind, nevertheless a certain historic significance; slivers of cobblestone from unknown conflicts. I really don't know what they stand for at all but I'm deeply grateful that my dressing room is heaped with this kind of debris from many other positions of course, but my own. I love every precious shard. I thank you for the monkey and the plywood violin and I've practiced every night and now I am ready...."
               }
             ]
           },

@@ -140,7 +140,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "When you called she was always there [Repeat: x5]"
+              "text": "When you called she was always there "
+            },
+            {
+              "kind": "text",
+              "text": "Repeat: x5",
+              "secondary": true
             }
           ]
         },
@@ -434,7 +439,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Once you have her she'll always be there [Repeat: x4]"
+              "text": "Once you have her she'll always be there "
+            },
+            {
+              "kind": "text",
+              "text": "Repeat: x4",
+              "secondary": true
             }
           ]
         },
@@ -615,7 +625,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "You can't melt it down in the rain [Repeats]"
+              "text": "You can't melt it down in the rain "
+            },
+            {
+              "kind": "text",
+              "text": "Repeats",
+              "secondary": true
             }
           ]
         },

@@ -14,7 +14,8 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[Instrumental]"
+              "text": "Instrumental",
+              "secondary": true
             }
           ]
         },

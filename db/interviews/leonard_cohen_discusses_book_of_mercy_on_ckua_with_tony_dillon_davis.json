@@ -438,7 +438,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "It just verifies a certain kind of promise that each of us has dimly heard… that a certain kind of promise that there is a source of healing, that there is a torrent of mercy and that it operates in mysterious ways and it isn’t—it always isn't available but with a with a [*stuttering*] with appeal, that can be located but I I it's not it's not a book of spiritual mastery—"
+              "text": "It just verifies a certain kind of promise that each of us has dimly heard… that a certain kind of promise that there is a source of healing, that there is a torrent of mercy and that it operates in mysterious ways and it isn’t—it always isn't available but with a with a "
+            },
+            {
+              "kind": "text",
+              "text": "*stuttering*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " with appeal, that can be located but I I it's not it's not a book of spiritual mastery—"
             }
           ]
         },
@@ -500,7 +509,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Was this part of your your [*stuttering*] your thinking as you began to put together these things?"
+              "text": "Was this part of your your "
+            },
+            {
+              "kind": "text",
+              "text": "*stuttering*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " your thinking as you began to put together these things?"
             }
           ]
         },
@@ -545,7 +563,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "—I would have—[*talking over*]"
+              "text": "—I would have—"
+            },
+            {
+              "kind": "text",
+              "text": "*talking over*",
+              "secondary": true
             }
           ]
         },
@@ -596,7 +619,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "—It doesn’t look Jewish—[*deadpan*]"
+              "text": "—It doesn’t look Jewish—"
+            },
+            {
+              "kind": "text",
+              "text": "*deadpan*",
+              "secondary": true
             }
           ]
         },
@@ -613,7 +641,12 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "[*laughing*] This, this sense of walking around talking to God the way it happens in the… in the Bible all the time."
+              "text": "*laughing*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " This, this sense of walking around talking to God the way it happens in the… in the Bible all the time."
             }
           ]
         },
@@ -864,7 +897,25 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "So the only, the only position you can take is the truth to the moment as you discern it and you, you cannot present yourself as anything but what you are in this thing and I think this book does present that… that question or that asker, that beggar presents him exactly as he was at the moment you know [*sigh*] give or take a few you know flaws that I don't have the, you know, I mean description of flaws [*stammering*] it is a flawed one asking a perfect one but the—I, I, I think that the put on is as, is as minimal as anything that I've ever done."
+              "text": "So the only, the only position you can take is the truth to the moment as you discern it and you, you cannot present yourself as anything but what you are in this thing and I think this book does present that… that question or that asker, that beggar presents him exactly as he was at the moment you know "
+            },
+            {
+              "kind": "text",
+              "text": "*sigh*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " give or take a few you know flaws that I don't have the, you know, I mean description of flaws "
+            },
+            {
+              "kind": "text",
+              "text": "*stammering*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " it is a flawed one asking a perfect one but the—I, I, I think that the put on is as, is as minimal as anything that I've ever done."
             }
           ]
         },
@@ -1188,7 +1239,16 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "There's all kinds of psychic — these are taking place on a landscape which is subtle but nevertheless each of us lives in a very subtle landscape and it is a recognition of how subtle your landscape and my landscape is that… could present the possibility of, of our speaking to each other of our acting with each other the the the [*stammering*] it is the, the deepest violation to another man is to is to disregard or ignore the subtlety of his landscape… or to believe it is less subtle than yours."
+              "text": "There's all kinds of psychic — these are taking place on a landscape which is subtle but nevertheless each of us lives in a very subtle landscape and it is a recognition of how subtle your landscape and my landscape is that… could present the possibility of, of our speaking to each other of our acting with each other the the the "
+            },
+            {
+              "kind": "text",
+              "text": "*stammering*",
+              "secondary": true
+            },
+            {
+              "kind": "text",
+              "text": " it is the, the deepest violation to another man is to is to disregard or ignore the subtlety of his landscape… or to believe it is less subtle than yours."
             }
           ]
         },
