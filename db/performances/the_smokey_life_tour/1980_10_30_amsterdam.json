@@ -7,24 +7,30 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.white"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.white"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.woman"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.woman"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -37,24 +43,30 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.gold"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.gold"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.day"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.day"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {

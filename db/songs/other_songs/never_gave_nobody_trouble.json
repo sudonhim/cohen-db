@@ -7,14 +7,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "A house - a structure, a spiritual arrangement, in which god/prophet lives with his people. LC failed as a prophet, he was not able to hold it together."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +26,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.heart"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.heart"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,14 +48,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.window"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.window"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -64,14 +70,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sea"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sea"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -83,14 +92,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.man"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.man"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

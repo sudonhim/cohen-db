@@ -7,14 +7,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "J Paul Getty was a rich modern industrialist. His son, J Paul Getty II, was more conservative and concerned with culture."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +26,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.blue"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.blue"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,14 +48,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "This is a line that only makes sense in America, where the libertarian tradition comes to conflict with progressive racial politics, thus the 'freedom loving racist'."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -64,14 +67,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Given the time this song was written, and its other political content, this is likely Ronald Reagan."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -83,14 +86,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Refers to the song 'America the Beautiful'"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -102,14 +105,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.mother"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.mother"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -121,14 +127,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.blood"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.blood"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -140,14 +149,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.fire"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.fire"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -159,14 +171,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Turtle soup used to be very popular, but has become unfashionable due to its colonialist origins, and concern for the turtle population. Cohen is mocking the Jazz Police's view of tradition with the caricature of someone wantonly burning turtles, out of a mad lust for turtle meat. This represents the attitude of the Jazz Police to anybody keeping a morally suspect tradition alive today; the behavior is viewed as incomprehensible, selfish, and destructive."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

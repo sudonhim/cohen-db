@@ -7,14 +7,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.dance"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dance"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +29,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sweetness"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sweetness"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,14 +51,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.thigh"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.thigh"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -64,14 +73,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.moon"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.moon"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -83,24 +95,30 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.summer"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.summer"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.night"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -112,14 +130,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.kiss"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -131,14 +152,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.death"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.death"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -150,14 +174,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.wind"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.wind"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -169,14 +196,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.light"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.light"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

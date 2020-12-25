@@ -7,24 +7,30 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.day"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.day"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.night"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -37,14 +43,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.snow"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.snow"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

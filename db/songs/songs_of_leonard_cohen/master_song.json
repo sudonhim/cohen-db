@@ -7,14 +7,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.master"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.master"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +29,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.bed"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.bed"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,18 +51,21 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.eucharist"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.eucharist"
+              }
             },
             {
               "kind": "text",
               "text": ", but it may be the only food on offer"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -68,14 +77,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.temple"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.temple"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -87,14 +99,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.door"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.door"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -106,14 +121,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.man"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.man"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -125,14 +143,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.hair"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.hair"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -144,14 +165,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.lip"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.lip"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -163,14 +187,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.kiss"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -182,8 +209,9 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "link",
               "text": "Martin Luther",
@@ -198,8 +226,7 @@
               "text": "Reformation",
               "link": "https://en.wikipedia.org/wiki/Reformation"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -211,8 +238,9 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The word is scripture, and the rock is "
@@ -231,8 +259,7 @@
               "text": "apostolic succession",
               "link": "https://en.wikipedia.org/wiki/Apostolic_succession"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -244,8 +271,9 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Likely refers to the "
@@ -255,8 +283,7 @@
               "text": "Pauline epistles",
               "link": "https://en.wikipedia.org/wiki/Pauline_epistles"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -268,14 +295,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "An aeroplane has the form of a cross. Crucifixion binds the hands. The crucified Christ led (piloted) his people after the loss of his human hands."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -287,26 +314,32 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.rain"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.rain"
+              }
             },
             {
               "kind": "text",
               "text": " falls from a cracked firmament, bringing the "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.flood"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.flood"
+              }
             },
             {
               "kind": "text",
               "text": "; the end of an era. In this case the end of the Roman Empire, which Christianity \"cruised above\"."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -318,14 +351,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The 'crowds in the stands' refers to Roman civilization"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -337,14 +370,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.light"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.light"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -356,14 +392,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "A human"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -375,14 +411,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Possibly harps"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -394,8 +430,9 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The "
@@ -405,18 +442,20 @@
               "text": "Sword of Damocles",
               "link": "https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.gold"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.gold"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -428,22 +467,25 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "To live in the "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.snow"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.snow"
+              }
             },
             {
               "kind": "text",
               "text": " is to be an outcast from society's temple. To have only cold rational support for your beliefs in the public square."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -455,22 +497,25 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.moon"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.moon"
+              }
             },
             {
               "kind": "text",
               "text": " is the beckoning utopia, beautiful, though perhaps false. He asserts that we've 'been to' it, referring to the achievements of Christian civilization and perhaps of The Apollo Program. See 'moon' in the search feature, symbols lookup coming eventually."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -482,14 +527,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.window"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.window"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -501,14 +549,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.room"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.room"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -520,14 +571,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.thigh"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.thigh"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

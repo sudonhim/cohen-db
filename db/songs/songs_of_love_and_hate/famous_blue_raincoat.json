@@ -7,14 +7,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "The end of the year, the end of an era. This song has much in common with Last Year's Man",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +26,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.cold"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.cold"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,14 +48,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.hair"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.hair"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -64,24 +70,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "This is a reference to the process of \"going clear\" in scientology, where harmful memories and ideas are purged from the mind.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.night"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -93,24 +102,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "The \"famous blue raincoat\" is the firmament, created by the prophet (Christ in this case) for us to live under. Its membrane restrains the waters of heaven, preventing the rain, and the biblical flood.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.blue"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.blue"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -122,34 +134,40 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "Christ tried every route, but ultimately lost the girl.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.train"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.train"
+              }
             }
-          ],
-          "id": "2"
+          ]
         },
         {
+          "id": "3",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.station"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.station"
+              }
             }
-          ],
-          "id": "3"
+          ]
         }
       ],
       "anchor": {
@@ -161,14 +179,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.woman"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.woman"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -180,14 +201,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "After Christ, society is chaotic, athiest, loveless, married to nobody.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -199,14 +220,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.rose"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.rose"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -218,14 +242,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.gypsy"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.gypsy"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -237,24 +264,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "LC sees the moral foundations of the US and Canada as fundamentally Christian rather than Jewish, although he doesn't draw the line between the two on self identification. He speaks here of a sense in which the Jewish prophet has suffered a spiritual death at the hands of Christ, his brother.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.killer"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.killer"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -266,14 +296,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sleep"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sleep"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

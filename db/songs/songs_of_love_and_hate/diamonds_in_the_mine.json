@@ -7,14 +7,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "See the parable of the vineyard"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +26,14 @@
     {
       "annotations": [
         {
+          "id": "2",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The outcast feminine element of society has been \"sterilized\" with Marxism."
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -45,14 +45,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "In a variation of this song he refers instead to \"miss liberty, the liberation's pride\" in this role. It's likely he sees secular politics both revolutionary and liberal as killing the next generation.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

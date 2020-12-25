@@ -179,27 +179,5 @@ export interface Annotation {
   /**
    * An array of tokens constituting the annotation
    */
-  content: (TextToken | ExternalLinkToken | DocrefToken)[];
-}
-/**
- * A token of text content
- */
-export interface TextToken {
-  kind: "text";
-  text: string;
-}
-/**
- * A token referring to an external link
- */
-export interface ExternalLinkToken {
-  kind: "link";
-  text: string;
-  link: string;
-}
-/**
- * A token referring to another document
- */
-export interface DocrefToken {
-  kind: "docref";
-  docRef: string;
+  tokens: Token[];
 }

@@ -7,14 +7,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.river"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.river"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +29,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.night"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,14 +51,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.lover"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.lover"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -64,34 +73,40 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sea"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sea"
+              }
             }
-          ],
-          "id": "2"
+          ]
         },
         {
+          "id": "3",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.water"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.water"
+              }
             }
-          ],
-          "id": "3"
+          ]
         }
       ],
       "anchor": {
@@ -103,14 +118,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -122,24 +137,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "This verse makes abundant use of the 'sea of faith' symbolism. Jesus navigates upon the sea of faith, when he knows that only the faithful can see him he says that all must do the same until the rapture, which he preached was imminent. But then he was crucified before it came.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sky"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sky"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -151,14 +169,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sun"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sun"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -170,14 +191,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.seaweed"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.seaweed"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

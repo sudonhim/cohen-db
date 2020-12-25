@@ -26,65 +26,16 @@
               "type": "string",
               "description": "ID unique to the anchor"
             },
-            "content": {
-              "type": "array",
-              "description": "An array of tokens constituting the annotation",
-              "minItems": 1,
-              "items": {
-                "oneOf": [
-                  {
-                    "type": "object",
-                    "title": "TextToken",
-                    "description": "A token of text content",
-                    "properties": {
-                      "kind": {
-                        "enum": ["text"]
-                      },
-                      "text": {
-                        "type": "string"
-                      }
-                    },
-                    "additionalProperties": false,
-                    "required": ["kind", "text"]
-                  },
-                  {
-                    "type": "object",
-                    "title": "ExternalLinkToken",
-                    "description": "A token referring to an external link",
-                    "properties": {
-                      "kind": {
-                        "enum": ["link"]
-                      },
-                      "text": {
-                        "type": "string"
-                      },
-                      "link": {
-                        "type": "string"
-                      }
-                    },
-                    "additionalProperties": false,
-                    "required": ["kind", "text", "link"]
-                  },
-                  {
-                    "type": "object",
-                    "title": "DocrefToken",
-                    "description": "A token referring to another document",
-                    "properties": {
-                      "kind": {
-                        "enum": ["docref"]
-                      },
-                      "docRef": {
-                        "type": "string"
-                      }
-                    },
-                    "additionalProperties": false,
-                    "required": ["kind", "docRef"]
-                  }
-                ]
-              }
+            "tokens": {
+                "type": "array",
+                "description": "An array of tokens constituting the annotation",
+                "minItems": 1,
+                "items": {
+                  "$ref": "token.json"
+                }
             }
           },
-        "required": ["content", "user", "id"],
+        "required": ["tokens", "user", "id"],
         "additionalProperties": false
         }
       }

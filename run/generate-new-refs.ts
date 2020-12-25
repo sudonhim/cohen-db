@@ -6,17 +6,28 @@ const docDb: CanonDb = LoadAndValidate();
 
 console.log(`Loaded and validated ${Object.keys(docDb).length} documents`);
 
+
+function DeserializeDocRef(ref: string): Reference {
+  // If there is anything after (.e.g /notes) ignore
+  ref = ref.split("/")[0];
+
+  const [documentId, rest] = ref.split("#");
+  if (!rest) return { kind: "document", documentId };
+  if (!rest.includes(":"))
+    return { kind: "fragment", documentId, fragmentId: rest };
+  const [sectionId, fragmentId] = rest.split(":");
+  if (!fragmentId) return { kind: "section", documentId, sectionId };
+  else return { kind: "fragment", documentId, sectionId, fragmentId };
+}
+
 for (const id in docDb) {
   const doc = docDb[id];
-  if (!doc.content) continue;
-  if (doc.content.kind === "multipart") {
-    for (const grp of doc.annotations) {
-        if (grp.anchor.kind === 'section' || grp.anchor.kind === 'fragment') {
-            if (!grp.anchor.sectionId) throw 'Expected section id for ' + id;
-            const si = parseInt(grp.anchor.sectionId);
-            grp.anchor.sectionId = doc.content.content[si - 1].id;
-        }
-    }
+  for (const annotationGroup of doc.annotations) {
+    annotationGroup.annotations = annotationGroup.annotations.map(anno => ({
+      id: anno.id,
+      user: anno.user,
+      tokens: anno.tokens,
+    }));
   }
 }
 

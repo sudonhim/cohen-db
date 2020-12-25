@@ -7,14 +7,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.bird"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.bird"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,24 +29,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "LC frequently alludes to our inner spiritual self as a \"beggar\". Beneath all our rational faculties, our great mind that can construct all manner of rational thought as it \"moves between yes and no\" but \"never provides the answers\", there is a deeper faculty, which \"operates with answers\", and begs to us.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.beggar"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.beggar"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -55,24 +61,30 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.door"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.door"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.woman"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.woman"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {

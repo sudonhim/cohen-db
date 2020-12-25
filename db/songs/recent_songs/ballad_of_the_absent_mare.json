@@ -7,14 +7,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "This song is based on the Ten Bulls story from the Zen tradition that depicts progress to enlightenment, but it is transposed east to west, and speaks to American politics.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +26,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "text": "The cowboy refers to an old American archetype, white, male, individualistic, a libertarian of sorts. When Ronald Reagan was elected shortly after this song was released, the front page of the New York Times read \"The Cowboy President\". As related by the song, this class of people have lost the control that they had of \"their\" country.",
               "kind": "text"
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -45,60 +45,78 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.river"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.river"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.flood"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.flood"
+              }
             }
-          ],
-          "id": "2"
+          ]
         },
         {
           "id": "3",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.river"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.river"
+              }
             },
             {
               "kind": "text",
               "text": " is something like 'public belief'. Less fundamental and unspoken than the "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.sea"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sea"
+              }
             },
             {
               "kind": "text",
               "text": " of faith, but not hard, explicit, and rational like "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.snow"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.snow"
+              }
             },
             {
               "kind": "text",
               "text": " and "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.ice"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.ice"
+              }
             },
             {
               "kind": "text",
@@ -114,32 +132,44 @@
               "text": " the "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.bridge"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.bridge"
+              }
             },
             {
               "kind": "text",
               "text": " is the 'bridge of the intellect', which can build some sort of rational system over the top of the river (consequentially in "
             },
             {
-              "kind": "docref",
-              "docRef": "song.the_stranger_song"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_stranger_song"
+              }
             },
             {
               "kind": "text",
               "text": " the task of a completely rational system is to attempt to build a bridge over the ocean).\n\nThe symbolism fits in this verse then. The verse describes America's old aristocratic elite panicked and scrambling to regain their grip on power, while the river of pubic belief floods, and the structures that were built over it come apart. (Note also the "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.flood"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.flood"
+              }
             },
             {
               "kind": "text",
               "text": " symbolism and "
             },
             {
-              "kind": "docref",
-              "docRef": "symbol.road"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.road"
+              }
             },
             {
               "kind": "text",
@@ -157,14 +187,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.road"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.road"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -176,14 +209,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.bridge"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.bridge"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -195,14 +231,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.summer"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.summer"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -214,14 +253,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.snow"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.snow"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -233,14 +275,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.heart"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.heart"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -252,14 +297,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.day"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.day"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -271,14 +319,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.night"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.night"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -290,14 +341,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.dream"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dream"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -309,14 +363,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.gold"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.gold"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -328,14 +385,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.tree"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.tree"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -347,14 +407,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sun"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sun"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -366,14 +429,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.wind"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.wind"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -385,14 +451,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sweetness"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sweetness"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -404,24 +473,30 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.light"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.light"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.dark"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dark"
+              }
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -433,19 +508,22 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.moon"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.moon"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
           "id": "2",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The moon represents a utopian ideal. Cohen asserts here that America appears to touch it when she 'paws at the sky'. This doubles as a reference to the moon landing."
@@ -462,14 +540,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.sky"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.sky"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -481,14 +562,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.fire"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.fire"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -500,14 +584,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The cowboy might possibly reconcile his relationship with the mare, or; America's old elite may yet reconcile their relationship with the new America, no longer ruling with \"the whip\" or \"the rein\", but in unity."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -519,14 +603,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.smoke"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.smoke"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {

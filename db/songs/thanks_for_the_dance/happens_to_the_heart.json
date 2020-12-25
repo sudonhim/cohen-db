@@ -7,14 +7,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Cohen formed his worldview very early. This most likely refers to his late teens and early 20s, where he was involved with both communists and Catholics in Montreal."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,24 +26,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.fire"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.fire"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "A religious work is a a fire; if successful, it may catch and transfigure society. This is why Cohen's symbol for The Word is the burning bush from which God spoke to Moses; that which burns but remains unburnt."
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -55,14 +58,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.heart"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.heart"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -74,34 +80,40 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.summer"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.summer"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.kiss"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.kiss"
+              }
             }
-          ],
-          "id": "2"
+          ]
         },
         {
+          "id": "3",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Refers to the 'Summer of Love', a social phenomenom of young spiritual seekers in the late 60s that Cohen attempted to woo as a prophet. For the peak of this see the DVD 'Leonard Cohen: Live at the Isle of Wight', and read about it in liel leibovitz's book 'A Broken Hallelujah'. As Cohen relates in this stanza, it did not work out, and he ultimately abandoned his 'revolution' (see the song 'The Traitor')."
             }
-          ],
-          "id": "3"
+          ]
         }
       ],
       "anchor": {
@@ -113,24 +125,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.kitchen"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.kitchen"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "The kitchen represents the successful economic relationship he had with society. The panther; everything else."
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {
@@ -142,14 +157,14 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Leonard uses many times the motif, taken from William Blake, of the struggling prophet saddled with cheap and vulgar instruments. Here the angel is saddled with the poor instrument, while the devil has a harp. It suggests a social arrangement where the most beautiful voices may be leading us astray."
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -161,14 +176,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.window"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.window"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -180,14 +198,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.dark"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.dark"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -199,14 +220,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.beggar"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.beggar"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -218,14 +242,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.flood"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.flood"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -237,24 +264,27 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.father"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.father"
+              }
             }
-          ],
-          "id": "1"
+          ]
         },
         {
+          "id": "2",
           "user": "sudonhim",
-          "content": [
+          "tokens": [
             {
               "kind": "text",
               "text": "Leonard's father served in the Canadian Expeditionary Force in WW1 and its likely he had a .303 rifle. Its possible that the line is also a reference to Freemasonry, Leonard was a 3rd degree mason.."
             }
-          ],
-          "id": "2"
+          ]
         }
       ],
       "anchor": {

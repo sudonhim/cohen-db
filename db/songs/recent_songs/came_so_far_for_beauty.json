@@ -7,14 +7,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.flesh"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.flesh"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
@@ -26,14 +29,17 @@
     {
       "annotations": [
         {
+          "id": "1",
           "user": "symbols bot",
-          "content": [
+          "tokens": [
             {
-              "kind": "docref",
-              "docRef": "symbol.star"
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "symbol.star"
+              }
             }
-          ],
-          "id": "1"
+          ]
         }
       ],
       "anchor": {
