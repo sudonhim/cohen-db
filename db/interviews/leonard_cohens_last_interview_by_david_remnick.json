@@ -281,7 +281,7 @@
         {
           "id": "18",
           "kind": "text",
-          "speaker": "Cohen",
+          "speaker": "Remnick",
           "tokens": [
             {
               "kind": "text",
@@ -292,13 +292,19 @@
         {
           "id": "19",
           "kind": "text",
-          "speaker": "Cohen",
+          "speaker": "Remnick",
           "tokens": [
             {
               "kind": "text",
               "text": "When Leonard was 9 years old his father died and that, that event became a kind of origin story for his career as a writer and as someone who believed in writing as an almost sacramental act."
             }
           ]
+        },
+        {
+          "kind": "lineBreak"
+        },
+        {
+          "kind": "lineBreak"
         },
         {
           "id": "20",
