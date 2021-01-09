@@ -57,14 +57,12 @@ philosophy/
 politics and tribes/
   america
   blacks & jews
-  capitalism
+  capitalism & communism
   church
-  communism
   enlightenment & liberalism
   left & right
-  jewish blood
+  jewish identity
   nazis & jews
-  race & racism
 sky and weather/
   firmament
   rain and flood
@@ -72,8 +70,8 @@ sky and weather/
   wind
 substances/
   dust
-  food
   fire
+  food
   gold, silver, iron, and clay
   smoke
   water, ice, and snow
