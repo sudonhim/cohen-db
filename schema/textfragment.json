@@ -11,10 +11,6 @@
       "type": "string",
       "description": "Used to refer to this fragment within the document. If not present, this fragment cannot be referred to."
     },
-    "speaker": {
-      "description": "If present, who is talking.",
-      "type": "string"
-    },
     "tokens": {
       "type": "array",
       "items": {

@@ -114,10 +114,6 @@ export interface TextFragment {
    * Used to refer to this fragment within the document. If not present, this fragment cannot be referred to.
    */
   id?: string;
-  /**
-   * If present, who is talking.
-   */
-  speaker?: string;
   tokens: Token[];
 }
 /**
