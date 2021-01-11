@@ -186,16 +186,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "7",
           "tokens": [
             {
@@ -232,16 +222,6 @@
               "kind": "text",
               "text": "*laughter*",
               "secondary": true
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -297,16 +277,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "11",
           "tokens": [
             {
@@ -343,31 +313,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "13",
           "tokens": [
             {
               "kind": "text",
               "text": "If you're lucky, you can keep the vehicle healthy and responsive over the years."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -430,16 +380,6 @@
             {
               "kind": "text",
               "text": "My son and my daughter have both been an incredibly sustaining force, especially through this recent bad patch, so I've been blessed and grateful for their company and for their assistance."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -547,31 +487,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "A. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "21",
           "tokens": [
             {
               "kind": "text",
               "text": "And I knew that what she meant was not my so-called career but, you know, dinners standing by the side of the stage watching my father work at five, six, seven years old."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "A. Cohen:"
             }
           ]
         },
@@ -587,16 +507,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "A. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "23",
           "tokens": [
             {
@@ -607,31 +517,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "A. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "24",
           "tokens": [
             {
               "kind": "text",
               "text": "Of course, as my father says, also just being in my father's company was one of the things I also cherished the most."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "A. Cohen:"
             }
           ]
         },
@@ -974,16 +864,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "A. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "37",
           "tokens": [
             {
@@ -1020,16 +900,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "39",
           "tokens": [
             {
@@ -1040,31 +910,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "40",
           "tokens": [
             {
               "kind": "text",
               "text": "And in the article, David spoke to Dylan who had some really wonderful things to say about you and he actually spoke about something that most people don't really talk about when they talk about your work and that was the music itself."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
             }
           ]
         },
@@ -1255,16 +1105,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "48",
           "tokens": [
             {
@@ -1275,31 +1115,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "49",
           "tokens": [
             {
               "kind": "text",
               "text": "This was a really inspired choice and I want to ask you about the choir that is featured on the album."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Douridas:"
             }
           ]
         },
@@ -1740,16 +1560,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Zelemyer:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "67",
           "tokens": [
             {
@@ -1760,31 +1570,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Zelemyer:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "68",
           "tokens": [
             {
               "kind": "text",
               "text": "And I shouted all sorts of things that no member of the cloth should ever shout and then I said I wrote back and said ‘hallelujah I'm your man!’ and from there Adam and I took it and ran and together with Howard Billerman who's here from Montreal who is the proprietor of Hotel to Tango one of the finest Studios in our town."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Zelemyer:"
             }
           ]
         },
@@ -1878,16 +1668,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Cairns:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "73",
           "tokens": [
             {
@@ -1898,31 +1678,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Cairns:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "74",
           "tokens": [
             {
               "kind": "text",
               "text": "Which came first, do you think — your, your regimen of kind of ascetic purity and clearing away the extraneous — do you think that was an unconscious clearing the path to be a writer or was that a response to being a writer?"
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Cairns:"
             }
           ]
         },
@@ -1964,16 +1724,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "77",
           "tokens": [
             {
@@ -1989,16 +1739,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "78",
           "tokens": [
             {
@@ -2009,31 +1749,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "79",
           "tokens": [
             {
               "kind": "text",
               "text": "My mind was always very cluttered so I took great pains to simplify my environment because if my environment were half as cluttered as my mind I wouldn't be able to make it from room to room so I can't really give you a coherent answer because the system has worked for me even though I've had to sweat over every word."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -2127,31 +1847,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Boyd:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "84",
           "tokens": [
             {
               "kind": "text",
               "text": "I've listened it back many times and with you two sitting together I just wondered how did these profound themes that are so well distilled in this album amplify your relationship as father and son because they talk about a legacy and things that are the past and things that are to come."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Boyd:"
             }
           ]
         },
@@ -2193,31 +1893,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "87",
           "tokens": [
             {
               "kind": "text",
               "text": "I've been lucky. I have close relationships with my few friends and my family members and grandkids."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -2398,31 +2078,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "95",
           "tokens": [
             {
               "kind": "text",
               "text": "I finally put one in a song — I'd written a lot of songs with hummingbirds in them."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -2438,16 +2098,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "97",
           "tokens": [
             {
@@ -2458,16 +2108,6 @@
               "kind": "text",
               "text": "*applause*",
               "secondary": true
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -2587,16 +2227,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Gimeaux:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "103",
           "tokens": [
             {
@@ -2633,16 +2263,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "105",
           "tokens": [
             {
@@ -2653,31 +2273,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "106",
           "tokens": [
             {
               "kind": "text",
               "text": "I could translate one of my tunes into that really beautiful chamber music."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -2979,31 +2579,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Zollo:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "119",
           "tokens": [
             {
               "kind": "text",
               "text": "You've been doing this for a long time now, writing songs, you probably have more wisdom than a lot of us."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Zollo:"
             }
           ]
         },
@@ -3045,31 +2625,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "122",
           "tokens": [
             {
               "kind": "text",
               "text": "It's just it's just the way, it just takes a long time for me um I'm very slow."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -3137,16 +2697,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Orel:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "126",
           "tokens": [
             {
@@ -3178,16 +2728,6 @@
             {
               "kind": "text",
               "text": "Well, there's a deep tribal aspect to my own nature so when I'm in contact with those deep resources of course I feel a very special kind of nourishment."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -3307,16 +2847,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Sandoval:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "133",
           "tokens": [
             {
@@ -3353,31 +2883,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "135",
           "tokens": [
             {
               "kind": "text",
               "text": "I don't have any spiritual strategy, I kind of … limp along like so many of us do in these realms."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -3393,16 +2903,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "137",
           "tokens": [
             {
@@ -3413,31 +2913,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "138",
           "tokens": [
             {
               "kind": "text",
               "text": "That's no longer the case today, but it is still my landscape."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -3557,16 +3037,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "Nakamura:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "144",
           "tokens": [
             {
@@ -3603,16 +3073,6 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "146",
           "tokens": [
             {
@@ -3623,31 +3083,11 @@
         },
         {
           "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
-            }
-          ]
-        },
-        {
-          "kind": "text",
           "id": "147",
           "tokens": [
             {
               "kind": "text",
               "text": "So this is just a part of my nature and I think everybody else's nature to offer oneself at the critical moment when the emergency becomes articulate."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
@@ -3876,16 +3316,6 @@
             {
               "kind": "text",
               "text": "Just, thanks for coming, friends and I really appreciate it and I — I really appreciate it you're standing up when I came into the room."
-            }
-          ]
-        },
-        {
-          "kind": "text",
-          "tokens": [
-            {
-              "kind": "text",
-              "secondary": true,
-              "text": "L. Cohen:"
             }
           ]
         },
