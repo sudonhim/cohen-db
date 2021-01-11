@@ -31,7 +31,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -144,7 +144,7 @@
             },
             {
               "kind": "text",
-              "text": "INAUDIBLE, COUGHING",
+              "text": "[INAUDIBLE, COUGHING]",
               "secondary": true
             },
             {
@@ -179,7 +179,7 @@
             },
             {
               "kind": "text",
-              "text": "*applause*",
+              "text": "[applause]",
               "secondary": true
             }
           ]
@@ -220,7 +220,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -235,7 +235,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -244,7 +244,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter and applause*",
+              "text": "[laughter and applause]",
               "secondary": true
             }
           ]
@@ -393,7 +393,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -454,7 +454,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -561,7 +561,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -622,7 +622,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -787,7 +787,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -796,7 +796,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -853,7 +853,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -928,7 +928,7 @@
             },
             {
               "kind": "text",
-              "text": "INAUDIBLE",
+              "text": "[INAUDIBLE]",
               "secondary": true
             },
             {
@@ -1067,7 +1067,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -1098,7 +1098,7 @@
             },
             {
               "kind": "text",
-              "text": "*stammering*",
+              "text": "[stammering]",
               "secondary": true
             }
           ]
@@ -1159,7 +1159,7 @@
             },
             {
               "kind": "text",
-              "text": "Zelermyer",
+              "text": "[Zelermyer]",
               "secondary": true
             },
             {
@@ -1732,7 +1732,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -2015,7 +2015,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -2106,7 +2106,7 @@
             },
             {
               "kind": "text",
-              "text": "*applause*",
+              "text": "[applause]",
               "secondary": true
             }
           ]
@@ -3153,7 +3153,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -3210,7 +3210,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]

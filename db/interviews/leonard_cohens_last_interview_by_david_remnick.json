@@ -31,7 +31,7 @@
             },
             {
               "kind": "text",
-              "text": "missing audio",
+              "text": "[missing audio]",
               "secondary": true
             },
             {
@@ -334,7 +334,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -525,7 +525,7 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "reciting poetry at the 92nd St. Y",
+              "text": "[reciting poetry at the 92nd St. Y]",
               "secondary": true
             },
             {
@@ -632,7 +632,7 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "cut to old recording",
+              "text": "[cut to old recording]",
               "secondary": true
             },
             {
@@ -689,7 +689,7 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "cut to old recording",
+              "text": "[cut to old recording]",
               "secondary": true
             },
             {
@@ -870,7 +870,7 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "*Song Playing*",
+              "text": "[Song playing]",
               "secondary": true
             },
             {
@@ -901,7 +901,7 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             },
             {
@@ -936,7 +936,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]
@@ -1341,7 +1341,7 @@
             },
             {
               "kind": "text",
-              "text": "*laughter*",
+              "text": "[laughter]",
               "secondary": true
             }
           ]

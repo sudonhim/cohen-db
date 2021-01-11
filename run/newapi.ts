@@ -13,26 +13,18 @@ for (const documentId in docDb) {
   const doc = docDb[documentId];
   if (doc.content && doc.content.kind === 'simple') {
     const newFragments: Fragment[] = [];
-    const prevFrag: Fragment = null;
+    let prevFrag: Fragment = null;
     for (const frag of doc.content.content.fragments) {
       if (frag.kind === 'text') {
-        if (frag.speaker && (!prevFrag || prevFrag.kind !== 'text' || prevFrag.speaker !== frag.speaker)) {
-          newFragments.push({
-            kind: 'text',
-            tokens: [
-              { kind: 'text', secondary: true, text: frag.speaker + ':' }
-            ]
-          })
-        }
-
-        const modFrag: Fragment = {
-          kind: 'text',
-          id: frag.id,
-          tokens: frag.tokens
-        };
-        newFragments.push(modFrag);
-
+        frag.tokens = frag.tokens.map((tok, i) => {
+          if (i !== 0 && tok.kind === 'text' && tok.secondary && !tok.text.includes(':')) {
+            return { ...tok, text: `[${tok.text}]`};
+          } else return tok;
+        })
+        
+        newFragments.push(frag);
       } else { newFragments.push(frag); }
+      prevFrag = frag;
     }
 
     doc.content.content.fragments = newFragments;

@@ -571,7 +571,7 @@
             },
             {
               "kind": "text",
-              "text": "*stuttering*",
+              "text": "[stuttering]",
               "secondary": true
             },
             {
@@ -668,7 +668,7 @@
             },
             {
               "kind": "text",
-              "text": "*stuttering*",
+              "text": "[stuttering]",
               "secondary": true
             },
             {
@@ -739,7 +739,7 @@
             },
             {
               "kind": "text",
-              "text": "*talking over*",
+              "text": "[talking over]",
               "secondary": true
             }
           ]
@@ -822,7 +822,7 @@
             },
             {
               "kind": "text",
-              "text": "*deadpan*",
+              "text": "[deadpan]",
               "secondary": true
             }
           ]
@@ -849,7 +849,7 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "*laughing*",
+              "text": "[laughing]",
               "secondary": true
             },
             {
@@ -1160,7 +1160,7 @@
             },
             {
               "kind": "text",
-              "text": "*sigh*",
+              "text": "[*sigh*]",
               "secondary": true
             },
             {
@@ -1169,7 +1169,7 @@
             },
             {
               "kind": "text",
-              "text": "*stammering*",
+              "text": "[stammering]",
               "secondary": true
             },
             {
@@ -1578,7 +1578,7 @@
             },
             {
               "kind": "text",
-              "text": "*stammering*",
+              "text": "[stammering]",
               "secondary": true
             },
             {
