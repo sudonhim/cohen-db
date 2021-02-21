@@ -1,0 +1,54 @@
+{
+  "user": "sudonhim",
+  "version": 0,
+  "title": "Leonard Cohen - Live and Rare",
+  "kind": "live",
+  "annotations": [],
+  "metadata": {},
+  "content": {
+    "kind": "multipart",
+    "content": [
+      {
+        "id": "comment_on_boogie_street",
+        "title": {
+          "kind": "text",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Comment on "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.boogie_street"
+              }
+            }
+          ]
+        },
+        "fragments": [
+          {
+            "kind": "text",
+            "id": "1",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "Oh Boogie Street is what we're all doing, we're all on Boogie Street."
+              }
+            ]
+          },
+          {
+            "kind": "text",
+            "id": "2",
+            "tokens": [
+              {
+                "kind": "text",
+                "text": "We believe that we leave it from time to time. We go up the mountain, or into a hole. But most of the time we are hustling on Boogie Street, one way or another."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
