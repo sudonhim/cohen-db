@@ -1,0 +1,15 @@
+{
+  "title": "Body",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "theme.blood-skin-flesh-and-bone",
+    "theme.fingernail",
+    "theme.hair-and-beard",
+    "theme.heart",
+    "theme.lip",
+    "theme.thigh"
+  ]
+}

@@ -1,88 +1,87 @@
-themes/
-activities/
-  dance
-  dream
-  kiss
-  masturbate
-  poker
-  sex
-  suicide
-  travel
-body/
-  blood, skin, flesh, and bone
-  fingernail
-  hair and beard
-  heart
-  lip
-  thigh
-buildings and transport/
-  bridge
-  house, bed, door, window, and kitchen
-  road
-  ships and planes
-  temple
-  trains and stations
-creatures and plants/
-  bird
-  flower
-  lamb
-  tree
-geography/
-  desert and wilderness
-  hills and mountains
-  oceans and rivers
-items/
-  instrument
-  razor and scalpel
-life and feeling/
-  faith
-  life and death
-  light and dark
-  love and hate
-  sweetness
-nature/
-  bird
-  flower
-  tree
-people and relationships/
-  beggar
-  bride and bridegroom
-  doctor
-  god
-  gypsy
-  her, the holy spirit
-  hunter
-  jesus
-  killer
-  lovers and the trinity
-  mothers and fathers
-  men and women
-  singer
-  soldier
-  stranger
-philosophy/
-  materialism
-  nihilism
-politics and tribes/
-  america
-  blacks and jews
-  capitalism and communism
-  church
-  enlightenment and liberalism
-  left and right
-  jewish identity
-  nazis and jews
-sky and weather/
-  day and night
-  firmament
-  wind, rain and flood
-  season
-  sun, moon, and stars
-substances/
-  color
-  dust
-  fire
-  food
-  gold, silver, iron, and clay
-  smoke
-  water, ice, and snow
+Activities/
+>Dance
+>Dream
+>Kiss
+>Masturbate
+>Poker
+>Sex
+>Suicide
+>Travel
+Body/
+>Blood, Skin, Flesh, and Bone
+>Fingernail
+>Hair and Beard
+>Heart
+>Lip
+>Thigh
+Buildings and Transport/
+>Bridge
+>House, Bed, Door, Window, and Kitchen
+>Road
+>Ships and Planes
+>Temple
+>Trains and Stations
+Creatures and Plants/
+>Bird
+>Flower
+>Lamb
+>Tree
+Geography/
+>Desert and Wilderness
+>Hills and Mountains
+>Oceans and Rivers
+Items/
+>Instrument
+>Razor and Scalpel
+Life and Feeling/
+>Faith
+>Life and Death
+>Light and Dark
+>Love and Hate
+>Sweetness
+Nature/
+>Bird
+>Flower
+>Tree
+People and Relationships/
+>Beggar
+>Bride and Bridegroom
+>Doctor
+>God
+>Gypsy
+>Her, The Holy Spirit
+>Hunter
+>Jesus
+>Killer
+>Lovers and The Trinity
+>Mothers and Fathers
+>Men and Women
+>Singer
+>Soldier
+>Stranger
+Philosophy/
+>Materialism
+>Nihilism
+Politics and Tribes/
+>America
+>Blacks and Jews
+>Capitalism and Communism
+>Church
+>Enlightenment and Liberalism
+>Left and Right
+>Jewish Identity
+>Nazis and Jews
+Sky and Weather/
+>Day and Night
+>Firmament
+>Wind, Rain and Flood
+>Seasons
+>Sun, Moon, and Stars
+Substances/
+>Color
+>Dust
+>Fire
+>Food
+>Gold, Silver, Iron, and Clay
+>Smoke
+>Water, Ice, and Snow

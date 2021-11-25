@@ -1,0 +1,11 @@
+{
+  "title": "Philosophy",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "theme.materialism",
+    "theme.nihilism"
+  ]
+}

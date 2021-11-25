@@ -1,0 +1,17 @@
+{
+  "title": "Politics and Tribes",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "theme.america",
+    "theme.blacks-and-jews",
+    "theme.capitalism-and-communism",
+    "theme.church",
+    "theme.enlightenment-and-liberalism",
+    "theme.left-and-right",
+    "theme.jewish-identity",
+    "theme.nazis-and-jews"
+  ]
+}

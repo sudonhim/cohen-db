@@ -18,7 +18,7 @@
         },
         "kind": {
             "type": "string",
-            "enum": ["group", "song", "live", "album", "tour", "interview", "other", "symbol"],
+            "enum": ["group", "song", "live", "album", "tour", "interview", "other", "symbol","theme"],
             "description": "The category that this item belongs to."
         },
         "metadata": {
@@ -35,8 +35,7 @@
             "description": "A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.",
             "items": {
                 "type": "string"
-            },
-            "minItems": 1
+            }
         }
     },
     "required": ["user", "version", "title", "kind", "annotations"],

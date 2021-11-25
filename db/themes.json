@@ -1,0 +1,22 @@
+{
+  "title": "Themes",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "group.activities",
+    "group.body",
+    "group.buildings-and-transport",
+    "group.creatures-and-plants",
+    "group.geography",
+    "group.items",
+    "group.life-and-feeling",
+    "group.nature",
+    "group.people-and-relationships",
+    "group.philosophy",
+    "group.politics-and-tribes",
+    "group.sky-and-weather",
+    "Substances"
+  ]
+}

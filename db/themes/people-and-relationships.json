@@ -1,0 +1,24 @@
+{
+  "title": "People and Relationships",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "theme.beggar",
+    "theme.bride-and-bridegroom",
+    "theme.doctor",
+    "theme.god",
+    "theme.gypsy",
+    "theme.her-the-holy-spirit",
+    "theme.hunter",
+    "theme.jesus",
+    "theme.killer",
+    "theme.lovers-and-the-trinity",
+    "theme.mothers-and-fathers",
+    "theme.men-and-women",
+    "theme.singer",
+    "theme.soldier",
+    "theme.stranger"
+  ]
+}

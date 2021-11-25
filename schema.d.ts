@@ -71,14 +71,14 @@ export interface CanonFile {
   /**
    * The category that this item belongs to.
    */
-  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
+  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol" | "theme";
   metadata?: Metadata;
   content?: Content;
   annotations: Annotations;
   /**
    * A list of child document IDs. E.g. if this document is an album, the children are songs. The IDs here are relative - the path part is omitted.
    */
-  children?: [string, ...string[]];
+  children?: string[];
 }
 /**
  * The metadata of a document, which is a set of fully optional standardized properties

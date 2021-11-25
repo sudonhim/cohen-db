@@ -1,0 +1,14 @@
+{
+  "title": "Sky and Weather",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "theme.day-and-night",
+    "theme.firmament",
+    "theme.wind-rain-and-flood",
+    "theme.seasons",
+    "theme.sun-moon-and-stars"
+  ]
+}
