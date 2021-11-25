@@ -49,7 +49,7 @@ for (let line of lines) {
     }
 }
 
-const id = slugify(curGroup.title);
+const id = "group." + slugify(curGroup.title.toLowerCase());
 docDb[id] = curGroup;
 themesFile.children = themesFile.children ? [...themesFile.children, id] : [id];
 
