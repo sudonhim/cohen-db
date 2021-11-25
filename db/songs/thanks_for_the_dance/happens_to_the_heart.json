@@ -1,6 +1,6 @@
 {
   "user": "sudonhim",
-  "version": 0,
+  "version": 1,
   "title": "Happens to the Heart",
   "kind": "song",
   "annotations": [
@@ -111,7 +111,18 @@
           "tokens": [
             {
               "kind": "text",
-              "text": "Refers to the 'Summer of Love', a social phenomenom of young spiritual seekers in the late 60s that Cohen attempted to woo as a prophet. For the peak of this see the DVD 'Leonard Cohen: Live at the Isle of Wight', and read about it in liel leibovitz's book 'A Broken Hallelujah'. As Cohen relates in this stanza, it did not work out, and he ultimately abandoned his 'revolution' (see the song 'The Traitor')."
+              "text": "Refers to the 'Summer of Love', a social phenomenom of young spiritual seekers in the late 60s that Cohen attempted to woo as a prophet. For the peak of this see the DVD 'Leonard Cohen: Live at the Isle of Wight', and read about it in liel leibovitz's book 'A Broken Hallelujah'. As Cohen relates in this stanza, it did not work out, and he ultimately abandoned his 'revolution' (see the song "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.the_traitor"
+              }
+            },
+            {
+              "kind": "text",
+              "text": ")."
             }
           ]
         }

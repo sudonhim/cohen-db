@@ -1,6 +1,6 @@
 {
   "user": "sudonhim",
-  "version": 0,
+  "version": 1,
   "title": "First We Take Manhattan",
   "kind": "song",
   "annotations": [
@@ -82,6 +82,25 @@
         "documentId": "song.first_we_take_manhattan",
         "fragmentId": "32"
       }
+    },
+    {
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.first_we_take_manhattan",
+        "fragmentId": "4"
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "user": "anonymous",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In a backstage interview in Toronto in 1988, Cohen said: \"I’m not sure of what it means right now because I had this long voyage from Chicago. I think it means exactly what it says. It is a terrorist song. I think it's a response to terrorism. There's something about terrorism that I've always admired. The fact that there are no alibis or no compromises. That position is always very attractive. I don't like it when it's manifested on the physical plane - I don't really enjoy the terrorist activities – buy Psychic Terrorism. I remember there was a great poem by Irving Layton that I once read, I'll give you a paraphrase of it. It was 'well, you guys blow up an occasional airline and kill a few children here and there', he says. 'But our terrorists, Jesus, Freud, Marx, Einstein. The whole world is still quaking...'\" "
+            }
+          ]
+        }
+      ]
     }
   ],
   "content": {
