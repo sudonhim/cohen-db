@@ -1,0 +1,15 @@
+{
+  "title": "Buildings and Transport",
+  "kind": "group",
+  "user": "sudonhim",
+  "version": 1,
+  "annotations": [],
+  "children": [
+    "theme.bridge",
+    "theme.house-bed-door-window-and-kitchen",
+    "theme.road",
+    "theme.ships-and-planes",
+    "theme.temple",
+    "theme.trains-and-stations"
+  ]
+}

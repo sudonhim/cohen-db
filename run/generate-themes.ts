@@ -22,7 +22,7 @@ let curGroup: CanonFile = null;
 for (let line of lines) {
     if (line.endsWith('/')) {
         if (curGroup) {
-            const id = slugify(curGroup.title);
+            const id = 'group.' + slugify(curGroup.title).toLowerCase();
             docDb[id] = curGroup;
             themesFile.children = themesFile.children ? [...themesFile.children, id] : [id];
         }
@@ -36,7 +36,7 @@ for (let line of lines) {
         }
     } else {
         const title = line.substr(1);
-        const id = slugify(title);
+        const id = 'theme.' + slugify(title.toLowerCase());
         docDb[id] = {
             title,
             kind: 'theme',
@@ -52,6 +52,9 @@ for (let line of lines) {
 const id = slugify(curGroup.title);
 docDb[id] = curGroup;
 themesFile.children = themesFile.children ? [...themesFile.children, id] : [id];
+
+docDb['group.themes'] = themesFile;
+docDb.db.children.push('group.themes');
 
 console.log('Validating and saving changes');
 ValidateAndSave(docDb);
