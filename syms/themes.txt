@@ -1,22 +1,26 @@
 themes/
 activities/
-  dancing
-  kissing
-  masturbation
+  dance
+  dream
+  kiss
+  masturbate
   poker
   sex
+  suicide
+  travel
 body/
   blood, skin, flesh, and bone
-  fingernails
+  fingernail
   hair and beard
   heart
-  lips
+  lip
+  thigh
 buildings and transport/
-  bed
   bridge
-  house, door, window, and kitchen
+  house, bed, door, window, and kitchen
   road
   ships and planes
+  temple
   trains and stations
 creatures and plants/
   bird
@@ -27,48 +31,55 @@ geography/
   desert and wilderness
   hills and mountains
   oceans and rivers
-influences/
-  cavafy
-  lorca
-  rumi and attar
-  the romantics
+items/
+  instrument
+  razor and scalpel
 life and feeling/
   faith
   life and death
+  light and dark
   love and hate
-music/
-  instruments
-  singers, songs, poems
+  sweetness
+nature/
+  bird
+  flower
+  tree
 people and relationships/
-  bride & bridegroom
+  beggar
+  bride and bridegroom
   doctor
   god
-  gypsys
+  gypsy
   her, the holy spirit
+  hunter
   jesus
-  lovers & the trinity
-  mothers & fathers
-  men & women
-  soldiers
-  strangers
+  killer
+  lovers and the trinity
+  mothers and fathers
+  men and women
+  singer
+  soldier
+  stranger
 philosophy/
   materialism
   nihilism
 politics and tribes/
   america
-  blacks & jews
-  capitalism & communism
+  blacks and jews
+  capitalism and communism
   church
-  enlightenment & liberalism
-  left & right
+  enlightenment and liberalism
+  left and right
   jewish identity
-  nazis & jews
+  nazis and jews
 sky and weather/
+  day and night
   firmament
-  rain and flood
+  wind, rain and flood
+  season
   sun, moon, and stars
-  wind
 substances/
+  color
   dust
   fire
   food
