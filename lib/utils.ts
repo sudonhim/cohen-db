@@ -1,6 +1,7 @@
 import { CanonFile } from "../schema";
 import { CanonDb } from "../index";
 import Ajv from "ajv";
+import addFormats from "ajv-formats"
 import * as fs from "fs";
 import slugify from "slugify";
 
@@ -8,13 +9,18 @@ const schemas = fs
   .readdirSync("./schema")
   .map(name => require(`../schema/${name}`));
 const ajv = new Ajv({ schemas });
+addFormats(ajv)
 const validator = ajv.getSchema("canon-file.json");
 
 export function EnsureValid(doc: CanonFile) {
+  if (!validator) {
+    throw "Failed to load validator";
+  }
+
   const valid = validator(doc);
   if (!valid) {
     console.log(JSON.stringify(doc, null, 2));
-    throw `Failed to validate ${doc.title}; ${ajv.errorsText(validator.errors)}`;
+    throw `Failed to validate ${(doc as any).title}; ${ajv.errorsText(validator.errors)}`;
   }
 }
 

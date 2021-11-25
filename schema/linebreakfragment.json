@@ -2,6 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "linebreakfragment.json",
     "title": "LineBreakFragment",
+    "type": "object",
     "description": "Fragment for a line break",
     "properties": {
       "kind": {

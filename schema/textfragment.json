@@ -2,6 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "textfragment.json",
   "title": "TextFragment",
+  "type": "object",
   "description": "A fragment of text",
   "properties": {
     "kind": {

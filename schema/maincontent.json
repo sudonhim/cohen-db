@@ -2,6 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "maincontent.json",
     "title": "MainContent",
+    "type": "object",
     "description": "Content of a single part document",
     "properties": {
       "fragments": {

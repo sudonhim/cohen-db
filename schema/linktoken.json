@@ -2,6 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "linktoken.json",
     "title": "LinkToken",
+    "type": "object",
     "description": "A hyperlink, optionally with alternate display text",
     "properties": {
       "kind": {

@@ -2,6 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "canon-file.json",
     "title": "CanonFile",
+    "type": "object",
     "description": "A collection of canonical material tied to a particular time, place, or release",
     "properties": {
         "user": {

@@ -2,6 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "referencetoken.json",
     "title": "ReferenceToken",
+    "type": "object",
     "description": "A reference to a document, section, or fragment elsewhere in the database",
     "properties": {
       "kind": {

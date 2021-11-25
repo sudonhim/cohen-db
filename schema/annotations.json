@@ -42,6 +42,5 @@
     },
     "required": ["anchor", "annotations"],
     "additionalProperties": false
-  },
-  "additionalProperties": false
+  }
 }
