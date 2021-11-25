@@ -6,10 +6,10 @@
   "annotations": [],
   "children": [
     "theme.bridge",
-    "theme.house-bed-door-window-and-kitchen",
+    "theme.house_bed_door_window_and_kitchen",
     "theme.road",
-    "theme.ships-and-planes",
+    "theme.ships_and_planes",
     "theme.temple",
-    "theme.trains-and-stations"
+    "theme.trains_and_stations"
   ]
 }

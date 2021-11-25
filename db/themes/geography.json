@@ -5,8 +5,8 @@
   "version": 1,
   "annotations": [],
   "children": [
-    "theme.desert-and-wilderness",
-    "theme.hills-and-mountains",
-    "theme.oceans-and-rivers"
+    "theme.desert_and_wilderness",
+    "theme.hills_and_mountains",
+    "theme.oceans_and_rivers"
   ]
 }

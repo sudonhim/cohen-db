@@ -5,10 +5,10 @@
   "version": 1,
   "annotations": [],
   "children": [
-    "theme.day-and-night",
+    "theme.day_and_night",
     "theme.firmament",
-    "theme.wind-rain-and-flood",
+    "theme.wind_rain_and_flood",
     "theme.seasons",
-    "theme.sun-moon-and-stars"
+    "theme.sun_moon_and_stars"
   ]
 }

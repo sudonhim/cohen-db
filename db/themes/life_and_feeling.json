@@ -6,9 +6,9 @@
   "annotations": [],
   "children": [
     "theme.faith",
-    "theme.life-and-death",
-    "theme.light-and-dark",
-    "theme.love-and-hate",
+    "theme.life_and_death",
+    "theme.light_and_dark",
+    "theme.love_and_hate",
     "theme.sweetness"
   ]
 }

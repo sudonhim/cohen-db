@@ -5,9 +5,9 @@
   "version": 1,
   "annotations": [],
   "children": [
-    "theme.blood-skin-flesh-and-bone",
+    "theme.blood_skin_flesh_and_bone",
     "theme.fingernail",
-    "theme.hair-and-beard",
+    "theme.hair_and_beard",
     "theme.heart",
     "theme.lip",
     "theme.thigh"

@@ -22,7 +22,10 @@ let curGroup: CanonFile = null;
 for (let line of lines) {
     if (line.endsWith('/')) {
         if (curGroup) {
-            const id = 'group.' + slugify(curGroup.title).toLowerCase();
+            const id = 'group.' + slugify(curGroup.title, {
+                replacement: "_",
+                lower: true,
+              });
             docDb[id] = curGroup;
             themesFile.children = themesFile.children ? [...themesFile.children, id] : [id];
         }
@@ -36,7 +39,10 @@ for (let line of lines) {
         }
     } else {
         const title = line.substr(1);
-        const id = 'theme.' + slugify(title.toLowerCase());
+        const id = 'theme.' + slugify(title, {
+            replacement: "_",
+            lower: true,
+          });
         docDb[id] = {
             title,
             kind: 'theme',
@@ -49,7 +55,10 @@ for (let line of lines) {
     }
 }
 
-const id = "group." + slugify(curGroup.title.toLowerCase());
+const id = "group." + slugify(curGroup.title, {
+    replacement: "_",
+    lower: true,
+  });
 docDb[id] = curGroup;
 themesFile.children = themesFile.children ? [...themesFile.children, id] : [id];
 

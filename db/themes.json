@@ -7,16 +7,16 @@
   "children": [
     "group.activities",
     "group.body",
-    "group.buildings-and-transport",
-    "group.creatures-and-plants",
+    "group.buildings_and_transport",
+    "group.creatures_and_plants",
     "group.geography",
     "group.items",
-    "group.life-and-feeling",
+    "group.life_and_feeling",
     "group.nature",
-    "group.people-and-relationships",
+    "group.people_and_relationships",
     "group.philosophy",
-    "group.politics-and-tribes",
-    "group.sky-and-weather",
+    "group.politics_and_tribes",
+    "group.sky_and_weather",
     "group.substances"
   ]
 }

@@ -9,8 +9,8 @@
     "theme.dust",
     "theme.fire",
     "theme.food",
-    "theme.gold-silver-iron-and-clay",
+    "theme.gold_silver_iron_and_clay",
     "theme.smoke",
-    "theme.water-ice-and-snow"
+    "theme.water_ice_and_snow"
   ]
 }
