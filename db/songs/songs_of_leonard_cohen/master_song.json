@@ -1,6 +1,6 @@
 {
   "user": "sudonhim",
-  "version": 0,
+  "version": 2,
   "title": "Master Song",
   "kind": "song",
   "annotations": [
@@ -16,6 +16,16 @@
                 "kind": "document",
                 "documentId": "symbol.master"
               }
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "user": "sudonhim",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "The 'master' is Christ, the prisoner is Judaism/Jews, and by extension Cohen himself. The 'you' is Christian society, his audience."
             }
           ]
         }
@@ -38,6 +48,16 @@
                 "kind": "document",
                 "documentId": "symbol.bed"
               }
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "user": "sudonhim",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "When Israel was occupied and oppressed by Rome."
             }
           ]
         }

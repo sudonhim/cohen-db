@@ -1,6 +1,6 @@
 {
   "user": "sudonhim",
-  "version": 0,
+  "version": 1,
   "title": "Love Calls You By Your Name",
   "kind": "song",
   "annotations": [
@@ -114,6 +114,36 @@
         "documentId": "song.love_calls_you_by_your_name",
         "fragmentId": "26"
       }
+    },
+    {
+      "anchor": {
+        "kind": "fragment",
+        "documentId": "song.love_calls_you_by_your_name",
+        "fragmentId": "25"
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "user": "sudonhim",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "Likely the same scene referred to in "
+            },
+            {
+              "kind": "reference",
+              "reference": {
+                "kind": "document",
+                "documentId": "song.master_song"
+              }
+            },
+            {
+              "kind": "text",
+              "text": " where Christ \"kills the lights in a lonely lane\""
+            }
+          ]
+        }
+      ]
     }
   ],
   "content": {

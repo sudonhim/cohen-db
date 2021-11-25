@@ -1,6 +1,6 @@
 {
   "user": "sudonhim",
-  "version": 0,
+  "version": 1,
   "title": "The Captain",
   "kind": "song",
   "annotations": [
@@ -57,6 +57,25 @@
             {
               "text": "There are several ways these two lines could be interpreted. Perhaps the most likely is that in the modern west the Holocaust is a spiritual event with comparable potency to the crucifixion. Whatever team the captain and soldier on, they appear to have lost in both.",
               "kind": "text"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "user": "sudonhim",
+          "tokens": [
+            {
+              "kind": "text",
+              "text": "In a 1987 interview with journalist Robert O'Brien, Cohen seems to say that its an alternative - if you don't get the crucifixion, you get the holocaust. See "
+            },
+            {
+              "kind": "link",
+              "text": "here",
+              "link": "https://www.firstthings.com/blogs/firstthoughts/2016/11/leonard-cohen-the-christ-haunted"
+            },
+            {
+              "kind": "text",
+              "text": ". Full quote:\n“What I mean to say is that there are many things about Christianity that attract me. The figure of Jesus is extremely attractive. It’s difficult not to fall in love with that person.” After praising Christ’s emphasis on resurrection and rebirth, he concluded, “When we have this notion that there is no mechanism for resurrection, there is no redemption from sin, then we are forced to embrace evil and we get the kind of activity like genocide.”"
             }
           ]
         }
