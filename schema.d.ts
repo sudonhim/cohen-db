@@ -71,7 +71,7 @@ export interface CanonFile {
   /**
    * The category that this item belongs to.
    */
-  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol";
+  kind: "group" | "song" | "live" | "album" | "tour" | "interview" | "other" | "symbol" | "theme";
   metadata?: Metadata;
   content?: Content;
   annotations: Annotations;
