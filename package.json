@@ -1,6 +1,6 @@
 {
   "name": "cohen-db",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A custom database of everything Leonard Cohen",
   "main": "index.js",
   "types": "index.d.ts",
